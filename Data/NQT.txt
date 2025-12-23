@@ -1,0 +1,1902 @@
+{
+  "age_groups": [
+    {
+      "id": 1227701,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034064,
+        "meet_id": 352933,
+        "eventstroke": "6",
+        "eventdistance": 800,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 1,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 1,
+        "agegroups": [
+          {
+            "id": 1227701,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034064
+          }
+        ]
+      },
+      "timestandards": []
+    },
+    {
+      "id": 1227702,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034065,
+        "meet_id": 352933,
+        "eventstroke": "6",
+        "eventdistance": 800,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 2,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 2,
+        "agegroups": [
+          {
+            "id": 1227702,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034065
+          }
+        ]
+      },
+      "timestandards": []
+    },
+    {
+      "id": 1227703,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034066,
+        "meet_id": 352933,
+        "eventstroke": "2",
+        "eventdistance": 100,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 3,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 3,
+        "agegroups": [
+          {
+            "id": 1227703,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034066
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78777,
+          "time": "65.49",
+          "course": "Y",
+          "agegroup": 1227703,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227704,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034067,
+        "meet_id": 352933,
+        "eventstroke": "2",
+        "eventdistance": 100,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 4,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 4,
+        "agegroups": [
+          {
+            "id": 1227704,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034067
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78778,
+          "time": "57.19",
+          "course": "Y",
+          "agegroup": 1227704,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227705,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034068,
+        "meet_id": 352933,
+        "eventstroke": "3",
+        "eventdistance": 100,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 5,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 5,
+        "agegroups": [
+          {
+            "id": 1227705,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034068
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78779,
+          "time": "75.49",
+          "course": "Y",
+          "agegroup": 1227705,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227706,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034069,
+        "meet_id": 352933,
+        "eventstroke": "3",
+        "eventdistance": 100,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 6,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 6,
+        "agegroups": [
+          {
+            "id": 1227706,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034069
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78780,
+          "time": "62.69",
+          "course": "Y",
+          "agegroup": 1227706,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227707,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034070,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 50,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 7,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 7,
+        "agegroups": [
+          {
+            "id": 1227707,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034070
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78781,
+          "time": "25.99",
+          "course": "Y",
+          "agegroup": 1227707,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227708,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034071,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 50,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 8,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 8,
+        "agegroups": [
+          {
+            "id": 1227708,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034071
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78782,
+          "time": "22.29",
+          "course": "Y",
+          "agegroup": 1227708,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227709,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034072,
+        "meet_id": 352933,
+        "eventstroke": "4",
+        "eventdistance": 200,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 9,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 9,
+        "agegroups": [
+          {
+            "id": 1227709,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034072
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78783,
+          "time": "149.49",
+          "course": "Y",
+          "agegroup": 1227709,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227710,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034073,
+        "meet_id": 352933,
+        "eventstroke": "4",
+        "eventdistance": 200,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 10,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 10,
+        "agegroups": [
+          {
+            "id": 1227710,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034073
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78784,
+          "time": "122.99",
+          "course": "Y",
+          "agegroup": 1227710,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227711,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034074,
+        "meet_id": 352933,
+        "eventstroke": "7",
+        "eventdistance": 400,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 11,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 11,
+        "agegroups": [
+          {
+            "id": 1227711,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034074
+          }
+        ]
+      },
+      "timestandards": []
+    },
+    {
+      "id": 1227712,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034075,
+        "meet_id": 352933,
+        "eventstroke": "7",
+        "eventdistance": 400,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 12,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 12,
+        "agegroups": [
+          {
+            "id": 1227712,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034075
+          }
+        ]
+      },
+      "timestandards": []
+    },
+    {
+      "id": 1227713,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034076,
+        "meet_id": 352933,
+        "eventstroke": "5",
+        "eventdistance": 400,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 13,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 13,
+        "agegroups": [
+          {
+            "id": 1227713,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034076
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78814,
+          "time": "317.99",
+          "course": "Y",
+          "agegroup": 1227713,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227714,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034077,
+        "meet_id": 352933,
+        "eventstroke": "5",
+        "eventdistance": 400,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 14,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 14,
+        "agegroups": [
+          {
+            "id": 1227714,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034077
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78811,
+          "time": "273.99",
+          "course": "Y",
+          "agegroup": 1227714,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227715,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034078,
+        "meet_id": 352933,
+        "eventstroke": "7",
+        "eventdistance": 200,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 15,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 15,
+        "agegroups": [
+          {
+            "id": 1227715,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034078
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78815,
+          "time": "125.79",
+          "course": "Y",
+          "agegroup": 1227715,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227716,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034079,
+        "meet_id": 352933,
+        "eventstroke": "7",
+        "eventdistance": 200,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 16,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 16,
+        "agegroups": [
+          {
+            "id": 1227716,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034079
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78812,
+          "time": "101.99",
+          "course": "Y",
+          "agegroup": 1227716,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227717,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034080,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 200,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 17,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 17,
+        "agegroups": [
+          {
+            "id": 1227717,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034080
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78785,
+          "time": "127.89",
+          "course": "Y",
+          "agegroup": 1227717,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227718,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034081,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 200,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 18,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 18,
+        "agegroups": [
+          {
+            "id": 1227718,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034081
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78786,
+          "time": "109.79",
+          "course": "Y",
+          "agegroup": 1227718,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227719,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034082,
+        "meet_id": 352933,
+        "eventstroke": "4",
+        "eventdistance": 100,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 19,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 19,
+        "agegroups": [
+          {
+            "id": 1227719,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034082
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78787,
+          "time": "64.79",
+          "course": "Y",
+          "agegroup": 1227719,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227720,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034083,
+        "meet_id": 352933,
+        "eventstroke": "4",
+        "eventdistance": 100,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 20,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 20,
+        "agegroups": [
+          {
+            "id": 1227720,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034083
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78788,
+          "time": "54.29",
+          "course": "Y",
+          "agegroup": 1227720,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227721,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034084,
+        "meet_id": 352933,
+        "eventstroke": "2",
+        "eventdistance": 50,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 21,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 21,
+        "agegroups": [
+          {
+            "id": 1227721,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034084
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78789,
+          "time": "30.29",
+          "course": "Y",
+          "agegroup": 1227721,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227722,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034085,
+        "meet_id": 352933,
+        "eventstroke": "2",
+        "eventdistance": 50,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 22,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 22,
+        "agegroups": [
+          {
+            "id": 1227722,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034085
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78790,
+          "time": "26.39",
+          "course": "Y",
+          "agegroup": 1227722,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227723,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034086,
+        "meet_id": 352933,
+        "eventstroke": "3",
+        "eventdistance": 200,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 23,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 23,
+        "agegroups": [
+          {
+            "id": 1227723,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034086
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78791,
+          "time": "160.79",
+          "course": "Y",
+          "agegroup": 1227723,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227724,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034087,
+        "meet_id": 352933,
+        "eventstroke": "3",
+        "eventdistance": 200,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 24,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 24,
+        "agegroups": [
+          {
+            "id": 1227724,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034087
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78792,
+          "time": "136.99",
+          "course": "Y",
+          "agegroup": 1227724,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227725,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034088,
+        "meet_id": 352933,
+        "eventstroke": "5",
+        "eventdistance": 100,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 25,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 25,
+        "agegroups": [
+          {
+            "id": 1227725,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034088
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78793,
+          "time": "65.99",
+          "course": "Y",
+          "agegroup": 1227725,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227726,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034089,
+        "meet_id": 352933,
+        "eventstroke": "5",
+        "eventdistance": 100,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 26,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 26,
+        "agegroups": [
+          {
+            "id": 1227726,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034089
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78794,
+          "time": "56.29",
+          "course": "Y",
+          "agegroup": 1227726,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227727,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034090,
+        "meet_id": 352933,
+        "eventstroke": "6",
+        "eventdistance": 400,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 27,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 27,
+        "agegroups": [
+          {
+            "id": 1227727,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034090
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78795,
+          "time": "258.29",
+          "course": "Y",
+          "agegroup": 1227727,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227728,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034091,
+        "meet_id": 352933,
+        "eventstroke": "6",
+        "eventdistance": 400,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 28,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 28,
+        "agegroups": [
+          {
+            "id": 1227728,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034091
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78796,
+          "time": "213.99",
+          "course": "Y",
+          "agegroup": 1227728,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227729,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034092,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 1000,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 29,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 29,
+        "agegroups": [
+          {
+            "id": 1227729,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034092
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78816,
+          "time": "699.99",
+          "course": "Y",
+          "agegroup": 1227729,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227730,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034093,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 1000,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 30,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 30,
+        "agegroups": [
+          {
+            "id": 1227730,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034093
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78813,
+          "time": "629.99",
+          "course": "Y",
+          "agegroup": 1227730,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227731,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034094,
+        "meet_id": 352933,
+        "eventstroke": "6",
+        "eventdistance": 200,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 31,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 31,
+        "agegroups": [
+          {
+            "id": 1227731,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034094
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78797,
+          "time": "110.89",
+          "course": "Y",
+          "agegroup": 1227731,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227732,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034095,
+        "meet_id": 352933,
+        "eventstroke": "6",
+        "eventdistance": 200,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 32,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 32,
+        "agegroups": [
+          {
+            "id": 1227732,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034095
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78798,
+          "time": "92.29",
+          "course": "Y",
+          "agegroup": 1227732,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227745,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034108,
+        "meet_id": 352933,
+        "eventstroke": "2",
+        "eventdistance": 200,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 33,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 33,
+        "agegroups": [
+          {
+            "id": 1227745,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034108
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78799,
+          "time": "140.99",
+          "course": "Y",
+          "agegroup": 1227745,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227746,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034109,
+        "meet_id": 352933,
+        "eventstroke": "2",
+        "eventdistance": 200,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 34,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 34,
+        "agegroups": [
+          {
+            "id": 1227746,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034109
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78800,
+          "time": "124.99",
+          "course": "Y",
+          "agegroup": 1227746,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227747,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034110,
+        "meet_id": 352933,
+        "eventstroke": "4",
+        "eventdistance": 50,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 35,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 35,
+        "agegroups": [
+          {
+            "id": 1227747,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034110
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78801,
+          "time": "28.29",
+          "course": "Y",
+          "agegroup": 1227747,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227748,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034111,
+        "meet_id": 352933,
+        "eventstroke": "4",
+        "eventdistance": 50,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 36,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 36,
+        "agegroups": [
+          {
+            "id": 1227748,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034111
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78802,
+          "time": "24.29",
+          "course": "Y",
+          "agegroup": 1227748,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227749,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034112,
+        "meet_id": 352933,
+        "eventstroke": "5",
+        "eventdistance": 200,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 37,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 37,
+        "agegroups": [
+          {
+            "id": 1227749,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034112
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78803,
+          "time": "146.19",
+          "course": "Y",
+          "agegroup": 1227749,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227750,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034113,
+        "meet_id": 352933,
+        "eventstroke": "5",
+        "eventdistance": 200,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 38,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 38,
+        "agegroups": [
+          {
+            "id": 1227750,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034113
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78804,
+          "time": "125.79",
+          "course": "Y",
+          "agegroup": 1227750,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227751,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034114,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 100,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 39,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 39,
+        "agegroups": [
+          {
+            "id": 1227751,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034114
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78805,
+          "time": "57.39",
+          "course": "Y",
+          "agegroup": 1227751,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227752,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034115,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 100,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 40,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 40,
+        "agegroups": [
+          {
+            "id": 1227752,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034115
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78806,
+          "time": "49.19",
+          "course": "Y",
+          "agegroup": 1227752,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227753,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034116,
+        "meet_id": 352933,
+        "eventstroke": "3",
+        "eventdistance": 50,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 41,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 41,
+        "agegroups": [
+          {
+            "id": 1227753,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034116
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78807,
+          "time": "34.39",
+          "course": "Y",
+          "agegroup": 1227753,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227754,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034117,
+        "meet_id": 352933,
+        "eventstroke": "3",
+        "eventdistance": 50,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 42,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 42,
+        "agegroups": [
+          {
+            "id": 1227754,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034117
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78808,
+          "time": "28.49",
+          "course": "Y",
+          "agegroup": 1227754,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227755,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034118,
+        "meet_id": 352933,
+        "eventstroke": "6",
+        "eventdistance": 200,
+        "eventgender": "X",
+        "eventcourse": "Y",
+        "eventnumber": 43,
+        "numlegs": 4,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 43,
+        "agegroups": [
+          {
+            "id": 1227755,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034118
+          }
+        ]
+      },
+      "timestandards": []
+    },
+    {
+      "id": 1227756,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034119,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 500,
+        "eventgender": "F",
+        "eventcourse": "Y",
+        "eventnumber": 45,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 44,
+        "agegroups": [
+          {
+            "id": 1227756,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034119
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78809,
+          "time": "336.99",
+          "course": "Y",
+          "agegroup": 1227756,
+          "label": 1783
+        }
+      ]
+    },
+    {
+      "id": 1227757,
+      "display_name": "Open",
+      "eventage": "UNOV",
+      "min_age": 0,
+      "max_age": 100,
+      "hsclass": "",
+      "meetevent": {
+        "id": 1034120,
+        "meet_id": 352933,
+        "eventstroke": "1",
+        "eventdistance": 500,
+        "eventgender": "M",
+        "eventcourse": "Y",
+        "eventnumber": 46,
+        "numlegs": 1,
+        "numrounds": 1,
+        "varsity": "",
+        "is_timetrial": false,
+        "exclude_fees": false,
+        "accept_bonus": false,
+        "ordernumber": 45,
+        "agegroups": [
+          {
+            "id": 1227757,
+            "min_age": 0,
+            "max_age": 100,
+            "eventage": "UNOV",
+            "hsclass": "",
+            "meetevent_id": 1034120
+          }
+        ]
+      },
+      "timestandards": [
+        {
+          "id": 78810,
+          "time": "299.99",
+          "course": "Y",
+          "agegroup": 1227757,
+          "label": 1783
+        }
+      ]
+    }
+  ],
+  "course_prefs": [
+    "Y"
+  ]
+}

@@ -1,0 +1,14 @@
+{% extends "template.html" %}
+
+{% block title %}
+    <title>Races</title>
+{% endblock %}
+
+{% block main %}
+    <h1>This is the Races tab</h1>
+    {% for race in races %}
+        {% if race.name == "Jadon Giuliano" %}
+            <p>{{ race.name }} swam {{ race.event }}</p>
+        {% endif %}
+    {% endfor %}
+{% endblock %}
