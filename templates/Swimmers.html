@@ -1,0 +1,14 @@
+{% extends "template.html" %}
+
+{% block title %}
+    <title>Swimmers</title>
+{% endblock %}
+
+{% block main %}
+    <h1>This is the Swimmers tab</h1>
+    {% for race in races %}
+        {% if race.name == "Jadon Giuliano" %}
+            <p>{{ race.name }} swam {{ race.event }} for {{ race.team }}</p>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

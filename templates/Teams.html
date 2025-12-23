@@ -1,0 +1,14 @@
+{% extends "template.html" %}
+
+{% block title %}
+    <title>Teams</title>
+{% endblock %}
+
+{% block main %}
+    <h1>This is the Teams tab</h1>
+    {% for race in races %}
+        {% if race.team == "University of Utah Club Swim" %}
+            <p>{{ race.name }} swam {{ race.event }} for {{ race.team }}</p>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

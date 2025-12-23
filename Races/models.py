@@ -1,4 +1,5 @@
 from django.db import models
+from Models.Race import Race
 
 class Races(models.Model):
     place = models.CharField(max_length=120)
@@ -12,13 +13,3 @@ class Races(models.Model):
 
     def __str__(self):
         return f"{self.name} ({self.event})"
-
-class Swimmers(models.Model):
-    races = models.ManyToManyField(Races)
-    name = models.CharField(max_length=120)
-    team = models.CharField(max_length=120)
-    gender = models.CharField(max_length=120)
-
-class Teams(models.Model):
-    swimmers = models.ManyToManyField(Swimmers)
-    teamName = models.CharField(max_length=120)
