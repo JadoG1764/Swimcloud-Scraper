@@ -6,4 +6,6 @@ urlpatterns = [
     path('races/', views.races_page),
     path('swimmers/', views.swimmers_page),
     path('teams/', views.teams_page),
+    path('swimmers/<str:name>/', views.swimmers_slug),
+    path('swimmers_redirect/', views.swimmer_redirect, name='swimmers_redirect'),
 ]

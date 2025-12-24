@@ -1,5 +1,5 @@
 from django.db import models
-from Models.Race import Race
+from django.utils.text import slugify
 
 class Races(models.Model):
     place = models.CharField(max_length=120)

@@ -24,4 +24,6 @@ urlpatterns = [
     path('races/', include('Races.urls')),
     path('swimmers/', include('Races.urls')),
     path('teams/', include('Races.urls')),
+    path('swimmers/<slug:slug>/', include('Races.urls')),
+    path('swimmers_redirect/', include('Races.urls')),
 ]

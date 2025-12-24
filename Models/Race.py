@@ -24,7 +24,7 @@ def MinutesToSeconds(time):
 #Class that holds each swimmer per event, each swimmer can only have 1 event but there might be times when a
 #swimmer that appears on more than one event has duplicate objects
 class Race:
-    def __init__(self, place = None, name = None, team = None, meet = None, time = None, event = None, gender = None, nqt = False):
+    def __init__(self, place = None, name = None, team = None, meet = None, time = None, event = None, gender = None, nqt = "False"):
         self.place = place
         if name is None:
             print(name)

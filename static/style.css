@@ -5,11 +5,10 @@
 }
 
 body {
-    background-color: white;
-    color: darkred;
-    font-size: 36px;
+    background-color: darkgray;
     display: flex;
     flex-flow: column;
+    text-align: center;
 }
 
 nav {
@@ -20,20 +19,15 @@ nav {
     font-size: 48px
 }
 
-main {
-    flex-grow: 1;
-    display: grid;
-    text-align: center;
-}
-
 h1 {
     text-align: center;
-    color: black;
-    font-size: 24px;
+    color: darkred;
+    font-size: 2rem;
 }
 p {
-    text-align: center;
-    font-size: 12px;
+    font-size: 6px;
+    padding: 2px;
+    color: darkred;
 }
 
 a {
@@ -45,12 +39,18 @@ a:hover {
     opacity: .85;
 }
 
-.left-half-container {
-    width: 50%; /* Sets the width to half of the screen's width */
-    float: left; /* Optional: ensures it stays to the left if other elements are added */
-    padding: 20px; /* Adds some space around the text */
-    box-sizing: border-box; /* Ensures padding is included in the 50% width calculation */
-  }
-table {
-    font-size: 20px;
+.stats-layout {
+    display: flex;
+    width: 100%;
+}
+
+.events {
+    width: 50%;
+    padding: 2px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.events h2 {
+    color: black;
 }

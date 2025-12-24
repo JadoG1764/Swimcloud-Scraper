@@ -1,7 +1,12 @@
 {% extends "template.html" %}
+{% load static %}
 
 {% block title %}
     Teams
+{% endblock %}
+
+{% block style %}
+    <link rel="stylesheet" href="{% static 'style.css' %}">
 {% endblock %}
 
 {% block main %}

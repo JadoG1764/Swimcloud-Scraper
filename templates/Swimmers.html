@@ -1,14 +1,26 @@
 {% extends "template.html" %}
+{% load static %}
 
 {% block title %}
     Swimmers
 {% endblock %}
 
+{% block style %}
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+{% endblock %}
+
 {% block main %}
-    <h1>This is the Swimmers tab</h1>
-    {% for race in races %}
-        {% if race.name == "Jadon Giuliano" %}
-            <p>{{ race.name }} swam {{ race.event }} for {{ race.team }}</p>
-        {% endif %}
-    {% endfor %}
+    {% if formatted_name %}
+        <h1>{{ formatted_name }}</h1>
+        {% for race in races %}
+            <p>{{ race.place }}: {{ race.name }} swims for {{ race.team }} and went {{ race.time }} at {{ race.meet }} in the {{ race.gender }}'s {{ race.event }}</p>
+        {% endfor %}
+    {% else %}
+        <form action="/swimmers_redirect/" method="POST">
+  {% csrf_token %}
+          <label for="SwimmerName">Swimmer Name:</label>
+          <input type="text" id="SwimmerName" name="SwimmerName" placeholder="Enter name">
+          <input type="submit" value="Enter">
+        </form>
+    {% endif %}
 {% endblock %}

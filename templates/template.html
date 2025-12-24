@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 {% load static %}
 
 <html lang="en">
@@ -8,7 +9,10 @@
         {% block title %}
         {% endblock %}
     </title>
-    <link rel="stylesheet" href="{% static 'style.css' %}">
+
+{% block style %}
+{% endblock %}
+
 </head>
 <body>
     <nav>
@@ -17,11 +21,10 @@
         <a href = "/swimmers/">Swimmers Page</a> |
         <a href = "/teams/">Teams Page</a>
     </nav>
-    <table>
-    {% block table %}
-    {% endblock %}
-    </table>
     <main>
+        {% block table %}
+        {% endblock %}
+
         {% block main %}
         {% endblock %}
     </main>

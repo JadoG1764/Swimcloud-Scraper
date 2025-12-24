@@ -56,5 +56,4 @@ for gender in genderList:
             j += 1 #j is the index in the dictionary
             i += 7 #7 fields to go to the next line in the dictionary
 
-
 MapCreator.RaceMap()
