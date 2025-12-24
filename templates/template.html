@@ -1,17 +1,26 @@
 <!DOCTYPE html>
+{% load static %}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    {% block title %}
-    {% endblock %}
+    <title>
+        {% block title %}
+        {% endblock %}
+    </title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
 </head>
 <body>
     <nav>
-        <a href = "/">Home Page</a>
-        <a href = "/races/">Race Page</a>
-        <a href = "/swimmers/">Swimmers Page</a>
+        <a href = "/">Home Page</a> |
+        <a href = "/races/">Race Page</a> |
+        <a href = "/swimmers/">Swimmers Page</a> |
         <a href = "/teams/">Teams Page</a>
     </nav>
+    <table>
+    {% block table %}
+    {% endblock %}
+    </table>
     <main>
         {% block main %}
         {% endblock %}

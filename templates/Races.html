@@ -1,0 +1,30 @@
+{% extends "template.html" %}
+{% load static %}
+
+{% block title %}
+    Races
+{% endblock %}
+
+
+{% block table %}
+    <label for="event">Choose a fruit:</label>
+    <select name="event" id="event">
+        <option value="apple">Apple</option>
+        <option value="banana">Banana</option>
+        <option value="orange">Orange</option>
+        <option value="grape" selected>Grape</option>
+    </select>
+{% endblock %}
+
+{% block main %}
+    {% for race in races %}
+        {% if race.place == '1' %}
+            <h1>{{ race.gender }}'s {{ race.event }}</h1>
+        {% endif %}
+        {% if race.NQT %}
+        <p>{{ race.place }}: {{ race.name }} Swims for {{ race.team }} and went {{ race.time }} at {{ race.meet }} in the {{ race.gender }}'s {{ race.event }} and has NQT</p>
+        {% else %}
+        <p>{{ race.place }}: {{ race.name }} Swims for {{ race.team }} and went {{ race.time }} at {{ race.meet }} in the {{ race.gender }}'s {{ race.event }}</p>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

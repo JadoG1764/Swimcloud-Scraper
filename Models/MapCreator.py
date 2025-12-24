@@ -27,7 +27,7 @@ def RaceMap():
             time=race.time,
             event=race.event,
             gender=race.gender,
-            defaults={'nqt': race.nqt}
+            nqt=race.nqt,
         )
         i += 8
         j += 1

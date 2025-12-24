@@ -1,3 +1,13 @@
+import os
+import django
+
+os.environ.setdefault(
+    "DJANGO_SETTINGS_MODULE",
+    "ClubSwim.settings"  # <-- MUST match your project settings path
+)
+
+django.setup()
+
 from time import sleep
 import requests
 from bs4 import BeautifulSoup
@@ -33,9 +43,9 @@ for gender in genderList:
             meet = td_text[i+3]
             time = td_text[i+4]
             if str(td_text[i+5]).__contains__("NQT"):
-                NQT = True
+                NQT = "True"
             else:
-                NQT = False
+                NQT = "False"
             temp_race = Race(place, name, team, meet, time, event, gender, NQT)
             eventMap[j] = temp_race
             if len(eventMap) == 51 or len(eventMap) == 101 or len(eventMap) == 151:

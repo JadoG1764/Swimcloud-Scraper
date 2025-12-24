@@ -9,7 +9,7 @@ def home_page(request):
 
 def races_page(request):
     races = Races.objects.all()
-    return render(request, "races.html", {'races': races})
+    return render(request, "Races.html", {'races': races})
 
 def swimmers_page(request):
     races = Races.objects.all()

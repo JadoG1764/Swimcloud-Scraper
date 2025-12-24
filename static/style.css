@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    color: darkred;
+    font-size: 36px;
+    display: flex;
+    flex-flow: column;
+}
+
+nav {
+    text-align: center;
+    padding: 16px;
+    background-color: black;
+    color: darkred;
+    font-size: 48px
+}
+
+main {
+    flex-grow: 1;
+    display: grid;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 24px;
+}
+p {
+    text-align: center;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+    color: darkred;
+}
+
+a:hover {
+    opacity: .85;
+}
+
+.left-half-container {
+    width: 50%; /* Sets the width to half of the screen's width */
+    float: left; /* Optional: ensures it stays to the left if other elements are added */
+    padding: 20px; /* Adds some space around the text */
+    box-sizing: border-box; /* Ensures padding is included in the 50% width calculation */
+  }
+table {
+    font-size: 20px;
+}
