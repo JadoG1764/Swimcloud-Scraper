@@ -24,8 +24,9 @@ h1 {
     color: darkred;
     font-size: 2rem;
 }
+
 p {
-    font-size: 6px;
+    font-size: 1rem;
     padding: 2px;
     color: darkred;
 }
@@ -49,8 +50,15 @@ a:hover {
     padding: 2px;
     box-sizing: border-box;
     text-align: center;
+    font-size: 12px;
 }
 
 .events h2 {
+    color: black;
+    font-size: 16px;
+}
+
+.events p {
+    font-size: 12px;
     color: black;
 }
