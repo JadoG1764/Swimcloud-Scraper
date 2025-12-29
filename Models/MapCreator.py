@@ -1,3 +1,5 @@
+from django.utils.text import slugify
+
 from .Race import Race
 from pathlib import Path
 from Races.models import Races
@@ -26,6 +28,7 @@ def RaceMap():
             event=race.event,
             gender=race.gender,
             nqt=race.nqt,
+            slug=slugify(race.name)
         )
         i += 8
         j += 1

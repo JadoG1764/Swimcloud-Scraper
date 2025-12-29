@@ -10,6 +10,7 @@ class Races(models.Model):
     event = models.CharField(max_length=120)
     gender = models.CharField(max_length=120)
     nqt = models.BooleanField(default=False)
+    slug = models.SlugField(max_length=120, unique=False)
 
     def __str__(self):
         return f"{self.name} ({self.event})"

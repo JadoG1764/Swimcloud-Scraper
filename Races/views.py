@@ -21,10 +21,9 @@ def swimmers_page(request):
     return render(request, "swimmers.html")
 
 def swimmers_slug(request, name):
-    formatted_name = name.replace('-', ' ').title()
-    races = Races.objects.all()
-    if formatted_name:
-        races = races.filter(name=formatted_name)
+    races = Races.objects.all().filter(slug=name)
+    if races:
+        formatted_name = races[0].name
     return render(request, "swimmers.html", {'races': races, 'formatted_name': formatted_name})
 
 def teams_page(request):
