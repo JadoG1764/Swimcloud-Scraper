@@ -19,10 +19,11 @@ td_text = []
 eventNumList = [150, 1100, 1200, 1500, 11000, 250, 2100, 2200, 350, 3100, 3200, 450, 4100, 4200, 5100, 5200, 5400]
 genderList = ["M", "F"]
 j = 0
-Race.ClearFile("SwimmersTimes.txt") #resets the file
+#Race.ClearFile("SwimmersTimes.txt") #resets the file
 eventMap: dict[int, Race] = {}
 
 #Loops over both genders, all events, up to the top 200 in each event
+"""
 for gender in genderList:
     for event in eventNumList:
         td_text = []
@@ -55,5 +56,5 @@ for gender in genderList:
 
             j += 1 #j is the index in the dictionary
             i += 7 #7 fields to go to the next line in the dictionary
-
+"""
 MapCreator.RaceMap()

@@ -32,7 +32,6 @@
             <option value="100 IM">100 IM</option>
             <option value="200 IM">200 IM</option>
             <option value="400 IM">400 IM</option>
-
         </select>
     </form>
     <script>
@@ -42,26 +41,47 @@
     </script>
 {% endblock %}
 
+{% block table2 %}
+    <form method="GET" action="">
+        <label for="top">Filter by Top X:</label>
+        <select name="top" id="top">
+            <option value='' disabled selected>Select an amount</option>
+            <option value="All" >Show All</option>
+            <option value="30" >30</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+            <option value="200">200</option>
+        </select>
+    </form>
+    <script>
+        document.getElementById("top").addEventListener("change", function() {
+            this.form.submit(); // automatically submit the form when the dropdown changes
+        });
+    </script>
+{% endblock %}
+
+
+
 {% block main %}
 <main class="stats-layout">
     <div class="events">
         {% for race in races %}
             {% if race.gender == "Women" %}
-                {% if race.place == "1" %}
+                {% if race.place == 1 %}
                     <h2>{{ race.gender }}'s {{ race.event }}</h2>
                 {% endif %}
-                <p>{{ race.place }}: <a href="/swimmers/{{ race.name|slugify  }}/">{{ race.name }}</a>, {{ race.team }}. {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
+                {{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
             {% endif %}
         {% endfor %}
     </div>
     <div class ="events">
         {% for race in races %}
             {% if race.gender == "Men" %}
-                {% if race.place == "1" %}
+                {% if race.place == 1 %}
                     <h2>{{ race.gender }}'s {{ race.event }}</h2>
                 {% endif %}
                 {% if race.gender == "Men" %}
-                   <p>{{ race.place }}: <a href="/swimmers/{{ race.name|slugify  }}/">{{ race.name }}</a>, {{ race.team }}. {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
+                 {{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
                 {% endif %}
             {% endif %}
         {% endfor %}

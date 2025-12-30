@@ -28,7 +28,9 @@ def RaceMap():
             event=race.event,
             gender=race.gender,
             nqt=race.nqt,
-            slug=slugify(race.name)
+            name_slug=slugify(race.name),
+            meet_slug=slugify(race.meet),
+            team_slug=slugify(race.team)
         )
         i += 8
         j += 1
