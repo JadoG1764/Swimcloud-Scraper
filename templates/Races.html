@@ -10,49 +10,48 @@
 {% endblock %}
 
 {% block table %}
-    <form method="GET" action="">
-        <label for="event">Choose an event:</label>
-        <select name="event" id="event">
-            <option value='' disabled selected>Select an event</option>
-            <option value="All" >Show All Events</option>
-            <option value="50 Free" >50 Free</option>
-            <option value="100 Free">100 Free</option>
-            <option value="200 Free">200 Free</option>
-            <option value="500 Free">500 Free</option>
-            <option value="1000 Free">1000 Free</option>
-            <option value="50 Back">50 Back</option>
-            <option value="100 Back">100 Back</option>
-            <option value="200 Back">200 Back</option>
-            <option value="50 Breast">50 Breast</option>
-            <option value="100 Breast">100 Breast</option>
-            <option value="200 Breast">200 Breast</option>
-            <option value="50 Fly">50 Fly</option>
-            <option value="100 Fly">100 Fly</option>
-            <option value="200 Fly">200 Fly</option>
-            <option value="100 IM">100 IM</option>
-            <option value="200 IM">200 IM</option>
-            <option value="400 IM">400 IM</option>
-        </select>
-    </form>
+    <div class = "table">
+        <form method="GET" action="">
+            <label for="event">Choose an event:</label>
+            <select name="event" id="event">
+                <option value='' disabled selected>Select an event</option>
+                <option value="All" >Show All Events</option>
+                <option value="50 Free" >50 Free</option>
+                <option value="100 Free">100 Free</option>
+                <option value="200 Free">200 Free</option>
+                <option value="500 Free">500 Free</option>
+                <option value="1000 Free">1000 Free</option>
+                <option value="50 Back">50 Back</option>
+                <option value="100 Back">100 Back</option>
+                <option value="200 Back">200 Back</option>
+                <option value="50 Breast">50 Breast</option>
+                <option value="100 Breast">100 Breast</option>
+                <option value="200 Breast">200 Breast</option>
+                <option value="50 Fly">50 Fly</option>
+                <option value="100 Fly">100 Fly</option>
+                <option value="200 Fly">200 Fly</option>
+                <option value="100 IM">100 IM</option>
+                <option value="200 IM">200 IM</option>
+                <option value="400 IM">400 IM</option>
+            </select>
+        </form>
     <script>
         document.getElementById("event").addEventListener("change", function() {
             this.form.submit(); // automatically submit the form when the dropdown changes
         });
     </script>
-{% endblock %}
-
-{% block table2 %}
-    <form method="GET" action="">
-        <label for="top">Filter by Top X:</label>
-        <select name="top" id="top">
-            <option value='' disabled selected>Select an amount</option>
-            <option value="All" >Show All</option>
-            <option value="30" >30</option>
-            <option value="50">50</option>
-            <option value="100">100</option>
-            <option value="200">200</option>
-        </select>
-    </form>
+        <form method="GET" action="">
+            <label for="top">Filter by Top X:</label>
+            <select name="top" id="top">
+                <option value='' disabled selected>Select an amount</option>
+                <option value="All" >Show All</option>
+                <option value="30" >30</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+                <option value="200">200</option>
+            </select>
+        </form>
+    </div>
     <script>
         document.getElementById("top").addEventListener("change", function() {
             this.form.submit(); // automatically submit the form when the dropdown changes
@@ -60,17 +59,24 @@
     </script>
 {% endblock %}
 
-
-
 {% block main %}
-<main class="stats-layout">
+    {% if selected_event == None and selected_top == None %}
+        <h1>Showing default</h1>
+    {% elif selected_event == None%}
+        <h1>Showing Top {{ selected_top }}</h1>
+    {% elif selected_top == None %}
+        <h1>Showing {{ selected_event }}</h1>
+    {% else %}
+        <h1>Showing {{ selected_event }} for Top {{ selected_top }}</h1>
+    {% endif %}
+    <main class="stats-layout">
     <div class="events">
         {% for race in races %}
             {% if race.gender == "Women" %}
                 {% if race.place == 1 %}
                     <h2>{{ race.gender }}'s {{ race.event }}</h2>
                 {% endif %}
-                {{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
+                <p>{{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
             {% endif %}
         {% endfor %}
     </div>
@@ -81,7 +87,7 @@
                     <h2>{{ race.gender }}'s {{ race.event }}</h2>
                 {% endif %}
                 {% if race.gender == "Men" %}
-                 {{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
+                 <p>{{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
                 {% endif %}
             {% endif %}
         {% endfor %}

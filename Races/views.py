@@ -5,13 +5,22 @@ from Models import MapCreator
 from django.utils.text import slugify
 from django.shortcuts import redirect
 
+selected_event = ""
+selected_top = ""
+
 
 def home_page(request):
     return render(request, "home.html" )
 
 def races_page(request):
-    selected_event = request.GET.get("event")
-    selected_top = request.GET.get("top")
+    global selected_event
+    global selected_top
+
+    if not request.GET.get("event"):
+        selected_top = request.GET.get("top")
+    if not request.GET.get("top"):
+        selected_event = request.GET.get("event")
+
     races = Races.objects.all()
     if selected_event:
         if selected_event != "All":
@@ -19,7 +28,7 @@ def races_page(request):
     if selected_top:
         if selected_top != "All":
             races = races.filter(place__range=(1, int(selected_top)))
-    return render(request, "Races.html", {'races': races})
+    return render(request, "Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top})
 
 def swimmers_page(request):
     return render(request, "swimmers.html")
@@ -46,7 +55,7 @@ def teams_page(request):
 def swimmer_redirect(request):
     if request.method == 'POST':
         name = request.POST.get('SwimmerName', '')
-        slug_name = name.replace(' ', '-').lower()
+        slug_name = slugify(name)
         return swimmers_slug('swimmers_slug', name=slug_name)
     return redirect('/')
 
