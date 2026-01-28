@@ -13,6 +13,7 @@ class Races(models.Model):
     name_slug = models.SlugField(max_length=120, unique=False)
     meet_slug = models.SlugField(max_length=120, unique=False)
     team_slug = models.SlugField(max_length=120, unique=False)
+    division = models.CharField(max_length=120, unique=False, default="")
 
     def __str__(self):
         return f"{self.name} ({self.event})"

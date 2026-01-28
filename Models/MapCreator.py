@@ -18,7 +18,7 @@ def RaceMap():
     i, j = 0, 0
 
     while i in range(len(items) - 1):
-        race = Race(items[i], items[i + 1], items[i + 2], items[i + 3], items[i + 4], items[i + 5], items[i + 6], items[i + 7])
+        race = Race(items[i], items[i + 1], items[i + 2], items[i + 3], items[i + 4], items[i + 5], items[i + 6], items[i + 7], items[i+8])
         Races.objects.get_or_create(
             place=race.place,
             name=race.name,
@@ -30,7 +30,8 @@ def RaceMap():
             nqt=race.nqt,
             name_slug=slugify(race.name),
             meet_slug=slugify(race.meet),
-            team_slug=slugify(race.team)
+            team_slug=slugify(race.team),
+            divison=race.division
         )
-        i += 8
+        i += 9
         j += 1

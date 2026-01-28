@@ -24,7 +24,7 @@ def MinutesToSeconds(time):
 #Class that holds each swimmer per event, each swimmer can only have 1 event but there might be times when a
 #swimmer that appears on more than one event has duplicate objects
 class Race:
-    def __init__(self, place = None, name = None, team = None, meet = None, time = None, event = None, gender = None, nqt = "False"):
+    def __init__(self, place = None, name = None, team = None, meet = None, time = None, event = None, gender = None, nqt = "False", division = None):
         self.place = int(place)
         if name is None:
             print(name)
@@ -55,16 +55,17 @@ class Race:
                     self.nqt = False
         else:
             self.nqt = True
+        self.division = division
 
     def PrintValues(self):
         if self.nqt:
-            print(f"{self.place}: {self.name} Swims for {self.team} and went {self.time} at {self.meet} in the {self.gender}'s {self.event} and has NQT")
+            print(f"{self.place}: {self.name} Swims for {self.team} in the {self.division} and went {self.time} at {self.meet} in the {self.gender}'s {self.event} and has NQT")
         else:
             print(
-                f"{self.place}: {self.name} Swims for {self.team} and went {self.time} at {self.meet} in the {self.gender}'s {self.event}")
+                f"{self.place}: {self.name} Swims for {self.team} in the {self.division} and went {self.time} at {self.meet} in the {self.gender}'s {self.event}")
     def AddToFile(self):
-        with open("SwimmersTimes.txt", "a", encoding="utf-8") as file:
-            file.write(f"{self.place};{self.name};{self.team};{self.meet};{self.time};{self.event};{self.gender};{self.nqt}\n")
+        with open("SwimmersTimesCCS.txt", "a", encoding="utf-8") as file:
+            file.write(f"{self.place};{self.name};{self.team};{self.meet};{self.time};{self.event};{self.gender};{self.nqt};{self.division}\n")
 
     def __eq__(self, other):
         if not isinstance(other, Race):
