@@ -1,18 +1,7 @@
-import os
-import django
-
-os.environ.setdefault(
-    "DJANGO_SETTINGS_MODULE",
-    "ClubSwim.settings"  # <-- MUST match your project settings path
-)
-
-django.setup()
-
 from time import sleep
 import requests
 from bs4 import BeautifulSoup
 from Models.Race import Race
-from Models import MapCreator
 
 #Declarations
 td_text = []
@@ -46,7 +35,7 @@ for gender in genderList:
                 NQT = "True"
             else:
                 NQT = "False"
-            temp_race = Race(place, name, team, meet, time, event, gender, NQT, "457")
+            temp_race = Race(place, name, team, meet, time, event, gender, NQT, "CCS")
             eventMap[j] = temp_race
             if len(eventMap) == 51 or len(eventMap) == 101 or len(eventMap) == 151:
                 if eventMap[j] == eventMap[j-50]:
@@ -56,4 +45,3 @@ for gender in genderList:
 
             j += 1 #j is the index in the dictionary
             i += 7 #7 fields to go to the next line in the dictionary
-#MapCreator.RaceMap()

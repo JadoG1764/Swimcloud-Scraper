@@ -1,7 +1,7 @@
 from django.shortcuts import render
-from Models import MapCreator
+from Models import RewriteCCSDB
 from .models import Races
-from Models import MapCreator
+from Models import RewriteCCSDB
 from django.utils.text import slugify
 from django.shortcuts import redirect
 
