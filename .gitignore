@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Django database
+db.sqlite3
+
+# PyCharm files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
