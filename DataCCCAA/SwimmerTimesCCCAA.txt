@@ -1,0 +1,600 @@
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;50 Free;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;50 Free;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;50 Free;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;50 Free;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;50 Free;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;50 Free;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;50 Free;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;50 Free;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;50 Free;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;50 Free;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;50 Free;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;50 Free;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;50 Free;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;50 Free;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;50 Free;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;50 Free;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;50 Free;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;50 Free;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;50 Free;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;50 Free;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;50 Free;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;50 Free;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;50 Free;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;50 Free;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;50 Free;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;50 Free;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;50 Free;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;50 Free;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;50 Free;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;50 Free;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;50 Free;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;50 Free;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;50 Free;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;50 Free;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;50 Free;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;50 Free;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;50 Free;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;50 Free;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;50 Free;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;50 Free;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;50 Free;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;50 Free;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;50 Free;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;50 Free;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;50 Free;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;50 Free;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;50 Free;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;50 Free;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;50 Free;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;50 Free;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;100 Free;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;100 Free;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;100 Free;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;100 Free;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;100 Free;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;100 Free;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;100 Free;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;100 Free;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;100 Free;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;100 Free;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;100 Free;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;100 Free;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;100 Free;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;100 Free;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;100 Free;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;100 Free;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;100 Free;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;100 Free;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;100 Free;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;100 Free;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;100 Free;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;100 Free;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;100 Free;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;100 Free;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;100 Free;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;100 Free;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;100 Free;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;100 Free;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;100 Free;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;100 Free;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;100 Free;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;100 Free;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;100 Free;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;100 Free;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;100 Free;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;100 Free;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;100 Free;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;100 Free;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;100 Free;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;100 Free;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;100 Free;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;100 Free;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;100 Free;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;100 Free;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;100 Free;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;100 Free;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;100 Free;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;100 Free;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;100 Free;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;100 Free;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;200 Free;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;200 Free;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;200 Free;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;200 Free;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;200 Free;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;200 Free;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;200 Free;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;200 Free;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;200 Free;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;200 Free;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;200 Free;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;200 Free;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;200 Free;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;200 Free;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;200 Free;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;200 Free;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;200 Free;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;200 Free;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;200 Free;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;200 Free;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;200 Free;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;200 Free;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;200 Free;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;200 Free;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;200 Free;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;200 Free;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;200 Free;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;200 Free;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;200 Free;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;200 Free;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;200 Free;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;200 Free;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;200 Free;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;200 Free;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;200 Free;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;200 Free;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;200 Free;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;200 Free;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;200 Free;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;200 Free;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;200 Free;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;200 Free;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;200 Free;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;200 Free;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;200 Free;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;200 Free;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;200 Free;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;200 Free;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;200 Free;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;200 Free;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;500 Free;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;500 Free;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;500 Free;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;500 Free;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;500 Free;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;500 Free;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;500 Free;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;500 Free;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;500 Free;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;500 Free;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;500 Free;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;500 Free;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;500 Free;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;500 Free;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;500 Free;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;500 Free;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;500 Free;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;500 Free;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;500 Free;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;500 Free;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;500 Free;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;500 Free;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;500 Free;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;500 Free;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;500 Free;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;500 Free;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;500 Free;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;500 Free;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;500 Free;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;500 Free;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;500 Free;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;500 Free;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;500 Free;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;500 Free;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;500 Free;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;500 Free;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;500 Free;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;500 Free;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;500 Free;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;500 Free;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;500 Free;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;500 Free;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;500 Free;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;500 Free;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;500 Free;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;500 Free;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;500 Free;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;500 Free;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;500 Free;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;500 Free;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;11650;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;11650;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;11650;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;11650;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;11650;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;11650;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;11650;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;11650;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;11650;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;11650;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;11650;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;11650;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;11650;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;11650;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;11650;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;11650;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;11650;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;11650;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;11650;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;11650;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;11650;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;11650;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;11650;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;11650;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;11650;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;11650;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;11650;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;11650;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;11650;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;11650;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;11650;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;11650;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;11650;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;11650;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;11650;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;11650;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;11650;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;11650;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;11650;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;11650;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;11650;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;11650;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;11650;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;11650;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;11650;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;11650;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;11650;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;11650;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;11650;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;11650;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;50 Back;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;50 Back;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;50 Back;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;50 Back;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;50 Back;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;50 Back;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;50 Back;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;50 Back;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;50 Back;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;50 Back;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;50 Back;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;50 Back;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;50 Back;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;50 Back;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;50 Back;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;50 Back;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;50 Back;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;50 Back;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;50 Back;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;50 Back;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;50 Back;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;50 Back;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;50 Back;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;50 Back;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;50 Back;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;50 Back;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;50 Back;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;50 Back;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;50 Back;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;50 Back;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;50 Back;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;50 Back;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;50 Back;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;50 Back;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;50 Back;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;50 Back;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;50 Back;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;50 Back;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;50 Back;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;50 Back;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;50 Back;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;50 Back;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;50 Back;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;50 Back;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;50 Back;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;50 Back;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;50 Back;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;50 Back;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;50 Back;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;50 Back;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;100 Back;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;100 Back;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;100 Back;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;100 Back;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;100 Back;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;100 Back;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;100 Back;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;100 Back;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;100 Back;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;100 Back;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;100 Back;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;100 Back;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;100 Back;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;100 Back;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;100 Back;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;100 Back;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;100 Back;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;100 Back;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;100 Back;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;100 Back;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;100 Back;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;100 Back;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;100 Back;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;100 Back;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;100 Back;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;100 Back;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;100 Back;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;100 Back;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;100 Back;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;100 Back;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;100 Back;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;100 Back;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;100 Back;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;100 Back;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;100 Back;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;100 Back;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;100 Back;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;100 Back;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;100 Back;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;100 Back;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;100 Back;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;100 Back;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;100 Back;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;100 Back;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;100 Back;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;100 Back;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;100 Back;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;100 Back;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;100 Back;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;100 Back;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;200 Back;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;200 Back;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;200 Back;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;200 Back;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;200 Back;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;200 Back;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;200 Back;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;200 Back;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;200 Back;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;200 Back;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;200 Back;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;200 Back;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;200 Back;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;200 Back;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;200 Back;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;200 Back;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;200 Back;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;200 Back;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;200 Back;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;200 Back;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;200 Back;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;200 Back;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;200 Back;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;200 Back;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;200 Back;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;200 Back;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;200 Back;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;200 Back;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;200 Back;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;200 Back;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;200 Back;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;200 Back;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;200 Back;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;200 Back;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;200 Back;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;200 Back;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;200 Back;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;200 Back;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;200 Back;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;200 Back;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;200 Back;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;200 Back;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;200 Back;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;200 Back;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;200 Back;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;200 Back;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;200 Back;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;200 Back;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;200 Back;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;200 Back;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;50 Breast;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;50 Breast;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;50 Breast;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;50 Breast;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;50 Breast;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;50 Breast;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;50 Breast;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;50 Breast;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;50 Breast;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;50 Breast;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;50 Breast;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;50 Breast;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;50 Breast;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;50 Breast;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;50 Breast;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;50 Breast;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;50 Breast;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;50 Breast;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;50 Breast;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;50 Breast;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;50 Breast;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;50 Breast;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;50 Breast;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;50 Breast;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;50 Breast;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;50 Breast;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;50 Breast;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;50 Breast;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;50 Breast;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;50 Breast;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;50 Breast;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;50 Breast;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;50 Breast;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;50 Breast;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;50 Breast;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;50 Breast;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;50 Breast;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;50 Breast;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;50 Breast;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;50 Breast;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;50 Breast;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;50 Breast;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;50 Breast;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;50 Breast;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;50 Breast;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;50 Breast;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;50 Breast;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;50 Breast;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;50 Breast;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;50 Breast;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;100 Breast;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;100 Breast;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;100 Breast;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;100 Breast;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;100 Breast;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;100 Breast;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;100 Breast;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;100 Breast;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;100 Breast;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;100 Breast;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;100 Breast;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;100 Breast;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;100 Breast;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;100 Breast;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;100 Breast;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;100 Breast;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;100 Breast;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;100 Breast;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;100 Breast;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;100 Breast;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;100 Breast;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;100 Breast;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;100 Breast;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;100 Breast;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;100 Breast;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;100 Breast;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;100 Breast;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;100 Breast;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;100 Breast;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;100 Breast;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;100 Breast;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;100 Breast;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;100 Breast;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;100 Breast;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;100 Breast;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;100 Breast;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;100 Breast;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;100 Breast;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;100 Breast;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;100 Breast;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;100 Breast;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;100 Breast;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;100 Breast;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;100 Breast;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;100 Breast;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;100 Breast;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;100 Breast;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;100 Breast;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;100 Breast;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;100 Breast;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;200 Breast;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;200 Breast;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;200 Breast;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;200 Breast;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;200 Breast;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;200 Breast;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;200 Breast;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;200 Breast;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;200 Breast;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;200 Breast;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;200 Breast;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;200 Breast;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;200 Breast;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;200 Breast;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;200 Breast;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;200 Breast;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;200 Breast;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;200 Breast;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;200 Breast;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;200 Breast;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;200 Breast;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;200 Breast;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;200 Breast;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;200 Breast;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;200 Breast;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;200 Breast;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;200 Breast;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;200 Breast;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;200 Breast;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;200 Breast;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;200 Breast;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;200 Breast;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;200 Breast;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;200 Breast;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;200 Breast;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;200 Breast;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;200 Breast;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;200 Breast;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;200 Breast;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;200 Breast;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;200 Breast;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;200 Breast;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;200 Breast;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;200 Breast;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;200 Breast;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;200 Breast;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;200 Breast;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;200 Breast;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;200 Breast;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;200 Breast;Men;False;CCCAA
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;50 Fly;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;50 Fly;Men;True;CCCAA
+3;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;50 Fly;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;21.97;50 Fly;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;50 Fly;Men;True;CCCAA
+6;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;50 Fly;Men;True;CCCAA
+7;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;50 Fly;Men;True;CCCAA
+8;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;50 Fly;Men;True;CCCAA
+9;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;50 Fly;Men;True;CCCAA
+10;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;50 Fly;Men;True;CCCAA
+11;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;50 Fly;Men;True;CCCAA
+12;Rowan Taggatz;American River;Los Rios Invite;22.46;50 Fly;Men;True;CCCAA
+13;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;50 Fly;Men;True;CCCAA
+14;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;50 Fly;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;50 Fly;Men;True;CCCAA
+16;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;50 Fly;Men;True;CCCAA
+17;Nathaniel Price;Shasta College;Los Rios Invite;22.65;50 Fly;Men;False;CCCAA
+17;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;50 Fly;Men;False;CCCAA
+19;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;50 Fly;Men;False;CCCAA
+20;Mckeane Beier;American River;Los Rios Invite;22.93;50 Fly;Men;False;CCCAA
+21;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;50 Fly;Men;False;CCCAA
+22;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;50 Fly;Men;False;CCCAA
+23;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;50 Fly;Men;False;CCCAA
+24;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;50 Fly;Men;False;CCCAA
+25;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;50 Fly;Men;False;CCCAA
+26;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;50 Fly;Men;False;CCCAA
+27;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;23.34;50 Fly;Men;False;CCCAA
+27;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;23.34;50 Fly;Men;False;CCCAA
+29;Leon Mikulski;Mt. SAC;Mt. SAC NTS Invitational;23.38;50 Fly;Men;False;CCCAA
+30;Blake Pogson;American River;Los Rios Invite;23.39;50 Fly;Men;False;CCCAA
+31;Nolan Pogson;American River;LPC vs MSAC vs ARC;23.41;50 Fly;Men;False;CCCAA
+32;Chase Nunley;Bakersfield;Mt. SAC NTS Invitational;23.50;50 Fly;Men;False;CCCAA
+32;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;50 Fly;Men;False;CCCAA
+32;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;23.50;50 Fly;Men;False;CCCAA
+35;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;50 Fly;Men;False;CCCAA
+36;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;23.62;50 Fly;Men;False;CCCAA
+37;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;23.63;50 Fly;Men;False;CCCAA
+37;Josiah Ortego;American River;LPC vs MSAC vs ARC;23.63;50 Fly;Men;False;CCCAA
+39;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;23.64;50 Fly;Men;False;CCCAA
+40;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;23.70;50 Fly;Men;False;CCCAA
+41;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;23.72;50 Fly;Men;False;CCCAA
+42;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;23.73;50 Fly;Men;False;CCCAA
+42;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.73;50 Fly;Men;False;CCCAA
+42;Oliver Cockcroft;American River;Los Rios Invite;23.73;50 Fly;Men;False;CCCAA
+45;Arian Mutschler;American River;LPC vs MSAC vs ARC;23.82;50 Fly;Men;False;CCCAA
+46;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;23.84;50 Fly;Men;False;CCCAA
+47;Kai Holt;Santa Rosa;Los Rios Invite;23.85;50 Fly;Men;False;CCCAA
+48;Max Benson;Diablo Valley;Los Rios Invite;23.86;50 Fly;Men;False;CCCAA
+49;Lance Wogsland;Santa Rosa;Los Rios Invite;23.92;50 Fly;Men;False;CCCAA
+50;Seth Venables;Diablo Valley;Los Rios Invite;23.97;50 Fly;Men;False;CCCAA

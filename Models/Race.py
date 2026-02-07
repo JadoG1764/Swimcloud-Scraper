@@ -31,6 +31,7 @@ class Race:
             self.name = "Empty Name"
         else:
             self.name = name.replace(team, "")
+        self.division = division
         self.team = team
         self.meet = meet
         self.time = time
@@ -42,20 +43,27 @@ class Race:
             self.gender = "Empty Gender"
         else:
             self.gender = FindGender(gender)
-        if nqt == "False":
-            if self.gender == "Men":
-                if MinutesToSeconds(self.time) < cuts.nqtMens[self.event]:
-                    self.nqt = True
+        if self.division == "CCS" :
+            if nqt == "False":
+                if self.gender == "Men":
+                    if MinutesToSeconds(self.time) < cuts.nqtMens[self.event]:
+                        self.nqt = True
+                    else:
+                        self.nqt = False
                 else:
-                    self.nqt = False
+                    if MinutesToSeconds(self.time) < cuts.nqtWomen[self.event]:
+                        self.nqt = True
+                    else:
+                        self.nqt = False
             else:
-                if MinutesToSeconds(self.time) < cuts.nqtWomen[self.event]:
+                self.nqt = True
+        if self.division == "CCCAA":
+            if nqt == "False":
+                if self.place < 17:
                     self.nqt = True
                 else:
                     self.nqt = False
-        else:
-            self.nqt = True
-        self.division = division
+
 
     def PrintValues(self):
         if self.nqt:
@@ -64,7 +72,8 @@ class Race:
             print(
                 f"{self.place}: {self.name} Swims for {self.team} in the {self.division} and went {self.time} at {self.meet} in the {self.gender}'s {self.event}")
     def AddToFile(self):
-        with open("SwimmersTimesCCS.txt", "a", encoding="utf-8") as file:
+        #with open("SwimmersTimesCCS.txt", "a", encoding="utf-8") as file:
+        with open(f"SwimmerTimes{self.division}.txt", "a", encoding="utf-8") as file:
             file.write(f"{self.place};{self.name};{self.team};{self.meet};{self.time};{self.event};{self.gender};{self.nqt};{self.division}\n")
 
     def __eq__(self, other):
