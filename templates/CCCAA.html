@@ -1,0 +1,18 @@
+{% extends "CCCAA_template.html" %}
+{% load static %}
+
+{% block title %}
+    CCCAA
+{% endblock %}
+
+{% block style %}
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+{% endblock %}
+
+{% block main %}
+    <h1>This is the CCCAA tab</h1>
+
+        <a href = "/CCCAA/races/"> 3C2A Race Page</a> |
+        <a href = "/CCCAA_swimmers/"> 3C2A Swimmers Page</a> |
+        <a href = "/CCCAA_teams/"> 3C2A Teams Page</a>
+{% endblock %}

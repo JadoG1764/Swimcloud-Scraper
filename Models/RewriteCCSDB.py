@@ -15,11 +15,19 @@ from Races.models import Races
 import re
 
 BASE_DIR = Path(__file__).resolve().parents[1]
-file_path = BASE_DIR / "Data" / "SwimmersTimesCCS.txt"
+division = "CCCAA"
 
-Races.objects.filter(division="CCS").delete()
+if division == "CCCAA":
+    file_path = BASE_DIR / "DataCCCAA" / "SwimmerTimesCCCAA.txt"
+
+    Races.objects.filter(division="CCCAA").delete()
+elif division == "CCS":
+    file_path = BASE_DIR / "Data" / "SwimmersTimesCCS.txt"
+
+    Races.objects.filter(division="CCS").delete()
+
 with open(file_path, "r", encoding="utf-8") as file:
-    #values seperated by ;
+    #values separated by ;
     data = file.read()
 
 # declarations

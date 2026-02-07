@@ -63,6 +63,8 @@ class Race:
                     self.nqt = True
                 else:
                     self.nqt = False
+            else:
+                self.nqt = True
 
 
     def PrintValues(self):

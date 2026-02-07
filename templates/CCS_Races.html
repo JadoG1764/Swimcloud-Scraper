@@ -1,6 +1,4 @@
-<!--============UNUSED============-->
-<!--============UNUSED============-->
-{% extends "template.html" %}
+{% extends "CCS_template.html" %}
 {% load static %}
 
 {% block title %}
@@ -62,14 +60,16 @@
 {% endblock %}
 
 {% block main %}
+        <a href = "/CCS/swimmers/"> CCS Swimmers Page</a> |
+        <a href = "/CCS/teams/"> CCS Teams Page</a>
     {% if selected_event == None and selected_top == None %}
-        <h1>Showing default</h1>
+        <h1>Showing CCS default</h1>
     {% elif selected_event == None%}
-        <h1>Showing Top {{ selected_top }}</h1>
+        <h1>Showing CCS Top {{ selected_top }}</h1>
     {% elif selected_top == None %}
-        <h1>Showing {{ selected_event }}</h1>
+        <h1>Showing CCS {{ selected_event }}</h1>
     {% else %}
-        <h1>Showing {{ selected_event }} for Top {{ selected_top }}</h1>
+        <h1>Showing CCS {{ selected_event }} for Top {{ selected_top }}</h1>
     {% endif %}
     <main class="stats-layout">
     <div class="events">

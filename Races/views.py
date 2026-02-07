@@ -12,7 +12,13 @@ selected_top = ""
 def home_page(request):
     return render(request, "home.html" )
 
-def races_page(request):
+def CCCAA_page(request):
+    return render(request, "CCCAA.html")
+
+def CCS_page(request):
+    return render(request, "CCS.html")
+
+def CCS_races_page(request):
     global selected_event
     global selected_top
 
@@ -21,14 +27,33 @@ def races_page(request):
     if not request.GET.get("top"):
         selected_event = request.GET.get("event")
 
-    races = Races.objects.all()
+    races = Races.objects.filter(division="CCS")
     if selected_event:
         if selected_event != "All":
             races = races.filter(event=selected_event)
     if selected_top:
         if selected_top != "All":
             races = races.filter(place__range=(1, int(selected_top)))
-    return render(request, "Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top})
+    return render(request, "CCS_Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top})
+
+def CCCAA_races_page(request):
+    global selected_event
+    global selected_top
+
+    if not request.GET.get("event"):
+        selected_top = request.GET.get("top")
+    if not request.GET.get("top"):
+        selected_event = request.GET.get("event")
+
+    races = Races.objects.filter(division="CCCAA")
+    if selected_event:
+        if selected_event != "All":
+            races = races.filter(event=selected_event)
+    if selected_top:
+        if selected_top != "All":
+            races = races.filter(place__range=(1, int(selected_top)))
+    return render(request, "CCCAA_Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top})
+
 
 def swimmers_page(request):
     return render(request, "swimmers.html")
@@ -39,6 +64,13 @@ def swimmers_slug(request, name):
     if races:
         formatted_name = races[0].name
     return render(request, "swimmers.html", {'races': races, 'formatted_name': formatted_name})
+
+def swimmer_redirect(request):
+    if request.method == 'POST':
+        name = request.POST.get('SwimmerName', '')
+        slug_name = slugify(name)
+        return swimmers_slug('swimmers_slug', name=slug_name)
+    return redirect('/')
 
 def teams_slug(request, name):
     races = Races.objects.all().filter(team_slug=name)
@@ -51,13 +83,6 @@ def teams_slug(request, name):
 def teams_page(request):
     races = Races.objects.all()
     return render(request, "teams.html", {'races': races})
-
-def swimmer_redirect(request):
-    if request.method == 'POST':
-        name = request.POST.get('SwimmerName', '')
-        slug_name = slugify(name)
-        return swimmers_slug('swimmers_slug', name=slug_name)
-    return redirect('/')
 
 def teams_redirect(request):
     if request.method == 'POST':

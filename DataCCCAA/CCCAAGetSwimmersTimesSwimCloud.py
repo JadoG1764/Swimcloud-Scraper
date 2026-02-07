@@ -8,7 +8,7 @@ td_text = []
 eventNumList = [150, 1100, 1200, 1500, 11650, 250, 2100, 2200, 350, 3100, 3200, 450, 4100, 4200, 5100, 5200, 5400]
 genderList = ["M", "F"]
 j = 0
-Race.ClearFile("SwimmersTimesCCCAA.txt") #resets the file
+Race.ClearFile("SwimmerTimesCCCAA.txt") #resets the file
 eventMap: dict[int, Race] = {}
 
 #Loops over both genders, all events, up to the top 200 in each event
@@ -17,7 +17,7 @@ for gender in genderList:
         td_text = []
         eventMap: dict[int, Race] = {}
         for i in range(1): #replace 4 with however many values you want *50, e.g. 10 is top 500.
-            url = f"https://www.swimcloud.com/times/iframe/?page={i+1}&region=division_6&orgcode=3&course=Y&hide_gender=0&hide_season=0&{event}=150&season=29&gender={gender}"
+            url = f"https://www.swimcloud.com/times/iframe/?page={i+1}&region=division_6&orgcode=3&course=Y&hide_gender=0&hide_season=0&event={event}&season=29&gender={gender}"
             data = requests.get(url).text
             soup = BeautifulSoup(data, "html.parser")
             td_text.extend(td.get_text(strip=True) for td in soup.find_all("td")) #adds to the list what we scrape
@@ -25,7 +25,7 @@ for gender in genderList:
             if len(td_text) % 350 != 0:
                 break
         i = 0
-        while i in range(len(td_text)): #td_text is a multiple of 6 so guaranteed to not go out of index if we access the first element of the 6
+        while i in range(len(td_text) - 1): #td_text is a multiple of 6 so guaranteed to not go out of index if we access the first element of the 6
             place = td_text[i]
             name = td_text[i+1]
             team = td_text[i+2]

@@ -1,6 +1,4 @@
-<!--============UNUSED============-->
-<!--============UNUSED============-->
-{% extends "template.html" %}
+{% extends "CCCAA_template.html" %}
 {% load static %}
 
 {% block title %}
@@ -62,14 +60,16 @@
 {% endblock %}
 
 {% block main %}
+        <a href = "/CCCAA_swimmers/"> 3C2A Swimmers Page</a> |
+        <a href = "/CCCAA_teams/"> 3C2A Teams Page</a>
     {% if selected_event == None and selected_top == None %}
-        <h1>Showing default</h1>
+        <h1>Showing CCCAA default</h1>
     {% elif selected_event == None%}
-        <h1>Showing Top {{ selected_top }}</h1>
+        <h1>Showing CCCAA Top {{ selected_top }}</h1>
     {% elif selected_top == None %}
-        <h1>Showing {{ selected_event }}</h1>
+        <h1>Showing CCCAA {{ selected_event }}</h1>
     {% else %}
-        <h1>Showing {{ selected_event }} for Top {{ selected_top }}</h1>
+        <h1>Showing CCCAA {{ selected_event }} for Top {{ selected_top }}</h1>
     {% endif %}
     <main class="stats-layout">
     <div class="events">

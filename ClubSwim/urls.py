@@ -21,7 +21,8 @@ from Races import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('Races.urls')),
-    path('races/', include('Races.urls')),
+    path('CCCAA_races/', include('Races.urls')),
+    path('CCS_races/', include('Races.urls')),
     path('swimmers/', include('Races.urls')),
     path('teams/', include('Races.urls')),
     path('swimmers/<slug:slug>/', include('Races.urls')),
