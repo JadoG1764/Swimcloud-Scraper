@@ -7,6 +7,7 @@ urlpatterns = [
     path('CCS/', views.CCS_page),
     path('CCCAA/races/', views.CCCAA_races_page),
     path('CCS/races/', views.CCS_races_page),
+    path('<str:division>/downloadpdf/', views.pdf_download),
     path('CCCAA/swimmers/', views.swimmers_page),
     path('CCCAA/teams/', views.teams_page),
     path('swimmers/<str:name>/', views.swimmers_slug),
