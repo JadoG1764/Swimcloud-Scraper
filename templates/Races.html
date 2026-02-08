@@ -2,103 +2,285 @@
 {% load static %}
 
 {% block title %}
-    Races
+Races
 {% endblock %}
 
 {% block style %}
-    <link rel="stylesheet" href="{% static 'style.css' %}">
+<link rel="stylesheet" href="{% static 'style.css' %}">
 {% endblock %}
 
 {% block table %}
-    <div class = "table">
-        <form method="GET" action="">
-            <label for="event">Choose an event:</label>
-            <select name="event" id="event">
-                <option value='' disabled selected>Select an event</option>
-                <option value="All" >Show All Events</option>
-                <option value="50 Free" >50 Free</option>
-                <option value="100 Free">100 Free</option>
-                <option value="200 Free">200 Free</option>
-                <option value="500 Free">500 Free</option>
-                {% if division == "CCS" %}
-                    <option value="1000 Free">1000 Free</option>
+<div class="table">
+
+    <!-- EVENT CHECKBOXES -->
+    <form method="GET" action="">
+        <fieldset>
+            <legend>Choose events:</legend>
+
+            <!-- 50 Free -->
+            <label>
+            {% if "50 Free" in selected_events %}
+                <input type="checkbox" name="events" value="50 Free" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="50 Free">
+            {% endif %}
+            50 Free
+            </label>
+
+            <!-- 100 Free -->
+            <label>
+            {% if "100 Free" in selected_events %}
+                <input type="checkbox" name="events" value="100 Free" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="100 Free">
+            {% endif %}
+            100 Free
+            </label>
+
+            <!-- 200 Free -->
+            <label>
+            {% if "200 Free" in selected_events %}
+                <input type="checkbox" name="events" value="200 Free" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="200 Free">
+            {% endif %}
+            200 Free
+            </label>
+
+            <!-- 500 Free -->
+            <label>
+            {% if "500 Free" in selected_events %}
+                <input type="checkbox" name="events" value="500 Free" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="500 Free">
+            {% endif %}
+            500 Free
+            </label>
+
+            <!-- Distance Free -->
+            {% if division == "CCS" %}
+                <label>
+                {% if "1000 Free" in selected_events %}
+                    <input type="checkbox" name="events" value="1000 Free" checked>
                 {% else %}
-                    <option value="1650 Free">1650 Free</option>
+                    <input type="checkbox" name="events" value="1000 Free">
                 {% endif %}
-                <option value="50 Back">50 Back</option>
-                <option value="100 Back">100 Back</option>
-                <option value="200 Back">200 Back</option>
-                <option value="50 Breast">50 Breast</option>
-                <option value="100 Breast">100 Breast</option>
-                <option value="200 Breast">200 Breast</option>
-                <option value="50 Fly">50 Fly</option>
-                <option value="100 Fly">100 Fly</option>
-                <option value="200 Fly">200 Fly</option>
-                <option value="100 IM">100 IM</option>
-                <option value="200 IM">200 IM</option>
-                <option value="400 IM">400 IM</option>
-            </select>
-        </form>
-    <script>
-        document.getElementById("event").addEventListener("change", function() {
-            this.form.submit(); // automatically submit the form when the dropdown changes
-        });
-    </script>
-        <form method="GET" action="">
-            <label for="top">Filter by Top X:</label>
-            <input
-                type="number"
-                name="top"
-                id="top"
-                min="1"
-                max="200"
-                step="1"
-                placeholder="1-200"
-                required
-            >
-        </form>
-    </div>
-    <script>
-        document.getElementById("top").addEventListener("change", function() {
-            this.form.submit(); // automatically submit the form when the dropdown changes
-        });
-    </script>
+                1000 Free
+                </label>
+            {% else %}
+                <label>
+                {% if "1650 Free" in selected_events %}
+                    <input type="checkbox" name="events" value="1650 Free" checked>
+                {% else %}
+                    <input type="checkbox" name="events" value="1650 Free">
+                {% endif %}
+                1650 Free
+                </label>
+            {% endif %}
+
+            <!-- Backstroke -->
+            <label>
+            {% if "50 Back" in selected_events %}
+                <input type="checkbox" name="events" value="50 Back" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="50 Back">
+            {% endif %}
+            50 Back
+            </label>
+
+            <label>
+            {% if "100 Back" in selected_events %}
+                <input type="checkbox" name="events" value="100 Back" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="100 Back">
+            {% endif %}
+            100 Back
+            </label>
+
+            <label>
+            {% if "200 Back" in selected_events %}
+                <input type="checkbox" name="events" value="200 Back" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="200 Back">
+            {% endif %}
+            200 Back
+            </label>
+
+            <!-- Breaststroke -->
+            <label>
+            {% if "50 Breast" in selected_events %}
+                <input type="checkbox" name="events" value="50 Breast" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="50 Breast">
+            {% endif %}
+            50 Breast
+            </label>
+
+            <label>
+            {% if "100 Breast" in selected_events %}
+                <input type="checkbox" name="events" value="100 Breast" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="100 Breast">
+            {% endif %}
+            100 Breast
+            </label>
+
+            <label>
+            {% if "200 Breast" in selected_events %}
+                <input type="checkbox" name="events" value="200 Breast" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="200 Breast">
+            {% endif %}
+            200 Breast
+            </label>
+
+            <!-- Fly -->
+            <label>
+            {% if "50 Fly" in selected_events %}
+                <input type="checkbox" name="events" value="50 Fly" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="50 Fly">
+            {% endif %}
+            50 Fly
+            </label>
+
+            <label>
+            {% if "100 Fly" in selected_events %}
+                <input type="checkbox" name="events" value="100 Fly" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="100 Fly">
+            {% endif %}
+            100 Fly
+            </label>
+
+            <label>
+            {% if "200 Fly" in selected_events %}
+                <input type="checkbox" name="events" value="200 Fly" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="200 Fly">
+            {% endif %}
+            200 Fly
+            </label>
+
+            <!-- IM -->
+            <label>
+            {% if "100 IM" in selected_events %}
+                <input type="checkbox" name="events" value="100 IM" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="100 IM">
+            {% endif %}
+            100 IM
+            </label>
+
+            <label>
+            {% if "200 IM" in selected_events %}
+                <input type="checkbox" name="events" value="200 IM" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="200 IM">
+            {% endif %}
+            200 IM
+            </label>
+
+            <label>
+            {% if "400 IM" in selected_events %}
+                <input type="checkbox" name="events" value="400 IM" checked>
+            {% else %}
+                <input type="checkbox" name="events" value="400 IM">
+            {% endif %}
+            400 IM
+            </label>
+            {% if selected_top %}
+                <input type="hidden" name="top" value="{{ selected_top }}">
+            {% endif %}
+            <br><br>
+            <button type="submit">Apply Event Filters</button>
+            <button type="button" onclick="selectAllEvents()">Select All</button>
+            <button type="button" onclick="deselectAllEvents()">Deselect All</button>
+        </fieldset>
+    </form>
+
+    <!-- TOP X FILTER -->
+    <form method="GET" action="">
+        {% for event in selected_events %}
+            <input type="hidden" name="events" value="{{ event }}">
+        {% endfor %}
+
+        <label for="top">Show Top X:</label>
+        <input
+            type="number"
+            name="top"
+            id="top"
+            min="1"
+            max="200"
+            step="1"
+            value="{{ selected_top }}"
+            placeholder="1-200"
+            required
+        >
+        <button type="submit">Apply</button>
+    </form>
+
+<script>
+function selectAllEvents() {
+    const form = document.querySelector('form');
+    form.querySelectorAll('input[name="events"]').forEach(cb => {
+        cb.checked = true;
+    });
+    form.submit();
+}
+
+function deselectAllEvents() {
+    const form = document.querySelector('form');
+    form.querySelectorAll('input[name="events"]').forEach(cb => {
+        cb.checked = false;
+    });
+    form.submit();
+}
+</script>
+
+</div>
 {% endblock %}
 
 {% block main %}
-    {% if selected_event == None and selected_top == None %}
-        <h1>Showing {{ division }} default</h1>
-    {% elif selected_event == None%}
-        <h1>Showing {{ division }} Top {{ selected_top }}</h1>
-    {% elif selected_top == None %}
-        <h1>Showing {{ division }} {{ selected_event }}</h1>
-    {% else %}
-        <h1>Showing {{ division }} {{ selected_event }} for Top {{ selected_top }}</h1>
+<h1>Showing {{ division }}</h1>
+    {% if selected_events %}
+        <div class="selected-events">
+            Events:
+            {% for e in selected_events %}
+                {{ e }}{% if not forloop.last %}, {% endif %}
+            {% endfor %}
+        </div>
     {% endif %}
-    <a href="downloadpdf/">Download PDF</a>
-    <main class="stats-layout">
-    <div class="events">
-        {% for race in races %}
-            {% if race.gender == "Women" %}
-                {% if race.place == 1 %}
-                    <h2>{{ race.gender }}'s {{ race.event }}</h2>
-                {% endif %}
-                <p>{{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
-            {% endif %}
-        {% endfor %}
-    </div>
-    <div class ="events">
-        {% for race in races %}
-            {% if race.gender == "Men" %}
-                {% if race.place == 1 %}
-                    <h2>{{ race.gender }}'s {{ race.event }}</h2>
-                {% endif %}
-                {% if race.gender == "Men" %}
-                 <p>{{ race.place }}: <a href="/swimmers/{{ race.name_slug  }}/">{{ race.name }}</a>, <a href = "/teams/{{ race.team_slug }}/">{{ race.team }}.</a> {{ race.time }} {{ race.event }} at {{ race.meet }}</p>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-    </div>
-</main>
+    {% if selected_top %}
+        <div class="selected-top">
+            (Top {{ selected_top }})
+        </div>
+    {% endif %}
 
+
+<a href="/{{ division }}/races/downloadpdf/?{% for e in selected_events %}events={{ e|urlencode }}&{% endfor %}{% if selected_top %}top={{ selected_top }}{% endif %}">
+    Download PDF
+</a>
+
+<main class="stats-layout">
+
+{% regroup races by gender as gender_groups %}
+
+{% for gender_group in gender_groups %}
+    <div class="events">
+        {% for race in gender_group.list %}
+            {% if race.place == 1 %}
+                <h2>{{ gender_group.grouper }}'s {{ race.event }}</h2>
+            {% endif %}
+            <p>
+                {{ race.place }}:
+                <a href="/swimmers/{{ race.name_slug }}/">{{ race.name }}</a>,
+                <a href="/teams/{{ race.team_slug }}/">{{ race.team }}</a>
+                {{ race.time }} at {{ race.meet }}
+            </p>
+        {% endfor %}
+    </div>
+{% endfor %}
+
+</main>
 {% endblock %}

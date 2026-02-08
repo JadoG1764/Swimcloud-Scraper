@@ -15,8 +15,8 @@ import io
 
 
 
-selected_event = ""
-selected_top = ""
+#selected_event = ""
+#selected_top = ""
 
 
 def home_page(request):
@@ -26,22 +26,33 @@ def division_page(request, division):
     return render(request, "division.html", {"division": division,})
 
 def races_page(request, division):
-    global selected_event
-    global selected_top
+    # GET parameters
+    selected_events = request.GET.getlist("events")
+    selected_top = request.GET.get("top")
 
-    if not request.GET.get("event"):
-        selected_top = request.GET.get("top")
-    if not request.GET.get("top"):
-        selected_event = request.GET.get("event")
-
+    # Base queryset
     races = Races.objects.filter(division=division)
-    if selected_event:
-        if selected_event != "All":
-            races = races.filter(event=selected_event)
+
+    # Filter by selected events (checkboxes)
+    if selected_events:
+        races = races.filter(event__in=selected_events)
+
+    # Filter by Top X
     if selected_top:
-        if selected_top != "All":
-            races = races.filter(place__range=(1, int(selected_top)))
-    return render(request, "Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top, 'division': division})
+        try:
+            selected_top = int(selected_top)
+            races = races.filter(place__lte=selected_top)
+        except ValueError:
+            selected_top = None
+
+    context = {
+        "division": division,
+        "races": races,
+        "selected_events": selected_events,
+        "selected_top": selected_top,
+    }
+
+    return render(request, "Races.html", context)
 
 def swimmers_page(request):
     return render(request, "swimmers.html")
@@ -80,7 +91,11 @@ def teams_redirect(request):
     return redirect('/')
 
 def pdf_download(request, division):
-    #temporarily made to print with top 20
+    # GET filters
+    selected_events = request.GET.getlist("events")
+    selected_top = request.GET.get("top")
+
+    # PDF setup
     buffer = io.BytesIO()
     pdf = SimpleDocTemplate(
         buffer,
@@ -90,8 +105,23 @@ def pdf_download(request, division):
         topMargin=18,
         bottomMargin=36,
     )
-    races = Races.objects.filter(division=division, place__lte=20)
 
+    # Base queryset
+    races = Races.objects.filter(division=division)
+
+    # Filter by events if any selected
+    if selected_events:
+        races = races.filter(event__in=selected_events)
+
+    # Filter by Top X
+    if selected_top:
+        try:
+            selected_top = int(selected_top)
+            races = races.filter(place__lte=selected_top)
+        except ValueError:
+            selected_top = None
+
+    # PDF elements
     styles = getSampleStyleSheet()
     elements = []
 
@@ -100,9 +130,10 @@ def pdf_download(request, division):
     gender_switch = 0
 
     for race in races:
-        # Add a header when the event changes
+        # Add a header when the event or gender changes
         if race.event != current_event:
             current_event = race.event
+            current_gender = race.gender
             events_on_page += 1
 
             if events_on_page > 2:
@@ -117,12 +148,12 @@ def pdf_download(request, division):
 
             elements.append(Spacer(1, 3))
             elements.append(Paragraph(
-                f"<b>{current_event}</b>",
+                f"<b>{race.gender}'s {current_event}</b>",
                 styles["Heading2"]
             ))
             elements.append(Spacer(1, 3))
 
-        # One-row table per race
+        # Table row
         row = [
             race.place,
             race.name,
@@ -130,30 +161,23 @@ def pdf_download(request, division):
             race.time,
         ]
 
-        table = Table(
-            [row],
-            colWidths=[20, 100, 270, 80]
-        )
+        table = Table([row], colWidths=[15, 100, 270, 80])
 
         style = TableStyle([
-            ("ALIGN", (0, 0), (0, 0), "LEFT"),    # place
-            ("ALIGN", (1, 0), (1, 0), "LEFT"),   # name
+            ("ALIGN", (0, 0), (0, 0), "LEFT"),  # place
+            ("ALIGN", (1, 0), (1, 0), "LEFT"),  # name
             ("ALIGN", (2, 0), (2, 0), "CENTER"),  # team
-            ("ALIGN", (3, 0), (3, 0), "RIGHT"),   # time
-
-            # Vertical centering
+            ("ALIGN", (3, 0), (3, 0), "RIGHT"),  # time
             ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
-
-            # Padding (controls row height)
             ("TOPPADDING", (0, 0), (-1, -1), 2),
             ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
             ("LEFTPADDING", (0, 0), (-1, -1), 4),
             ("RIGHTPADDING", (0, 0), (-1, -1), 4),
         ])
 
+        # Highlight team
         if race.team == "Diablo Valley":
-            # 0 = first col, 3 = fourth col
-            style.add("FONTNAME", (0, 0), (3, 0), "Helvetica-Bold")
+            style.add("FONTNAME", (0, 0), (-1, 0), "Helvetica-Bold")
 
         table.setStyle(style)
         elements.append(table)
@@ -162,5 +186,5 @@ def pdf_download(request, division):
 
     buffer.seek(0)
     response = HttpResponse(buffer, content_type="application/pdf")
-    response["Content-Disposition"] = 'inline; filename="races.pdf"'
+    response["Content-Disposition"] = f'inline; filename="{division}_races.pdf"'
     return response
