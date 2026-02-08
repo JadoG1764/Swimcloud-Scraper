@@ -1,5 +1,3 @@
-<!--============UNUSED============-->
-<!--============UNUSED============-->
 {% extends "template.html" %}
 {% load static %}
 
@@ -22,7 +20,11 @@
                 <option value="100 Free">100 Free</option>
                 <option value="200 Free">200 Free</option>
                 <option value="500 Free">500 Free</option>
-                <option value="1000 Free">1000 Free</option>
+                {% if division == "CCS" %}
+                    <option value="1000 Free">1000 Free</option>
+                {% else %}
+                    <option value="1650 Free">1650 Free</option>
+                {% endif %}
                 <option value="50 Back">50 Back</option>
                 <option value="100 Back">100 Back</option>
                 <option value="200 Back">200 Back</option>
@@ -44,14 +46,16 @@
     </script>
         <form method="GET" action="">
             <label for="top">Filter by Top X:</label>
-            <select name="top" id="top">
-                <option value='' disabled selected>Select an amount</option>
-                <option value="All" >Show All</option>
-                <option value="30" >30</option>
-                <option value="50">50</option>
-                <option value="100">100</option>
-                <option value="200">200</option>
-            </select>
+            <input
+                type="number"
+                name="top"
+                id="top"
+                min="1"
+                max="200"
+                step="1"
+                placeholder="1-200"
+                required
+            >
         </form>
     </div>
     <script>
@@ -63,14 +67,15 @@
 
 {% block main %}
     {% if selected_event == None and selected_top == None %}
-        <h1>Showing default</h1>
+        <h1>Showing {{ division }} default</h1>
     {% elif selected_event == None%}
-        <h1>Showing Top {{ selected_top }}</h1>
+        <h1>Showing {{ division }} Top {{ selected_top }}</h1>
     {% elif selected_top == None %}
-        <h1>Showing {{ selected_event }}</h1>
+        <h1>Showing {{ division }} {{ selected_event }}</h1>
     {% else %}
-        <h1>Showing {{ selected_event }} for Top {{ selected_top }}</h1>
+        <h1>Showing {{ division }} {{ selected_event }} for Top {{ selected_top }}</h1>
     {% endif %}
+    <a href="downloadpdf/">Download PDF</a>
     <main class="stats-layout">
     <div class="events">
         {% for race in races %}

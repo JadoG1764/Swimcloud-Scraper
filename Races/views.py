@@ -22,13 +22,10 @@ selected_top = ""
 def home_page(request):
     return render(request, "home.html" )
 
-def CCCAA_page(request):
-    return render(request, "CCCAA.html")
+def division_page(request, division):
+    return render(request, "division.html", {"division": division,})
 
-def CCS_page(request):
-    return render(request, "CCS.html")
-
-def CCS_races_page(request):
+def races_page(request, division):
     global selected_event
     global selected_top
 
@@ -37,32 +34,14 @@ def CCS_races_page(request):
     if not request.GET.get("top"):
         selected_event = request.GET.get("event")
 
-    races = Races.objects.filter(division="CCS")
+    races = Races.objects.filter(division=division)
     if selected_event:
         if selected_event != "All":
             races = races.filter(event=selected_event)
     if selected_top:
         if selected_top != "All":
             races = races.filter(place__range=(1, int(selected_top)))
-    return render(request, "CCS_Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top})
-
-def CCCAA_races_page(request):
-    global selected_event
-    global selected_top
-
-    if not request.GET.get("event"):
-        selected_top = request.GET.get("top")
-    if not request.GET.get("top"):
-        selected_event = request.GET.get("event")
-
-    races = Races.objects.filter(division="CCCAA")
-    if selected_event:
-        if selected_event != "All":
-            races = races.filter(event=selected_event)
-    if selected_top:
-        if selected_top != "All":
-            races = races.filter(place__range=(1, int(selected_top)))
-    return render(request, "CCCAA_Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top})
+    return render(request, "Races.html", {'races': races, 'selected_event': selected_event, 'selected_top': selected_top, 'division': division})
 
 def swimmers_page(request):
     return render(request, "swimmers.html")

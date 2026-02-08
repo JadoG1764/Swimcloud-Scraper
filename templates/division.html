@@ -2,7 +2,7 @@
 {% load static %}
 
 {% block title %}
-    Home
+    {{ division }}
 {% endblock %}
 
 {% block style %}
@@ -10,5 +10,9 @@
 {% endblock %}
 
 {% block main %}
-    <h1>This is the Home tab</h1>
+    <h1>This is the {{ division }} tab</h1>
+
+        <a href = "/{{ division }}/races/"> {{ division }} Race Page</a> |
+        <a href = "/{{ division }}/swimmers/"> {{ division }} Swimmers Page</a> |
+        <a href = "/{{ division }}/teams/"> {{ division }} Teams Page</a>
 {% endblock %}
