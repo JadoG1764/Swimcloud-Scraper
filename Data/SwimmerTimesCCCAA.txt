@@ -1,0 +1,1324 @@
+1;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;21.10;50 Free;Men;True;CCCAA
+2;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;21.63;50 Free;Men;True;CCCAA
+3;Brady Lind;Cuesta;VC Larry Baratte Invitational;21.75;50 Free;Men;True;CCCAA
+4;Ray Fitch;Diablo Valley;Los Rios Invite;21.95;50 Free;Men;True;CCCAA
+5;Justin Hsieh;American River;Los Rios Invite;21.97;50 Free;Men;True;CCCAA
+6;Joe Greer;Diablo Valley;PC SC Senior Open P.F;22.00;50 Free;Men;True;CCCAA
+7;Tanner Lopez;College of the Sequoias;FPU vs Westmont vs COS;22.02;50 Free;Men;True;CCCAA
+8;Rohan Lee;SMC;VC Larry Baratte Invitational;22.08;50 Free;Men;True;CCCAA
+9;Tim Chun;Mt. SAC;Mt. SAC NTS Invitational;22.13;50 Free;Men;True;CCCAA
+10;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;22.16;50 Free;Men;True;CCCAA
+11;Davyd Tsypan;American River;LPC vs MSAC vs ARC;22.17;50 Free;Men;True;CCCAA
+12;Madden Magee;Sierra;CCSF Rams Invitational;22.20;50 Free;Men;True;CCCAA
+13;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;22.26;50 Free;Men;True;CCCAA
+13;Grant Huston;Cuesta;VC Larry Baratte Invitational;22.26;50 Free;Men;True;CCCAA
+15;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;22.28;50 Free;Men;True;CCCAA
+16;Nathan Arakawa;West Valley;CCSF Rams Invitational;22.38;50 Free;Men;True;CCCAA
+17;Zach Pechan;Cuesta;VC Larry Baratte Invitational;22.42;50 Free;Men;False;CCCAA
+18;Yassin Bouali;DeAnza;CCSF Rams Invitational;22.46;50 Free;Men;False;CCCAA
+18;Rowan Taggatz;American River;Los Rios Invite;22.46;50 Free;Men;False;CCCAA
+20;Jonah Mafnas;Cosumnes River College;Los Rios Invite;22.52;50 Free;Men;False;CCCAA
+21;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;22.53;50 Free;Men;False;CCCAA
+22;Bronson Chungson;West Valley;CCSF Rams Invitational;22.58;50 Free;Men;False;CCCAA
+23;Quinn Rees;Ohlone;CCSF Rams Invitational;22.59;50 Free;Men;False;CCCAA
+24;Kai Anolin;Mt. SAC;Mt. SAC vs. La Verne;22.60;50 Free;Men;False;CCCAA
+25;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;22.62;50 Free;Men;False;CCCAA
+26;Nathaniel Price;Shasta College;Los Rios Invite;22.65;50 Free;Men;False;CCCAA
+26;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;22.65;50 Free;Men;False;CCCAA
+28;Riley Taizo Amis;SMC;VC Larry Baratte Invitational;22.67;50 Free;Men;False;CCCAA
+29;Taesu Yim;DeAnza;CCSF Rams Invitational;22.74;50 Free;Men;False;CCCAA
+30;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;22.75;50 Free;Men;False;CCCAA
+31;Chase Martsolf;Los Angeles Valley;VC Larry Baratte Invitational;22.77;50 Free;Men;False;CCCAA
+32;Tristan Grimett;West Valley;CCSF Rams Invitational;22.81;50 Free;Men;False;CCCAA
+33;Justus Howell;DeAnza;CCSF Rams Invitational;22.88;50 Free;Men;False;CCCAA
+33;Dustin Drobeck;Cuesta;VC Larry Baratte Invitational;22.88;50 Free;Men;False;CCCAA
+35;Mckeane Beier;American River;Los Rios Invite;22.93;50 Free;Men;False;CCCAA
+36;James Pitcock;Cosumnes River College;Los Rios Invite;22.98;50 Free;Men;False;CCCAA
+37;Spencer Cox;Modesto JC;Merced College Sprint Invitational;23.00;50 Free;Men;False;CCCAA
+38;Jacob Otsuki;Ventura;VC Larry Baratte Invitational;23.03;50 Free;Men;False;CCCAA
+39;Joshua Noonan;American River;LPC vs MSAC vs ARC;23.04;50 Free;Men;False;CCCAA
+40;Michael Khoury;Pasadena City;2026 NTS BC Invite;23.05;50 Free;Men;False;CCCAA
+41;Thomas Shea;Ventura;VC Larry Baratte Invitational;23.10;50 Free;Men;False;CCCAA
+42;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;23.15;50 Free;Men;False;CCCAA
+43;Rhett Wildenradt;Sierra;CCSF Rams Invitational;23.16;50 Free;Men;False;CCCAA
+44;Brandon Wang;DeAnza;CCSF Rams Invitational;23.21;50 Free;Men;False;CCCAA
+45;Liam Pollington;Cuesta;VC Larry Baratte Invitational;23.23;50 Free;Men;False;CCCAA
+46;Jett Hardy;Cuesta;VC Larry Baratte Invitational;23.24;50 Free;Men;False;CCCAA
+47;Miguel Medrano;Ohlone;CCSF Rams Invitational;23.25;50 Free;Men;False;CCCAA
+48;Ze Hou Liew;DeAnza;CCSF Rams Invitational;23.28;50 Free;Men;False;CCCAA
+49;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;23.29;50 Free;Men;False;CCCAA
+49;Akim Kirilyuk;Sierra;CCSF Rams Invitational;23.29;50 Free;Men;False;CCCAA
+1;Grant Huston;Cuesta;VC Larry Baratte Invitational;46.34;100 Free;Men;True;CCCAA
+2;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;47.51;100 Free;Men;True;CCCAA
+3;Akim Kirilyuk;Sierra;CCSF Rams Invitational;48.10;100 Free;Men;True;CCCAA
+4;Jacob Zimmerman;Bakersfield;Mt. SAC NTS Invitational;48.35;100 Free;Men;True;CCCAA
+5;Joe Greer;Diablo Valley;PC SC Senior Open P.F;48.52;100 Free;Men;True;CCCAA
+6;Madden Magee;Sierra;CCSF Rams Invitational;48.55;100 Free;Men;True;CCCAA
+7;Leon Mikulski;Mt. SAC;LPC vs MSAC vs ARC;48.84;100 Free;Men;True;CCCAA
+8;Jonah Mafnas;Cosumnes River College;Los Rios Invite;48.89;100 Free;Men;True;CCCAA
+9;Mathew Cheang;DeAnza;CCSF Rams Invitational;48.92;100 Free;Men;True;CCCAA
+10;Justin Hsieh;American River;LPC vs MSAC vs ARC;48.95;100 Free;Men;True;CCCAA
+11;Brady Lind;Cuesta;VC Larry Baratte Invitational;49.23;100 Free;Men;True;CCCAA
+12;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;49.25;100 Free;Men;True;CCCAA
+13;Tanner Lopez;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;49.34;100 Free;Men;True;CCCAA
+14;Kai Anolin;Mt. SAC;2026 South Coast Conference Pentathlon;49.42;100 Free;Men;True;CCCAA
+15;Taesu Yim;DeAnza;CCSF Rams Invitational;49.44;100 Free;Men;True;CCCAA
+16;Andrew Donlin;American River;Los Rios Invite;49.45;100 Free;Men;True;CCCAA
+17;Noah Erskine;Sierra;CCSF Rams Invitational;49.49;100 Free;Men;False;CCCAA
+18;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;49.64;100 Free;Men;False;CCCAA
+19;Rowan Taggatz;American River;Los Rios Invite;49.73;100 Free;Men;False;CCCAA
+20;Riley Taizo Amis;SMC;VC Larry Baratte Invitational;49.81;100 Free;Men;False;CCCAA
+21;Luke Marsden;Mt. SAC;Mt. SAC NTS Invitational;49.86;100 Free;Men;False;CCCAA
+22;Cooper Golling;Mt. SAC;LPC vs MSAC vs ARC;49.88;100 Free;Men;False;CCCAA
+23;Ray Fitch;Diablo Valley;Los Rios Invite;49.90;100 Free;Men;False;CCCAA
+24;Aidan Staton;Mt. SAC;Mt. SAC NTS Invitational;49.91;100 Free;Men;False;CCCAA
+25;Mckeane Beier;American River;Los Rios Invite;50.00;100 Free;Men;False;CCCAA
+26;Mario Rodriguez- Carreon;Mt. SAC;Mt. SAC NTS Invitational;50.13;100 Free;Men;False;CCCAA
+27;Jacob Domingo;Sierra;CCSF Rams Invitational;50.23;100 Free;Men;False;CCCAA
+28;Brendan Meyer;College of the Sequoias;Mt. SAC NTS Invitational;50.33;100 Free;Men;False;CCCAA
+29;Quinn Rea;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;50.35;100 Free;Men;False;CCCAA
+30;Quinn Rees;Ohlone;CCSF Rams Invitational;50.39;100 Free;Men;False;CCCAA
+31;Alex Thornton;El Camino;2026 South Coast Conference Pentathlon;50.40;100 Free;Men;False;CCCAA
+32;Ethan Lopez;Mt. SAC;2026 South Coast Conference Pentathlon;50.42;100 Free;Men;False;CCCAA
+33;Gio Wheeler;El Camino;2026 South Coast Conference Pentathlon;50.43;100 Free;Men;False;CCCAA
+34;Logan Irvine;Sierra;CCSF Rams Invitational;50.48;100 Free;Men;False;CCCAA
+35;Tim Chun;Mt. SAC;Mt. SAC vs. La Verne;50.50;100 Free;Men;False;CCCAA
+36;Jett Hardy;Cuesta;VC Larry Baratte Invitational;50.72;100 Free;Men;False;CCCAA
+37;Yassin Bouali;DeAnza;CCSF Rams Invitational;50.75;100 Free;Men;False;CCCAA
+38;Isaiah Warner;Diablo Valley;Los Rios Invite;50.79;100 Free;Men;False;CCCAA
+39;Rhett Wildenradt;Sierra;CCSF Rams Invitational;50.84;100 Free;Men;False;CCCAA
+40;Nathaniel Price;Shasta College;Los Rios Invite;50.85;100 Free;Men;False;CCCAA
+41;Tristan Grimett;West Valley;CCSF Rams Invitational;51.01;100 Free;Men;False;CCCAA
+42;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;51.02;100 Free;Men;False;CCCAA
+43;Miguel Medrano;Ohlone;CCSF Rams Invitational;51.03;100 Free;Men;False;CCCAA
+43;Joshua Noonan;American River;Los Rios Invite;51.03;100 Free;Men;False;CCCAA
+45;Ethan Darmon;Mt. SAC;Mt. SAC NTS Invitational;51.04;100 Free;Men;False;CCCAA
+46;Ryker Lichtenberg;Santa Rosa;Los Rios Invite;51.05;100 Free;Men;False;CCCAA
+46;Connor Keith;Mt. SAC;LPC vs MSAC vs ARC;51.05;100 Free;Men;False;CCCAA
+48;Damon Winton;Sierra;CCSF Rams Invitational;51.11;100 Free;Men;False;CCCAA
+49;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;51.15;100 Free;Men;False;CCCAA
+50;James Pitcock;Cosumnes River College;Los Rios Invite;51.19;100 Free;Men;False;CCCAA
+1;Grant Huston;Cuesta;VC Larry Baratte Invitational;1:40.39;200 Free;Men;True;CCCAA
+2;Lincoln Jones;Mt. SAC;LPC vs MSAC vs ARC;1:43.32;200 Free;Men;True;CCCAA
+3;Mathew Cheang;DeAnza;CCSF Rams Invitational;1:44.75;200 Free;Men;True;CCCAA
+4;Justin Hsieh;American River;Los Rios Invite;1:46.93;200 Free;Men;True;CCCAA
+5;Akim Kirilyuk;Sierra;CCSF Rams Invitational;1:46.94;200 Free;Men;True;CCCAA
+6;Taesu Yim;DeAnza;CCSF Rams Invitational;1:47.10;200 Free;Men;True;CCCAA
+7;Cooper Golling;Mt. SAC;Mt. SAC vs. La Verne;1:47.85;200 Free;Men;True;CCCAA
+8;Rhett Wildenradt;Sierra;CCSF Rams Invitational;1:49.03;200 Free;Men;True;CCCAA
+9;Jett Hardy;Cuesta;VC Larry Baratte Invitational;1:50.27;200 Free;Men;True;CCCAA
+10;Chase Martsolf;Los Angeles Valley;VC Larry Baratte Invitational;1:50.69;200 Free;Men;True;CCCAA
+11;Leon Mikulski;Mt. SAC;LPC vs MSAC vs ARC;1:51.09;200 Free;Men;True;CCCAA
+12;Ethan Darmon;Mt. SAC;Mt. SAC NTS Invitational;1:51.75;200 Free;Men;True;CCCAA
+13;Andrew Donlin;American River;LPC vs MSAC vs ARC;1:51.94;200 Free;Men;True;CCCAA
+14;Damon Winton;Sierra;CCSF Rams Invitational;1:51.97;200 Free;Men;True;CCCAA
+15;Brendan Meyer;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:53.77;200 Free;Men;True;CCCAA
+16;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:53.94;200 Free;Men;True;CCCAA
+17;Jonathan Rollheiser;Mt. SAC;LPC vs MSAC vs ARC;1:54.84;200 Free;Men;False;CCCAA
+18;Connor Keith;Mt. SAC;LPC vs MSAC vs ARC;1:54.85;200 Free;Men;False;CCCAA
+19;Ronald Abbott;Shasta College;Los Rios Invite;1:55.17;200 Free;Men;False;CCCAA
+20;Ethan Decker;Mt. SAC;Mt. SAC vs. Chapman;1:55.35;200 Free;Men;False;CCCAA
+21;Jonah Mafnas;Cosumnes River College;Los Rios Invite;1:55.38;200 Free;Men;False;CCCAA
+22;Kaelan Skeehan;Sierra;CCSF Rams Invitational;1:55.39;200 Free;Men;False;CCCAA
+23;Ryker Lichtenberg;Santa Rosa;Los Rios Invite;1:55.83;200 Free;Men;False;CCCAA
+24;Luke Marsden;Mt. SAC;Mt. SAC NTS Invitational;1:55.95;200 Free;Men;False;CCCAA
+25;Josiah Smee;Hancock College;2026 NTS BC Invite;1:56.25;200 Free;Men;False;CCCAA
+26;Josiah Deleon;American River;Los Rios Invite;1:56.45;200 Free;Men;False;CCCAA
+27;Thor Samuel;Cuesta;VC Larry Baratte Invitational;1:56.52;200 Free;Men;False;CCCAA
+28;Powell Stanger;Mt. SAC;LPC vs MSAC vs ARC;1:56.55;200 Free;Men;False;CCCAA
+29;Tanner Lopez;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:56.59;200 Free;Men;False;CCCAA
+30;Thomas Chavez;Mt. SAC;LPC vs MSAC vs ARC;1:56.76;200 Free;Men;False;CCCAA
+31;Quinn Rea;College of the Sequoias;FPU vs Westmont vs COS;1:56.78;200 Free;Men;False;CCCAA
+32;Nicolas Lira;Bakersfield;Mt. SAC NTS Invitational;1:56.92;200 Free;Men;False;CCCAA
+33;Jordan Choi;Pasadena City;Mt. SAC NTS Invitational;1:57.47;200 Free;Men;False;CCCAA
+34;Garrett Woody;Santa Rosa;Los Rios Invite;1:57.59;200 Free;Men;False;CCCAA
+35;CJ Simmons;Cuesta;VC Larry Baratte Invitational;1:57.64;200 Free;Men;False;CCCAA
+36;Alex Kobalyan;Los Angeles Valley;VC Larry Baratte Invitational;1:57.77;200 Free;Men;False;CCCAA
+37;Pa'Kalani Saxton Vaka;West Valley;CCSF Rams Invitational;1:57.90;200 Free;Men;False;CCCAA
+38;Mason Martsolf;Los Angeles Valley;VC Larry Baratte Invitational;1:58.20;200 Free;Men;False;CCCAA
+39;Matteo Podesta;Los Angeles Pierce;VC Larry Baratte Invitational;1:58.35;200 Free;Men;False;CCCAA
+40;Steven Olvera;Mt. SAC;Mt. SAC vs. La Verne;1:58.47;200 Free;Men;False;CCCAA
+41;Brayden Black;Ventura;VC Larry Baratte Invitational;1:58.61;200 Free;Men;False;CCCAA
+42;Caleb Zhang;Mt. SAC;LPC vs MSAC vs ARC;1:58.70;200 Free;Men;False;CCCAA
+43;Gatlin Garcia;Merced;College of the Sequoias vs. Clovis, FCC, Merced;1:58.99;200 Free;Men;False;CCCAA
+44;Noah Foster;American River;Los Rios Invite;1:59.43;200 Free;Men;False;CCCAA
+45;Daniel Mehlhaff;Las Positas College;LPC vs MSAC vs ARC;1:59.64;200 Free;Men;False;CCCAA
+46;Ali Cinar Nuray;West Valley;CCSF Rams Invitational;1:59.84;200 Free;Men;False;CCCAA
+47;Josh Sayo;American River;Los Rios Invite;1:59.89;200 Free;Men;False;CCCAA
+48;Csanad Varga;West Valley;CCSF Rams Invitational;2:00.02;200 Free;Men;False;CCCAA
+49;Blake Pogson;American River;Los Rios Invite;2:00.48;200 Free;Men;False;CCCAA
+50;Nick Bush;Los Angeles Pierce;VC Larry Baratte Invitational;2:00.53;200 Free;Men;False;CCCAA
+1;Cooper Golling;Mt. SAC;Mt. SAC NTS Invitational;4:42.47;500 Free;Men;True;CCCAA
+2;Leon Mikulski;Mt. SAC;LPC vs MSAC vs ARC;4:57.07;500 Free;Men;True;CCCAA
+3;Taesu Yim;DeAnza;CCSF Rams Invitational;5:03.57;500 Free;Men;True;CCCAA
+4;Ethan Darmon;Mt. SAC;Mt. SAC NTS Invitational;5:03.95;500 Free;Men;True;CCCAA
+5;Rhett Wildenradt;Sierra;CCSF Rams Invitational;5:07.88;500 Free;Men;True;CCCAA
+6;Damon Winton;Sierra;CCSF Rams Invitational;5:08.21;500 Free;Men;True;CCCAA
+7;Kai Holt;Santa Rosa;Los Rios Invite;5:08.24;500 Free;Men;True;CCCAA
+8;Noah Erskine;Sierra;CCSF Rams Invitational;5:08.78;500 Free;Men;True;CCCAA
+9;Jonathan Rollheiser;Mt. SAC;LPC vs MSAC vs ARC;5:09.58;500 Free;Men;True;CCCAA
+10;Jhan Loninia;Los Angeles Pierce;VC Larry Baratte Invitational;5:11.78;500 Free;Men;True;CCCAA
+11;Evan Sonoda;Diablo Valley;Los Rios Invite;5:11.94;500 Free;Men;True;CCCAA
+12;Ethan Decker;Mt. SAC;LPC vs MSAC vs ARC;5:12.31;500 Free;Men;True;CCCAA
+13;Daniel Lewis;Diablo Valley;Los Rios Invite;5:12.82;500 Free;Men;True;CCCAA
+14;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;5:14.78;500 Free;Men;True;CCCAA
+15;Powell Stanger;Mt. SAC;LPC vs MSAC vs ARC;5:15.23;500 Free;Men;True;CCCAA
+16;Makar Salnikov;West Valley;CCSF Rams Invitational;5:15.81;500 Free;Men;True;CCCAA
+17;Ronan Suarez;SMC;VC Larry Baratte Invitational;5:19.47;500 Free;Men;False;CCCAA
+18;Nicolas Lira;Bakersfield;Mt. SAC NTS Invitational;5:20.39;500 Free;Men;False;CCCAA
+19;Caleb Zhang;Mt. SAC;LPC vs MSAC vs ARC;5:22.00;500 Free;Men;False;CCCAA
+20;Connor Rohman;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;5:23.66;500 Free;Men;False;CCCAA
+21;Edward Wallace;Hancock College;2026 NTS BC Invite;5:24.86;500 Free;Men;False;CCCAA
+22;Quinn Rea;College of the Sequoias;FPU vs Westmont vs COS;5:25.05;500 Free;Men;False;CCCAA
+23;Josiah Smee;Hancock College;VC Larry Baratte Invitational;5:25.31;500 Free;Men;False;CCCAA
+24;Alex Kobalyan;Los Angeles Valley;VC Larry Baratte Invitational;5:25.86;500 Free;Men;False;CCCAA
+25;Kyle Aeschliman;Mt. SAC;LPC vs MSAC vs ARC;5:26.73;500 Free;Men;False;CCCAA
+26;Garrett Woody;Santa Rosa;CCSF Rams Invitational;5:26.75;500 Free;Men;False;CCCAA
+27;Petros Lewis;Diablo Valley;Los Rios Invite;5:27.04;500 Free;Men;False;CCCAA
+28;Nick Bush;Los Angeles Pierce;VC Larry Baratte Invitational;5:27.47;500 Free;Men;False;CCCAA
+29;Kaelan Skeehan;Sierra;CCSF Rams Invitational;5:27.93;500 Free;Men;False;CCCAA
+30;Matteo Podesta;Los Angeles Pierce;VC Larry Baratte Invitational;5:28.27;500 Free;Men;False;CCCAA
+31;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;5:28.86;500 Free;Men;False;CCCAA
+32;Justus Howell;DeAnza;CCSF Rams Invitational;5:29.10;500 Free;Men;False;CCCAA
+33;Thomas Chavez;Mt. SAC;Mt. SAC vs. La Verne;5:30.18;500 Free;Men;False;CCCAA
+34;Riley Taizo Amis;SMC;VC Larry Baratte Invitational;5:31.90;500 Free;Men;False;CCCAA
+35;Arian Mutschler;American River;Los Rios Invite;5:32.31;500 Free;Men;False;CCCAA
+36;Jacob Rogers;West Valley;CCSF Rams Invitational;5:34.84;500 Free;Men;False;CCCAA
+36;Noah Caron;Ohlone;CCSF Rams Invitational;5:34.84;500 Free;Men;False;CCCAA
+38;Joaquin Martinez;Merced;College of the Sequoias vs. Clovis, FCC, Merced;5:36.33;500 Free;Men;False;CCCAA
+39;Matthew Williams;Ventura;VC Larry Baratte Invitational;5:37.18;500 Free;Men;False;CCCAA
+40;Josh Sayo;American River;Los Rios Invite;5:38.14;500 Free;Men;False;CCCAA
+41;Tristan Grimett;West Valley;CCSF Rams Invitational;5:38.26;500 Free;Men;False;CCCAA
+42;Nami Ranjbarsadeghi;Diablo Valley;Los Rios Invite;5:39.47;500 Free;Men;False;CCCAA
+43;Maddox Todd;San Joaquin;Los Rios Invite;5:40.93;500 Free;Men;False;CCCAA
+44;Daine Lira;SMC;VC Larry Baratte Invitational;5:40.99;500 Free;Men;False;CCCAA
+45;Brayden Black;Ventura;Mt. SAC NTS Invitational;5:41.27;500 Free;Men;False;CCCAA
+46;Kenya Ho;American River;Los Rios Invite;5:42.63;500 Free;Men;False;CCCAA
+47;Marco Escatel;Sierra;CCSF Rams Invitational;5:43.22;500 Free;Men;False;CCCAA
+48;Csanad Varga;West Valley;CCSF Rams Invitational;5:46.62;500 Free;Men;False;CCCAA
+49;Ethan Bissell;DeAnza;CCSF Rams Invitational;5:48.23;500 Free;Men;False;CCCAA
+50;Reece Rosenquist;American River;LPC vs MSAC vs ARC;5:49.43;500 Free;Men;False;CCCAA
+1;Calvin Honsal;Sierra;CCSF Rams Invitational;19:35.99;11650;Men;True;CCCAA
+2;Sean ;Sierra;CCSF Rams Invitational;20:23.82;11650;Men;True;CCCAA
+3;James Managbanag;Sierra;CCSF Rams Invitational;21:27.38;11650;Men;True;CCCAA
+4;Noah Crescini;DeAnza;CCSF Rams Invitational;21:35.25;11650;Men;True;CCCAA
+5;Logan Hosler;DeAnza;CCSF Rams Invitational;23:14.16;11650;Men;True;CCCAA
+1;Logan Martin;American River;LPC vs MSAC vs ARC;23.26;50 Back;Men;True;CCCAA
+2;Brandon Wang;DeAnza;CCSF Rams Invitational;23.82;50 Back;Men;True;CCCAA
+3;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;24.79;50 Back;Men;True;CCCAA
+4;Lincoln Jones;Mt. SAC;LPC vs MSAC vs ARC;25.10;50 Back;Men;True;CCCAA
+5;Jaiden Monroe;Ventura;VC Larry Baratte Invitational;25.15;50 Back;Men;True;CCCAA
+6;Taesu Yim;DeAnza;CCSF Rams Invitational;25.44;50 Back;Men;True;CCCAA
+7;Michael Lu;Mt. SAC;Mt. SAC vs. Chapman;25.50;50 Back;Men;True;CCCAA
+8;Logan Irvine;Sierra;CCSF Rams Invitational;25.65;50 Back;Men;True;CCCAA
+9;Evan Yi;Pasadena City;2026 NTS BC Invite;25.89;50 Back;Men;True;CCCAA
+10;Jett Hardy;Cuesta;VC Larry Baratte Invitational;25.93;50 Back;Men;True;CCCAA
+11;Zach Pechan;Cuesta;VC Larry Baratte Invitational;25.95;50 Back;Men;True;CCCAA
+12;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;25.99;50 Back;Men;True;CCCAA
+13;Joe Greer;Diablo Valley;PC SC Senior Open P.F;26.14;50 Back;Men;True;CCCAA
+14;David Hernandez;Bakersfield;2026 NTS BC Invite;26.17;50 Back;Men;True;CCCAA
+15;Luc Ferrer;Solano CC;CCSF Rams Invitational;26.35;50 Back;Men;True;CCCAA
+16;Bryson Throm;Santa Rosa;CCSF Rams Invitational;26.46;50 Back;Men;True;CCCAA
+17;Sean Crow;Hancock College;VC Larry Baratte Invitational;26.61;50 Back;Men;False;CCCAA
+18;Phoenix Hebshi-Holt;Santa Rosa;CCSF Rams Invitational;26.63;50 Back;Men;False;CCCAA
+19;Davyd Tsypan;American River;Los Rios Invite;26.77;50 Back;Men;False;CCCAA
+20;Cooper Golling;Mt. SAC;2026 South Coast Conference Pentathlon;26.81;50 Back;Men;False;CCCAA
+21;Janson Cunningham;Cuesta;VC Larry Baratte Invitational;26.85;50 Back;Men;False;CCCAA
+22;Logan Borrelli;Las Positas College;LPC vs MSAC vs ARC;26.87;50 Back;Men;False;CCCAA
+23;Jaiden Ton;DeAnza;CCSF Rams Invitational;26.95;50 Back;Men;False;CCCAA
+24;Quinn Rea;College of the Sequoias;Merced College Sprint Invitational;27.22;50 Back;Men;False;CCCAA
+25;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;27.31;50 Back;Men;False;CCCAA
+26;Lucas Castro;West Valley;CCSF Rams Invitational;27.41;50 Back;Men;False;CCCAA
+27;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;27.68;50 Back;Men;False;CCCAA
+28;Koichiro Ambe;El Camino;2026 South Coast Conference Pentathlon;27.72;50 Back;Men;False;CCCAA
+29;Isaiah Warner;Diablo Valley;Los Rios Invite;27.74;50 Back;Men;False;CCCAA
+30;Miguel Medrano;Ohlone;CCSF Rams Invitational;27.78;50 Back;Men;False;CCCAA
+31;Andrew Garza;Clovis;Merced College Sprint Invitational;27.81;50 Back;Men;False;CCCAA
+32;Spencer Cox;Modesto JC;Merced College Sprint Invitational;27.87;50 Back;Men;False;CCCAA
+33;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;27.95;50 Back;Men;False;CCCAA
+34;Graden Callahan;Sierra;CCSF Rams Invitational;27.97;50 Back;Men;False;CCCAA
+35;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;28.03;50 Back;Men;False;CCCAA
+36;Max Wang;Mt. SAC;Mt. SAC vs. Chapman;28.13;50 Back;Men;False;CCCAA
+37;Dillon Allison;Mt. SAC;LPC vs MSAC vs ARC;28.16;50 Back;Men;False;CCCAA
+38;Powell Stanger;Mt. SAC;Mt. SAC vs. Chapman;28.27;50 Back;Men;False;CCCAA
+39;Leon Mikulski;Mt. SAC;2026 South Coast Conference Pentathlon;28.29;50 Back;Men;False;CCCAA
+40;Yassin Bouali;DeAnza;CCSF Rams Invitational;28.34;50 Back;Men;False;CCCAA
+41;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;28.44;50 Back;Men;False;CCCAA
+42;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;28.49;50 Back;Men;False;CCCAA
+43;Michael Ramirez;Ventura;Mt. SAC NTS Invitational;28.60;50 Back;Men;False;CCCAA
+44;Jacob Miller;Modesto JC;Merced College Sprint Invitational;28.67;50 Back;Men;False;CCCAA
+44;Noah Erskine;Sierra;CCSF Rams Invitational;28.67;50 Back;Men;False;CCCAA
+46;Lance Wogsland;Santa Rosa;CCSF Rams Invitational;28.72;50 Back;Men;False;CCCAA
+47;Nolan Pogson;American River;Los Rios Invite;28.75;50 Back;Men;False;CCCAA
+48;Angadjit Deol;Ohlone;CCSF Rams Invitational;28.84;50 Back;Men;False;CCCAA
+49;Edward Wallace;Hancock College;VC Larry Baratte Invitational;28.86;50 Back;Men;False;CCCAA
+50;Rowan Vecchio;Diablo Valley;Los Rios Invite;28.89;50 Back;Men;False;CCCAA
+1;Brandon Wang;DeAnza;CCSF Rams Invitational;52.13;100 Back;Men;True;CCCAA
+2;Jaiden Monroe;Ventura;VC Larry Baratte Invitational;52.23;100 Back;Men;True;CCCAA
+3;Zach Pechan;Cuesta;VC Larry Baratte Invitational;53.03;100 Back;Men;True;CCCAA
+4;Lincoln Jones;Mt. SAC;LPC vs MSAC vs ARC;53.60;100 Back;Men;True;CCCAA
+5;Logan Irvine;Sierra;CCSF Rams Invitational;53.84;100 Back;Men;True;CCCAA
+6;Davyd Tsypan;American River;Los Rios Invite;53.90;100 Back;Men;True;CCCAA
+7;David Hernandez;Bakersfield;Mt. SAC NTS Invitational;54.18;100 Back;Men;True;CCCAA
+8;Joe Greer;Diablo Valley;PC SC Senior Open P.F;54.30;100 Back;Men;True;CCCAA
+9;Michael Lu;Mt. SAC;Mt. SAC NTS Invitational;55.03;100 Back;Men;True;CCCAA
+10;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;55.93;100 Back;Men;True;CCCAA
+11;Bryson Throm;Santa Rosa;Los Rios Invite;56.65;100 Back;Men;True;CCCAA
+12;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;56.75;100 Back;Men;True;CCCAA
+13;Cooper Golling;Mt. SAC;2026 South Coast Conference Pentathlon;56.80;100 Back;Men;True;CCCAA
+14;Logan Borrelli;Las Positas College;LPC vs MSAC vs ARC;56.98;100 Back;Men;True;CCCAA
+15;Isaiah Warner;Diablo Valley;Los Rios Invite;58.14;100 Back;Men;True;CCCAA
+16;Lake McQuoid;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;58.17;100 Back;Men;True;CCCAA
+17;Yassin Bouali;DeAnza;CCSF Rams Invitational;58.20;100 Back;Men;False;CCCAA
+18;Brayden Alvarez;Hancock College;VC Larry Baratte Invitational;58.39;100 Back;Men;False;CCCAA
+19;Koichiro Ambe;El Camino;2026 South Coast Conference Pentathlon;58.48;100 Back;Men;False;CCCAA
+20;Quinn Rea;College of the Sequoias;FPU vs Westmont vs COS;58.49;100 Back;Men;False;CCCAA
+21;Jett Hardy;Cuesta;VC Larry Baratte Invitational;58.77;100 Back;Men;False;CCCAA
+22;Noah Erskine;Sierra;CCSF Rams Invitational;58.79;100 Back;Men;False;CCCAA
+23;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;58.95;100 Back;Men;False;CCCAA
+24;Jaiden Ton;DeAnza;CCSF Rams Invitational;59.00;100 Back;Men;False;CCCAA
+25;Graden Callahan;Sierra;CCSF Rams Invitational;59.19;100 Back;Men;False;CCCAA
+26;Leon Mikulski;Mt. SAC;2026 South Coast Conference Pentathlon;59.23;100 Back;Men;False;CCCAA
+27;Lucas Castro;West Valley;CCSF Rams Invitational;59.25;100 Back;Men;False;CCCAA
+28;Kai Anolin;Mt. SAC;2026 South Coast Conference Pentathlon;59.42;100 Back;Men;False;CCCAA
+29;Logan Martin;American River;LPC vs MSAC vs ARC;59.43;100 Back;Men;False;CCCAA
+30;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;59.55;100 Back;Men;False;CCCAA
+31;Andrew Garza;Clovis;Merced College Sprint Invitational;59.61;100 Back;Men;False;CCCAA
+32;Rowan Vecchio;Diablo Valley;Los Rios Invite;59.89;100 Back;Men;False;CCCAA
+33;Ethan Lopez;Mt. SAC;2026 South Coast Conference Pentathlon;1:00.27;100 Back;Men;False;CCCAA
+34;Nolan Pogson;American River;Los Rios Invite;1:00.47;100 Back;Men;False;CCCAA
+35;Alex Thornton;El Camino;2026 South Coast Conference Pentathlon;1:00.58;100 Back;Men;False;CCCAA
+36;Sean Crow;Hancock College;VC Larry Baratte Invitational;1:00.82;100 Back;Men;False;CCCAA
+37;Kenya Ho;American River;LPC vs MSAC vs ARC;1:00.94;100 Back;Men;False;CCCAA
+38;Michael Ramirez;Ventura;VC Larry Baratte Invitational;1:01.03;100 Back;Men;False;CCCAA
+39;Samuel Feierbach;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:01.54;100 Back;Men;False;CCCAA
+40;Dillon Allison;Mt. SAC;Mt. SAC NTS Invitational;1:01.57;100 Back;Men;False;CCCAA
+41;Connor Keith;Mt. SAC;2026 South Coast Conference Pentathlon;1:01.65;100 Back;Men;False;CCCAA
+42;Mathias Varga;DeAnza;CCSF Rams Invitational;1:02.11;100 Back;Men;False;CCCAA
+43;Edward Wallace;Hancock College;VC Larry Baratte Invitational;1:02.21;100 Back;Men;False;CCCAA
+44;Aidan Staton;Mt. SAC;2026 South Coast Conference Pentathlon;1:02.30;100 Back;Men;False;CCCAA
+45;Leo Mora;Cerritos;2026 South Coast Conference Pentathlon;1:02.41;100 Back;Men;False;CCCAA
+46;Ronan Suarez;SMC;VC Larry Baratte Invitational;1:02.61;100 Back;Men;False;CCCAA
+47;Christian Sun;Las Positas College;LPC vs MSAC vs ARC;1:02.99;100 Back;Men;False;CCCAA
+48;Seth Venables;Diablo Valley;Los Rios Invite;1:03.04;100 Back;Men;False;CCCAA
+49;Shane Speth;Ventura;Mt. SAC NTS Invitational;1:03.22;100 Back;Men;False;CCCAA
+50;Janson Cunningham;Cuesta;VC Larry Baratte Invitational;1:03.44;100 Back;Men;False;CCCAA
+1;Bryson Throm;Santa Rosa;CCSF Rams Invitational;2:06.59;200 Back;Men;True;CCCAA
+2;Evan Sonoda;Diablo Valley;Los Rios Invite;2:08.81;200 Back;Men;True;CCCAA
+3;Josiah Deleon;American River;Los Rios Invite;2:09.94;200 Back;Men;True;CCCAA
+4;Lucas Castro;West Valley;CCSF Rams Invitational;2:13.10;200 Back;Men;True;CCCAA
+5;Graden Callahan;Sierra;CCSF Rams Invitational;2:13.62;200 Back;Men;True;CCCAA
+6;Davyd Tsypan;American River;Los Rios Invite;2:14.18;200 Back;Men;True;CCCAA
+7;Andrew Garza;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;2:15.51;200 Back;Men;True;CCCAA
+8;Nolan Pogson;American River;Los Rios Invite;2:17.42;200 Back;Men;True;CCCAA
+9;Logan Martin;American River;Los Rios Invite;2:19.37;200 Back;Men;True;CCCAA
+10;Petros Lewis;Diablo Valley;Los Rios Invite;2:22.17;200 Back;Men;True;CCCAA
+11;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;2:23.23;200 Back;Men;True;CCCAA
+12;Reece Rosenquist;American River;Los Rios Invite;2:26.46;200 Back;Men;True;CCCAA
+13;Ian Swallow;Santa Rosa;CCSF Rams Invitational;2:27.66;200 Back;Men;True;CCCAA
+14;Angadjit Deol;Ohlone;CCSF Rams Invitational;2:31.39;200 Back;Men;True;CCCAA
+15;Anthony Tom;Ohlone;CCSF Rams Invitational;2:32.54;200 Back;Men;True;CCCAA
+16;Luc Ferrer;Solano CC;CCSF Rams Invitational;2:32.91;200 Back;Men;True;CCCAA
+17;Charlie Tucker;Sacramento City;Los Rios Invite;2:33.36;200 Back;Men;False;CCCAA
+18;Jorge Rodriguez;Merced;College of the Sequoias vs. Clovis, FCC, Merced;2:36.79;200 Back;Men;False;CCCAA
+19;Everyn Kneeland;Sierra;CCSF Rams Invitational;2:39.45;200 Back;Men;False;CCCAA
+20;Eligh Rice;DeAnza;CCSF Rams Invitational;2:45.14;200 Back;Men;False;CCCAA
+1;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;26.94;50 Breast;Men;True;CCCAA
+2;Brandon Wang;DeAnza;CCSF Rams Invitational;27.54;50 Breast;Men;True;CCCAA
+3;De'Andre Paiz;Pasadena City;2026 NTS BC Invite;27.85;50 Breast;Men;True;CCCAA
+4;Tim Chun;Mt. SAC;Mt. SAC vs. Chapman;27.86;50 Breast;Men;True;CCCAA
+5;Grant Huston;Cuesta;VC Larry Baratte Invitational;27.88;50 Breast;Men;True;CCCAA
+6;Matt Chen;Clovis;Merced College Sprint Invitational;28.03;50 Breast;Men;True;CCCAA
+7;Alex Thornton;El Camino;2026 South Coast Conference Pentathlon;28.23;50 Breast;Men;True;CCCAA
+7;Andrew Manzo;Sierra;CCSF Rams Invitational;28.23;50 Breast;Men;True;CCCAA
+9;Lincoln Jones;Mt. SAC;Mt. SAC vs. Chapman;28.41;50 Breast;Men;True;CCCAA
+10;Baylis Hin;Ohlone;CCSF Rams Invitational;28.67;50 Breast;Men;True;CCCAA
+11;Taylor Greene;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;28.79;50 Breast;Men;True;CCCAA
+12;Quinn Rees;Ohlone;CCSF Rams Invitational;28.84;50 Breast;Men;True;CCCAA
+13;Nicola Saito;Clovis;Merced College Sprint Invitational;28.87;50 Breast;Men;True;CCCAA
+13;Gunner Hopkins;DeAnza;CCSF Rams Invitational;28.87;50 Breast;Men;True;CCCAA
+15;Aidan Staton;Mt. SAC;Mt. SAC vs. Chapman;28.92;50 Breast;Men;True;CCCAA
+16;Cooper Golling;Mt. SAC;Mt. SAC vs. Chapman;28.96;50 Breast;Men;True;CCCAA
+17;Ze Hou Liew;DeAnza;CCSF Rams Invitational;28.98;50 Breast;Men;False;CCCAA
+17;Connor Keith;Mt. SAC;2026 South Coast Conference Pentathlon;28.98;50 Breast;Men;False;CCCAA
+19;Luka Pavicevic;Mt. SAC;LPC vs MSAC vs ARC;29.18;50 Breast;Men;False;CCCAA
+20;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;29.22;50 Breast;Men;False;CCCAA
+21;Phoenix Hebshi-Holt;Santa Rosa;CCSF Rams Invitational;29.34;50 Breast;Men;False;CCCAA
+22;Justin Hsieh;American River;Los Rios Invite;29.66;50 Breast;Men;False;CCCAA
+22;Joshua Noonan;American River;Los Rios Invite;29.66;50 Breast;Men;False;CCCAA
+24;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;29.72;50 Breast;Men;False;CCCAA
+25;Josh Sayo;American River;Los Rios Invite;29.81;50 Breast;Men;False;CCCAA
+26;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;29.88;50 Breast;Men;False;CCCAA
+27;Xuanhao Guo;Canyons;Mt. SAC NTS Invitational;29.94;50 Breast;Men;False;CCCAA
+28;Mario Rodriguez- Carreon;Mt. SAC;Mt. SAC NTS Invitational;30.11;50 Breast;Men;False;CCCAA
+29;Kai Holt;Santa Rosa;CCSF Rams Invitational;30.22;50 Breast;Men;False;CCCAA
+30;Akim Kirilyuk;Sierra;CCSF Rams Invitational;30.27;50 Breast;Men;False;CCCAA
+31;Andrew Donlin;American River;Los Rios Invite;30.44;50 Breast;Men;False;CCCAA
+32;Jonah Mafnas;Cosumnes River College;Merced College Sprint Invitational;30.45;50 Breast;Men;False;CCCAA
+33;Koichiro Ambe;El Camino;2026 South Coast Conference Pentathlon;30.48;50 Breast;Men;False;CCCAA
+34;Max Wang;Mt. SAC;Mt. SAC vs. La Verne;30.49;50 Breast;Men;False;CCCAA
+35;Daniel Lewis;Diablo Valley;Los Rios Invite;30.53;50 Breast;Men;False;CCCAA
+36;Fidel Ramirez III;Hartnell College;Merced College Sprint Invitational;30.56;50 Breast;Men;False;CCCAA
+36;Tanner Kelm;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;30.56;50 Breast;Men;False;CCCAA
+38;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;30.68;50 Breast;Men;False;CCCAA
+39;Nazaret Argueta;SMC;VC Larry Baratte Invitational;30.80;50 Breast;Men;False;CCCAA
+40;CJ Simmons;Cuesta;VC Larry Baratte Invitational;30.82;50 Breast;Men;False;CCCAA
+41;Anthony Bogatyrev;DeAnza;CCSF Rams Invitational;30.96;50 Breast;Men;False;CCCAA
+42;Leon Mikulski;Mt. SAC;2026 South Coast Conference Pentathlon;31.10;50 Breast;Men;False;CCCAA
+43;Ronald Abbott;Shasta College;Los Rios Invite;31.16;50 Breast;Men;False;CCCAA
+44;Goldwin Wangsiri;Pasadena City;2026 NTS BC Invite;31.33;50 Breast;Men;False;CCCAA
+45;Justin Edgar;Sierra;CCSF Rams Invitational;31.42;50 Breast;Men;False;CCCAA
+46;Emmett Wong;Diablo Valley;PC SC Senior Open P.F;31.57;50 Breast;Men;False;CCCAA
+47;Thomas Chavez;Mt. SAC;2026 South Coast Conference Pentathlon;31.64;50 Breast;Men;False;CCCAA
+48;Powell Stanger;Mt. SAC;2026 South Coast Conference Pentathlon;31.68;50 Breast;Men;False;CCCAA
+49;Nykyta Lytvynenko;Sierra;CCSF Rams Invitational;31.77;50 Breast;Men;False;CCCAA
+50;Ethan Lopez;Mt. SAC;Mt. SAC vs. La Verne;31.80;50 Breast;Men;False;CCCAA
+1;Grant Huston;Cuesta;VC Larry Baratte Invitational;58.57;100 Breast;Men;True;CCCAA
+2;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;58.66;100 Breast;Men;True;CCCAA
+3;Brandon Wang;DeAnza;CCSF Rams Invitational;59.08;100 Breast;Men;True;CCCAA
+4;Alex Thornton;El Camino;2026 South Coast Conference Pentathlon;59.43;100 Breast;Men;True;CCCAA
+5;Gunner Hopkins;DeAnza;CCSF Rams Invitational;1:00.06;100 Breast;Men;True;CCCAA
+6;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;1:00.34;100 Breast;Men;True;CCCAA
+7;Andrew Manzo;Sierra;CCSF Rams Invitational;1:01.00;100 Breast;Men;True;CCCAA
+8;Cooper Golling;Mt. SAC;Mt. SAC vs. Chapman;1:01.69;100 Breast;Men;True;CCCAA
+9;Connor Keith;Mt. SAC;LPC vs MSAC vs ARC;1:01.82;100 Breast;Men;True;CCCAA
+10;Josh Sayo;American River;LPC vs MSAC vs ARC;1:02.35;100 Breast;Men;True;CCCAA
+11;Luka Pavicevic;Mt. SAC;LPC vs MSAC vs ARC;1:02.56;100 Breast;Men;True;CCCAA
+12;Justin Hsieh;American River;Los Rios Invite;1:02.68;100 Breast;Men;True;CCCAA
+13;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;1:02.86;100 Breast;Men;True;CCCAA
+14;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;1:02.88;100 Breast;Men;True;CCCAA
+15;Nicola Saito;Clovis;Merced College Sprint Invitational;1:02.96;100 Breast;Men;True;CCCAA
+15;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;1:02.96;100 Breast;Men;True;CCCAA
+17;Andrew Donlin;American River;Los Rios Invite;1:03.04;100 Breast;Men;False;CCCAA
+18;Joshua Noonan;American River;Los Rios Invite;1:03.17;100 Breast;Men;False;CCCAA
+19;Phoenix Hebshi-Holt;Santa Rosa;Los Rios Invite;1:03.56;100 Breast;Men;False;CCCAA
+20;Aidan Staton;Mt. SAC;2026 South Coast Conference Pentathlon;1:03.97;100 Breast;Men;False;CCCAA
+21;Akim Kirilyuk;Sierra;CCSF Rams Invitational;1:04.02;100 Breast;Men;False;CCCAA
+22;Ze Hou Liew;DeAnza;CCSF Rams Invitational;1:04.90;100 Breast;Men;False;CCCAA
+23;Ronald Abbott;Shasta College;Los Rios Invite;1:05.61;100 Breast;Men;False;CCCAA
+24;Leon Mikulski;Mt. SAC;2026 South Coast Conference Pentathlon;1:05.72;100 Breast;Men;False;CCCAA
+25;Jerred De Torres;Hancock College;VC Larry Baratte Invitational;1:05.81;100 Breast;Men;False;CCCAA
+26;Fidel Ramirez III;Hartnell College;Merced College Sprint Invitational;1:05.82;100 Breast;Men;False;CCCAA
+27;Daniel Lewis;Diablo Valley;Los Rios Invite;1:05.92;100 Breast;Men;False;CCCAA
+28;Koichiro Ambe;El Camino;2026 South Coast Conference Pentathlon;1:05.93;100 Breast;Men;False;CCCAA
+29;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;1:05.96;100 Breast;Men;False;CCCAA
+30;Xuanhao Guo;Canyons;Mt. SAC NTS Invitational;1:06.03;100 Breast;Men;False;CCCAA
+31;Tanner Kelm;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:06.38;100 Breast;Men;False;CCCAA
+32;Nazaret Argueta;SMC;VC Larry Baratte Invitational;1:06.52;100 Breast;Men;False;CCCAA
+33;Nykyta Lytvynenko;Sierra;CCSF Rams Invitational;1:06.58;100 Breast;Men;False;CCCAA
+34;CJ Simmons;Cuesta;VC Larry Baratte Invitational;1:06.60;100 Breast;Men;False;CCCAA
+35;Apollo Bocalan;Diablo Valley;Los Rios Invite;1:06.91;100 Breast;Men;False;CCCAA
+36;Rowan Taggatz;American River;LPC vs MSAC vs ARC;1:06.97;100 Breast;Men;False;CCCAA
+37;Mario Rodriguez- Carreon;Mt. SAC;2026 South Coast Conference Pentathlon;1:07.10;100 Breast;Men;False;CCCAA
+38;Powell Stanger;Mt. SAC;2026 South Coast Conference Pentathlon;1:07.32;100 Breast;Men;False;CCCAA
+39;Caden Kendall;El Camino;2026 South Coast Conference Pentathlon;1:07.33;100 Breast;Men;False;CCCAA
+39;Thomas Chavez;Mt. SAC;2026 South Coast Conference Pentathlon;1:07.33;100 Breast;Men;False;CCCAA
+41;Justin Edgar;Sierra;CCSF Rams Invitational;1:07.50;100 Breast;Men;False;CCCAA
+42;Martin Cuevas;Hancock College;VC Larry Baratte Invitational;1:07.70;100 Breast;Men;False;CCCAA
+43;Kai Anolin;Mt. SAC;2026 South Coast Conference Pentathlon;1:07.84;100 Breast;Men;False;CCCAA
+44;Emmett Wong;Diablo Valley;Los Rios Invite;1:07.86;100 Breast;Men;False;CCCAA
+45;Ethan Gebhardt;Long Beach City;2026 South Coast Conference Pentathlon;1:07.88;100 Breast;Men;False;CCCAA
+46;Alex Bugarin;El Camino;2026 South Coast Conference Pentathlon;1:08.15;100 Breast;Men;False;CCCAA
+47;Ethan Decker;Mt. SAC;2026 South Coast Conference Pentathlon;1:08.28;100 Breast;Men;False;CCCAA
+48;Chandler Bruton;College of the Sequoias;Mt. SAC NTS Invitational;1:08.32;100 Breast;Men;False;CCCAA
+49;Calvin Honsal;Sierra;CCSF Rams Invitational;1:08.58;100 Breast;Men;False;CCCAA
+50;Anthony Bogatyrev;DeAnza;CCSF Rams Invitational;1:08.64;100 Breast;Men;False;CCCAA
+1;Gunner Hopkins;DeAnza;CCSF Rams Invitational;2:09.17;200 Breast;Men;True;CCCAA
+2;Brandon Wang;DeAnza;CCSF Rams Invitational;2:11.50;200 Breast;Men;True;CCCAA
+3;Joshua Noonan;American River;Los Rios Invite;2:19.92;200 Breast;Men;True;CCCAA
+4;Chandler Bruton;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:21.82;200 Breast;Men;True;CCCAA
+5;Andrew Manzo;Sierra;CCSF Rams Invitational;2:24.79;200 Breast;Men;True;CCCAA
+6;Baylis Hin;Ohlone;CCSF Rams Invitational;2:26.61;200 Breast;Men;True;CCCAA
+7;Braxton Belerique;Merced;College of the Sequoias vs. Clovis, FCC, Merced;2:27.66;200 Breast;Men;True;CCCAA
+8;Taylor Greene;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:27.74;200 Breast;Men;True;CCCAA
+9;Rowan Taggatz;American River;Los Rios Invite;2:28.19;200 Breast;Men;True;CCCAA
+10;Anthony Bogatyrev;DeAnza;CCSF Rams Invitational;2:29.31;200 Breast;Men;True;CCCAA
+11;Justin Edgar;Sierra;CCSF Rams Invitational;2:31.12;200 Breast;Men;True;CCCAA
+12;Nykyta Lytvynenko;Sierra;CCSF Rams Invitational;2:31.22;200 Breast;Men;True;CCCAA
+13;Apollo Bocalan;Diablo Valley;Los Rios Invite;2:32.45;200 Breast;Men;True;CCCAA
+14;Shaan Vaishnav;Ohlone;CCSF Rams Invitational;2:33.47;200 Breast;Men;True;CCCAA
+15;Kevin Pham;DeAnza;CCSF Rams Invitational;2:33.60;200 Breast;Men;True;CCCAA
+16;Yuji Tan;Diablo Valley;Los Rios Invite;2:34.03;200 Breast;Men;True;CCCAA
+17;Calvin Honsal;Sierra;CCSF Rams Invitational;2:36.32;200 Breast;Men;False;CCCAA
+18;James Managbanag;Sierra;CCSF Rams Invitational;2:51.40;200 Breast;Men;False;CCCAA
+19;Noah Fridlund;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:51.54;200 Breast;Men;False;CCCAA
+20;Alexander Madriz;Sacramento City;Los Rios Invite;2:54.36;200 Breast;Men;False;CCCAA
+21;Colten Bilbrey;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;2:54.85;200 Breast;Men;False;CCCAA
+22;Fionnian Beckham;West Valley;CCSF Rams Invitational;2:55.95;200 Breast;Men;False;CCCAA
+23;Lucas Gentil;West Valley;CCSF Rams Invitational;2:57.43;200 Breast;Men;False;CCCAA
+24;Nicholas Boniface;West Valley;CCSF Rams Invitational;2:58.27;200 Breast;Men;False;CCCAA
+25;Moises Jimenez;San Joaquin;Los Rios Invite;3:00.42;200 Breast;Men;False;CCCAA
+26;Cole Taylor;West Valley;CCSF Rams Invitational;3:02.02;200 Breast;Men;False;CCCAA
+27;Andej Laptev;Sierra;CCSF Rams Invitational;3:02.27;200 Breast;Men;False;CCCAA
+28;Matthew Padula;San Joaquin;Los Rios Invite;3:11.51;200 Breast;Men;False;CCCAA
+29;Jonathan Nguyen;DeAnza;CCSF Rams Invitational;3:12.28;200 Breast;Men;False;CCCAA
+1;Michael Dibello;Mt. SAC;Mt. SAC vs. La Verne;23.65;50 Fly;Men;True;CCCAA
+2;Jaiden Monroe;Ventura;VC Larry Baratte Invitational;24.17;50 Fly;Men;True;CCCAA
+3;Matt Chen;Clovis;Merced College Sprint Invitational;24.20;50 Fly;Men;True;CCCAA
+4;Quinn Rees;Ohlone;CCSF Rams Invitational;24.22;50 Fly;Men;True;CCCAA
+5;Trent Regier;College of the Sequoias;FPU vs Westmont vs COS;24.27;50 Fly;Men;True;CCCAA
+6;Tim Chun;Mt. SAC;Mt. SAC vs. La Verne;24.28;50 Fly;Men;True;CCCAA
+7;Jacob Zimmerman;Bakersfield;2026 NTS BC Invite;24.35;50 Fly;Men;True;CCCAA
+8;Logan Irvine;Sierra;CCSF Rams Invitational;24.36;50 Fly;Men;True;CCCAA
+9;Ethan Lopez;Mt. SAC;Mt. SAC vs. La Verne;24.39;50 Fly;Men;True;CCCAA
+10;Kai Anolin;Mt. SAC;Mt. SAC vs. Chapman;24.67;50 Fly;Men;True;CCCAA
+10;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;24.67;50 Fly;Men;True;CCCAA
+12;Nicola Saito;Clovis;Merced College Sprint Invitational;24.83;50 Fly;Men;True;CCCAA
+13;Yassin Bouali;DeAnza;CCSF Rams Invitational;24.87;50 Fly;Men;True;CCCAA
+13;Ray Fitch;Diablo Valley;Los Rios Invite;24.87;50 Fly;Men;True;CCCAA
+15;Jordan Choi;Pasadena City;2026 NTS BC Invite;24.88;50 Fly;Men;True;CCCAA
+16;Justus Howell;DeAnza;CCSF Rams Invitational;25.01;50 Fly;Men;True;CCCAA
+17;Max Wang;Mt. SAC;Mt. SAC vs. Chapman;25.02;50 Fly;Men;False;CCCAA
+17;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;25.02;50 Fly;Men;False;CCCAA
+19;Brendan Meyer;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;25.09;50 Fly;Men;False;CCCAA
+20;Madden Magee;Sierra;CCSF Rams Invitational;25.15;50 Fly;Men;False;CCCAA
+21;Akim Kirilyuk;Sierra;CCSF Rams Invitational;25.18;50 Fly;Men;False;CCCAA
+22;Gio Wheeler;El Camino;2026 South Coast Conference Pentathlon;25.23;50 Fly;Men;False;CCCAA
+23;Aidan Staton;Mt. SAC;2026 South Coast Conference Pentathlon;25.25;50 Fly;Men;False;CCCAA
+24;Davyd Tsypan;American River;Los Rios Invite;25.36;50 Fly;Men;False;CCCAA
+25;Cooper Golling;Mt. SAC;Mt. SAC NTS Invitational;25.41;50 Fly;Men;False;CCCAA
+26;Ian Johnson;DeAnza;CCSF Rams Invitational;25.59;50 Fly;Men;False;CCCAA
+27;Ron Bonhagen;DeAnza;CCSF Rams Invitational;25.65;50 Fly;Men;False;CCCAA
+27;Noah Caron;Ohlone;CCSF Rams Invitational;25.65;50 Fly;Men;False;CCCAA
+29;Lincoln Jones;Mt. SAC;Mt. SAC vs. Chapman;25.71;50 Fly;Men;False;CCCAA
+30;Alex Thornton;El Camino;2026 South Coast Conference Pentathlon;25.77;50 Fly;Men;False;CCCAA
+31;Brayden Alvarez;Hancock College;2026 NTS BC Invite;25.81;50 Fly;Men;False;CCCAA
+32;Miguel Medrano;Ohlone;CCSF Rams Invitational;25.86;50 Fly;Men;False;CCCAA
+33;Lake McQuoid;Clovis;Merced College Sprint Invitational;25.91;50 Fly;Men;False;CCCAA
+34;Jacob Domingo;Sierra;CCSF Rams Invitational;25.99;50 Fly;Men;False;CCCAA
+35;Tanner Kelm;College of the Sequoias;FPU vs Westmont vs COS;26.03;50 Fly;Men;False;CCCAA
+35;Dustin Drobeck;Cuesta;VC Larry Baratte Invitational;26.03;50 Fly;Men;False;CCCAA
+37;Jaden Yu;Mt. SAC;Mt. SAC vs. Chapman;26.14;50 Fly;Men;False;CCCAA
+38;Arian Mutschler;American River;Los Rios Invite;26.19;50 Fly;Men;False;CCCAA
+39;Ryder Upshaw;Mt. SAC;Mt. SAC vs. La Verne;26.20;50 Fly;Men;False;CCCAA
+40;Koichiro Ambe;El Camino;2026 South Coast Conference Pentathlon;26.22;50 Fly;Men;False;CCCAA
+41;Jacob Miller;Modesto JC;Merced College Sprint Invitational;26.33;50 Fly;Men;False;CCCAA
+42;Thomas Chavez;Mt. SAC;Mt. SAC vs. Chapman;26.36;50 Fly;Men;False;CCCAA
+43;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;26.37;50 Fly;Men;False;CCCAA
+44;Cooper Cox;Modesto JC;Merced College Sprint Invitational;26.38;50 Fly;Men;False;CCCAA
+45;Ethan Decker;Mt. SAC;Mt. SAC vs. Chapman;26.48;50 Fly;Men;False;CCCAA
+46;Leon Mikulski;Mt. SAC;2026 South Coast Conference Pentathlon;26.49;50 Fly;Men;False;CCCAA
+46;Bryson Throm;Santa Rosa;Los Rios Invite;26.49;50 Fly;Men;False;CCCAA
+48;Ethan Darmon;Mt. SAC;Mt. SAC vs. La Verne;26.52;50 Fly;Men;False;CCCAA
+49;James Pitcock;Cosumnes River College;Merced College Sprint Invitational;26.53;50 Fly;Men;False;CCCAA
+50;Niko Tzorbatzakis;Diablo Valley;Los Rios Invite;26.58;50 Fly;Men;False;CCCAA
+1;Jaiden Monroe;Ventura;VC Larry Baratte Invitational;51.55;100 Fly;Men;True;CCCAA
+2;Logan Irvine;Sierra;CCSF Rams Invitational;52.27;100 Fly;Men;True;CCCAA
+3;Matt Chen;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;52.44;100 Fly;Men;True;CCCAA
+4;Davyd Tsypan;American River;Los Rios Invite;52.68;100 Fly;Men;True;CCCAA
+5;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;52.78;100 Fly;Men;True;CCCAA
+6;Evan Yi;Pasadena City;Mt. SAC NTS Invitational;53.32;100 Fly;Men;True;CCCAA
+7;Jacob Zimmerman;Bakersfield;VC Larry Baratte Invitational;53.60;100 Fly;Men;True;CCCAA
+8;Gio Wheeler;El Camino;2026 South Coast Conference Pentathlon;53.63;100 Fly;Men;True;CCCAA
+9;Akim Kirilyuk;Sierra;CCSF Rams Invitational;53.76;100 Fly;Men;True;CCCAA
+10;Madden Magee;Sierra;CCSF Rams Invitational;53.77;100 Fly;Men;True;CCCAA
+11;Aidan Staton;Mt. SAC;2026 South Coast Conference Pentathlon;53.85;100 Fly;Men;True;CCCAA
+12;Trent Regier;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;54.06;100 Fly;Men;True;CCCAA
+13;Ethan Lopez;Mt. SAC;Mt. SAC vs. Chapman;54.07;100 Fly;Men;True;CCCAA
+14;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;54.24;100 Fly;Men;True;CCCAA
+15;Ray Fitch;Diablo Valley;Los Rios Invite;54.25;100 Fly;Men;True;CCCAA
+16;Cooper Golling;Mt. SAC;Mt. SAC NTS Invitational;54.57;100 Fly;Men;True;CCCAA
+17;Dustin Drobeck;Cuesta;VC Larry Baratte Invitational;55.43;100 Fly;Men;False;CCCAA
+18;Jordan Choi;Pasadena City;2026 NTS BC Invite;55.51;100 Fly;Men;False;CCCAA
+19;Alex Thornton;El Camino;2026 South Coast Conference Pentathlon;55.60;100 Fly;Men;False;CCCAA
+20;Leon Mikulski;Mt. SAC;2026 South Coast Conference Pentathlon;55.76;100 Fly;Men;False;CCCAA
+21;Lincoln Jones;Mt. SAC;Mt. SAC vs. Chapman;56.15;100 Fly;Men;False;CCCAA
+22;Jacob Domingo;Sierra;CCSF Rams Invitational;56.20;100 Fly;Men;False;CCCAA
+23;Michael Lu;Mt. SAC;Mt. SAC vs. La Verne;56.24;100 Fly;Men;False;CCCAA
+24;Jhan Loninia;Los Angeles Pierce;VC Larry Baratte Invitational;56.39;100 Fly;Men;False;CCCAA
+25;Chase Martsolf;Los Angeles Valley;VC Larry Baratte Invitational;56.48;100 Fly;Men;False;CCCAA
+26;Arian Mutschler;American River;Los Rios Invite;56.54;100 Fly;Men;False;CCCAA
+27;Thomas Chavez;Mt. SAC;2026 South Coast Conference Pentathlon;56.58;100 Fly;Men;False;CCCAA
+28;Bryson Throm;Santa Rosa;Los Rios Invite;56.69;100 Fly;Men;False;CCCAA
+29;Kai Anolin;Mt. SAC;2026 South Coast Conference Pentathlon;56.95;100 Fly;Men;False;CCCAA
+30;Brendan Meyer;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;56.99;100 Fly;Men;False;CCCAA
+31;Andrew Donlin;American River;LPC vs MSAC vs ARC;57.01;100 Fly;Men;False;CCCAA
+32;De'Andre Paiz;Pasadena City;2026 South Coast Conference Pentathlon;57.61;100 Fly;Men;False;CCCAA
+33;Brayden Alvarez;Hancock College;VC Larry Baratte Invitational;57.64;100 Fly;Men;False;CCCAA
+34;Ethan Decker;Mt. SAC;LPC vs MSAC vs ARC;57.68;100 Fly;Men;False;CCCAA
+35;Koichiro Ambe;El Camino;2026 South Coast Conference Pentathlon;57.90;100 Fly;Men;False;CCCAA
+36;Marco Uribe;Cerritos;2026 South Coast Conference Pentathlon;57.94;100 Fly;Men;False;CCCAA
+37;Noah Caron;Ohlone;CCSF Rams Invitational;58.06;100 Fly;Men;False;CCCAA
+38;Jaden Yu;Mt. SAC;LPC vs MSAC vs ARC;58.34;100 Fly;Men;False;CCCAA
+39;Lance Wogsland;Santa Rosa;Los Rios Invite;58.36;100 Fly;Men;False;CCCAA
+40;Derick Nguy;Las Positas College;LPC vs MSAC vs ARC;58.38;100 Fly;Men;False;CCCAA
+41;Powell Stanger;Mt. SAC;2026 South Coast Conference Pentathlon;58.52;100 Fly;Men;False;CCCAA
+42;Kai Holt;Santa Rosa;Los Rios Invite;58.58;100 Fly;Men;False;CCCAA
+43;Mathias Varga;DeAnza;CCSF Rams Invitational;58.71;100 Fly;Men;False;CCCAA
+44;Elijah Webb;Long Beach City;2026 South Coast Conference Pentathlon;58.85;100 Fly;Men;False;CCCAA
+45;James Pitcock;Cosumnes River College;Los Rios Invite;58.96;100 Fly;Men;False;CCCAA
+46;Mario Rodriguez- Carreon;Mt. SAC;2026 South Coast Conference Pentathlon;59.15;100 Fly;Men;False;CCCAA
+47;Ian Johnson;DeAnza;CCSF Rams Invitational;59.45;100 Fly;Men;False;CCCAA
+48;Ryan Tu;American River;Los Rios Invite;59.49;100 Fly;Men;False;CCCAA
+49;Jacob Miller;Modesto JC;Merced College Sprint Invitational;59.50;100 Fly;Men;False;CCCAA
+50;Ron Bonhagen;DeAnza;CCSF Rams Invitational;59.59;100 Fly;Men;False;CCCAA
+1;Logan Irvine;Sierra;CCSF Rams Invitational;2:05.02;200 Fly;Men;True;CCCAA
+2;Jacob Domingo;Sierra;CCSF Rams Invitational;2:08.13;200 Fly;Men;True;CCCAA
+3;Trent Regier;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:11.38;200 Fly;Men;True;CCCAA
+4;Arian Mutschler;American River;Los Rios Invite;2:11.80;200 Fly;Men;True;CCCAA
+5;Ryan Tu;American River;Los Rios Invite;2:16.25;200 Fly;Men;True;CCCAA
+6;Mathias Varga;DeAnza;CCSF Rams Invitational;2:18.13;200 Fly;Men;True;CCCAA
+7;Petros Lewis;Diablo Valley;Los Rios Invite;2:19.21;200 Fly;Men;True;CCCAA
+8;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;2:24.50;200 Fly;Men;True;CCCAA
+9;Anthony Bogatyrev;DeAnza;CCSF Rams Invitational;2:32.24;200 Fly;Men;True;CCCAA
+10;Tobias Beutel;San Joaquin;Los Rios Invite;2:32.52;200 Fly;Men;True;CCCAA
+11;Maddox Todd;San Joaquin;Los Rios Invite;2:33.18;200 Fly;Men;True;CCCAA
+12;Simon Akers;San Joaquin;Los Rios Invite;2:46.27;200 Fly;Men;True;CCCAA
+13;Jorge Rodriguez;Merced;College of the Sequoias vs. Clovis, FCC, Merced;2:52.43;200 Fly;Men;True;CCCAA
+14;Fernando Velasquez;Merced;College of the Sequoias vs. Clovis, FCC, Merced;2:55.35;200 Fly;Men;True;CCCAA
+1;Lincoln Jones;Mt. SAC;LPC vs MSAC vs ARC;53.30;100 IM;Men;True;CCCAA
+2;Matt Chen;Clovis;Merced College Sprint Invitational;54.57;100 IM;Men;True;CCCAA
+3;Gunner Hopkins;DeAnza;CCSF Rams Invitational;54.90;100 IM;Men;True;CCCAA
+4;Justin Hsieh;American River;LPC vs MSAC vs ARC;54.97;100 IM;Men;True;CCCAA
+5;Mathew Cheang;DeAnza;CCSF Rams Invitational;55.46;100 IM;Men;True;CCCAA
+6;Nicola Saito;Clovis;Merced College Sprint Invitational;55.55;100 IM;Men;True;CCCAA
+7;Justus Howell;DeAnza;CCSF Rams Invitational;55.67;100 IM;Men;True;CCCAA
+8;Madden Magee;Sierra;CCSF Rams Invitational;55.70;100 IM;Men;True;CCCAA
+9;Alex Thornton;El Camino;2026 South Coast Conference Pentathlon;55.72;100 IM;Men;True;CCCAA
+10;Jaiden Monroe;Ventura;VC Larry Baratte Invitational;55.79;100 IM;Men;True;CCCAA
+11;Aidan Staton;Mt. SAC;2026 South Coast Conference Pentathlon;55.92;100 IM;Men;True;CCCAA
+12;Rohan Lee;SMC;VC Larry Baratte Invitational;56.04;100 IM;Men;True;CCCAA
+13;Luke Marsden;Mt. SAC;Mt. SAC vs. Chapman;56.06;100 IM;Men;True;CCCAA
+14;Michael Lu;Mt. SAC;Mt. SAC vs. Chapman;56.30;100 IM;Men;True;CCCAA
+15;Cooper Golling;Mt. SAC;Mt. SAC vs. Chapman;56.45;100 IM;Men;True;CCCAA
+16;Quinn Rees;Ohlone;CCSF Rams Invitational;56.54;100 IM;Men;True;CCCAA
+17;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;57.15;100 IM;Men;False;CCCAA
+18;De'Andre Paiz;Pasadena City;Mt. SAC NTS Invitational;57.25;100 IM;Men;False;CCCAA
+19;Max Wang;Mt. SAC;Mt. SAC vs. Chapman;57.45;100 IM;Men;False;CCCAA
+20;Ethan Lopez;Mt. SAC;LPC vs MSAC vs ARC;57.78;100 IM;Men;False;CCCAA
+21;Chase Martsolf;Los Angeles Valley;VC Larry Baratte Invitational;57.85;100 IM;Men;False;CCCAA
+22;Gio Wheeler;El Camino;2026 South Coast Conference Pentathlon;57.93;100 IM;Men;False;CCCAA
+23;Jhan Loninia;Los Angeles Pierce;VC Larry Baratte Invitational;58.17;100 IM;Men;False;CCCAA
+24;Brady Lind;Cuesta;VC Larry Baratte Invitational;58.46;100 IM;Men;False;CCCAA
+25;Jordan Choi;Pasadena City;Mt. SAC NTS Invitational;58.60;100 IM;Men;False;CCCAA
+26;Derick Nguy;Las Positas College;LPC vs MSAC vs ARC;58.64;100 IM;Men;False;CCCAA
+27;Noah Erskine;Sierra;CCSF Rams Invitational;58.71;100 IM;Men;False;CCCAA
+28;Andrew Donlin;American River;LPC vs MSAC vs ARC;59.36;100 IM;Men;False;CCCAA
+29;Koichiro Ambe;El Camino;2026 South Coast Conference Pentathlon;59.37;100 IM;Men;False;CCCAA
+30;Ethan Darmon;Mt. SAC;Mt. SAC NTS Invitational;59.49;100 IM;Men;False;CCCAA
+31;Miguel Medrano;Ohlone;CCSF Rams Invitational;59.51;100 IM;Men;False;CCCAA
+32;Trent Regier;College of the Sequoias;Mt. SAC NTS Invitational;59.53;100 IM;Men;False;CCCAA
+33;Quinn Rea;College of the Sequoias;Merced College Sprint Invitational;59.55;100 IM;Men;False;CCCAA
+34;David Hernandez;Bakersfield;VC Larry Baratte Invitational;59.63;100 IM;Men;False;CCCAA
+35;Graden Callahan;Sierra;CCSF Rams Invitational;59.70;100 IM;Men;False;CCCAA
+36;Ethan Decker;Mt. SAC;Mt. SAC vs. Chapman;59.71;100 IM;Men;False;CCCAA
+36;Kaelan Skeehan;Sierra;CCSF Rams Invitational;59.71;100 IM;Men;False;CCCAA
+38;Shane Speth;Ventura;Mt. SAC NTS Invitational;59.77;100 IM;Men;False;CCCAA
+39;Xuanhao Guo;Canyons;Mt. SAC NTS Invitational;59.94;100 IM;Men;False;CCCAA
+40;Braxton Belerique;Merced;Merced College Sprint Invitational;59.98;100 IM;Men;False;CCCAA
+41;Thomas Chavez;Mt. SAC;LPC vs MSAC vs ARC;1:00.09;100 IM;Men;False;CCCAA
+42;Connor Keith;Mt. SAC;Mt. SAC vs. Chapman;1:00.12;100 IM;Men;False;CCCAA
+43;Jacob Domingo;Sierra;CCSF Rams Invitational;1:00.18;100 IM;Men;False;CCCAA
+44;Kai Anolin;Mt. SAC;Mt. SAC NTS Invitational;1:00.29;100 IM;Men;False;CCCAA
+45;Liam Alexander;Las Positas College;LPC vs MSAC vs ARC;1:00.48;100 IM;Men;False;CCCAA
+46;Powell Stanger;Mt. SAC;Mt. SAC NTS Invitational;1:01.00;100 IM;Men;False;CCCAA
+47;Taylor Greene;College of the Sequoias;Mt. SAC NTS Invitational;1:01.01;100 IM;Men;False;CCCAA
+48;Sean Crow;Hancock College;VC Larry Baratte Invitational;1:01.06;100 IM;Men;False;CCCAA
+49;Mario Rodriguez- Carreon;Mt. SAC;LPC vs MSAC vs ARC;1:01.15;100 IM;Men;False;CCCAA
+50;Ryder Upshaw;Mt. SAC;LPC vs MSAC vs ARC;1:01.34;100 IM;Men;False;CCCAA
+1;Gunner Hopkins;DeAnza;CCSF Rams Invitational;1:57.55;200 IM;Men;True;CCCAA
+2;Cooper Golling;Mt. SAC;LPC vs MSAC vs ARC;1:58.25;200 IM;Men;True;CCCAA
+3;Brandon Wang;DeAnza;CCSF Rams Invitational;1:58.68;200 IM;Men;True;CCCAA
+4;Nicola Saito;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;1:59.69;200 IM;Men;True;CCCAA
+5;Zixi Xu;Chaffey;2026 South Coast Conference Pentathlon;2:00.45;200 IM;Men;True;CCCAA
+6;Lincoln Jones;Mt. SAC;Mt. SAC NTS Invitational;2:01.47;200 IM;Men;True;CCCAA
+7;Leon Mikulski;Mt. SAC;2026 South Coast Conference Pentathlon;2:02.52;200 IM;Men;True;CCCAA
+8;Phoenix Hebshi-Holt;Santa Rosa;CCSF Rams Invitational;2:04.16;200 IM;Men;True;CCCAA
+9;Jhan Loninia;Los Angeles Pierce;VC Larry Baratte Invitational;2:04.69;200 IM;Men;True;CCCAA
+10;Logan Borrelli;Las Positas College;LPC vs MSAC vs ARC;2:04.99;200 IM;Men;True;CCCAA
+11;Riley Taizo Amis;SMC;VC Larry Baratte Invitational;2:06.19;200 IM;Men;True;CCCAA
+12;Ethan Lopez;Mt. SAC;2026 South Coast Conference Pentathlon;2:06.40;200 IM;Men;True;CCCAA
+13;Max Wang;Mt. SAC;Mt. SAC NTS Invitational;2:06.63;200 IM;Men;True;CCCAA
+14;Bryson Throm;Santa Rosa;CCSF Rams Invitational;2:07.64;200 IM;Men;True;CCCAA
+15;Kai Anolin;Mt. SAC;2026 South Coast Conference Pentathlon;2:07.70;200 IM;Men;True;CCCAA
+16;Ronald Abbott;Shasta College;Los Rios Invite;2:07.93;200 IM;Men;True;CCCAA
+17;Connor Keith;Mt. SAC;2026 South Coast Conference Pentathlon;2:08.18;200 IM;Men;False;CCCAA
+18;Daniel Lewis;Diablo Valley;Los Rios Invite;2:08.32;200 IM;Men;False;CCCAA
+19;David Hernandez;Bakersfield;2026 NTS BC Invite;2:08.41;200 IM;Men;False;CCCAA
+20;Quinn Rea;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:08.50;200 IM;Men;False;CCCAA
+21;Josiah Deleon;American River;Los Rios Invite;2:08.52;200 IM;Men;False;CCCAA
+22;De'Andre Paiz;Pasadena City;2026 South Coast Conference Pentathlon;2:08.95;200 IM;Men;False;CCCAA
+23;Brayden Alvarez;Hancock College;VC Larry Baratte Invitational;2:09.78;200 IM;Men;False;CCCAA
+24;Thomas Chavez;Mt. SAC;2026 South Coast Conference Pentathlon;2:10.05;200 IM;Men;False;CCCAA
+25;Ethan Decker;Mt. SAC;2026 South Coast Conference Pentathlon;2:10.52;200 IM;Men;False;CCCAA
+26;Luka Pavicevic;Mt. SAC;LPC vs MSAC vs ARC;2:10.62;200 IM;Men;False;CCCAA
+27;Kaelan Skeehan;Sierra;CCSF Rams Invitational;2:13.05;200 IM;Men;False;CCCAA
+28;Mckeane Beier;American River;Los Rios Invite;2:13.26;200 IM;Men;False;CCCAA
+29;Ze Hou Liew;DeAnza;CCSF Rams Invitational;2:13.33;200 IM;Men;False;CCCAA
+30;Jerred De Torres;Hancock College;2026 NTS BC Invite;2:13.49;200 IM;Men;False;CCCAA
+31;Graden Callahan;Sierra;CCSF Rams Invitational;2:13.65;200 IM;Men;False;CCCAA
+32;Powell Stanger;Mt. SAC;2026 South Coast Conference Pentathlon;2:13.75;200 IM;Men;False;CCCAA
+33;Mario Rodriguez- Carreon;Mt. SAC;2026 South Coast Conference Pentathlon;2:14.05;200 IM;Men;False;CCCAA
+34;Oliver Cockcroft;American River;Los Rios Invite;2:14.93;200 IM;Men;False;CCCAA
+35;Peter Klosterman;Hancock College;VC Larry Baratte Invitational;2:15.04;200 IM;Men;False;CCCAA
+36;Mathias Varga;DeAnza;CCSF Rams Invitational;2:15.17;200 IM;Men;False;CCCAA
+37;Luke Paley;Cuesta;VC Larry Baratte Invitational;2:15.18;200 IM;Men;False;CCCAA
+38;Jordan Choi;Pasadena City;2026 South Coast Conference Pentathlon;2:15.28;200 IM;Men;False;CCCAA
+39;Edward Wallace;Hancock College;VC Larry Baratte Invitational;2:15.45;200 IM;Men;False;CCCAA
+40;Joshua Noonan;American River;LPC vs MSAC vs ARC;2:15.56;200 IM;Men;False;CCCAA
+41;Enrique Jimenez;Santa Rosa;Los Rios Invite;2:16.97;200 IM;Men;False;CCCAA
+42;Tanner Kelm;College of the Sequoias;2026 NTS BC Invite;2:17.10;200 IM;Men;False;CCCAA
+43;Justin Edgar;Sierra;CCSF Rams Invitational;2:17.83;200 IM;Men;False;CCCAA
+44;Brian Aeschliman;Mt. SAC;2026 South Coast Conference Pentathlon;2:17.89;200 IM;Men;False;CCCAA
+45;Martin Cuevas;Hancock College;VC Larry Baratte Invitational;2:18.59;200 IM;Men;False;CCCAA
+46;August Kalaba;Los Angeles Valley;VC Larry Baratte Invitational;2:18.82;200 IM;Men;False;CCCAA
+47;Anthony Bogatyrev;DeAnza;CCSF Rams Invitational;2:19.25;200 IM;Men;False;CCCAA
+48;Kenya Ho;American River;Los Rios Invite;2:19.79;200 IM;Men;False;CCCAA
+49;Christian Zeledon;Mt. SAC;2026 South Coast Conference Pentathlon;2:19.99;200 IM;Men;False;CCCAA
+50;Noah Haushalter;Cuesta;VC Larry Baratte Invitational;2:21.01;200 IM;Men;False;CCCAA
+1;Leah Rummelhoff;Santa Barbara City College;VC Larry Baratte Invitational;25.11;50 Free;Women;True;CCCAA
+2;Trinity Link;Santa Barbara City College;VC Larry Baratte Invitational;25.19;50 Free;Women;True;CCCAA
+3;Ellie Lambert;College of the Sequoias;Merced College Sprint Invitational;25.44;50 Free;Women;True;CCCAA
+4;Genevieve Niko;Mt. SAC;Mt. SAC vs. Chapman;25.63;50 Free;Women;True;CCCAA
+5;Evalinne Vecchio;Diablo Valley;Los Rios Invite;25.73;50 Free;Women;True;CCCAA
+6;Petrina Olson;DeAnza;CCSF Rams Invitational;25.90;50 Free;Women;True;CCCAA
+7;Camilla Guillermo;Los Angeles Valley;VC Larry Baratte Invitational;26.01;50 Free;Women;True;CCCAA
+8;Ani Thomassian;Los Angeles Valley;VC Larry Baratte Invitational;26.16;50 Free;Women;True;CCCAA
+9;Morgan Rummelhoff;Santa Barbara City College;VC Larry Baratte Invitational;26.19;50 Free;Women;True;CCCAA
+10;Emma Van Laar;West Valley;CCSF Rams Invitational;26.49;50 Free;Women;True;CCCAA
+11;Kenzie Hyder;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;26.53;50 Free;Women;True;CCCAA
+12;Amber Inderkum;American River;Los Rios Invite;26.54;50 Free;Women;True;CCCAA
+13;Carolyn Kao;Long Beach City;2026 South Coast Conference Pentathlon;26.56;50 Free;Women;True;CCCAA
+14;Samira Semaan;Long Beach City;2026 South Coast Conference Pentathlon;26.59;50 Free;Women;True;CCCAA
+14;Annika Pauschek;Cuesta;VC Larry Baratte Invitational;26.59;50 Free;Women;True;CCCAA
+16;Evangeline Brown;Cuesta;VC Larry Baratte Invitational;26.64;50 Free;Women;True;CCCAA
+17;Sophie Nelson;College of the Sequoias;FPU vs Westmont vs COS;26.76;50 Free;Women;False;CCCAA
+18;Emily Robertson;Mt. SAC;LPC vs MSAC vs ARC;26.77;50 Free;Women;False;CCCAA
+19;Eden Buell;Mt. SAC;Mt. SAC vs. Chapman;26.78;50 Free;Women;False;CCCAA
+20;Victoria Guzman;San Joaquin;Los Rios Invite;26.82;50 Free;Women;False;CCCAA
+21;Sasha Samoylovich;American River;LPC vs MSAC vs ARC;26.89;50 Free;Women;False;CCCAA
+22;Spencer Damaske;Mt. SAC;Mt. SAC vs. La Verne;26.90;50 Free;Women;False;CCCAA
+23;Erika Correa;DeAnza;CCSF Rams Invitational;26.92;50 Free;Women;False;CCCAA
+24;Lauren Pelayo;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;26.96;50 Free;Women;False;CCCAA
+25;Izzy Montgomery;SMC;VC Larry Baratte Invitational;27.03;50 Free;Women;False;CCCAA
+26;Eliza Marquez;Merced;College of the Sequoias vs. Clovis, FCC, Merced;27.04;50 Free;Women;False;CCCAA
+27;Kaili Jiang;Cosumnes River College;Los Rios Invite;27.06;50 Free;Women;False;CCCAA
+28;Isabelle Acosta;Canyons;2026 NTS BC Invite;27.11;50 Free;Women;False;CCCAA
+28;Emma Roberts;Mt. SAC;Mt. SAC NTS Invitational;27.11;50 Free;Women;False;CCCAA
+28;Aja Fuller;Sierra;CCSF Rams Invitational;27.11;50 Free;Women;False;CCCAA
+31;Crystallyn Tran;San Joaquin;Los Rios Invite;27.12;50 Free;Women;False;CCCAA
+31;Raegan Chavez;Sierra;CCSF Rams Invitational;27.12;50 Free;Women;False;CCCAA
+33;Brisa Chajan;Los Angeles Valley;Mt. SAC NTS Invitational;27.17;50 Free;Women;False;CCCAA
+34;Kylie Richardson;San Joaquin;Merced College Sprint Invitational;27.21;50 Free;Women;False;CCCAA
+35;Veronika Lapteva;Sierra;CCSF Rams Invitational;27.23;50 Free;Women;False;CCCAA
+36;Clara Walker;American River;Los Rios Invite;27.32;50 Free;Women;False;CCCAA
+37;Avery Monson;Ventura;VC Larry Baratte Invitational;27.38;50 Free;Women;False;CCCAA
+38;DJ Mancuso;Santa Rosa;Los Rios Invite;27.39;50 Free;Women;False;CCCAA
+38;Francesca Pinillos;El Camino;2026 South Coast Conference Pentathlon;27.39;50 Free;Women;False;CCCAA
+40;Haru Barajas;College of the Sequoias;2026 NTS BC Invite;27.41;50 Free;Women;False;CCCAA
+41;Jessica Luna;Mt. SAC;LPC vs MSAC vs ARC;27.44;50 Free;Women;False;CCCAA
+42;Jasmine Eskander;El Camino;2026 South Coast Conference Pentathlon;27.45;50 Free;Women;False;CCCAA
+43;May Guidoux;Santa Barbara City College;VC Larry Baratte Invitational;27.47;50 Free;Women;False;CCCAA
+44;Valerie Fragoza;Mt. SAC;Mt. SAC vs. La Verne;27.50;50 Free;Women;False;CCCAA
+45;Devon Fletcher;Long Beach City;2026 South Coast Conference Pentathlon;27.54;50 Free;Women;False;CCCAA
+46;Anastasia Rho;SMC;VC Larry Baratte Invitational;27.61;50 Free;Women;False;CCCAA
+47;Kailey Ardouin;Cuesta;VC Larry Baratte Invitational;27.65;50 Free;Women;False;CCCAA
+48;Mo Schmierer;San Joaquin;Los Rios Invite;27.74;50 Free;Women;False;CCCAA
+49;Sarah Tanabe;City College of San Francisco;CCSF Rams Invitational;27.77;50 Free;Women;False;CCCAA
+50;Allison Taylor;Fresno City;Merced College Sprint Invitational;27.78;50 Free;Women;False;CCCAA
+1;Samira Semaan;Long Beach City;2026 South Coast Conference Pentathlon;54.60;100 Free;Women;True;CCCAA
+2;Carolyn Kao;Long Beach City;2026 South Coast Conference Pentathlon;55.32;100 Free;Women;True;CCCAA
+3;Raegan Chavez;Sierra;CCSF Rams Invitational;55.50;100 Free;Women;True;CCCAA
+4;Genevieve Niko;Mt. SAC;Mt. SAC vs. Chapman;55.52;100 Free;Women;True;CCCAA
+5;Evalinne Vecchio;Diablo Valley;Los Rios Invite;55.87;100 Free;Women;True;CCCAA
+6;Petrina Olson;DeAnza;CCSF Rams Invitational;56.17;100 Free;Women;True;CCCAA
+7;Leah Rummelhoff;Santa Barbara City College;VC Larry Baratte Invitational;56.28;100 Free;Women;True;CCCAA
+8;Devon Fletcher;Long Beach City;2026 South Coast Conference Pentathlon;56.50;100 Free;Women;True;CCCAA
+9;Camilla Guillermo;Los Angeles Valley;VC Larry Baratte Invitational;56.60;100 Free;Women;True;CCCAA
+10;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;56.65;100 Free;Women;True;CCCAA
+11;Morgan Rummelhoff;Santa Barbara City College;VC Larry Baratte Invitational;56.69;100 Free;Women;True;CCCAA
+12;May Guidoux;Santa Barbara City College;VC Larry Baratte Invitational;56.72;100 Free;Women;True;CCCAA
+13;Avery White;Long Beach City;2026 South Coast Conference Pentathlon;57.54;100 Free;Women;True;CCCAA
+14;Eden Buell;Mt. SAC;Mt. SAC NTS Invitational;57.55;100 Free;Women;True;CCCAA
+15;Emma Van Laar;West Valley;CCSF Rams Invitational;57.58;100 Free;Women;True;CCCAA
+16;Jane Lubiens;Sierra;CCSF Rams Invitational;57.68;100 Free;Women;True;CCCAA
+17;Ani Thomassian;Los Angeles Valley;Mt. SAC NTS Invitational;57.85;100 Free;Women;False;CCCAA
+18;Addison Klosevitz;Santa Rosa;CCSF Rams Invitational;58.03;100 Free;Women;False;CCCAA
+18;Olivia Mozian;El Camino;2026 South Coast Conference Pentathlon;58.03;100 Free;Women;False;CCCAA
+20;Simone Mack;Long Beach City;2026 South Coast Conference Pentathlon;58.13;100 Free;Women;False;CCCAA
+21;Victoria Guzman;San Joaquin;Los Rios Invite;58.17;100 Free;Women;False;CCCAA
+22;Anna Ohdake;DeAnza;CCSF Rams Invitational;58.33;100 Free;Women;False;CCCAA
+23;Katie Strohl;Santa Barbara City College;VC Larry Baratte Invitational;58.37;100 Free;Women;False;CCCAA
+24;Autumn Moya;Mt. SAC;Mt. SAC NTS Invitational;58.61;100 Free;Women;False;CCCAA
+25;Makena Sauser;Long Beach City;2026 South Coast Conference Pentathlon;58.64;100 Free;Women;False;CCCAA
+26;Savannah Gates;College of the Sequoias;Mt. SAC NTS Invitational;58.74;100 Free;Women;False;CCCAA
+27;Christine Lunde;Long Beach City;2026 South Coast Conference Pentathlon;58.79;100 Free;Women;False;CCCAA
+28;Giselle Gabauer;Long Beach City;2026 South Coast Conference Pentathlon;58.93;100 Free;Women;False;CCCAA
+29;Megan Venegas;Mt. SAC;2026 South Coast Conference Pentathlon;58.94;100 Free;Women;False;CCCAA
+30;Amy Fritz;Long Beach City;2026 South Coast Conference Pentathlon;59.12;100 Free;Women;False;CCCAA
+31;Brisa Chajan;Los Angeles Valley;VC Larry Baratte Invitational;59.15;100 Free;Women;False;CCCAA
+32;Aja Fuller;Sierra;CCSF Rams Invitational;59.28;100 Free;Women;False;CCCAA
+32;Bridget Ball;Long Beach City;2026 South Coast Conference Pentathlon;59.28;100 Free;Women;False;CCCAA
+34;Emma Roberts;Mt. SAC;Mt. SAC NTS Invitational;59.44;100 Free;Women;False;CCCAA
+35;Jasmine Eskander;El Camino;2026 South Coast Conference Pentathlon;59.78;100 Free;Women;False;CCCAA
+36;Samantha Fehr;Las Positas College;LPC vs MSAC vs ARC;59.81;100 Free;Women;False;CCCAA
+37;Isabelle Acosta;Canyons;2026 NTS BC Invite;59.88;100 Free;Women;False;CCCAA
+38;Kenzie Hyder;College of the Sequoias;FPU vs Westmont vs COS;59.98;100 Free;Women;False;CCCAA
+39;Laine Woodard;San Joaquin;Merced College Sprint Invitational;59.99;100 Free;Women;False;CCCAA
+39;Jessica Luna;Mt. SAC;LPC vs MSAC vs ARC;59.99;100 Free;Women;False;CCCAA
+41;Amber Inderkum;American River;Los Rios Invite;1:00.05;100 Free;Women;False;CCCAA
+42;Emily Robertson;Mt. SAC;LPC vs MSAC vs ARC;1:00.08;100 Free;Women;False;CCCAA
+42;Pam Hernandez;Santa Barbara City College;VC Larry Baratte Invitational;1:00.08;100 Free;Women;False;CCCAA
+44;Kahu Arama;Sierra;CCSF Rams Invitational;1:00.10;100 Free;Women;False;CCCAA
+45;Kailey Ardouin;Cuesta;VC Larry Baratte Invitational;1:00.11;100 Free;Women;False;CCCAA
+46;Allison Taylor;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;1:00.16;100 Free;Women;False;CCCAA
+46;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;1:00.16;100 Free;Women;False;CCCAA
+48;Haru Barajas;College of the Sequoias;Mt. SAC NTS Invitational;1:00.33;100 Free;Women;False;CCCAA
+49;Nevaeh Minglana;Santa Barbara City College;VC Larry Baratte Invitational;1:00.65;100 Free;Women;False;CCCAA
+50;Veronika Lapteva;Sierra;CCSF Rams Invitational;1:00.66;100 Free;Women;False;CCCAA
+1;Filuka Houborg;Las Positas College;LPC vs MSAC vs ARC;2:00.92;200 Free;Women;True;CCCAA
+2;Lindsay Schmidt;DeAnza;CCSF Rams Invitational;2:03.32;200 Free;Women;True;CCCAA
+3;Autumn Moya;Mt. SAC;Mt. SAC vs. La Verne;2:03.67;200 Free;Women;True;CCCAA
+4;Jane Lubiens;Sierra;CCSF Rams Invitational;2:03.79;200 Free;Women;True;CCCAA
+5;Abby Chatalyan;Los Angeles Valley;VC Larry Baratte Invitational;2:05.14;200 Free;Women;True;CCCAA
+6;Katie Strohl;Santa Barbara City College;VC Larry Baratte Invitational;2:05.63;200 Free;Women;True;CCCAA
+7;Emma Van Laar;West Valley;CCSF Rams Invitational;2:05.68;200 Free;Women;True;CCCAA
+8;Emma Roberts;Mt. SAC;Mt. SAC vs. La Verne;2:07.06;200 Free;Women;True;CCCAA
+9;Kenzie Hyder;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:07.43;200 Free;Women;True;CCCAA
+10;Camilla Guillermo;Los Angeles Valley;Mt. SAC NTS Invitational;2:08.04;200 Free;Women;True;CCCAA
+11;Petrina Olson;DeAnza;CCSF Rams Invitational;2:08.37;200 Free;Women;True;CCCAA
+12;Anna Ohdake;DeAnza;CCSF Rams Invitational;2:08.45;200 Free;Women;True;CCCAA
+13;Anabel Gardea Maldonado;American River;Los Rios Invite;2:10.07;200 Free;Women;True;CCCAA
+14;Emma Upton;Sierra;CCSF Rams Invitational;2:10.37;200 Free;Women;True;CCCAA
+15;Megan Venegas;Mt. SAC;LPC vs MSAC vs ARC;2:10.38;200 Free;Women;True;CCCAA
+16;Frida Avalos Paz;Diablo Valley;Los Rios Invite;2:10.93;200 Free;Women;True;CCCAA
+17;Leah Rummelhoff;Santa Barbara City College;VC Larry Baratte Invitational;2:11.22;200 Free;Women;False;CCCAA
+18;Pam Hernandez;Santa Barbara City College;VC Larry Baratte Invitational;2:11.35;200 Free;Women;False;CCCAA
+19;Samantha NG;City College of San Francisco;CCSF Rams Invitational;2:11.58;200 Free;Women;False;CCCAA
+20;Kaeli Stowell;Sierra;CCSF Rams Invitational;2:11.75;200 Free;Women;False;CCCAA
+21;Makenna Perez;Sierra;CCSF Rams Invitational;2:12.17;200 Free;Women;False;CCCAA
+22;Amber Inderkum;American River;LPC vs MSAC vs ARC;2:12.34;200 Free;Women;False;CCCAA
+23;Kolby Kaufert;Sierra;CCSF Rams Invitational;2:12.58;200 Free;Women;False;CCCAA
+24;Kahu Arama;Sierra;CCSF Rams Invitational;2:13.21;200 Free;Women;False;CCCAA
+25;Tristen Bettencourt;Cuesta;VC Larry Baratte Invitational;2:13.30;200 Free;Women;False;CCCAA
+26;Isabelle Acosta;Canyons;2026 NTS BC Invite;2:13.44;200 Free;Women;False;CCCAA
+27;Natalee Mares;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:16.13;200 Free;Women;False;CCCAA
+28;Ianna Calderon;Hancock College;2026 NTS BC Invite;2:16.15;200 Free;Women;False;CCCAA
+29;Lydia Vlahos;American River;Los Rios Invite;2:16.87;200 Free;Women;False;CCCAA
+30;Max Kerr;Santa Barbara City College;VC Larry Baratte Invitational;2:17.27;200 Free;Women;False;CCCAA
+31;Hannah Moon;Hancock College;2026 NTS BC Invite;2:17.86;200 Free;Women;False;CCCAA
+32;Maria Hyrc;City College of San Francisco;CCSF Rams Invitational;2:17.98;200 Free;Women;False;CCCAA
+33;Macie Banner;American River;LPC vs MSAC vs ARC;2:18.39;200 Free;Women;False;CCCAA
+34;Allie Nihart;Sierra;CCSF Rams Invitational;2:18.96;200 Free;Women;False;CCCAA
+35;Allison Anderson;Cuesta;VC Larry Baratte Invitational;2:19.39;200 Free;Women;False;CCCAA
+36;Myranda Rodriguez;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:19.47;200 Free;Women;False;CCCAA
+37;Delaney Reynolds;Santa Rosa;Los Rios Invite;2:20.33;200 Free;Women;False;CCCAA
+38;Ami Cruz;Ventura;VC Larry Baratte Invitational;2:20.49;200 Free;Women;False;CCCAA
+39;Sarah Tanabe;City College of San Francisco;CCSF Rams Invitational;2:20.62;200 Free;Women;False;CCCAA
+40;Baran Ebrahimi;Los Angeles Pierce;VC Larry Baratte Invitational;2:20.87;200 Free;Women;False;CCCAA
+41;Isabella Garcia;SMC;VC Larry Baratte Invitational;2:20.98;200 Free;Women;False;CCCAA
+42;Hannah Rasmussen;Las Positas College;LPC vs MSAC vs ARC;2:21.05;200 Free;Women;False;CCCAA
+43;Audrey Vickers;Bakersfield;VC Larry Baratte Invitational;2:21.40;200 Free;Women;False;CCCAA
+44;Sara Ashby;American River;Los Rios Invite;2:21.65;200 Free;Women;False;CCCAA
+45;Paige Randall;American River;Los Rios Invite;2:22.23;200 Free;Women;False;CCCAA
+46;Megan Dudley;Bakersfield;VC Larry Baratte Invitational;2:23.63;200 Free;Women;False;CCCAA
+47;Ella Edds;Hancock College;VC Larry Baratte Invitational;2:24.09;200 Free;Women;False;CCCAA
+48;Claire Contreras;American River;Los Rios Invite;2:24.14;200 Free;Women;False;CCCAA
+49;Jayden Helm;Las Positas College;LPC vs MSAC vs ARC;2:24.88;200 Free;Women;False;CCCAA
+50;Sadrine Gamboa;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:24.91;200 Free;Women;False;CCCAA
+1;Filuka Houborg;Las Positas College;LPC vs MSAC vs ARC;5:25.17;500 Free;Women;True;CCCAA
+2;Autumn Moya;Mt. SAC;Mt. SAC NTS Invitational;5:28.31;500 Free;Women;True;CCCAA
+3;Jane Lubiens;Sierra;CCSF Rams Invitational;5:33.92;500 Free;Women;True;CCCAA
+4;Stella Kalaba;Los Angeles Valley;VC Larry Baratte Invitational;5:36.78;500 Free;Women;True;CCCAA
+5;Addison Klosevitz;Santa Rosa;Los Rios Invite;5:39.51;500 Free;Women;True;CCCAA
+6;Tiana Timmons;Palomar;Mt. SAC NTS Invitational;5:44.84;500 Free;Women;True;CCCAA
+7;Kenzie Hyder;College of the Sequoias;2026 NTS BC Invite;5:45.20;500 Free;Women;True;CCCAA
+8;Kaeli Stowell;Sierra;CCSF Rams Invitational;5:48.22;500 Free;Women;True;CCCAA
+9;Annika Pauschek;Cuesta;VC Larry Baratte Invitational;5:49.05;500 Free;Women;True;CCCAA
+10;Megan Venegas;Mt. SAC;LPC vs MSAC vs ARC;5:51.86;500 Free;Women;True;CCCAA
+11;Kolby Kaufert;Sierra;CCSF Rams Invitational;5:56.00;500 Free;Women;True;CCCAA
+12;Tristen Bettencourt;Cuesta;VC Larry Baratte Invitational;5:56.04;500 Free;Women;True;CCCAA
+13;Emma Wilhite;Solano CC;CCSF Rams Invitational;5:59.67;500 Free;Women;True;CCCAA
+14;Makenna Perez;Sierra;CCSF Rams Invitational;6:01.85;500 Free;Women;True;CCCAA
+15;Lilli Dorsett;Bakersfield;VC Larry Baratte Invitational;6:03.68;500 Free;Women;True;CCCAA
+16;Laine Woodard;San Joaquin;Los Rios Invite;6:03.77;500 Free;Women;True;CCCAA
+17;Brisa Chajan;Los Angeles Valley;Mt. SAC NTS Invitational;6:04.95;500 Free;Women;False;CCCAA
+18;Delaney Reynolds;Santa Rosa;CCSF Rams Invitational;6:05.29;500 Free;Women;False;CCCAA
+19;Samantha Scheid;San Joaquin;Los Rios Invite;6:06.17;500 Free;Women;False;CCCAA
+20;Morgan Rummelhoff;Santa Barbara City College;VC Larry Baratte Invitational;6:06.22;500 Free;Women;False;CCCAA
+21;Natalee Mares;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;6:10.21;500 Free;Women;False;CCCAA
+22;Lydia Vlahos;American River;Los Rios Invite;6:10.57;500 Free;Women;False;CCCAA
+23;Isabella Garcia;SMC;VC Larry Baratte Invitational;6:10.91;500 Free;Women;False;CCCAA
+24;Hannah Moon;Hancock College;2026 NTS BC Invite;6:12.69;500 Free;Women;False;CCCAA
+25;Brianna Smyth;Diablo Valley;Los Rios Invite;6:12.93;500 Free;Women;False;CCCAA
+26;Natascha Deadman;Santa Rosa;Los Rios Invite;6:13.37;500 Free;Women;False;CCCAA
+27;Sara Ashby;American River;Los Rios Invite;6:13.52;500 Free;Women;False;CCCAA
+28;Audrey Vickers;Bakersfield;VC Larry Baratte Invitational;6:13.74;500 Free;Women;False;CCCAA
+29;Allie Nihart;Sierra;CCSF Rams Invitational;6:15.15;500 Free;Women;False;CCCAA
+30;Isabella Howell;Sierra;CCSF Rams Invitational;6:15.69;500 Free;Women;False;CCCAA
+31;Abby Nova;Clovis;College of the Sequoias vs. Clovis, FCC, Merced;6:18.94;500 Free;Women;False;CCCAA
+32;Jessica Kraemer;Santa Rosa;Los Rios Invite;6:20.45;500 Free;Women;False;CCCAA
+33;Claire Contreras;American River;Los Rios Invite;6:20.66;500 Free;Women;False;CCCAA
+34;Myranda Rodriguez;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;6:21.47;500 Free;Women;False;CCCAA
+35;Maria Hyrc;City College of San Francisco;CCSF Rams Invitational;6:21.49;500 Free;Women;False;CCCAA
+36;Emma Frazer;Cuesta;VC Larry Baratte Invitational;6:22.17;500 Free;Women;False;CCCAA
+37;Ami Cruz;Ventura;VC Larry Baratte Invitational;6:24.46;500 Free;Women;False;CCCAA
+38;Max Kerr;Santa Barbara City College;VC Larry Baratte Invitational;6:25.25;500 Free;Women;False;CCCAA
+39;Stephanie Thomason;San Joaquin;Los Rios Invite;6:25.48;500 Free;Women;False;CCCAA
+40;Pavla Kobzar;Sacramento City;Los Rios Invite;6:34.94;500 Free;Women;False;CCCAA
+41;Brooklyn Archuleta;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;6:35.33;500 Free;Women;False;CCCAA
+42;Brina Brati;Los Angeles Valley;Mt. SAC NTS Invitational;6:36.03;500 Free;Women;False;CCCAA
+43;Hermione Felix;Mt. SAC;Mt. SAC NTS Invitational;6:36.97;500 Free;Women;False;CCCAA
+44;Baran Ebrahimi;Los Angeles Pierce;VC Larry Baratte Invitational;6:40.24;500 Free;Women;False;CCCAA
+45;Makenna Hensley;Sierra;CCSF Rams Invitational;6:40.83;500 Free;Women;False;CCCAA
+46;Alyssa Torres;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;6:43.47;500 Free;Women;False;CCCAA
+47;Zoe Newton;Merced;College of the Sequoias vs. Clovis, FCC, Merced;6:43.64;500 Free;Women;False;CCCAA
+48;Madelyn Freer;Cuesta;VC Larry Baratte Invitational;6:45.37;500 Free;Women;False;CCCAA
+49;Hayley Lopez;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;6:47.59;500 Free;Women;False;CCCAA
+50;Katie Bizzack;Merced;College of the Sequoias vs. Clovis, FCC, Merced;6:48.54;500 Free;Women;False;CCCAA
+1;Jane Lubiens;Sierra;CCSF Rams Invitational;19:19.00;11650;Women;True;CCCAA
+2;Kaeli Stowell;Sierra;CCSF Rams Invitational;20:12.81;11650;Women;True;CCCAA
+3;Maria Hyrc;City College of San Francisco;CCSF Rams Invitational;22:36.64;11650;Women;True;CCCAA
+4;Alexandra Yakovleva;West Valley;CCSF Rams Invitational;24:19.43;11650;Women;True;CCCAA
+1;Evalinne Vecchio;Diablo Valley;Los Rios Invite;29.19;50 Back;Women;True;CCCAA
+2;Camilla Guillermo;Los Angeles Valley;VC Larry Baratte Invitational;29.68;50 Back;Women;True;CCCAA
+3;Haru Barajas;College of the Sequoias;Merced College Sprint Invitational;30.01;50 Back;Women;True;CCCAA
+4;Avery White;Long Beach City;2026 South Coast Conference Pentathlon;30.21;50 Back;Women;True;CCCAA
+5;Eden Buell;Mt. SAC;Mt. SAC vs. Chapman;30.22;50 Back;Women;True;CCCAA
+6;Anna Ohdake;DeAnza;CCSF Rams Invitational;30.39;50 Back;Women;True;CCCAA
+7;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;30.62;50 Back;Women;True;CCCAA
+7;Annika Pauschek;Cuesta;VC Larry Baratte Invitational;30.62;50 Back;Women;True;CCCAA
+7;Raegan Chavez;Sierra;CCSF Rams Invitational;30.62;50 Back;Women;True;CCCAA
+10;Christine Lunde;Long Beach City;2026 South Coast Conference Pentathlon;30.63;50 Back;Women;True;CCCAA
+11;Sarah Villa;Chaffey;2026 South Coast Conference Pentathlon;30.64;50 Back;Women;True;CCCAA
+12;Myrthe Kramer;Hartnell College;Merced College Sprint Invitational;30.67;50 Back;Women;True;CCCAA
+13;Victoria Guzman;San Joaquin;Merced College Sprint Invitational;30.84;50 Back;Women;True;CCCAA
+14;Allison Taylor;Fresno City;Merced College Sprint Invitational;31.13;50 Back;Women;True;CCCAA
+15;Izzy Montgomery;SMC;VC Larry Baratte Invitational;31.18;50 Back;Women;True;CCCAA
+16;Aja Fuller;Sierra;CCSF Rams Invitational;31.51;50 Back;Women;True;CCCAA
+17;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;31.52;50 Back;Women;False;CCCAA
+18;Lyla Elaydi;DeAnza;CCSF Rams Invitational;31.59;50 Back;Women;False;CCCAA
+19;Devon Fletcher;Long Beach City;2026 South Coast Conference Pentathlon;31.61;50 Back;Women;False;CCCAA
+20;Emily Robertson;Mt. SAC;2026 South Coast Conference Pentathlon;31.74;50 Back;Women;False;CCCAA
+21;Makena Quinones;Santa Barbara City College;VC Larry Baratte Invitational;31.78;50 Back;Women;False;CCCAA
+22;Olivia Mozian;El Camino;2026 South Coast Conference Pentathlon;31.81;50 Back;Women;False;CCCAA
+23;Grace Appler;West Valley;CCSF Rams Invitational;31.83;50 Back;Women;False;CCCAA
+24;Jacquie Clouser;American River;Los Rios Invite;31.85;50 Back;Women;False;CCCAA
+25;Samira Semaan;Long Beach City;2026 South Coast Conference Pentathlon;32.02;50 Back;Women;False;CCCAA
+26;Autumn Moya;Mt. SAC;Mt. SAC vs. La Verne;32.19;50 Back;Women;False;CCCAA
+27;Clara Walker;American River;Los Rios Invite;32.24;50 Back;Women;False;CCCAA
+28;Amy Fritz;Long Beach City;2026 South Coast Conference Pentathlon;32.27;50 Back;Women;False;CCCAA
+29;Rebecca Tunquist;San Joaquin;Merced College Sprint Invitational;32.36;50 Back;Women;False;CCCAA
+30;Mo Schmierer;San Joaquin;Northern CA Community College Relays;32.41;50 Back;Women;False;CCCAA
+31;Makena Sauser;Long Beach City;2026 South Coast Conference Pentathlon;32.58;50 Back;Women;False;CCCAA
+32;Bridget Ball;Long Beach City;2026 South Coast Conference Pentathlon;32.59;50 Back;Women;False;CCCAA
+33;Kaili Jiang;Cosumnes River College;Los Rios Invite;32.78;50 Back;Women;False;CCCAA
+34;Tiana Timmons;Palomar;Mt. SAC NTS Invitational;32.81;50 Back;Women;False;CCCAA
+34;Inessa Khajehgian;Los Angeles Valley;Mt. SAC NTS Invitational;32.81;50 Back;Women;False;CCCAA
+36;Brisa Serrano Diaz;City College of San Francisco;CCSF Rams Invitational;32.83;50 Back;Women;False;CCCAA
+37;Sierra Hodson;College of the Sequoias;2026 NTS BC Invite;32.84;50 Back;Women;False;CCCAA
+38;Ella Hanson;American River;Los Rios Invite;32.97;50 Back;Women;False;CCCAA
+39;Savannah Gates;College of the Sequoias;Mt. SAC NTS Invitational;33.03;50 Back;Women;False;CCCAA
+39;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;33.03;50 Back;Women;False;CCCAA
+41;Mya Thomas;American River;Los Rios Invite;33.04;50 Back;Women;False;CCCAA
+42;Samantha NG;City College of San Francisco;CCSF Rams Invitational;33.05;50 Back;Women;False;CCCAA
+43;Carolyn Kao;Long Beach City;2026 South Coast Conference Pentathlon;33.09;50 Back;Women;False;CCCAA
+44;Ashley May;Las Positas College;LPC vs MSAC vs ARC;33.24;50 Back;Women;False;CCCAA
+45;Natalee Mares;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;33.46;50 Back;Women;False;CCCAA
+46;Sienna Barelli;Santa Barbara City College;VC Larry Baratte Invitational;33.60;50 Back;Women;False;CCCAA
+47;regan braga;Diablo Valley;Los Rios Invite;33.67;50 Back;Women;False;CCCAA
+48;Makenna Hensley;Sierra;CCSF Rams Invitational;33.71;50 Back;Women;False;CCCAA
+49;Evangeline Brown;Cuesta;VC Larry Baratte Invitational;33.76;50 Back;Women;False;CCCAA
+50;Alexis Velazquez;Long Beach City;2026 South Coast Conference Pentathlon;33.79;50 Back;Women;False;CCCAA
+1;Evalinne Vecchio;Diablo Valley;Los Rios Invite;1:00.08;100 Back;Women;True;CCCAA
+2;Raegan Chavez;Sierra;CCSF Rams Invitational;1:03.01;100 Back;Women;True;CCCAA
+3;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;1:03.15;100 Back;Women;True;CCCAA
+4;Camilla Guillermo;Los Angeles Valley;VC Larry Baratte Invitational;1:04.45;100 Back;Women;True;CCCAA
+5;Lyla Elaydi;DeAnza;CCSF Rams Invitational;1:05.15;100 Back;Women;True;CCCAA
+6;Avery White;Long Beach City;2026 South Coast Conference Pentathlon;1:05.16;100 Back;Women;True;CCCAA
+7;Olivia Mozian;El Camino;2026 South Coast Conference Pentathlon;1:05.21;100 Back;Women;True;CCCAA
+8;Samira Semaan;Long Beach City;2026 South Coast Conference Pentathlon;1:05.27;100 Back;Women;True;CCCAA
+9;Crystallyn Tran;San Joaquin;Merced College Sprint Invitational;1:05.30;100 Back;Women;True;CCCAA
+10;Annika Pauschek;Cuesta;VC Larry Baratte Invitational;1:05.40;100 Back;Women;True;CCCAA
+11;Devon Fletcher;Long Beach City;2026 South Coast Conference Pentathlon;1:05.66;100 Back;Women;True;CCCAA
+12;Izzy Montgomery;SMC;VC Larry Baratte Invitational;1:05.72;100 Back;Women;True;CCCAA
+13;Christine Lunde;Long Beach City;2026 South Coast Conference Pentathlon;1:05.77;100 Back;Women;True;CCCAA
+14;Anna Ohdake;DeAnza;CCSF Rams Invitational;1:05.80;100 Back;Women;True;CCCAA
+15;Jacquie Clouser;American River;Los Rios Invite;1:06.04;100 Back;Women;True;CCCAA
+16;Makena Sauser;Long Beach City;2026 South Coast Conference Pentathlon;1:06.06;100 Back;Women;True;CCCAA
+17;Aja Fuller;Sierra;CCSF Rams Invitational;1:06.17;100 Back;Women;False;CCCAA
+18;Eden Buell;Mt. SAC;Mt. SAC vs. La Verne;1:06.28;100 Back;Women;False;CCCAA
+19;Makena Quinones;Santa Barbara City College;VC Larry Baratte Invitational;1:06.37;100 Back;Women;False;CCCAA
+20;Victoria Guzman;San Joaquin;Los Rios Invite;1:06.87;100 Back;Women;False;CCCAA
+21;Clara Walker;American River;Los Rios Invite;1:06.92;100 Back;Women;False;CCCAA
+22;Autumn Moya;Mt. SAC;Mt. SAC vs. Chapman;1:07.11;100 Back;Women;False;CCCAA
+23;Amy Fritz;Long Beach City;2026 South Coast Conference Pentathlon;1:07.36;100 Back;Women;False;CCCAA
+24;Kaili Jiang;Cosumnes River College;Los Rios Invite;1:07.43;100 Back;Women;False;CCCAA
+25;Carolyn Kao;Long Beach City;2026 South Coast Conference Pentathlon;1:07.47;100 Back;Women;False;CCCAA
+26;Tiana Timmons;Palomar;Mt. SAC NTS Invitational;1:07.67;100 Back;Women;False;CCCAA
+27;Allison Taylor;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;1:07.70;100 Back;Women;False;CCCAA
+27;Samantha NG;City College of San Francisco;CCSF Rams Invitational;1:07.70;100 Back;Women;False;CCCAA
+29;Bridget Ball;Long Beach City;2026 South Coast Conference Pentathlon;1:07.82;100 Back;Women;False;CCCAA
+30;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;1:07.85;100 Back;Women;False;CCCAA
+31;Ella Hanson;American River;Los Rios Invite;1:08.13;100 Back;Women;False;CCCAA
+32;Mya Thomas;American River;Los Rios Invite;1:08.63;100 Back;Women;False;CCCAA
+33;Evangeline Brown;Cuesta;VC Larry Baratte Invitational;1:09.00;100 Back;Women;False;CCCAA
+34;Jessica Kraemer;Santa Rosa;Los Rios Invite;1:09.16;100 Back;Women;False;CCCAA
+35;Haru Barajas;College of the Sequoias;Mt. SAC NTS Invitational;1:09.27;100 Back;Women;False;CCCAA
+36;Savannah Gates;College of the Sequoias;Mt. SAC NTS Invitational;1:09.35;100 Back;Women;False;CCCAA
+37;Myrthe Kramer;Hartnell College;Merced College Sprint Invitational;1:09.76;100 Back;Women;False;CCCAA
+38;regan braga;Diablo Valley;Los Rios Invite;1:09.79;100 Back;Women;False;CCCAA
+39;Makenna Hensley;Sierra;CCSF Rams Invitational;1:10.38;100 Back;Women;False;CCCAA
+40;Irene Pueyo Caballero;Long Beach City;2026 South Coast Conference Pentathlon;1:10.48;100 Back;Women;False;CCCAA
+41;Grace Appler;West Valley;CCSF Rams Invitational;1:10.50;100 Back;Women;False;CCCAA
+42;Emily Robertson;Mt. SAC;2026 South Coast Conference Pentathlon;1:10.65;100 Back;Women;False;CCCAA
+43;Mo Schmierer;San Joaquin;Northern CA Community College Relays;1:10.72;100 Back;Women;False;CCCAA
+44;Inessa Khajehgian;Los Angeles Valley;Mt. SAC NTS Invitational;1:10.94;100 Back;Women;False;CCCAA
+45;Francesca Pinillos;El Camino;2026 South Coast Conference Pentathlon;1:11.11;100 Back;Women;False;CCCAA
+46;Megan Venegas;Mt. SAC;2026 South Coast Conference Pentathlon;1:11.40;100 Back;Women;False;CCCAA
+47;Ashley May;Las Positas College;LPC vs MSAC vs ARC;1:11.43;100 Back;Women;False;CCCAA
+48;Allie Nihart;Sierra;CCSF Rams Invitational;1:11.75;100 Back;Women;False;CCCAA
+49;Sophia Kinno;Long Beach City;2026 South Coast Conference Pentathlon;1:11.92;100 Back;Women;False;CCCAA
+50;Emmi Ng;Diablo Valley;Los Rios Invite;1:12.16;100 Back;Women;False;CCCAA
+1;Kahu Arama;Sierra;CCSF Rams Invitational;2:23.52;200 Back;Women;True;CCCAA
+2;Anna Ohdake;DeAnza;CCSF Rams Invitational;2:26.70;200 Back;Women;True;CCCAA
+3;Aja Fuller;Sierra;CCSF Rams Invitational;2:26.72;200 Back;Women;True;CCCAA
+4;Clara Walker;American River;Los Rios Invite;2:28.81;200 Back;Women;True;CCCAA
+5;Allison Taylor;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:29.95;200 Back;Women;True;CCCAA
+6;Haru Barajas;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:33.33;200 Back;Women;True;CCCAA
+7;Makenna Hensley;Sierra;CCSF Rams Invitational;2:33.48;200 Back;Women;True;CCCAA
+8;Allie Nihart;Sierra;CCSF Rams Invitational;2:37.23;200 Back;Women;True;CCCAA
+9;Chloe Pappas;Diablo Valley;Los Rios Invite;2:37.67;200 Back;Women;True;CCCAA
+10;Mya Thomas;American River;Los Rios Invite;2:39.39;200 Back;Women;True;CCCAA
+11;Sydney Finn;Merced;College of the Sequoias vs. Clovis, FCC, Merced;2:40.56;200 Back;Women;True;CCCAA
+12;Meredith Cornwall;Santa Rosa;CCSF Rams Invitational;2:42.13;200 Back;Women;True;CCCAA
+13;Sadrine Gamboa;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:44.68;200 Back;Women;True;CCCAA
+14;Rebecca Tunquist;San Joaquin;Los Rios Invite;2:44.81;200 Back;Women;True;CCCAA
+15;Phoebe Coleman;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:46.63;200 Back;Women;True;CCCAA
+16;Iliana Khanenka;American River;Los Rios Invite;2:48.56;200 Back;Women;True;CCCAA
+17;Juliana Goulart;Santa Rosa;CCSF Rams Invitational;2:50.37;200 Back;Women;False;CCCAA
+18;Emily Jones;San Joaquin;Los Rios Invite;2:52.72;200 Back;Women;False;CCCAA
+19;Jaden Reyna;DeAnza;CCSF Rams Invitational;2:53.66;200 Back;Women;False;CCCAA
+20;Parker Benvio;Solano CC;CCSF Rams Invitational;3:03.35;200 Back;Women;False;CCCAA
+21;Alyssa Torres;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;3:04.14;200 Back;Women;False;CCCAA
+1;Samantha Fehr;Las Positas College;LPC vs MSAC vs ARC;31.36;50 Breast;Women;True;CCCAA
+2;Ellie Lambert;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;32.17;50 Breast;Women;True;CCCAA
+3;Kylie Richardson;San Joaquin;Merced College Sprint Invitational;32.80;50 Breast;Women;True;CCCAA
+4;Natascha Deadman;Santa Rosa;CCSF Rams Invitational;32.91;50 Breast;Women;True;CCCAA
+5;Stella Kalaba;Los Angeles Valley;VC Larry Baratte Invitational;33.12;50 Breast;Women;True;CCCAA
+6;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;33.44;50 Breast;Women;True;CCCAA
+7;May Guidoux;Santa Barbara City College;VC Larry Baratte Invitational;33.51;50 Breast;Women;True;CCCAA
+8;Emma Van Laar;West Valley;CCSF Rams Invitational;33.52;50 Breast;Women;True;CCCAA
+9;Savannah Gates;College of the Sequoias;FPU vs Westmont vs COS;33.54;50 Breast;Women;True;CCCAA
+10;Sasha Samoylovich;American River;Los Rios Invite;34.25;50 Breast;Women;True;CCCAA
+11;Devon Fletcher;Long Beach City;2026 South Coast Conference Pentathlon;34.43;50 Breast;Women;True;CCCAA
+12;Emma Roberts;Mt. SAC;Mt. SAC vs. La Verne;34.49;50 Breast;Women;True;CCCAA
+13;Maya Canada;Diablo Valley;Los Rios Invite;34.60;50 Breast;Women;True;CCCAA
+14;Samira Semaan;Long Beach City;2026 South Coast Conference Pentathlon;34.61;50 Breast;Women;True;CCCAA
+15;Amber Inderkum;American River;LPC vs MSAC vs ARC;34.86;50 Breast;Women;True;CCCAA
+16;Sarah Tolmasoff;Mt. SAC;Mt. SAC vs. Chapman;35.10;50 Breast;Women;True;CCCAA
+17;Avery White;Long Beach City;2026 South Coast Conference Pentathlon;35.81;50 Breast;Women;False;CCCAA
+18;DJ Mancuso;Santa Rosa;CCSF Rams Invitational;35.89;50 Breast;Women;False;CCCAA
+19;Sophia Santsche Chavez;Long Beach City;2026 South Coast Conference Pentathlon;36.00;50 Breast;Women;False;CCCAA
+20;Amy Fritz;Long Beach City;2026 South Coast Conference Pentathlon;36.09;50 Breast;Women;False;CCCAA
+21;Kieran Kirkwood Sturzenacker;Mt. SAC;Mt. SAC vs. La Verne;36.14;50 Breast;Women;False;CCCAA
+22;Sophia Kinno;Long Beach City;2026 South Coast Conference Pentathlon;36.18;50 Breast;Women;False;CCCAA
+23;Bella Klawitter;College of the Sequoias;Merced College Sprint Invitational;36.30;50 Breast;Women;False;CCCAA
+24;Dina Lvova;DeAnza;CCSF Rams Invitational;36.43;50 Breast;Women;False;CCCAA
+25;Anabel Gardea Maldonado;American River;LPC vs MSAC vs ARC;36.44;50 Breast;Women;False;CCCAA
+26;Genevieve Niko;Mt. SAC;Mt. SAC vs. La Verne;36.56;50 Breast;Women;False;CCCAA
+27;Mo Schmierer;San Joaquin;Merced College Sprint Invitational;36.57;50 Breast;Women;False;CCCAA
+28;Makenna Perez;Sierra;CCSF Rams Invitational;36.60;50 Breast;Women;False;CCCAA
+29;Fernanda Patino Mendez;Modesto JC;Merced College Sprint Invitational;36.66;50 Breast;Women;False;CCCAA
+30;Hannah Rasmussen;Las Positas College;LPC vs MSAC vs ARC;36.83;50 Breast;Women;False;CCCAA
+31;Macie Banner;American River;LPC vs MSAC vs ARC;36.87;50 Breast;Women;False;CCCAA
+32;Jacquie Clouser;American River;Los Rios Invite;36.98;50 Breast;Women;False;CCCAA
+33;Kaili Jiang;Cosumnes River College;Los Rios Invite;37.00;50 Breast;Women;False;CCCAA
+34;Emma Upton;Sierra;CCSF Rams Invitational;37.10;50 Breast;Women;False;CCCAA
+35;Lyla Elaydi;DeAnza;CCSF Rams Invitational;37.14;50 Breast;Women;False;CCCAA
+36;Autumn Moya;Mt. SAC;Mt. SAC vs. La Verne;37.26;50 Breast;Women;False;CCCAA
+37;Scout Bauman;Cabrillo;CCSF Rams Invitational;37.40;50 Breast;Women;False;CCCAA
+38;Kolby Kaufert;Sierra;CCSF Rams Invitational;37.43;50 Breast;Women;False;CCCAA
+39;Monica Sanchez;El Camino;2026 South Coast Conference Pentathlon;37.46;50 Breast;Women;False;CCCAA
+40;Giselle Gabauer;Long Beach City;2026 South Coast Conference Pentathlon;37.56;50 Breast;Women;False;CCCAA
+41;Abby Chatalyan;Los Angeles Valley;VC Larry Baratte Invitational;37.69;50 Breast;Women;False;CCCAA
+42;Frida Avalos Paz;Diablo Valley;Los Rios Invite;37.70;50 Breast;Women;False;CCCAA
+43;Stevie Sturges;Ventura;VC Larry Baratte Invitational;37.77;50 Breast;Women;False;CCCAA
+44;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;37.82;50 Breast;Women;False;CCCAA
+45;Allison Anderson;Cuesta;VC Larry Baratte Invitational;37.91;50 Breast;Women;False;CCCAA
+46;Ava Barclay;Santa Barbara City College;VC Larry Baratte Invitational;37.94;50 Breast;Women;False;CCCAA
+47;Victoria Rich;Modesto JC;Merced College Sprint Invitational;37.95;50 Breast;Women;False;CCCAA
+48;Audrey Bonelli;Long Beach City;2026 South Coast Conference Pentathlon;37.98;50 Breast;Women;False;CCCAA
+49;Catalina Maldonado Lopez;Los Angeles Valley;VC Larry Baratte Invitational;38.06;50 Breast;Women;False;CCCAA
+50;Marlene Isaacson;Long Beach City;2026 South Coast Conference Pentathlon;38.47;50 Breast;Women;False;CCCAA
+1;Samantha Fehr;Las Positas College;LPC vs MSAC vs ARC;1:08.12;100 Breast;Women;True;CCCAA
+2;Ellie Lambert;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:08.70;100 Breast;Women;True;CCCAA
+3;Stella Kalaba;Los Angeles Valley;VC Larry Baratte Invitational;1:09.82;100 Breast;Women;True;CCCAA
+4;May Guidoux;Santa Barbara City College;VC Larry Baratte Invitational;1:09.98;100 Breast;Women;True;CCCAA
+5;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;1:10.71;100 Breast;Women;True;CCCAA
+6;Maya Canada;Diablo Valley;Los Rios Invite;1:12.50;100 Breast;Women;True;CCCAA
+7;Sasha Samoylovich;American River;Los Rios Invite;1:12.67;100 Breast;Women;True;CCCAA
+8;Devon Fletcher;Long Beach City;2026 South Coast Conference Pentathlon;1:12.81;100 Breast;Women;True;CCCAA
+9;Natascha Deadman;Santa Rosa;Los Rios Invite;1:13.27;100 Breast;Women;True;CCCAA
+10;Kylie Richardson;San Joaquin;Los Rios Invite;1:13.67;100 Breast;Women;True;CCCAA
+11;Samira Semaan;Long Beach City;2026 South Coast Conference Pentathlon;1:13.75;100 Breast;Women;True;CCCAA
+12;Amber Inderkum;American River;LPC vs MSAC vs ARC;1:14.33;100 Breast;Women;True;CCCAA
+13;Savannah Gates;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:14.69;100 Breast;Women;True;CCCAA
+14;DJ Mancuso;Santa Rosa;Los Rios Invite;1:15.51;100 Breast;Women;True;CCCAA
+15;Sarah Tolmasoff;Mt. SAC;2026 South Coast Conference Pentathlon;1:15.60;100 Breast;Women;True;CCCAA
+16;Anabel Gardea Maldonado;American River;LPC vs MSAC vs ARC;1:15.83;100 Breast;Women;True;CCCAA
+17;Avery White;Long Beach City;2026 South Coast Conference Pentathlon;1:15.95;100 Breast;Women;False;CCCAA
+18;Lyla Elaydi;DeAnza;CCSF Rams Invitational;1:16.18;100 Breast;Women;False;CCCAA
+19;Hannah Rasmussen;Las Positas College;LPC vs MSAC vs ARC;1:16.33;100 Breast;Women;False;CCCAA
+20;Amy Fritz;Long Beach City;2026 South Coast Conference Pentathlon;1:16.54;100 Breast;Women;False;CCCAA
+21;Sophia Santsche Chavez;Long Beach City;2026 South Coast Conference Pentathlon;1:17.28;100 Breast;Women;False;CCCAA
+22;Makenna Perez;Sierra;CCSF Rams Invitational;1:17.50;100 Breast;Women;False;CCCAA
+23;Kieran Kirkwood Sturzenacker;Mt. SAC;Mt. SAC vs. La Verne;1:17.57;100 Breast;Women;False;CCCAA
+24;Macie Banner;American River;LPC vs MSAC vs ARC;1:17.81;100 Breast;Women;False;CCCAA
+25;Dina Lvova;DeAnza;CCSF Rams Invitational;1:17.88;100 Breast;Women;False;CCCAA
+26;Kaili Jiang;Cosumnes River College;Los Rios Invite;1:18.08;100 Breast;Women;False;CCCAA
+27;Sophia Kinno;Long Beach City;2026 South Coast Conference Pentathlon;1:18.15;100 Breast;Women;False;CCCAA
+28;Mo Schmierer;San Joaquin;Los Rios Invite;1:18.21;100 Breast;Women;False;CCCAA
+29;Abby Chatalyan;Los Angeles Valley;VC Larry Baratte Invitational;1:18.32;100 Breast;Women;False;CCCAA
+30;Monica Sanchez;El Camino;2026 South Coast Conference Pentathlon;1:18.48;100 Breast;Women;False;CCCAA
+31;Kolby Kaufert;Sierra;CCSF Rams Invitational;1:18.62;100 Breast;Women;False;CCCAA
+32;Emma Upton;Sierra;CCSF Rams Invitational;1:18.68;100 Breast;Women;False;CCCAA
+33;Giselle Gabauer;Long Beach City;2026 South Coast Conference Pentathlon;1:18.72;100 Breast;Women;False;CCCAA
+34;Bella Klawitter;College of the Sequoias;Merced College Sprint Invitational;1:18.83;100 Breast;Women;False;CCCAA
+35;Ava Barclay;Santa Barbara City College;VC Larry Baratte Invitational;1:18.93;100 Breast;Women;False;CCCAA
+36;Frida Avalos Paz;Diablo Valley;Los Rios Invite;1:18.97;100 Breast;Women;False;CCCAA
+37;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;1:19.07;100 Breast;Women;False;CCCAA
+38;Jacquie Clouser;American River;Los Rios Invite;1:19.87;100 Breast;Women;False;CCCAA
+39;Fernanda Patino Mendez;Modesto JC;Merced College Sprint Invitational;1:20.71;100 Breast;Women;False;CCCAA
+40;Catalina Maldonado Lopez;Los Angeles Valley;VC Larry Baratte Invitational;1:20.97;100 Breast;Women;False;CCCAA
+41;Stevie Sturges;Ventura;VC Larry Baratte Invitational;1:21.33;100 Breast;Women;False;CCCAA
+42;Simone Mack;Long Beach City;2026 South Coast Conference Pentathlon;1:21.43;100 Breast;Women;False;CCCAA
+43;Audrey Bonelli;Long Beach City;2026 South Coast Conference Pentathlon;1:21.82;100 Breast;Women;False;CCCAA
+44;Leslie Vargas;Long Beach City;2026 South Coast Conference Pentathlon;1:21.90;100 Breast;Women;False;CCCAA
+45;Marlene Isaacson;Long Beach City;2026 South Coast Conference Pentathlon;1:21.94;100 Breast;Women;False;CCCAA
+46;Bella Perez;Long Beach City;2026 South Coast Conference Pentathlon;1:22.13;100 Breast;Women;False;CCCAA
+47;Scout Bauman;Cabrillo;CCSF Rams Invitational;1:22.31;100 Breast;Women;False;CCCAA
+48;Lydia Moorehead;Cabrillo;CCSF Rams Invitational;1:22.34;100 Breast;Women;False;CCCAA
+49;Jasmine Eskander;El Camino;2026 South Coast Conference Pentathlon;1:22.58;100 Breast;Women;False;CCCAA
+50;Jessica Luna;Mt. SAC;2026 South Coast Conference Pentathlon;1:23.00;100 Breast;Women;False;CCCAA
+1;Amber Inderkum;American River;Los Rios Invite;2:38.49;200 Breast;Women;True;CCCAA
+2;Natascha Deadman;Santa Rosa;CCSF Rams Invitational;2:40.03;200 Breast;Women;True;CCCAA
+3;Kylie Richardson;San Joaquin;Los Rios Invite;2:40.46;200 Breast;Women;True;CCCAA
+4;Anabel Gardea Maldonado;American River;Los Rios Invite;2:44.45;200 Breast;Women;True;CCCAA
+5;Victoria Guzman;San Joaquin;Los Rios Invite;2:44.56;200 Breast;Women;True;CCCAA
+6;Kaeli Stowell;Sierra;CCSF Rams Invitational;2:48.35;200 Breast;Women;True;CCCAA
+7;Savannah Gates;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:48.46;200 Breast;Women;True;CCCAA
+8;Macie Banner;American River;Los Rios Invite;2:49.65;200 Breast;Women;True;CCCAA
+9;Emma Upton;Sierra;CCSF Rams Invitational;2:50.86;200 Breast;Women;True;CCCAA
+10;Sydney Mayoral;American River;Los Rios Invite;3:00.22;200 Breast;Women;True;CCCAA
+11;Brooklyn Archuleta;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;3:01.95;200 Breast;Women;True;CCCAA
+12;Brooke Boyer;American River;Los Rios Invite;3:06.16;200 Breast;Women;True;CCCAA
+13;Rachael Farley;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;3:06.24;200 Breast;Women;True;CCCAA
+14;Ruby Contreras;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;3:08.11;200 Breast;Women;True;CCCAA
+15;Maria Hyrc;City College of San Francisco;CCSF Rams Invitational;3:08.65;200 Breast;Women;True;CCCAA
+16;Anya Nordin;West Valley;CCSF Rams Invitational;3:17.41;200 Breast;Women;True;CCCAA
+17;Makaira Chavez;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;3:20.27;200 Breast;Women;False;CCCAA
+18;Madeline O'Brien;City College of San Francisco;CCSF Rams Invitational;3:23.12;200 Breast;Women;False;CCCAA
+19;Darlena Trinh;DeAnza;CCSF Rams Invitational;3:43.24;200 Breast;Women;False;CCCAA
+20;Michelle Parra Chavarria;Ohlone;CCSF Rams Invitational;3:47.31;200 Breast;Women;False;CCCAA
+21;Nickelle Thorp;West Valley;CCSF Rams Invitational;4:09.21;200 Breast;Women;False;CCCAA
+1;Ellie Lambert;College of the Sequoias;Merced College Sprint Invitational;27.36;50 Fly;Women;True;CCCAA
+2;Crystallyn Tran;San Joaquin;Merced College Sprint Invitational;27.89;50 Fly;Women;True;CCCAA
+3;Emma Roberts;Mt. SAC;Mt. SAC vs. Chapman;27.99;50 Fly;Women;True;CCCAA
+4;Erika Correa;DeAnza;CCSF Rams Invitational;28.35;50 Fly;Women;True;CCCAA
+5;Trinity Link;Santa Barbara City College;VC Larry Baratte Invitational;28.41;50 Fly;Women;True;CCCAA
+6;Sophia Kinno;Long Beach City;2026 South Coast Conference Pentathlon;28.93;50 Fly;Women;True;CCCAA
+7;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;29.55;50 Fly;Women;True;CCCAA
+8;Carolyn Kao;Long Beach City;2026 South Coast Conference Pentathlon;29.84;50 Fly;Women;True;CCCAA
+9;Sophie Nelson;College of the Sequoias;FPU vs Westmont vs COS;30.07;50 Fly;Women;True;CCCAA
+10;Kylie VanDuyne;Mt. SAC;Mt. SAC vs. Chapman;30.09;50 Fly;Women;True;CCCAA
+11;Samantha NG;City College of San Francisco;CCSF Rams Invitational;30.12;50 Fly;Women;True;CCCAA
+12;Emily Robertson;Mt. SAC;2026 South Coast Conference Pentathlon;30.19;50 Fly;Women;True;CCCAA
+13;Isabelle Acosta;Canyons;2026 NTS BC Invite;30.24;50 Fly;Women;True;CCCAA
+14;Brisa Serrano Diaz;City College of San Francisco;CCSF Rams Invitational;30.25;50 Fly;Women;True;CCCAA
+14;Katie Strohl;Santa Barbara City College;VC Larry Baratte Invitational;30.25;50 Fly;Women;True;CCCAA
+16;Megan Medina;Mt. SAC;LPC vs MSAC vs ARC;30.34;50 Fly;Women;True;CCCAA
+17;Simone Mack;Long Beach City;2026 South Coast Conference Pentathlon;30.39;50 Fly;Women;False;CCCAA
+18;Abby Chatalyan;Los Angeles Valley;Mt. SAC NTS Invitational;30.52;50 Fly;Women;False;CCCAA
+19;Alissa Wiggins;Los Angeles Valley;Mt. SAC NTS Invitational;31.03;50 Fly;Women;False;CCCAA
+20;Valerie Fragoza;Mt. SAC;Mt. SAC vs. La Verne;31.15;50 Fly;Women;False;CCCAA
+21;Myrthe Kramer;Hartnell College;Merced College Sprint Invitational;31.29;50 Fly;Women;False;CCCAA
+22;Jasmine Eskander;El Camino;2026 South Coast Conference Pentathlon;31.35;50 Fly;Women;False;CCCAA
+23;Saveta Holunga;Las Positas College;LPC vs MSAC vs ARC;31.50;50 Fly;Women;False;CCCAA
+24;Makayla Hatzfeld;Mt. SAC;Mt. SAC vs. La Verne;31.62;50 Fly;Women;False;CCCAA
+25;Olivia Mozian;El Camino;2026 South Coast Conference Pentathlon;31.71;50 Fly;Women;False;CCCAA
+26;Bella Klawitter;College of the Sequoias;FPU vs Westmont vs COS;31.73;50 Fly;Women;False;CCCAA
+27;Maya Canada;Diablo Valley;Los Rios Invite;31.77;50 Fly;Women;False;CCCAA
+28;Brianna Smyth;Diablo Valley;Los Rios Invite;31.86;50 Fly;Women;False;CCCAA
+29;Mo Schmierer;San Joaquin;Merced College Sprint Invitational;31.87;50 Fly;Women;False;CCCAA
+30;Jasmine Matsuda;Mt. SAC;Mt. SAC vs. La Verne;31.98;50 Fly;Women;False;CCCAA
+31;Laine Woodard;San Joaquin;Merced College Sprint Invitational;32.03;50 Fly;Women;False;CCCAA
+32;Giselle Gabauer;Long Beach City;2026 South Coast Conference Pentathlon;32.07;50 Fly;Women;False;CCCAA
+33;Mia Coleman;Fresno City;Merced College Sprint Invitational;32.11;50 Fly;Women;False;CCCAA
+34;Neeki Afshar-Bagashlooy;West Valley;CCSF Rams Invitational;32.13;50 Fly;Women;False;CCCAA
+35;Sofia Gaytan;West Valley;CCSF Rams Invitational;32.26;50 Fly;Women;False;CCCAA
+36;Eleonor Curiel;Cerritos;2026 South Coast Conference Pentathlon;32.32;50 Fly;Women;False;CCCAA
+37;Sarah Tolmasoff;Mt. SAC;Mt. SAC vs. Chapman;32.36;50 Fly;Women;False;CCCAA
+38;Megan Venegas;Mt. SAC;Mt. SAC vs. La Verne;32.44;50 Fly;Women;False;CCCAA
+39;Christine Lunde;Long Beach City;2026 South Coast Conference Pentathlon;32.51;50 Fly;Women;False;CCCAA
+40;Sophia DiGiacomo;Fresno City;Merced College Sprint Invitational;32.54;50 Fly;Women;False;CCCAA
+41;Emma Wilhite;Solano CC;CCSF Rams Invitational;32.59;50 Fly;Women;False;CCCAA
+42;Ahmaja Rodgers;Long Beach City;2026 South Coast Conference Pentathlon;32.69;50 Fly;Women;False;CCCAA
+43;Yoseline Flores;Long Beach City;2026 South Coast Conference Pentathlon;32.73;50 Fly;Women;False;CCCAA
+44;Raegan Waddle;Shasta College;Los Rios Invite;32.78;50 Fly;Women;False;CCCAA
+45;Marguerite Gardner;American River;Los Rios Invite;32.91;50 Fly;Women;False;CCCAA
+46;Martina Ng;DeAnza;CCSF Rams Invitational;32.96;50 Fly;Women;False;CCCAA
+47;Ava Sepulveda;San Joaquin;Merced College Sprint Invitational;32.99;50 Fly;Women;False;CCCAA
+48;Sarah Tanabe;City College of San Francisco;CCSF Rams Invitational;33.09;50 Fly;Women;False;CCCAA
+49;Isabella Garcia;SMC;VC Larry Baratte Invitational;33.23;50 Fly;Women;False;CCCAA
+50;Hannah Parreira;Modesto JC;Merced College Sprint Invitational;33.35;50 Fly;Women;False;CCCAA
+1;Trinity Link;Santa Barbara City College;VC Larry Baratte Invitational;1:01.06;100 Fly;Women;True;CCCAA
+2;Erika Correa;DeAnza;CCSF Rams Invitational;1:01.49;100 Fly;Women;True;CCCAA
+3;Ellie Lambert;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;1:02.31;100 Fly;Women;True;CCCAA
+4;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;1:02.46;100 Fly;Women;True;CCCAA
+5;Crystallyn Tran;San Joaquin;Merced College Sprint Invitational;1:02.87;100 Fly;Women;True;CCCAA
+6;Carolyn Kao;Long Beach City;2026 South Coast Conference Pentathlon;1:03.57;100 Fly;Women;True;CCCAA
+7;Saveta Holunga;Las Positas College;LPC vs MSAC vs ARC;1:03.94;100 Fly;Women;True;CCCAA
+8;Megan Medina;Mt. SAC;LPC vs MSAC vs ARC;1:04.13;100 Fly;Women;True;CCCAA
+9;Sophia Kinno;Long Beach City;2026 South Coast Conference Pentathlon;1:04.19;100 Fly;Women;True;CCCAA
+10;Abby Chatalyan;Los Angeles Valley;Mt. SAC NTS Invitational;1:04.58;100 Fly;Women;True;CCCAA
+11;Emily Robertson;Mt. SAC;2026 South Coast Conference Pentathlon;1:04.74;100 Fly;Women;True;CCCAA
+12;Samantha NG;City College of San Francisco;CCSF Rams Invitational;1:04.78;100 Fly;Women;True;CCCAA
+13;Katie Strohl;Santa Barbara City College;VC Larry Baratte Invitational;1:05.53;100 Fly;Women;True;CCCAA
+14;Simone Mack;Long Beach City;2026 South Coast Conference Pentathlon;1:06.20;100 Fly;Women;True;CCCAA
+15;Giselle Gabauer;Long Beach City;2026 South Coast Conference Pentathlon;1:06.55;100 Fly;Women;True;CCCAA
+16;Maya Canada;Diablo Valley;Los Rios Invite;1:07.04;100 Fly;Women;True;CCCAA
+17;Jasmine Eskander;El Camino;2026 South Coast Conference Pentathlon;1:07.31;100 Fly;Women;False;CCCAA
+18;Olivia Mozian;El Camino;2026 South Coast Conference Pentathlon;1:07.66;100 Fly;Women;False;CCCAA
+19;Bella Klawitter;College of the Sequoias;FPU vs Westmont vs COS;1:08.70;100 Fly;Women;False;CCCAA
+20;Emma Wilhite;Solano CC;CCSF Rams Invitational;1:08.77;100 Fly;Women;False;CCCAA
+21;Alissa Wiggins;Los Angeles Valley;VC Larry Baratte Invitational;1:08.83;100 Fly;Women;False;CCCAA
+22;Christine Lunde;Long Beach City;2026 South Coast Conference Pentathlon;1:08.97;100 Fly;Women;False;CCCAA
+23;Brisa Serrano Diaz;City College of San Francisco;CCSF Rams Invitational;1:09.20;100 Fly;Women;False;CCCAA
+24;Megan Venegas;Mt. SAC;2026 South Coast Conference Pentathlon;1:09.67;100 Fly;Women;False;CCCAA
+25;Raegan Waddle;Shasta College;Los Rios Invite;1:09.68;100 Fly;Women;False;CCCAA
+26;Sofia Gaytan;West Valley;CCSF Rams Invitational;1:09.74;100 Fly;Women;False;CCCAA
+27;Brianna Smyth;Diablo Valley;Los Rios Invite;1:09.98;100 Fly;Women;False;CCCAA
+28;Eleonor Curiel;Cerritos;2026 South Coast Conference Pentathlon;1:10.26;100 Fly;Women;False;CCCAA
+29;Ianna Calderon;Hancock College;VC Larry Baratte Invitational;1:10.43;100 Fly;Women;False;CCCAA
+30;Yoseline Flores;Long Beach City;2026 South Coast Conference Pentathlon;1:11.19;100 Fly;Women;False;CCCAA
+31;Sarah Tanabe;City College of San Francisco;CCSF Rams Invitational;1:11.62;100 Fly;Women;False;CCCAA
+32;Sophia DiGiacomo;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;1:11.77;100 Fly;Women;False;CCCAA
+33;Jasmine Matsuda;Mt. SAC;LPC vs MSAC vs ARC;1:11.83;100 Fly;Women;False;CCCAA
+34;Ahmaja Rodgers;Long Beach City;2026 South Coast Conference Pentathlon;1:12.15;100 Fly;Women;False;CCCAA
+35;Amelia Braun;Cuesta;VC Larry Baratte Invitational;1:12.35;100 Fly;Women;False;CCCAA
+36;Ava Barclay;Santa Barbara City College;VC Larry Baratte Invitational;1:12.45;100 Fly;Women;False;CCCAA
+37;Emma Frazer;Cuesta;VC Larry Baratte Invitational;1:13.06;100 Fly;Women;False;CCCAA
+38;Maddie Lata;Los Angeles Pierce;VC Larry Baratte Invitational;1:13.31;100 Fly;Women;False;CCCAA
+39;Francesca Pinillos;El Camino;2026 South Coast Conference Pentathlon;1:13.47;100 Fly;Women;False;CCCAA
+40;Marguerite Gardner;American River;Los Rios Invite;1:13.68;100 Fly;Women;False;CCCAA
+41;Lydia Vlahos;American River;LPC vs MSAC vs ARC;1:13.72;100 Fly;Women;False;CCCAA
+42;Delaney Reynolds;Santa Rosa;CCSF Rams Invitational;1:13.74;100 Fly;Women;False;CCCAA
+43;Ryder Gangemi;Cuesta;VC Larry Baratte Invitational;1:13.97;100 Fly;Women;False;CCCAA
+44;Sophie Nelson;College of the Sequoias;FPU vs Westmont vs COS;1:14.06;100 Fly;Women;False;CCCAA
+45;Monica Sanchez;El Camino;2026 South Coast Conference Pentathlon;1:14.31;100 Fly;Women;False;CCCAA
+46;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;1:14.55;100 Fly;Women;False;CCCAA
+47;Meg Gardner;American River;LPC vs MSAC vs ARC;1:14.59;100 Fly;Women;False;CCCAA
+48;Zoe McGehee;Santa Barbara City College;VC Larry Baratte Invitational;1:14.82;100 Fly;Women;False;CCCAA
+49;Isabella Garcia;SMC;VC Larry Baratte Invitational;1:15.05;100 Fly;Women;False;CCCAA
+50;Veronika Lapteva;Sierra;CCSF Rams Invitational;1:15.38;100 Fly;Women;False;CCCAA
+1;Erika Correa;DeAnza;CCSF Rams Invitational;2:19.25;200 Fly;Women;True;CCCAA
+2;Crystallyn Tran;San Joaquin;Los Rios Invite;2:20.65;200 Fly;Women;True;CCCAA
+3;Addison Klosevitz;Santa Rosa;Los Rios Invite;2:24.39;200 Fly;Women;True;CCCAA
+4;Victoria Guzman;San Joaquin;Los Rios Invite;2:35.08;200 Fly;Women;True;CCCAA
+5;Bella Klawitter;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:42.00;200 Fly;Women;True;CCCAA
+6;Ava Sepulveda;San Joaquin;Los Rios Invite;2:50.46;200 Fly;Women;True;CCCAA
+7;Mia Coleman;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:52.07;200 Fly;Women;True;CCCAA
+8;Delaney Reynolds;Santa Rosa;Los Rios Invite;2:52.89;200 Fly;Women;True;CCCAA
+9;Makenna Hensley;Sierra;CCSF Rams Invitational;2:56.54;200 Fly;Women;True;CCCAA
+10;Sophia DiGiacomo;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;3:01.37;200 Fly;Women;True;CCCAA
+1;Trinity Link;Santa Barbara City College;VC Larry Baratte Invitational;1:02.37;100 IM;Women;True;CCCAA
+2;Stella Kalaba;Los Angeles Valley;Mt. SAC NTS Invitational;1:02.82;100 IM;Women;True;CCCAA
+3;Devon Fletcher;Long Beach City;2026 South Coast Conference Pentathlon;1:02.97;100 IM;Women;True;CCCAA
+4;Spencer Damaske;Mt. SAC;LPC vs MSAC vs ARC;1:03.88;100 IM;Women;True;CCCAA
+5;Raegan Chavez;Sierra;CCSF Rams Invitational;1:04.73;100 IM;Women;True;CCCAA
+6;Genevieve Niko;Mt. SAC;Mt. SAC vs. Chapman;1:05.63;100 IM;Women;True;CCCAA
+7;Amy Fritz;Long Beach City;2026 South Coast Conference Pentathlon;1:05.90;100 IM;Women;True;CCCAA
+8;Izzy Montgomery;SMC;VC Larry Baratte Invitational;1:06.20;100 IM;Women;True;CCCAA
+9;Autumn Moya;Mt. SAC;Mt. SAC NTS Invitational;1:06.26;100 IM;Women;True;CCCAA
+10;Emma Roberts;Mt. SAC;Mt. SAC vs. Chapman;1:06.43;100 IM;Women;True;CCCAA
+11;Carolyn Kao;Long Beach City;2026 South Coast Conference Pentathlon;1:06.57;100 IM;Women;True;CCCAA
+12;Victoria Guzman;San Joaquin;Merced College Sprint Invitational;1:06.61;100 IM;Women;True;CCCAA
+13;Lindsay Schmidt;DeAnza;CCSF Rams Invitational;1:06.87;100 IM;Women;True;CCCAA
+14;Avery White;Long Beach City;2026 South Coast Conference Pentathlon;1:06.89;100 IM;Women;True;CCCAA
+15;Saveta Holunga;Las Positas College;LPC vs MSAC vs ARC;1:07.49;100 IM;Women;True;CCCAA
+16;Samantha NG;City College of San Francisco;CCSF Rams Invitational;1:08.10;100 IM;Women;True;CCCAA
+17;Sasha Samoylovich;American River;LPC vs MSAC vs ARC;1:08.13;100 IM;Women;False;CCCAA
+18;Christine Lunde;Long Beach City;2026 South Coast Conference Pentathlon;1:08.28;100 IM;Women;False;CCCAA
+19;Kenzie Hyder;College of the Sequoias;2026 NTS BC Invite;1:08.46;100 IM;Women;False;CCCAA
+20;Anabel Gardea Maldonado;American River;LPC vs MSAC vs ARC;1:08.51;100 IM;Women;False;CCCAA
+21;Makena Sauser;Long Beach City;2026 South Coast Conference Pentathlon;1:08.65;100 IM;Women;False;CCCAA
+22;Simone Mack;Long Beach City;2026 South Coast Conference Pentathlon;1:08.73;100 IM;Women;False;CCCAA
+23;Makena Quinones;Santa Barbara City College;VC Larry Baratte Invitational;1:09.47;100 IM;Women;False;CCCAA
+24;Olivia Mozian;El Camino;2026 South Coast Conference Pentathlon;1:09.72;100 IM;Women;False;CCCAA
+25;Giselle Gabauer;Long Beach City;2026 South Coast Conference Pentathlon;1:09.92;100 IM;Women;False;CCCAA
+26;Emily Robertson;Mt. SAC;LPC vs MSAC vs ARC;1:10.32;100 IM;Women;False;CCCAA
+27;Francesca Pinillos;El Camino;2026 South Coast Conference Pentathlon;1:10.34;100 IM;Women;False;CCCAA
+28;Yoseline Flores;Long Beach City;2026 South Coast Conference Pentathlon;1:10.41;100 IM;Women;False;CCCAA
+29;Megan Venegas;Mt. SAC;Mt. SAC vs. Chapman;1:10.42;100 IM;Women;False;CCCAA
+30;Bella Klawitter;College of the Sequoias;2026 NTS BC Invite;1:10.76;100 IM;Women;False;CCCAA
+31;Bridget Ball;Long Beach City;2026 South Coast Conference Pentathlon;1:10.77;100 IM;Women;False;CCCAA
+32;Alissa Wiggins;Los Angeles Valley;Mt. SAC NTS Invitational;1:10.82;100 IM;Women;False;CCCAA
+33;Veronika Lapteva;Sierra;CCSF Rams Invitational;1:11.22;100 IM;Women;False;CCCAA
+34;Evangeline Brown;Cuesta;VC Larry Baratte Invitational;1:11.35;100 IM;Women;False;CCCAA
+35;Catalina Maldonado Lopez;Los Angeles Valley;VC Larry Baratte Invitational;1:11.39;100 IM;Women;False;CCCAA
+36;Dina Lvova;DeAnza;CCSF Rams Invitational;1:11.56;100 IM;Women;False;CCCAA
+37;Bella Perez;Long Beach City;2026 South Coast Conference Pentathlon;1:11.88;100 IM;Women;False;CCCAA
+38;Allison Taylor;Fresno City;Merced College Sprint Invitational;1:12.09;100 IM;Women;False;CCCAA
+39;Ava Barclay;Santa Barbara City College;VC Larry Baratte Invitational;1:12.42;100 IM;Women;False;CCCAA
+40;Makayla Hatzfeld;Mt. SAC;Mt. SAC vs. La Verne;1:12.50;100 IM;Women;False;CCCAA
+40;Savannah Gates;College of the Sequoias;Mt. SAC NTS Invitational;1:12.50;100 IM;Women;False;CCCAA
+40;Mo Schmierer;San Joaquin;Merced College Sprint Invitational;1:12.50;100 IM;Women;False;CCCAA
+43;Megan Medina;Mt. SAC;LPC vs MSAC vs ARC;1:12.55;100 IM;Women;False;CCCAA
+44;Audrey Bonelli;Long Beach City;2026 South Coast Conference Pentathlon;1:12.61;100 IM;Women;False;CCCAA
+45;Ianna Calderon;Hancock College;2026 NTS BC Invite;1:12.98;100 IM;Women;False;CCCAA
+46;Ani Thomassian;Los Angeles Valley;Mt. SAC NTS Invitational;1:13.00;100 IM;Women;False;CCCAA
+46;Jessica Luna;Mt. SAC;LPC vs MSAC vs ARC;1:13.00;100 IM;Women;False;CCCAA
+48;Maddie Lata;Los Angeles Pierce;VC Larry Baratte Invitational;1:13.18;100 IM;Women;False;CCCAA
+49;Mia Coleman;Fresno City;Merced College Sprint Invitational;1:13.22;100 IM;Women;False;CCCAA
+50;Hailey Suttle;Long Beach City;2026 South Coast Conference Pentathlon;1:13.40;100 IM;Women;False;CCCAA
+1;Spencer Damaske;Mt. SAC;2026 South Coast Conference Pentathlon;2:14.38;200 IM;Women;True;CCCAA
+2;Stella Kalaba;Los Angeles Valley;VC Larry Baratte Invitational;2:15.80;200 IM;Women;True;CCCAA
+3;Samira Semaan;Long Beach City;2026 South Coast Conference Pentathlon;2:18.29;200 IM;Women;True;CCCAA
+4;Erika Correa;DeAnza;CCSF Rams Invitational;2:19.26;200 IM;Women;True;CCCAA
+5;Raegan Chavez;Sierra;CCSF Rams Invitational;2:20.01;200 IM;Women;True;CCCAA
+6;May Guidoux;Santa Barbara City College;VC Larry Baratte Invitational;2:20.39;200 IM;Women;True;CCCAA
+7;Izzy Montgomery;SMC;VC Larry Baratte Invitational;2:22.65;200 IM;Women;True;CCCAA
+8;Samantha Fehr;Las Positas College;LPC vs MSAC vs ARC;2:23.30;200 IM;Women;True;CCCAA
+9;Morgan Rummelhoff;Santa Barbara City College;VC Larry Baratte Invitational;2:23.79;200 IM;Women;True;CCCAA
+10;Maya Canada;Diablo Valley;Los Rios Invite;2:24.18;200 IM;Women;True;CCCAA
+11;Addison Klosevitz;Santa Rosa;Los Rios Invite;2:24.25;200 IM;Women;True;CCCAA
+12;Anabel Gardea Maldonado;American River;LPC vs MSAC vs ARC;2:24.41;200 IM;Women;True;CCCAA
+13;Sophia Kinno;Long Beach City;2026 South Coast Conference Pentathlon;2:25.55;200 IM;Women;True;CCCAA
+14;Sasha Samoylovich;American River;Los Rios Invite;2:25.69;200 IM;Women;True;CCCAA
+15;Jasmine Eskander;El Camino;2026 South Coast Conference Pentathlon;2:25.81;200 IM;Women;True;CCCAA
+16;DJ Mancuso;Santa Rosa;Los Rios Invite;2:26.38;200 IM;Women;True;CCCAA
+17;Frida Avalos Paz;Diablo Valley;Los Rios Invite;2:27.09;200 IM;Women;False;CCCAA
+18;Emma Roberts;Mt. SAC;Mt. SAC NTS Invitational;2:27.24;200 IM;Women;False;CCCAA
+19;Emma Upton;Sierra;CCSF Rams Invitational;2:27.66;200 IM;Women;False;CCCAA
+20;Haru Barajas;College of the Sequoias;College of the Sequoias vs. Clovis, FCC, Merced;2:27.71;200 IM;Women;False;CCCAA
+21;Petrina Olson;DeAnza;CCSF Rams Invitational;2:27.93;200 IM;Women;False;CCCAA
+22;Ella Hanson;American River;Los Rios Invite;2:28.04;200 IM;Women;False;CCCAA
+23;Tiana Timmons;Palomar;Mt. SAC NTS Invitational;2:29.09;200 IM;Women;False;CCCAA
+24;Camilla Guillermo;Los Angeles Valley;Mt. SAC NTS Invitational;2:30.37;200 IM;Women;False;CCCAA
+25;Makena Quinones;Santa Barbara City College;VC Larry Baratte Invitational;2:30.39;200 IM;Women;False;CCCAA
+26;Megan Venegas;Mt. SAC;2026 South Coast Conference Pentathlon;2:30.59;200 IM;Women;False;CCCAA
+27;Monica Sanchez;El Camino;2026 South Coast Conference Pentathlon;2:31.05;200 IM;Women;False;CCCAA
+28;Samantha NG;City College of San Francisco;CCSF Rams Invitational;2:31.62;200 IM;Women;False;CCCAA
+29;Megan Medina;Mt. SAC;2026 South Coast Conference Pentathlon;2:33.23;200 IM;Women;False;CCCAA
+30;Sarah Tolmasoff;Mt. SAC;Mt. SAC NTS Invitational;2:33.34;200 IM;Women;False;CCCAA
+31;Natalee Mares;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:33.59;200 IM;Women;False;CCCAA
+32;Ianna Calderon;Hancock College;VC Larry Baratte Invitational;2:33.82;200 IM;Women;False;CCCAA
+33;Bella Klawitter;College of the Sequoias;FPU vs Westmont vs COS;2:34.21;200 IM;Women;False;CCCAA
+34;Emily Robertson;Mt. SAC;2026 South Coast Conference Pentathlon;2:36.41;200 IM;Women;False;CCCAA
+35;Mo Schmierer;San Joaquin;Los Rios Invite;2:36.58;200 IM;Women;False;CCCAA
+36;Sofi Charnelle;Los Angeles Pierce;VC Larry Baratte Invitational;2:37.17;200 IM;Women;False;CCCAA
+37;Jessica Luna;Mt. SAC;2026 South Coast Conference Pentathlon;2:37.34;200 IM;Women;False;CCCAA
+38;Savannah Gates;College of the Sequoias;Mt. SAC NTS Invitational;2:38.74;200 IM;Women;False;CCCAA
+39;Brianna Smyth;Diablo Valley;Los Rios Invite;2:38.77;200 IM;Women;False;CCCAA
+40;Jacquie Clouser;American River;Los Rios Invite;2:38.87;200 IM;Women;False;CCCAA
+41;Pavla Kobzar;Sacramento City;Los Rios Invite;2:38.98;200 IM;Women;False;CCCAA
+42;Caroline Guidi;Las Positas College;LPC vs MSAC vs ARC;2:39.11;200 IM;Women;False;CCCAA
+43;Ashley May;Las Positas College;LPC vs MSAC vs ARC;2:39.30;200 IM;Women;False;CCCAA
+44;Zoe McGehee;Santa Barbara City College;VC Larry Baratte Invitational;2:39.53;200 IM;Women;False;CCCAA
+45;Mia Coleman;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;2:39.61;200 IM;Women;False;CCCAA
+46;Emma Frazer;Cuesta;VC Larry Baratte Invitational;2:40.50;200 IM;Women;False;CCCAA
+47;Lilli Dorsett;Bakersfield;VC Larry Baratte Invitational;2:41.23;200 IM;Women;False;CCCAA
+47;Maddie Lata;Los Angeles Pierce;VC Larry Baratte Invitational;2:41.23;200 IM;Women;False;CCCAA
+49;Sophia Beghin;El Camino;2026 South Coast Conference Pentathlon;2:41.37;200 IM;Women;False;CCCAA
+50;Gianna Ramos;San Joaquin;Los Rios Invite;2:42.11;200 IM;Women;False;CCCAA

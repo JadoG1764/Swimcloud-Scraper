@@ -17,12 +17,8 @@
 <body>
     <nav>
         <a href = "/">Divisions</a> |
-        {% for div in divisions %}
-            {% if division != div %}
-                <a href = "/{{ div }}/">{{ div }}</a>
-                {% if not forloop.last %} | {% endif %}
-            {% endif %}
-        {% endfor %}
+        <a href = "/{{ division }}/races/"> {{ division }} Races</a> |
+        <a href = "/{{ division }}/swimmers/"> {{ division }} Swimmers</a>
     </nav>
     <main>
         {% block table %}

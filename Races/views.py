@@ -2,17 +2,11 @@ from tkinter.constants import PAGES
 
 from django.http import HttpResponse
 from django.shortcuts import render
-from reportlab.lib.styles import getSampleStyleSheet
 from Models import RewriteCCSDB
 from .models import Races
 from Models import RewriteCCSDB
 from django.utils.text import slugify
 from django.shortcuts import redirect
-from reportlab.lib import colors
-from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Spacer, Paragraph, Table, TableStyle, PageBreak
-from reportlab.lib.styles import ParagraphStyle
-import io
 
 
 
@@ -51,22 +45,31 @@ def races_page(request, division):
 
     return render(request, "Races.html", context)
 
-def swimmers_page(request):
-    return render(request, "swimmers.html")
+def swimmers_page(request, division):
+    swimmers = Races.objects.filter(division=division).values('name', 'name_slug').distinct()
+    return render(request, "Swimmers.html", {
+        'swimmers': swimmers,
+        'division': division,
+    })
 
-def swimmers_slug(request, name):
-    races = Races.objects.all().filter(name_slug=name)
+def swimmers_slug(request, division, name):
+    races = Races.objects.all().filter(division=division, name_slug=name)
     formatted_name = ""
     if races:
         formatted_name = races[0].name
-    return render(request, "swimmers.html", {'races': races, 'formatted_name': formatted_name})
+    return render(request, "Swimmers.html", {
+        'races': races,
+        'formatted_name': formatted_name,
+        'division': division,
+    })
 
-def swimmer_redirect(request):
+def swimmer_redirect(request, division):
     if request.method == 'POST':
         name = request.POST.get('SwimmerName', '')
-        slug_name = slugify(name)
-        return swimmers_slug('swimmers_slug', name=slug_name)
-    return redirect('/')
+        if name:
+            slug_name = slugify(name)
+            return redirect('swimmers_slug', division=division, name=slug_name)
+    return redirect('swimmers_page', division=division)
 
 def teams_slug(request, name):
     races = Races.objects.all().filter(team_slug=name)

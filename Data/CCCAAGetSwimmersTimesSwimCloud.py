@@ -4,11 +4,15 @@ from bs4 import BeautifulSoup
 from Models.Race import Race
 
 #Declarations
+divisionsList =["CCCAA", "Big8"]
 td_text = []
 eventNumList = [150, 1100, 1200, 1500, 11650, 250, 2100, 2200, 350, 3100, 3200, 450, 4100, 4200, 5100, 5200, 5400]
 genderList = ["M", "F"]
 j = 0
-Race.ClearFile("SwimmerTimesCCCAA.txt") #resets the file
+
+div = divisionsList[1]
+Race.ClearFile(f"SwimmerTimes{div}.txt") #resets the file
+
 eventMap: dict[int, Race] = {}
 
 #Loops over both genders, all events, up to the top 200 in each event
@@ -17,7 +21,11 @@ for gender in genderList:
         td_text = []
         eventMap: dict[int, Race] = {}
         for i in range(1): #replace 4 with however many values you want *50, e.g. 10 is top 500.
-            url = f"https://www.swimcloud.com/times/iframe/?page={i+1}&region=division_6&orgcode=3&course=Y&hide_gender=0&hide_season=0&event={event}&season=29&gender={gender}"
+            url = ""
+            if div == divisionsList[0]:
+                url = f"https://www.swimcloud.com/times/iframe/?page={i+1}&region=division_6&orgcode=3&course=Y&hide_gender=0&hide_season=0&event={event}&season=29&gender={gender}"
+            elif div == divisionsList[1]:
+                url = f"https://www.swimcloud.com/times/iframe/?page={i+1}&region=genericregion_832&orgcode=3&course=Y&hide_gender=0&hide_season=0&event={event}&season=29&gender={gender}"
             data = requests.get(url).text
             soup = BeautifulSoup(data, "html.parser")
             td_text.extend(td.get_text(strip=True) for td in soup.find_all("td")) #adds to the list what we scrape
@@ -31,11 +39,12 @@ for gender in genderList:
             team = td_text[i+2]
             meet = td_text[i+3]
             time = td_text[i+4]
+            A = "False"
             if str(td_text[i+5]).__contains__("A"):
                 A = "True"
             else:
                 A = "False"
-            temp_race = Race(place, name, team, meet, time, event, gender, A, "CCCAA")
+            temp_race = Race(place, name, team, meet, time, event, gender, A, div)
             eventMap[j] = temp_race
             if len(eventMap) == 51 or len(eventMap) == 101 or len(eventMap) == 151:
                 if eventMap[j] == eventMap[j-50]:

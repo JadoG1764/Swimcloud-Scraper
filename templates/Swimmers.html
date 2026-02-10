@@ -1,4 +1,4 @@
-{% extends "template.html" %}
+{% extends "Swimmers_template.html" %}
 {% load static %}
 
 {% block title %}
@@ -10,17 +10,18 @@
 {% endblock %}
 
 {% block main %}
+    <form action="/swimmers_redirect/{{ division }}/" method="POST">
+        {% csrf_token %}
+            <label for="SwimmerName">Swimmer Name:</label>
+            <input type="text" id="SwimmerName" name="SwimmerName" placeholder="Enter name">
+            <input type="submit" value="Enter">
+    </form>
+
     {% if formatted_name %}
         <h1>{{ formatted_name }}</h1>
         {% for race in races %}
             <p>{{ race.place }}: {{ race.name }} swims for {{ race.team }} and went {{ race.time }} at {{ race.meet }} in the {{ race.gender }}'s {{ race.event }}</p>
         {% endfor %}
-    {% else %}
-        <form action="/swimmers_redirect/" method="POST">
-  {% csrf_token %}
-          <label for="SwimmerName">Swimmer Name:</label>
-          <input type="text" id="SwimmerName" name="SwimmerName" placeholder="Enter name">
-          <input type="submit" value="Enter">
-        </form>
     {% endif %}
+
 {% endblock %}
