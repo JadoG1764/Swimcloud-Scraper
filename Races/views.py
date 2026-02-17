@@ -2,9 +2,9 @@ from tkinter.constants import PAGES
 
 from django.http import HttpResponse
 from django.shortcuts import render
-from Models import RewriteCCSDB
+from Models import RewriteDB
 from .models import Races
-from Models import RewriteCCSDB
+from Models import RewriteDB
 from django.utils.text import slugify
 from django.shortcuts import redirect
 

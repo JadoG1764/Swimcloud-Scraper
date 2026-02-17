@@ -6,7 +6,7 @@ from pathlib import Path
 from django.utils.text import slugify
 
 
-def rewrite_ccs_db(division="CCCAA"):
+def rewrite_ccs_db(division=None):
     os.environ.setdefault(
         "DJANGO_SETTINGS_MODULE",
         "ClubSwim.settings"
@@ -16,15 +16,15 @@ def rewrite_ccs_db(division="CCCAA"):
     from Models.Race import Race
     from Races.models import Races
 
-    BASE_DIR = Path(__file__).resolve().parents[1]
+    base_dir = Path(__file__).resolve().parents[1]
     file_path = None
 
     if division == "CCCAA":
-        file_path = BASE_DIR / "Data" / "SwimmerTimesCCCAA.txt"
+        file_path = base_dir / "Data" / "SwimmerTimesCCCAA.txt"
         Races.objects.filter(division="CCCAA").delete()
 
     elif division == "CCS":
-        file_path = BASE_DIR / "Data" / "SwimmersTimesCCS.txt"
+        file_path = base_dir / "Data" / "SwimmersTimesCCS.txt"
         Races.objects.filter(division="CCS").delete()
 
     else:
@@ -70,4 +70,25 @@ def rewrite_ccs_db(division="CCCAA"):
 
 
 if __name__ == "__main__":
-    rewrite_ccs_db("CCCAA")
+    while (True):
+        print("What database do you want to update?")
+        print("1.CCCAA")
+        print("2.CCS")
+        print("3.All")
+        print("To exit type 'exit'")
+        db = input("Enter your choice: ")
+        if db == "1":
+            rewrite_ccs_db("CCCAA")
+            break
+        elif db == "2":
+            rewrite_ccs_db("CCS")
+            break
+        elif db == "3":
+            rewrite_ccs_db("CCCAA")
+            rewrite_ccs_db("CCS")
+            break
+        elif db == "exit":
+            break
+        else:
+            print("Invalid choice, Enter 1-3 or type exit to exit")
+
