@@ -10,7 +10,7 @@ eventNumList = [150, 1100, 1200, 1500, 11650, 250, 2100, 2200, 350, 3100, 3200, 
 genderList = ["M", "F"]
 j = 0
 
-div = divisionsList[1]
+div = divisionsList[0]
 Race.ClearFile(f"SwimmerTimes{div}.txt") #resets the file
 
 eventMap: dict[int, Race] = {}
