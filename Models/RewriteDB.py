@@ -27,9 +27,12 @@ def rewrite_ccs_db(division=None):
         file_path = base_dir / "Data" / "SwimmersTimesCCS.txt"
         Races.objects.filter(division="CCS").delete()
 
+    elif division == "Big8":
+        file_path = base_dir / "Data" / "SwimmerTimesBig8.txt"
+        Races.objects.filter(division="Big8").delete()
+
     else:
         raise ValueError(f"Unknown division: {division}")
-
 
     with open(file_path, "r", encoding="utf-8") as file:
         data = file.read()
@@ -74,7 +77,8 @@ if __name__ == "__main__":
         print("What database do you want to update?")
         print("1.CCCAA")
         print("2.CCS")
-        print("3.All")
+        print("3.Big 8")
+        print("4.All")
         print("To exit type 'exit'")
         db = input("Enter your choice: ")
         if db == "1":
@@ -84,8 +88,12 @@ if __name__ == "__main__":
             rewrite_ccs_db("CCS")
             break
         elif db == "3":
+            rewrite_ccs_db("Big8")
+            break
+        elif db == "4":
             rewrite_ccs_db("CCCAA")
             rewrite_ccs_db("CCS")
+            rewrite_ccs_db("Big8")
             break
         elif db == "exit":
             break

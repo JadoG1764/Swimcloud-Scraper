@@ -14,6 +14,8 @@ def pdf_download(request, division):
     # Base queryset
     races = Races.objects.filter(division=division)
 
+    if division == "Big8":
+        division = "Big 8"
 
     # Filter by events if any selected
     if selected_events:
@@ -50,7 +52,7 @@ def pdf_download(request, division):
         canvas.saveState()
         # Text
         canvas.setFont('Helvetica', 16)
-        canvas.drawString(36, letter[1] - 30, f"{division} Division Rankings")
+        canvas.drawString(36, letter[1] - 30, f"{division} Rankings")
         # Image
         header_image_path = "static/viking_logo.jfif"  # adjust to your static path
         try:
@@ -80,6 +82,15 @@ def pdf_download(request, division):
     events_on_page = 0
     current_gender = None
 
+    if selected_top == 20:
+        fsize = 10
+        pad = 2.5
+        on_page = 2
+    else:
+        fsize = 12
+        pad = 5
+        on_page = 1
+
     for race in races:
         # Add a header when the event or gender changes
         if current_gender is not None and current_gender != race.gender:
@@ -91,9 +102,9 @@ def pdf_download(request, division):
             current_gender = race.gender
             events_on_page += 1
 
-            if events_on_page > 1:
+            if events_on_page > on_page:
                 elements.append(PageBreak())
-                events_on_page = 1
+                events_on_page = on_page - 1
 
             elements.append(Spacer(0, 3))
             elements.append(Paragraph(
@@ -113,14 +124,14 @@ def pdf_download(request, division):
         table = Table([row], colWidths=[20, 100, 270, 80])
 
         style = TableStyle([
-            ("FONTSIZE", (0, 0), (-1, -1), 11), #font size
+            ("FONTSIZE", (0, 0), (-1, -1), fsize), #font size
             ("ALIGN", (0, 0), (0, 0), "LEFT"),  # place
             ("ALIGN", (1, 0), (1, 0), "LEFT"),  # name
             ("ALIGN", (2, 0), (2, 0), "CENTER"),  # team
             ("ALIGN", (3, 0), (3, 0), "RIGHT"),  # time
             ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
-            ("TOPPADDING", (0, 0), (-1, -1), 5),
-            ("BOTTOMPADDING", (0, 0), (-1, -1), 5),
+            ("TOPPADDING", (0, 0), (-1, -1), pad),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), pad),
             ("LEFTPADDING", (0, 0), (-1, -1), 4),
             ("RIGHTPADDING", (0, 0), (-1, -1), 4),
         ])

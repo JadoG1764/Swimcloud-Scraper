@@ -57,7 +57,7 @@ class Race:
                         self.nqt = False
             else:
                 self.nqt = True
-        if self.division == "CCCAA":
+        if self.division == "CCCAA" or self.division == "Big8":
             if nqt == "False":
                 if self.place < 17:
                     self.nqt = True
