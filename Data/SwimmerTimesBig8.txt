@@ -1,5 +1,5 @@
 1;Justin Hsieh;American River;Cuesta Super Invite;21.20;50 Free;Men;True;Big8
-2;Ray Fitch;Diablo Valley;Jack Flanagan Viking Invitational;21.47;50 Free;Men;True;Big8
+2;Ray Fitch;Diablo Valley;Big 8 INVITE;21.45;50 Free;Men;True;Big8
 3;Madden Magee;Sierra;40th Annual Mt. SAC Invitational;21.49;50 Free;Men;True;Big8
 4;Joe Greer;Diablo Valley;Jack Flanagan Viking Invitational;21.77;50 Free;Men;True;Big8
 5;Mckeane Beier;American River;Cuesta Super Invite;21.79;50 Free;Men;True;Big8
@@ -8,67 +8,67 @@
 8;Joshua Noonan;American River;Cuesta Super Invite;22.22;50 Free;Men;True;Big8
 9;Rowan Taggatz;American River;Cuesta Super Invite;22.24;50 Free;Men;True;Big8
 10;Benjamin Svoboda;Modesto JC;Delta College Invitational - Discipline Meet;22.26;50 Free;Men;True;Big8
-11;Lance Wogsland;Santa Rosa;40th Annual Mt. SAC Invitational;22.32;50 Free;Men;True;Big8
-12;Logan Irvine;Sierra;40th Annual Mt. SAC Invitational;22.34;50 Free;Men;True;Big8
-13;Jonah Mafnas;Cosumnes River College;14th Annual De Anza Invite;22.44;50 Free;Men;True;Big8
-14;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;22.47;50 Free;Men;True;Big8
-15;James Pitcock;Cosumnes River College;23rd Annual Mariner Invite;22.49;50 Free;Men;True;Big8
-16;Daniel Lewis;Diablo Valley;Jack Flanagan Viking Invitational;22.58;50 Free;Men;True;Big8
-17;Rhett Wildenradt;Sierra;40th Annual Mt. SAC Invitational;22.60;50 Free;Men;False;Big8
-18;Nolan Pogson;American River;Cuesta Super Invite;22.66;50 Free;Men;False;Big8
-19;Damon Winton;Sierra;Mt. SAC vs. Sierra;22.73;50 Free;Men;False;Big8
-20;Graden Callahan;Sierra;Mt. SAC vs. Sierra;22.77;50 Free;Men;False;Big8
-21;Andrew Manzo;Sierra;40th Annual Mt. SAC Invitational;22.93;50 Free;Men;False;Big8
-22;Max Benson;Diablo Valley;Jack Flanagan Viking Invitational;23.00;50 Free;Men;False;Big8
-23;Arian Mutschler;American River;Cuesta Super Invite;23.07;50 Free;Men;False;Big8
-24;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;23.10;50 Free;Men;False;Big8
-25;Andrew Donlin;American River;Jack Flanagan - Afternoon Session;23.19;50 Free;Men;False;Big8
-26;Cooper Cox;Modesto JC;40th Annual Mt. SAC Invitational;23.33;50 Free;Men;False;Big8
-27;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;23.36;50 Free;Men;False;Big8
-28;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;50 Free;Men;False;Big8
-29;Josiah Ortego;American River;Cuesta Super Invite;23.52;50 Free;Men;False;Big8
-30;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;50 Free;Men;False;Big8
-31;Josh Sayo;American River;Cuesta Super Invite;23.56;50 Free;Men;False;Big8
-32;Niko Tzorbatzakis;Diablo Valley;Jack Flanagan Viking Invitational;23.65;50 Free;Men;False;Big8
-33;Seth Venables;Diablo Valley;Jack Flanagan Viking Invitational;23.70;50 Free;Men;False;Big8
-34;Oliver Cockcroft;American River;Los Rios Invite;23.73;50 Free;Men;False;Big8
-35;Kai Holt;Santa Rosa;Los Rios Invite;23.85;50 Free;Men;False;Big8
-36;Matt Welch;Diablo Valley;Jack Flanagan Viking Invitational;23.90;50 Free;Men;False;Big8
-37;Christian Lund;American River;Cuesta Super Invite;23.94;50 Free;Men;False;Big8
-38;Ryker Lichtenberg;Santa Rosa;Los Rios Invite;23.98;50 Free;Men;False;Big8
-39;Matthew Barbusca;Cosumnes River College;23rd Annual Mariner Invite;24.03;50 Free;Men;False;Big8
-40;Jacob Domingo;Sierra;CCSF Rams Invitational;24.05;50 Free;Men;False;Big8
-40;Rowan Vecchio;Diablo Valley;Los Rios Invite;24.05;50 Free;Men;False;Big8
-42;Logan Martin;American River;LPC vs MSAC vs ARC;24.11;50 Free;Men;False;Big8
-43;Quinn Luttropp;Diablo Valley;Los Rios Invite;24.25;50 Free;Men;False;Big8
-44;Marco Escatel;Sierra;Mt. SAC vs. Sierra;24.29;50 Free;Men;False;Big8
-45;Kenya Ho;American River;Cuesta Super Invite;24.31;50 Free;Men;False;Big8
-46;Jake Williams;Sacramento City;Los Rios Invite;24.35;50 Free;Men;False;Big8
-47;Brien Emmons;American River;Los Rios Invite;24.49;50 Free;Men;False;Big8
-48;Jacob Miller;Modesto JC;Delta College Invitational - Discipline Meet;24.52;50 Free;Men;False;Big8
-49;Andrej Laptev;Sierra;Mt. SAC vs. Sierra;24.60;50 Free;Men;False;Big8
-50;Kaelan Skeehan;Sierra;40th Annual Mt. SAC Invitational;24.66;50 Free;Men;False;Big8
+11;Graden Callahan;Sierra;Big 8 INVITE;22.28;50 Free;Men;True;Big8
+12;Lance Wogsland;Santa Rosa;40th Annual Mt. SAC Invitational;22.32;50 Free;Men;True;Big8
+13;Logan Irvine;Sierra;40th Annual Mt. SAC Invitational;22.34;50 Free;Men;True;Big8
+14;Jonah Mafnas;Cosumnes River College;14th Annual De Anza Invite;22.44;50 Free;Men;True;Big8
+15;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;22.47;50 Free;Men;True;Big8
+16;James Pitcock;Cosumnes River College;23rd Annual Mariner Invite;22.49;50 Free;Men;True;Big8
+17;Daniel Lewis;Diablo Valley;Jack Flanagan Viking Invitational;22.58;50 Free;Men;False;Big8
+18;Rhett Wildenradt;Sierra;40th Annual Mt. SAC Invitational;22.60;50 Free;Men;False;Big8
+19;Nolan Pogson;American River;Cuesta Super Invite;22.66;50 Free;Men;False;Big8
+20;Donovan Swann;Diablo Valley;Big 8 INVITE;22.68;50 Free;Men;False;Big8
+21;Damon Winton;Sierra;Mt. SAC vs. Sierra;22.73;50 Free;Men;False;Big8
+22;Andrew Manzo;Sierra;40th Annual Mt. SAC Invitational;22.93;50 Free;Men;False;Big8
+23;Max Benson;Diablo Valley;Jack Flanagan Viking Invitational;23.00;50 Free;Men;False;Big8
+24;Arian Mutschler;American River;Cuesta Super Invite;23.07;50 Free;Men;False;Big8
+25;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;23.10;50 Free;Men;False;Big8
+26;Cooper Cox;Modesto JC;Big 8 INVITE;23.17;50 Free;Men;False;Big8
+27;Andrew Donlin;American River;Jack Flanagan - Afternoon Session;23.19;50 Free;Men;False;Big8
+28;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;23.36;50 Free;Men;False;Big8
+29;Isaiah Warner;Diablo Valley;Los Rios Invite;23.50;50 Free;Men;False;Big8
+30;Josiah Ortego;American River;Cuesta Super Invite;23.52;50 Free;Men;False;Big8
+31;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;23.54;50 Free;Men;False;Big8
+32;Josh Sayo;American River;Cuesta Super Invite;23.56;50 Free;Men;False;Big8
+33;Niko Tzorbatzakis;Diablo Valley;Jack Flanagan Viking Invitational;23.65;50 Free;Men;False;Big8
+34;Seth Venables;Diablo Valley;Jack Flanagan Viking Invitational;23.70;50 Free;Men;False;Big8
+35;Oliver Cockcroft;American River;Los Rios Invite;23.73;50 Free;Men;False;Big8
+36;Kai Holt;Santa Rosa;Los Rios Invite;23.85;50 Free;Men;False;Big8
+37;Matt Welch;Diablo Valley;Jack Flanagan Viking Invitational;23.90;50 Free;Men;False;Big8
+38;Christian Lund;American River;Cuesta Super Invite;23.94;50 Free;Men;False;Big8
+39;Ryker Lichtenberg;Santa Rosa;Los Rios Invite;23.98;50 Free;Men;False;Big8
+40;Matthew Barbusca;Cosumnes River College;23rd Annual Mariner Invite;24.03;50 Free;Men;False;Big8
+41;Rowan Vecchio;Diablo Valley;Los Rios Invite;24.05;50 Free;Men;False;Big8
+41;Jacob Domingo;Sierra;CCSF Rams Invitational;24.05;50 Free;Men;False;Big8
+43;Logan Martin;American River;LPC vs MSAC vs ARC;24.11;50 Free;Men;False;Big8
+44;Maddox Todd;San Joaquin;Big 8 INVITE;24.12;50 Free;Men;False;Big8
+45;Quinn Luttropp;Diablo Valley;Los Rios Invite;24.25;50 Free;Men;False;Big8
+46;Marco Escatel;Sierra;Mt. SAC vs. Sierra;24.29;50 Free;Men;False;Big8
+47;Kenya Ho;American River;Cuesta Super Invite;24.31;50 Free;Men;False;Big8
+48;Jake Williams;Sacramento City;Los Rios Invite;24.35;50 Free;Men;False;Big8
+49;Renzo Archer;American River;Big 8 INVITE;24.43;50 Free;Men;False;Big8
+50;Brien Emmons;American River;Los Rios Invite;24.49;50 Free;Men;False;Big8
 1;Justin Hsieh;American River;Cuesta Super Invite;46.43;100 Free;Men;True;Big8
 2;Madden Magee;Sierra;40th Annual Mt. SAC Invitational;47.18;100 Free;Men;True;Big8
 3;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;47.42;100 Free;Men;True;Big8
 4;Rowan Taggatz;American River;Cuesta Super Invite;47.66;100 Free;Men;True;Big8
 5;Benjamin Svoboda;Modesto JC;40th Annual Mt. SAC Invitational;47.83;100 Free;Men;True;Big8
 6;Joe Greer;Diablo Valley;Jack Flanagan Viking Invitational;48.41;100 Free;Men;True;Big8
-7;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;48.84;100 Free;Men;True;Big8
-8;Joshua Noonan;American River;Cuesta Super Invite;48.86;100 Free;Men;True;Big8
-9;Jonah Mafnas;Cosumnes River College;Los Rios Invite;48.89;100 Free;Men;True;Big8
-10;Damon Winton;Sierra;40th Annual Mt. SAC Invitational;48.90;100 Free;Men;True;Big8
-11;Rhett Wildenradt;Sierra;40th Annual Mt. SAC Invitational;49.11;100 Free;Men;True;Big8
-12;Andrew Donlin;American River;Jack Flanagan Viking Invitational;49.12;100 Free;Men;True;Big8
+7;Andrew Donlin;American River;Big 8 INVITE;48.60;100 Free;Men;True;Big8
+8;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;48.84;100 Free;Men;True;Big8
+9;Damon Winton;Sierra;Big 8 INVITE;48.85;100 Free;Men;True;Big8
+10;Joshua Noonan;American River;Cuesta Super Invite;48.86;100 Free;Men;True;Big8
+11;Jonah Mafnas;Cosumnes River College;Los Rios Invite;48.89;100 Free;Men;True;Big8
+12;Rhett Wildenradt;Sierra;40th Annual Mt. SAC Invitational;49.11;100 Free;Men;True;Big8
 13;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;49.53;100 Free;Men;True;Big8
-14;James Pitcock;Cosumnes River College;14th Annual De Anza Invite;49.80;100 Free;Men;True;Big8
-15;Ray Fitch;Diablo Valley;Los Rios Invite;49.90;100 Free;Men;True;Big8
-16;Lance Wogsland;Santa Rosa;40th Annual Mt. SAC Invitational;49.94;100 Free;Men;True;Big8
-17;Mckeane Beier;American River;Los Rios Invite;50.00;100 Free;Men;False;Big8
+14;Mckeane Beier;American River;Big 8 INVITE;49.71;100 Free;Men;True;Big8
+15;James Pitcock;Cosumnes River College;14th Annual De Anza Invite;49.80;100 Free;Men;True;Big8
+16;Ray Fitch;Diablo Valley;Los Rios Invite;49.90;100 Free;Men;True;Big8
+17;Lance Wogsland;Santa Rosa;40th Annual Mt. SAC Invitational;49.94;100 Free;Men;False;Big8
 18;Jacob Domingo;Sierra;40th Annual Mt. SAC Invitational;50.15;100 Free;Men;False;Big8
 19;Logan Irvine;Sierra;CCSF Rams Invitational;50.48;100 Free;Men;False;Big8
 20;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;50.49;100 Free;Men;False;Big8
-21;Isaiah Warner;Diablo Valley;Los Rios Invite;50.79;100 Free;Men;False;Big8
+21;Isaiah Warner;Diablo Valley;Big 8 INVITE;50.75;100 Free;Men;False;Big8
 22;Josiah Ortego;American River;Cuesta Super Invite;50.95;100 Free;Men;False;Big8
 23;Ryker Lichtenberg;Santa Rosa;Los Rios Invite;51.05;100 Free;Men;False;Big8
 24;Matthew Barbusca;Cosumnes River College;23rd Annual Mariner Invite;51.10;100 Free;Men;False;Big8
@@ -79,75 +79,75 @@
 29;Blake Pogson;American River;Cuesta Super Invite;51.47;100 Free;Men;False;Big8
 30;Niko Tzorbatzakis;Diablo Valley;Jack Flanagan Viking Invitational;51.58;100 Free;Men;False;Big8
 31;Evan Sonoda;Diablo Valley;Los Rios Invite;51.66;100 Free;Men;False;Big8
-32;Nolan Pogson;American River;Cuesta Super Invite;52.01;100 Free;Men;False;Big8
-32;Andrew Manzo;Sierra;CCSF Rams Invitational;52.01;100 Free;Men;False;Big8
-34;Seth Venables;Diablo Valley;Los Rios Invite;52.10;100 Free;Men;False;Big8
-35;Oliver Cockcroft;American River;Cuesta Super Invite;52.19;100 Free;Men;False;Big8
-36;Guy Hein;San Joaquin;Delta College Invitational - Discipline Meet;52.42;100 Free;Men;False;Big8
-37;Marco Escatel;Sierra;40th Annual Mt. SAC Invitational;52.67;100 Free;Men;False;Big8
-38;Jake Williams;Sacramento City;Cuesta Super Invite;52.70;100 Free;Men;False;Big8
-39;Garrett Woody;Santa Rosa;40th Annual Mt. SAC Invitational;52.73;100 Free;Men;False;Big8
-40;Jacob Miller;Modesto JC;Merced College Sprint Invitational;52.97;100 Free;Men;False;Big8
-41;Calvin Honsal;Sierra;40th Annual Mt. SAC Invitational;53.00;100 Free;Men;False;Big8
-42;Ben Binder;Santa Rosa;40th Annual Mt. SAC Invitational;53.38;100 Free;Men;False;Big8
-43;Keanu Laolagi;Modesto JC;40th Annual Mt. SAC Invitational;53.44;100 Free;Men;False;Big8
-44;Quinn Luttropp;Diablo Valley;Los Rios Invite;53.57;100 Free;Men;False;Big8
-45;Rowan Vecchio;Diablo Valley;Delta College Invitational - Discipline Meet;53.62;100 Free;Men;False;Big8
-46;Yuji Tan;Diablo Valley;Jack Flanagan Viking Invitational;53.74;100 Free;Men;False;Big8
-47;Justin Edgar;Sierra;40th Annual Mt. SAC Invitational;53.81;100 Free;Men;False;Big8
-48;Emmett Wong;Diablo Valley;PC SC Senior Open P.F;53.94;100 Free;Men;False;Big8
-49;Brien Emmons;American River;Jack Flanagan Viking Invitational;54.15;100 Free;Men;False;Big8
-50;Shawn Boland;Diablo Valley;Jack Flanagan Viking Invitational;54.27;100 Free;Men;False;Big8
+32;Jake Williams;Sacramento City;Big 8 INVITE;51.85;100 Free;Men;False;Big8
+33;Andrew Manzo;Sierra;CCSF Rams Invitational;52.01;100 Free;Men;False;Big8
+33;Nolan Pogson;American River;Cuesta Super Invite;52.01;100 Free;Men;False;Big8
+35;Seth Venables;Diablo Valley;Los Rios Invite;52.10;100 Free;Men;False;Big8
+36;Oliver Cockcroft;American River;Cuesta Super Invite;52.19;100 Free;Men;False;Big8
+37;Guy Hein;San Joaquin;Delta College Invitational - Discipline Meet;52.42;100 Free;Men;False;Big8
+38;Quinn Luttropp;Diablo Valley;Big 8 INVITE;52.57;100 Free;Men;False;Big8
+39;Renzo Archer;American River;Big 8 INVITE;52.62;100 Free;Men;False;Big8
+40;Marco Escatel;Sierra;40th Annual Mt. SAC Invitational;52.67;100 Free;Men;False;Big8
+41;Garrett Woody;Santa Rosa;40th Annual Mt. SAC Invitational;52.73;100 Free;Men;False;Big8
+42;Matt Welch;Diablo Valley;Big 8 INVITE;52.84;100 Free;Men;False;Big8
+43;Donovan Swann;Diablo Valley;Big 8 INVITE;52.96;100 Free;Men;False;Big8
+44;Jacob Miller;Modesto JC;Merced College Sprint Invitational;52.97;100 Free;Men;False;Big8
+45;Calvin Honsal;Sierra;40th Annual Mt. SAC Invitational;53.00;100 Free;Men;False;Big8
+46;Ben Binder;Santa Rosa;40th Annual Mt. SAC Invitational;53.38;100 Free;Men;False;Big8
+47;Keanu Laolagi;Modesto JC;40th Annual Mt. SAC Invitational;53.44;100 Free;Men;False;Big8
+48;Rowan Vecchio;Diablo Valley;Delta College Invitational - Discipline Meet;53.62;100 Free;Men;False;Big8
+49;Charlie Tucker;Sacramento City;Big 8 INVITE;53.66;100 Free;Men;False;Big8
+50;Yuji Tan;Diablo Valley;Jack Flanagan Viking Invitational;53.74;100 Free;Men;False;Big8
 1;Justin Hsieh;American River;Cuesta Super Invite;1:45.30;200 Free;Men;True;Big8
 2;Madden Magee;Sierra;40th Annual Mt. SAC Invitational;1:45.43;200 Free;Men;True;Big8
-3;Rhett Wildenradt;Sierra;40th Annual Mt. SAC Invitational;1:46.77;200 Free;Men;True;Big8
-4;James Managbanag;Sierra;Mt. SAC vs. Sierra;1:46.78;200 Free;Men;True;Big8
-5;Akim Kirilyuk;Sierra;CCSF Rams Invitational;1:46.94;200 Free;Men;True;Big8
+3;Akim Kirilyuk;Sierra;Big 8 INVITE;1:46.62;200 Free;Men;True;Big8
+4;Rhett Wildenradt;Sierra;40th Annual Mt. SAC Invitational;1:46.77;200 Free;Men;True;Big8
+5;James Managbanag;Sierra;Mt. SAC vs. Sierra;1:46.78;200 Free;Men;True;Big8
 6;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;1:47.88;200 Free;Men;True;Big8
-7;Benjamin Svoboda;Modesto JC;40th Annual Mt. SAC Invitational;1:48.48;200 Free;Men;True;Big8
-8;Jacob Domingo;Sierra;Mt. SAC vs. Sierra;1:48.73;200 Free;Men;True;Big8
-9;Damon Winton;Sierra;40th Annual Mt. SAC Invitational;1:49.28;200 Free;Men;True;Big8
-10;Arian Mutschler;American River;Cuesta Super Invite;1:51.10;200 Free;Men;True;Big8
-11;Andrew Donlin;American River;LPC vs MSAC vs ARC;1:51.94;200 Free;Men;True;Big8
-12;Daniel Lewis;Diablo Valley;Delta College Invitational - Discipline Meet;1:52.01;200 Free;Men;True;Big8
-13;Rowan Taggatz;American River;Cuesta Super Invite;1:52.04;200 Free;Men;True;Big8
-14;Jonah Mafnas;Cosumnes River College;14th Annual De Anza Invite;1:52.96;200 Free;Men;True;Big8
-15;James Pitcock;Cosumnes River College;23rd Annual Mariner Invite;1:53.32;200 Free;Men;True;Big8
-16;Jacob Miller;Modesto JC;Delta College Invitational - Discipline Meet;1:54.46;200 Free;Men;True;Big8
-17;Evan Sonoda;Diablo Valley;Delta College Invitational - Discipline Meet;1:54.52;200 Free;Men;False;Big8
-18;Petros Lewis;Diablo Valley;Jack Flanagan - Afternoon Session;1:54.67;200 Free;Men;False;Big8
-19;Garrett Woody;Santa Rosa;40th Annual Mt. SAC Invitational;1:54.94;200 Free;Men;False;Big8
-20;Kaelan Skeehan;Sierra;CCSF Rams Invitational;1:55.39;200 Free;Men;False;Big8
-20;Oliver Cockcroft;American River;Cuesta Super Invite;1:55.39;200 Free;Men;False;Big8
-22;Ryker Lichtenberg;Santa Rosa;Delta College Invitational - Discipline Meet;1:55.78;200 Free;Men;False;Big8
-23;Cooper Cox;Modesto JC;40th Annual Mt. SAC Invitational;1:56.07;200 Free;Men;False;Big8
-24;Mckeane Beier;American River;Delta College Invitational - Discipline Meet;1:56.28;200 Free;Men;False;Big8
-25;Josiah Deleon;American River;Los Rios Invite;1:56.45;200 Free;Men;False;Big8
-26;Brien Emmons;American River;Cuesta Super Invite;1:58.06;200 Free;Men;False;Big8
-27;Jake Williams;Sacramento City;Cuesta Super Invite;1:58.37;200 Free;Men;False;Big8
-28;Enrique Jimenez;Santa Rosa;40th Annual Mt. SAC Invitational;1:58.56;200 Free;Men;False;Big8
-29;Alessandro Carino;Diablo Valley;Jack Flanagan Viking Invitational;1:58.98;200 Free;Men;False;Big8
-30;Noah Foster;American River;Delta College Invitational - Discipline Meet;1:59.05;200 Free;Men;False;Big8
-31;Josiah Ortego;American River;Delta College Invitational - Discipline Meet;1:59.31;200 Free;Men;False;Big8
-32;Josh Sayo;American River;Los Rios Invite;1:59.89;200 Free;Men;False;Big8
-33;Calvin Honsal;Sierra;Mt. SAC vs. Sierra;2:00.09;200 Free;Men;False;Big8
-34;Marco Escatel;Sierra;40th Annual Mt. SAC Invitational;2:00.23;200 Free;Men;False;Big8
-35;Brandon Valerian Suharto;San Joaquin;14th Annual De Anza Invite;2:00.44;200 Free;Men;False;Big8
-36;Blake Pogson;American River;Los Rios Invite;2:00.48;200 Free;Men;False;Big8
-37;Maddox Todd;San Joaquin;14th Annual De Anza Invite;2:01.01;200 Free;Men;False;Big8
-38;Charlie Tucker;Sacramento City;Cuesta Super Invite;2:03.05;200 Free;Men;False;Big8
-39;Lucas Cagnon;Diablo Valley;Jack Flanagan Viking Invitational;2:03.40;200 Free;Men;False;Big8
-40;David Vertlyanskyy;Sierra;40th Annual Mt. SAC Invitational;2:03.46;200 Free;Men;False;Big8
-41;Andrew Getty;Diablo Valley;Jack Flanagan Viking Invitational;2:03.49;200 Free;Men;False;Big8
-42;Yuji Tan;Diablo Valley;Delta College Invitational - Discipline Meet;2:03.82;200 Free;Men;False;Big8
-43;Seth Venables;Diablo Valley;Delta College Invitational - Discipline Meet;2:03.83;200 Free;Men;False;Big8
-44;Shawn Boland;Diablo Valley;Jack Flanagan Viking Invitational;2:04.61;200 Free;Men;False;Big8
-45;Sean ;Sierra;CCSF Rams Invitational;2:05.03;200 Free;Men;False;Big8
-46;Quinn Luttropp;Diablo Valley;Los Rios Invite;2:05.37;200 Free;Men;False;Big8
-47;Ben Binder;Santa Rosa;Los Rios Invite;2:05.74;200 Free;Men;False;Big8
-48;Niko Tzorbatzakis;Diablo Valley;Delta College Invitational - Discipline Meet;2:05.89;200 Free;Men;False;Big8
-49;Arie Hoogeveen;Modesto JC;40th Annual Mt. SAC Invitational;2:06.29;200 Free;Men;False;Big8
-50;Everyn Kneeland;Sierra;Mt. SAC vs. Sierra;2:07.43;200 Free;Men;False;Big8
+7;Benjamin Svoboda;Modesto JC;Big 8 INVITE;1:48.04;200 Free;Men;True;Big8
+8;Damon Winton;Sierra;Big 8 INVITE;1:48.53;200 Free;Men;True;Big8
+9;Andrew Donlin;American River;Big 8 INVITE;1:48.58;200 Free;Men;True;Big8
+10;Jacob Domingo;Sierra;Mt. SAC vs. Sierra;1:48.73;200 Free;Men;True;Big8
+11;Joe Greer;Diablo Valley;Big 8 INVITE;1:49.63;200 Free;Men;True;Big8
+12;Arian Mutschler;American River;Cuesta Super Invite;1:51.10;200 Free;Men;True;Big8
+13;Josiah Deleon;American River;Big 8 INVITE;1:51.41;200 Free;Men;True;Big8
+14;Evan Sonoda;Diablo Valley;Big 8 INVITE;1:51.55;200 Free;Men;True;Big8
+15;Jacob Miller;Modesto JC;Big 8 INVITE;1:51.62;200 Free;Men;True;Big8
+16;Daniel Lewis;Diablo Valley;Delta College Invitational - Discipline Meet;1:52.01;200 Free;Men;True;Big8
+17;Rowan Taggatz;American River;Cuesta Super Invite;1:52.04;200 Free;Men;False;Big8
+18;Jonah Mafnas;Cosumnes River College;Big 8 INVITE;1:52.37;200 Free;Men;False;Big8
+19;James Pitcock;Cosumnes River College;23rd Annual Mariner Invite;1:53.32;200 Free;Men;False;Big8
+20;Spencer Cox;Modesto JC;Big 8 INVITE;1:54.15;200 Free;Men;False;Big8
+21;Petros Lewis;Diablo Valley;Jack Flanagan - Afternoon Session;1:54.67;200 Free;Men;False;Big8
+22;Ryker Lichtenberg;Santa Rosa;Big 8 INVITE;1:54.79;200 Free;Men;False;Big8
+23;Garrett Woody;Santa Rosa;40th Annual Mt. SAC Invitational;1:54.94;200 Free;Men;False;Big8
+24;Oliver Cockcroft;American River;Cuesta Super Invite;1:55.39;200 Free;Men;False;Big8
+24;Kaelan Skeehan;Sierra;CCSF Rams Invitational;1:55.39;200 Free;Men;False;Big8
+26;Cooper Cox;Modesto JC;40th Annual Mt. SAC Invitational;1:56.07;200 Free;Men;False;Big8
+27;Mckeane Beier;American River;Delta College Invitational - Discipline Meet;1:56.28;200 Free;Men;False;Big8
+28;Jake Williams;Sacramento City;Big 8 INVITE;1:56.70;200 Free;Men;False;Big8
+29;Brien Emmons;American River;Cuesta Super Invite;1:58.06;200 Free;Men;False;Big8
+30;Enrique Jimenez;Santa Rosa;40th Annual Mt. SAC Invitational;1:58.56;200 Free;Men;False;Big8
+31;Alessandro Carino;Diablo Valley;Jack Flanagan Viking Invitational;1:58.98;200 Free;Men;False;Big8
+32;Noah Foster;American River;Delta College Invitational - Discipline Meet;1:59.05;200 Free;Men;False;Big8
+33;Josiah Ortego;American River;Delta College Invitational - Discipline Meet;1:59.31;200 Free;Men;False;Big8
+34;Josh Sayo;American River;Los Rios Invite;1:59.89;200 Free;Men;False;Big8
+35;Calvin Honsal;Sierra;Mt. SAC vs. Sierra;2:00.09;200 Free;Men;False;Big8
+36;Marco Escatel;Sierra;40th Annual Mt. SAC Invitational;2:00.23;200 Free;Men;False;Big8
+37;Brandon Valerian Suharto;San Joaquin;14th Annual De Anza Invite;2:00.44;200 Free;Men;False;Big8
+38;Blake Pogson;American River;Los Rios Invite;2:00.48;200 Free;Men;False;Big8
+39;Quinn Luttropp;Diablo Valley;Big 8 INVITE;2:00.75;200 Free;Men;False;Big8
+40;Shawn Boland;Diablo Valley;Big 8 INVITE;2:00.80;200 Free;Men;False;Big8
+41;Emmett Wong;Diablo Valley;Big 8 INVITE;2:00.89;200 Free;Men;False;Big8
+42;Maddox Todd;San Joaquin;14th Annual De Anza Invite;2:01.01;200 Free;Men;False;Big8
+43;Apollo Bocalan;Diablo Valley;Big 8 INVITE;2:01.97;200 Free;Men;False;Big8
+44;Lucas Cagnon;Diablo Valley;Big 8 INVITE;2:02.24;200 Free;Men;False;Big8
+45;Andrew Getty;Diablo Valley;Big 8 INVITE;2:02.80;200 Free;Men;False;Big8
+46;Charlie Tucker;Sacramento City;Cuesta Super Invite;2:03.05;200 Free;Men;False;Big8
+47;David Vertlyanskyy;Sierra;40th Annual Mt. SAC Invitational;2:03.46;200 Free;Men;False;Big8
+48;Rowan Vecchio;Diablo Valley;Big 8 INVITE;2:03.76;200 Free;Men;False;Big8
+49;Yuji Tan;Diablo Valley;Delta College Invitational - Discipline Meet;2:03.82;200 Free;Men;False;Big8
+50;Seth Venables;Diablo Valley;Delta College Invitational - Discipline Meet;2:03.83;200 Free;Men;False;Big8
 1;Akim Kirilyuk;Sierra;Mt. SAC vs. Sierra;4:59.35;500 Free;Men;True;Big8
 2;Kai Holt;Santa Rosa;40th Annual Mt. SAC Invitational;5:00.71;500 Free;Men;True;Big8
 3;Jacob Miller;Modesto JC;40th Annual Mt. SAC Invitational;5:01.10;500 Free;Men;True;Big8
@@ -158,31 +158,33 @@
 8;Damon Winton;Sierra;40th Annual Mt. SAC Invitational;5:04.86;500 Free;Men;True;Big8
 9;Madden Magee;Sierra;40th Annual Mt. SAC Invitational;5:06.53;500 Free;Men;True;Big8
 10;Arian Mutschler;American River;Cuesta Super Invite;5:07.79;500 Free;Men;True;Big8
-11;Evan Sonoda;Diablo Valley;Los Rios Invite;5:11.94;500 Free;Men;True;Big8
-12;Daniel Lewis;Diablo Valley;Los Rios Invite;5:12.82;500 Free;Men;True;Big8
-13;Brien Emmons;American River;Cuesta Super Invite;5:12.88;500 Free;Men;True;Big8
-14;Andrew Donlin;American River;Jack Flanagan Viking Invitational;5:13.62;500 Free;Men;True;Big8
+11;Andrew Donlin;American River;Big 8 INVITE;5:11.14;500 Free;Men;True;Big8
+12;Evan Sonoda;Diablo Valley;Los Rios Invite;5:11.94;500 Free;Men;True;Big8
+13;Daniel Lewis;Diablo Valley;Los Rios Invite;5:12.82;500 Free;Men;True;Big8
+14;Brien Emmons;American River;Cuesta Super Invite;5:12.88;500 Free;Men;True;Big8
 15;Garrett Woody;Santa Rosa;40th Annual Mt. SAC Invitational;5:14.06;500 Free;Men;True;Big8
-16;Calvin Honsal;Sierra;40th Annual Mt. SAC Invitational;5:23.64;500 Free;Men;True;Big8
-17;Noah Foster;American River;Cuesta Super Invite;5:26.15;500 Free;Men;False;Big8
-18;Petros Lewis;Diablo Valley;Los Rios Invite;5:27.04;500 Free;Men;False;Big8
+16;Petros Lewis;Diablo Valley;Big 8 INVITE;5:17.93;500 Free;Men;True;Big8
+17;Calvin Honsal;Sierra;40th Annual Mt. SAC Invitational;5:23.64;500 Free;Men;False;Big8
+18;Noah Foster;American River;Cuesta Super Invite;5:26.15;500 Free;Men;False;Big8
 19;Kaelan Skeehan;Sierra;CCSF Rams Invitational;5:27.93;500 Free;Men;False;Big8
-20;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;5:28.86;500 Free;Men;False;Big8
-21;Reece Rosenquist;American River;Cuesta Super Invite;5:30.33;500 Free;Men;False;Big8
-22;Emmett Wong;Diablo Valley;Jack Flanagan Viking Invitational;5:32.58;500 Free;Men;False;Big8
-23;Jake Williams;Sacramento City;Cuesta Super Invite;5:35.65;500 Free;Men;False;Big8
-24;Nami Ranjbarsadeghi;Diablo Valley;Jack Flanagan Viking Invitational;5:36.15;500 Free;Men;False;Big8
-25;Josh Sayo;American River;Los Rios Invite;5:38.14;500 Free;Men;False;Big8
-26;Kenya Ho;American River;Cuesta Super Invite;5:38.78;500 Free;Men;False;Big8
-27;Maddox Todd;San Joaquin;Los Rios Invite;5:40.93;500 Free;Men;False;Big8
-28;Marco Escatel;Sierra;40th Annual Mt. SAC Invitational;5:42.45;500 Free;Men;False;Big8
-29;Andrew Getty;Diablo Valley;Jack Flanagan Viking Invitational;5:43.75;500 Free;Men;False;Big8
-30;Apollo Bocalan;Diablo Valley;Los Rios Invite;5:51.33;500 Free;Men;False;Big8
-31;Tobias Beutel;San Joaquin;Los Rios Invite;6:01.52;500 Free;Men;False;Big8
-32;Isaac Ritcher;Diablo Valley;Jack Flanagan Viking Invitational;6:01.89;500 Free;Men;False;Big8
-33;Simon Akers;San Joaquin;14th Annual De Anza Invite;6:12.16;500 Free;Men;False;Big8
-34;James Managbanag;Sierra;CCSF Rams Invitational;6:16.05;500 Free;Men;False;Big8
-35;Pavel Perzhu;Cosumnes River College;14th Annual De Anza Invite;7:18.85;500 Free;Men;False;Big8
+20;Charlie Tucker;Sacramento City;Big 8 INVITE;5:28.04;500 Free;Men;False;Big8
+21;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;5:28.86;500 Free;Men;False;Big8
+22;Reece Rosenquist;American River;Cuesta Super Invite;5:30.33;500 Free;Men;False;Big8
+23;Emmett Wong;Diablo Valley;Jack Flanagan Viking Invitational;5:32.58;500 Free;Men;False;Big8
+24;Seth Venables;Diablo Valley;Big 8 INVITE;5:34.65;500 Free;Men;False;Big8
+25;Jake Williams;Sacramento City;Cuesta Super Invite;5:35.65;500 Free;Men;False;Big8
+26;Nami Ranjbarsadeghi;Diablo Valley;Jack Flanagan Viking Invitational;5:36.15;500 Free;Men;False;Big8
+27;Josh Sayo;American River;Los Rios Invite;5:38.14;500 Free;Men;False;Big8
+28;Kenya Ho;American River;Cuesta Super Invite;5:38.78;500 Free;Men;False;Big8
+29;Maddox Todd;San Joaquin;Los Rios Invite;5:40.93;500 Free;Men;False;Big8
+30;Marco Escatel;Sierra;40th Annual Mt. SAC Invitational;5:42.45;500 Free;Men;False;Big8
+31;Andrew Getty;Diablo Valley;Jack Flanagan Viking Invitational;5:43.75;500 Free;Men;False;Big8
+32;Tobias Beutel;San Joaquin;Big 8 INVITE;5:47.15;500 Free;Men;False;Big8
+33;Apollo Bocalan;Diablo Valley;Los Rios Invite;5:51.33;500 Free;Men;False;Big8
+34;Isaac Ritcher;Diablo Valley;Jack Flanagan Viking Invitational;6:01.89;500 Free;Men;False;Big8
+35;James Managbanag;Sierra;Big 8 INVITE;6:11.20;500 Free;Men;False;Big8
+36;Simon Akers;San Joaquin;14th Annual De Anza Invite;6:12.16;500 Free;Men;False;Big8
+37;Pavel Perzhu;Cosumnes River College;14th Annual De Anza Invite;7:18.85;500 Free;Men;False;Big8
 1;Kai Holt;Santa Rosa;40th Annual Mt. SAC Invitational;17:20.75;11650;Men;True;Big8
 2;Jacob Miller;Modesto JC;40th Annual Mt. SAC Invitational;17:51.89;11650;Men;True;Big8
 3;Ryker Lichtenberg;Santa Rosa;Delta College Invitational - Discipline Meet;18:17.77;11650;Men;True;Big8
@@ -201,141 +203,150 @@
 2;Bryson Throm;Santa Rosa;40th Annual Mt. SAC Invitational;25.42;50 Back;Men;True;Big8
 3;Logan Irvine;Sierra;CCSF Rams Invitational;25.65;50 Back;Men;True;Big8
 4;Joe Greer;Diablo Valley;PC SC Senior Open P.F;26.14;50 Back;Men;True;Big8
-5;Phoenix Hebshi-Holt;Santa Rosa;CCSF Rams Invitational;26.63;50 Back;Men;True;Big8
-6;Davyd Tsypan;American River;Los Rios Invite;26.77;50 Back;Men;True;Big8
-7;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;26.85;50 Back;Men;True;Big8
-8;Jacob Domingo;Sierra;40th Annual Mt. SAC Invitational;27.16;50 Back;Men;True;Big8
-8;Arian Mutschler;American River;Cuesta Super Invite;27.16;50 Back;Men;True;Big8
-10;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;27.31;50 Back;Men;True;Big8
-11;Nolan Pogson;American River;Cuesta Super Invite;27.36;50 Back;Men;True;Big8
-12;Blake Pogson;American River;Cuesta Super Invite;27.45;50 Back;Men;True;Big8
-13;Evan Sonoda;Diablo Valley;Delta College Invitational - Discipline Meet;27.60;50 Back;Men;True;Big8
-14;Josh Sayo;American River;Cuesta Super Invite;27.71;50 Back;Men;True;Big8
-15;Isaiah Warner;Diablo Valley;Los Rios Invite;27.74;50 Back;Men;True;Big8
-16;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;27.84;50 Back;Men;True;Big8
-17;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;27.94;50 Back;Men;False;Big8
-18;Josiah Ortego;American River;Cuesta Super Invite;28.11;50 Back;Men;False;Big8
-19;Kenya Ho;American River;Cuesta Super Invite;28.26;50 Back;Men;False;Big8
-20;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;28.44;50 Back;Men;False;Big8
-21;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;28.49;50 Back;Men;False;Big8
-22;Cooper Cox;Modesto JC;40th Annual Mt. SAC Invitational;28.54;50 Back;Men;False;Big8
-23;Justin Byers;San Joaquin;Delta College Invitational - Discipline Meet;28.59;50 Back;Men;False;Big8
-24;Jacob Miller;Modesto JC;Merced College Sprint Invitational;28.67;50 Back;Men;False;Big8
-25;Lance Wogsland;Santa Rosa;CCSF Rams Invitational;28.72;50 Back;Men;False;Big8
-26;Rowan Vecchio;Diablo Valley;Los Rios Invite;28.89;50 Back;Men;False;Big8
-27;James Pitcock;Cosumnes River College;Merced College Sprint Invitational;29.05;50 Back;Men;False;Big8
-28;Brien Emmons;American River;Cuesta Super Invite;29.39;50 Back;Men;False;Big8
-29;Reece Rosenquist;American River;Cuesta Super Invite;29.60;50 Back;Men;False;Big8
-29;Christian Lund;American River;Cuesta Super Invite;29.60;50 Back;Men;False;Big8
-31;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;30.16;50 Back;Men;False;Big8
-32;Seth Venables;Diablo Valley;Los Rios Invite;30.47;50 Back;Men;False;Big8
-33;Grayson Chapman;American River;Cuesta Super Invite;30.50;50 Back;Men;False;Big8
-34;Ian Swallow;Santa Rosa;Delta College Invitational - Discipline Meet;30.52;50 Back;Men;False;Big8
-35;Justin Gaite;American River;Delta College Invitational - Discipline Meet;30.53;50 Back;Men;False;Big8
-36;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;30.65;50 Back;Men;False;Big8
-37;Ryan Tu;American River;Cuesta Super Invite;30.99;50 Back;Men;False;Big8
-38;Arie Hoogeveen;Modesto JC;40th Annual Mt. SAC Invitational;31.71;50 Back;Men;False;Big8
-39;Charlie Tucker;Sacramento City;Cuesta Super Invite;31.74;50 Back;Men;False;Big8
-40;Noah Foster;American River;Cuesta Super Invite;32.16;50 Back;Men;False;Big8
-41;Oliver Cockcroft;American River;Cuesta Super Invite;32.22;50 Back;Men;False;Big8
-41;Matt Welch;Diablo Valley;Los Rios Invite;32.22;50 Back;Men;False;Big8
-43;Nico Riley-Turner;Santa Rosa;CCSF Rams Invitational;32.53;50 Back;Men;False;Big8
-44;Patrick Bratset;American River;Cuesta Super Invite;33.03;50 Back;Men;False;Big8
-45;Matthew Barbusca;Cosumnes River College;14th Annual De Anza Invite;33.10;50 Back;Men;False;Big8
-46;Everyn Kneeland;Sierra;CCSF Rams Invitational;33.66;50 Back;Men;False;Big8
-47;Jayden Sheldon;Sierra;Mt. SAC vs. Sierra;33.73;50 Back;Men;False;Big8
-48;Max Benson;Diablo Valley;Los Rios Invite;33.85;50 Back;Men;False;Big8
-49;Jack Fischer;Modesto JC;40th Annual Mt. SAC Invitational;34.39;50 Back;Men;False;Big8
-50;Ben Asselin;Diablo Valley;Los Rios Invite;34.49;50 Back;Men;False;Big8
+5;Isaiah Warner;Diablo Valley;Big 8 INVITE;26.40;50 Back;Men;True;Big8
+6;Phoenix Hebshi-Holt;Santa Rosa;CCSF Rams Invitational;26.63;50 Back;Men;True;Big8
+7;Justin Hsieh;American River;Big 8 INVITE;26.66;50 Back;Men;True;Big8
+8;Davyd Tsypan;American River;Los Rios Invite;26.77;50 Back;Men;True;Big8
+9;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;26.85;50 Back;Men;True;Big8
+10;Arian Mutschler;American River;Cuesta Super Invite;27.16;50 Back;Men;True;Big8
+10;Jacob Domingo;Sierra;40th Annual Mt. SAC Invitational;27.16;50 Back;Men;True;Big8
+12;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;27.31;50 Back;Men;True;Big8
+13;Nolan Pogson;American River;Cuesta Super Invite;27.36;50 Back;Men;True;Big8
+14;Blake Pogson;American River;Cuesta Super Invite;27.45;50 Back;Men;True;Big8
+15;Evan Sonoda;Diablo Valley;Big 8 INVITE;27.47;50 Back;Men;True;Big8
+16;Madden Magee;Sierra;Big 8 INVITE;27.64;50 Back;Men;True;Big8
+17;Josh Sayo;American River;Cuesta Super Invite;27.71;50 Back;Men;False;Big8
+18;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;27.84;50 Back;Men;False;Big8
+19;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;27.94;50 Back;Men;False;Big8
+20;Josiah Ortego;American River;Cuesta Super Invite;28.11;50 Back;Men;False;Big8
+21;Kenya Ho;American River;Cuesta Super Invite;28.26;50 Back;Men;False;Big8
+22;Justin Byers;San Joaquin;Big 8 INVITE;28.39;50 Back;Men;False;Big8
+23;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;28.44;50 Back;Men;False;Big8
+24;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;28.49;50 Back;Men;False;Big8
+25;Jacob Miller;Modesto JC;Big 8 INVITE;28.52;50 Back;Men;False;Big8
+26;Cooper Cox;Modesto JC;40th Annual Mt. SAC Invitational;28.54;50 Back;Men;False;Big8
+27;Lance Wogsland;Santa Rosa;CCSF Rams Invitational;28.72;50 Back;Men;False;Big8
+28;Rowan Vecchio;Diablo Valley;Los Rios Invite;28.89;50 Back;Men;False;Big8
+29;James Pitcock;Cosumnes River College;Merced College Sprint Invitational;29.05;50 Back;Men;False;Big8
+30;Brien Emmons;American River;Cuesta Super Invite;29.39;50 Back;Men;False;Big8
+31;Reece Rosenquist;American River;Cuesta Super Invite;29.60;50 Back;Men;False;Big8
+31;Christian Lund;American River;Cuesta Super Invite;29.60;50 Back;Men;False;Big8
+33;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;30.16;50 Back;Men;False;Big8
+34;Seth Venables;Diablo Valley;Los Rios Invite;30.47;50 Back;Men;False;Big8
+35;Grayson Chapman;American River;Cuesta Super Invite;30.50;50 Back;Men;False;Big8
+36;Ian Swallow;Santa Rosa;Delta College Invitational - Discipline Meet;30.52;50 Back;Men;False;Big8
+37;Justin Gaite;American River;Delta College Invitational - Discipline Meet;30.53;50 Back;Men;False;Big8
+38;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;30.65;50 Back;Men;False;Big8
+39;Ryan Tu;American River;Cuesta Super Invite;30.99;50 Back;Men;False;Big8
+40;Arie Hoogeveen;Modesto JC;Big 8 INVITE;31.49;50 Back;Men;False;Big8
+41;Isaac Ritcher;Diablo Valley;Big 8 INVITE;31.73;50 Back;Men;False;Big8
+42;Charlie Tucker;Sacramento City;Cuesta Super Invite;31.74;50 Back;Men;False;Big8
+43;Matt Welch;Diablo Valley;Big 8 INVITE;32.06;50 Back;Men;False;Big8
+44;Noah Foster;American River;Cuesta Super Invite;32.16;50 Back;Men;False;Big8
+45;Oliver Cockcroft;American River;Cuesta Super Invite;32.22;50 Back;Men;False;Big8
+46;Nico Riley-Turner;Santa Rosa;CCSF Rams Invitational;32.53;50 Back;Men;False;Big8
+47;Patrick Bratset;American River;Cuesta Super Invite;33.03;50 Back;Men;False;Big8
+48;Matthew Barbusca;Cosumnes River College;14th Annual De Anza Invite;33.10;50 Back;Men;False;Big8
+49;Everyn Kneeland;Sierra;CCSF Rams Invitational;33.66;50 Back;Men;False;Big8
+50;Jayden Sheldon;Sierra;Mt. SAC vs. Sierra;33.73;50 Back;Men;False;Big8
 1;Bryson Throm;Santa Rosa;40th Annual Mt. SAC Invitational;52.83;100 Back;Men;True;Big8
 2;Logan Irvine;Sierra;CCSF Rams Invitational;53.84;100 Back;Men;True;Big8
 3;Davyd Tsypan;American River;Los Rios Invite;53.90;100 Back;Men;True;Big8
 4;Joe Greer;Diablo Valley;PC SC Senior Open P.F;54.30;100 Back;Men;True;Big8
-5;Josiah Deleon;American River;Jack Flanagan Viking Invitational;55.88;100 Back;Men;True;Big8
-6;Evan Sonoda;Diablo Valley;Delta College Invitational - Discipline Meet;57.31;100 Back;Men;True;Big8
-7;Noah Erskine;Sierra;40th Annual Mt. SAC Invitational;57.41;100 Back;Men;True;Big8
-8;Jacob Domingo;Sierra;40th Annual Mt. SAC Invitational;57.67;100 Back;Men;True;Big8
-9;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;57.87;100 Back;Men;True;Big8
-10;Isaiah Warner;Diablo Valley;Los Rios Invite;58.14;100 Back;Men;True;Big8
-11;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;58.25;100 Back;Men;True;Big8
-12;Ray Fitch;Diablo Valley;Jack Flanagan - Afternoon Session;58.36;100 Back;Men;True;Big8
-13;Nolan Pogson;American River;Jack Flanagan - Afternoon Session;58.79;100 Back;Men;True;Big8
-14;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;58.95;100 Back;Men;True;Big8
-15;Logan Martin;American River;LPC vs MSAC vs ARC;59.43;100 Back;Men;True;Big8
-16;Blake Pogson;American River;Cuesta Super Invite;59.77;100 Back;Men;True;Big8
-17;Rowan Vecchio;Diablo Valley;Los Rios Invite;59.89;100 Back;Men;False;Big8
-18;Kenya Ho;American River;LPC vs MSAC vs ARC;1:00.94;100 Back;Men;False;Big8
-19;Justin Byers;San Joaquin;14th Annual De Anza Invite;1:02.32;100 Back;Men;False;Big8
-20;Christian Lund;American River;Cuesta Super Invite;1:02.62;100 Back;Men;False;Big8
-21;Seth Venables;Diablo Valley;Los Rios Invite;1:03.04;100 Back;Men;False;Big8
-22;Ian Swallow;Santa Rosa;Delta College Invitational - Discipline Meet;1:04.89;100 Back;Men;False;Big8
-23;Lucas Cagnon;Diablo Valley;Jack Flanagan - Afternoon Session;1:05.05;100 Back;Men;False;Big8
-24;Matt Welch;Diablo Valley;Los Rios Invite;1:05.77;100 Back;Men;False;Big8
-25;Isaac Ritcher;Diablo Valley;Los Rios Invite;1:05.97;100 Back;Men;False;Big8
-26;Reece Rosenquist;American River;Los Rios Invite;1:06.06;100 Back;Men;False;Big8
-27;Ben Asselin;Diablo Valley;Jack Flanagan Viking Invitational;1:07.08;100 Back;Men;False;Big8
-28;Justin Gaite;American River;Delta College Invitational - Discipline Meet;1:07.32;100 Back;Men;False;Big8
-29;Charlie Tucker;Sacramento City;Los Rios Invite;1:08.27;100 Back;Men;False;Big8
-30;Nico Riley-Turner;Santa Rosa;40th Annual Mt. SAC Invitational;1:08.41;100 Back;Men;False;Big8
-31;Jayden Sheldon;Sierra;Mt. SAC vs. Sierra;1:09.05;100 Back;Men;False;Big8
-32;Max Benson;Diablo Valley;Los Rios Invite;1:09.60;100 Back;Men;False;Big8
-33;Everyn Kneeland;Sierra;CCSF Rams Invitational;1:09.64;100 Back;Men;False;Big8
-34;Marc Manheimer;Diablo Valley;Jack Flanagan Viking Invitational;1:12.34;100 Back;Men;False;Big8
-35;Ryan Tu;American River;LPC vs MSAC vs ARC;1:12.39;100 Back;Men;False;Big8
-36;Matthew Padula;San Joaquin;Los Rios Invite;1:14.62;100 Back;Men;False;Big8
-37;Matthew Barbusca;Cosumnes River College;Los Rios Invite;1:14.89;100 Back;Men;False;Big8
-38;Pavel Perzhu;Cosumnes River College;23rd Annual Mariner Invite;1:19.37;100 Back;Men;False;Big8
+5;Justin Hsieh;American River;Big 8 INVITE;55.04;100 Back;Men;True;Big8
+6;Josiah Deleon;American River;Jack Flanagan Viking Invitational;55.88;100 Back;Men;True;Big8
+7;Isaiah Warner;Diablo Valley;Big 8 INVITE;55.92;100 Back;Men;True;Big8
+8;Evan Sonoda;Diablo Valley;Big 8 INVITE;56.54;100 Back;Men;True;Big8
+9;Madden Magee;Sierra;Big 8 INVITE;56.86;100 Back;Men;True;Big8
+9;Benjamin Svoboda;Modesto JC;Big 8 INVITE;56.86;100 Back;Men;True;Big8
+11;Noah Erskine;Sierra;Big 8 INVITE;56.97;100 Back;Men;True;Big8
+12;Jacob Domingo;Sierra;40th Annual Mt. SAC Invitational;57.67;100 Back;Men;True;Big8
+13;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;57.87;100 Back;Men;True;Big8
+14;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;58.25;100 Back;Men;True;Big8
+15;Ray Fitch;Diablo Valley;Jack Flanagan - Afternoon Session;58.36;100 Back;Men;True;Big8
+16;Nolan Pogson;American River;Big 8 INVITE;58.59;100 Back;Men;True;Big8
+17;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;58.95;100 Back;Men;False;Big8
+18;Logan Martin;American River;Big 8 INVITE;59.23;100 Back;Men;False;Big8
+19;Blake Pogson;American River;Cuesta Super Invite;59.77;100 Back;Men;False;Big8
+20;Rowan Vecchio;Diablo Valley;Los Rios Invite;59.89;100 Back;Men;False;Big8
+21;Josh Sayo;American River;Big 8 INVITE;1:00.54;100 Back;Men;False;Big8
+22;Kenya Ho;American River;LPC vs MSAC vs ARC;1:00.94;100 Back;Men;False;Big8
+23;Cooper Cox;Modesto JC;Big 8 INVITE;1:01.49;100 Back;Men;False;Big8
+24;Christian Lund;American River;Big 8 INVITE;1:01.82;100 Back;Men;False;Big8
+25;Justin Byers;San Joaquin;Big 8 INVITE;1:01.86;100 Back;Men;False;Big8
+26;Seth Venables;Diablo Valley;Los Rios Invite;1:03.04;100 Back;Men;False;Big8
+27;Isaac Ritcher;Diablo Valley;Big 8 INVITE;1:04.53;100 Back;Men;False;Big8
+28;Ian Swallow;Santa Rosa;Big 8 INVITE;1:04.71;100 Back;Men;False;Big8
+29;Matt Welch;Diablo Valley;Big 8 INVITE;1:04.93;100 Back;Men;False;Big8
+30;Lucas Cagnon;Diablo Valley;Jack Flanagan - Afternoon Session;1:05.05;100 Back;Men;False;Big8
+31;Charlie Tucker;Sacramento City;Big 8 INVITE;1:05.65;100 Back;Men;False;Big8
+32;Reece Rosenquist;American River;Los Rios Invite;1:06.06;100 Back;Men;False;Big8
+33;Justin Gaite;American River;Big 8 INVITE;1:06.39;100 Back;Men;False;Big8
+34;Ben Asselin;Diablo Valley;Jack Flanagan Viking Invitational;1:07.08;100 Back;Men;False;Big8
+35;Nico Riley-Turner;Santa Rosa;40th Annual Mt. SAC Invitational;1:08.41;100 Back;Men;False;Big8
+36;Jayden Sheldon;Sierra;Mt. SAC vs. Sierra;1:09.05;100 Back;Men;False;Big8
+37;Max Benson;Diablo Valley;Los Rios Invite;1:09.60;100 Back;Men;False;Big8
+38;Everyn Kneeland;Sierra;CCSF Rams Invitational;1:09.64;100 Back;Men;False;Big8
+39;Marc Manheimer;Diablo Valley;Jack Flanagan Viking Invitational;1:12.34;100 Back;Men;False;Big8
+40;Ryan Tu;American River;LPC vs MSAC vs ARC;1:12.39;100 Back;Men;False;Big8
+41;Matthew Padula;San Joaquin;Los Rios Invite;1:14.62;100 Back;Men;False;Big8
+42;Matthew Barbusca;Cosumnes River College;Los Rios Invite;1:14.89;100 Back;Men;False;Big8
+43;Pavel Perzhu;Cosumnes River College;23rd Annual Mariner Invite;1:19.37;100 Back;Men;False;Big8
+44;Colin Davis;Sierra;Big 8 INVITE;1:20.09;100 Back;Men;False;Big8
 1;Bryson Throm;Santa Rosa;40th Annual Mt. SAC Invitational;1:56.87;200 Back;Men;True;Big8
-2;Davyd Tsypan;American River;Jack Flanagan Viking Invitational;2:00.86;200 Back;Men;True;Big8
-3;Logan Irvine;Sierra;40th Annual Mt. SAC Invitational;2:01.54;200 Back;Men;True;Big8
-4;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;2:05.33;200 Back;Men;True;Big8
-5;Josiah Deleon;American River;Jack Flanagan Viking Invitational;2:05.79;200 Back;Men;True;Big8
-6;Evan Sonoda;Diablo Valley;Jack Flanagan Viking Invitational;2:06.34;200 Back;Men;True;Big8
-7;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;2:10.33;200 Back;Men;True;Big8
-8;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;2:10.46;200 Back;Men;True;Big8
-9;Logan Martin;American River;Cuesta Super Invite;2:11.42;200 Back;Men;True;Big8
-10;Alessandro Carino;Diablo Valley;Jack Flanagan Viking Invitational;2:15.77;200 Back;Men;True;Big8
-11;Blake Pogson;American River;Cuesta Super Invite;2:17.07;200 Back;Men;True;Big8
-12;Nolan Pogson;American River;Los Rios Invite;2:17.42;200 Back;Men;True;Big8
-13;Justin Byers;San Joaquin;Delta College Invitational - Discipline Meet;2:19.18;200 Back;Men;True;Big8
-14;Ian Swallow;Santa Rosa;Delta College Invitational - Discipline Meet;2:21.32;200 Back;Men;True;Big8
-15;Petros Lewis;Diablo Valley;Los Rios Invite;2:22.17;200 Back;Men;True;Big8
-16;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;2:23.23;200 Back;Men;True;Big8
-17;Christian Lund;American River;Delta College Invitational - Discipline Meet;2:24.97;200 Back;Men;False;Big8
-18;Lucas Cagnon;Diablo Valley;Jack Flanagan Viking Invitational;2:26.03;200 Back;Men;False;Big8
-19;Reece Rosenquist;American River;Los Rios Invite;2:26.46;200 Back;Men;False;Big8
-20;Matt Welch;Diablo Valley;Jack Flanagan Viking Invitational;2:26.67;200 Back;Men;False;Big8
-21;Nico Riley-Turner;Santa Rosa;40th Annual Mt. SAC Invitational;2:28.42;200 Back;Men;False;Big8
-22;Justin Gaite;American River;Cuesta Super Invite;2:29.44;200 Back;Men;False;Big8
-23;Shawn Boland;Diablo Valley;Delta College Invitational - Discipline Meet;2:30.08;200 Back;Men;False;Big8
-24;Ben Asselin;Diablo Valley;Jack Flanagan Viking Invitational;2:32.98;200 Back;Men;False;Big8
-25;Charlie Tucker;Sacramento City;Los Rios Invite;2:33.36;200 Back;Men;False;Big8
-26;Everyn Kneeland;Sierra;CCSF Rams Invitational;2:39.45;200 Back;Men;False;Big8
+2;Evan Sonoda;Diablo Valley;Big 8 INVITE;2:00.34;200 Back;Men;True;Big8
+3;Davyd Tsypan;American River;Jack Flanagan Viking Invitational;2:00.86;200 Back;Men;True;Big8
+4;Logan Irvine;Sierra;40th Annual Mt. SAC Invitational;2:01.54;200 Back;Men;True;Big8
+5;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;2:05.33;200 Back;Men;True;Big8
+6;Josiah Deleon;American River;Jack Flanagan Viking Invitational;2:05.79;200 Back;Men;True;Big8
+7;Graden Callahan;Sierra;Big 8 INVITE;2:09.03;200 Back;Men;True;Big8
+8;Logan Martin;American River;Big 8 INVITE;2:10.04;200 Back;Men;True;Big8
+9;Jacob Domingo;Sierra;Big 8 INVITE;2:10.30;200 Back;Men;True;Big8
+10;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;2:10.33;200 Back;Men;True;Big8
+11;Alessandro Carino;Diablo Valley;Jack Flanagan Viking Invitational;2:15.77;200 Back;Men;True;Big8
+12;Blake Pogson;American River;Cuesta Super Invite;2:17.07;200 Back;Men;True;Big8
+13;Nolan Pogson;American River;Los Rios Invite;2:17.42;200 Back;Men;True;Big8
+14;Justin Byers;San Joaquin;Delta College Invitational - Discipline Meet;2:19.18;200 Back;Men;True;Big8
+15;Ian Swallow;Santa Rosa;Delta College Invitational - Discipline Meet;2:21.32;200 Back;Men;True;Big8
+16;Petros Lewis;Diablo Valley;Los Rios Invite;2:22.17;200 Back;Men;True;Big8
+17;Isaac Ritcher;Diablo Valley;Big 8 INVITE;2:22.82;200 Back;Men;False;Big8
+18;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;2:23.23;200 Back;Men;False;Big8
+19;Christian Lund;American River;Delta College Invitational - Discipline Meet;2:24.97;200 Back;Men;False;Big8
+20;Lucas Cagnon;Diablo Valley;Jack Flanagan Viking Invitational;2:26.03;200 Back;Men;False;Big8
+21;Reece Rosenquist;American River;Los Rios Invite;2:26.46;200 Back;Men;False;Big8
+22;Matt Welch;Diablo Valley;Jack Flanagan Viking Invitational;2:26.67;200 Back;Men;False;Big8
+23;Nico Riley-Turner;Santa Rosa;40th Annual Mt. SAC Invitational;2:28.42;200 Back;Men;False;Big8
+24;Justin Gaite;American River;Cuesta Super Invite;2:29.44;200 Back;Men;False;Big8
+25;Shawn Boland;Diablo Valley;Delta College Invitational - Discipline Meet;2:30.08;200 Back;Men;False;Big8
+26;Ben Asselin;Diablo Valley;Jack Flanagan Viking Invitational;2:32.98;200 Back;Men;False;Big8
+27;Charlie Tucker;Sacramento City;Los Rios Invite;2:33.36;200 Back;Men;False;Big8
+28;Everyn Kneeland;Sierra;CCSF Rams Invitational;2:39.45;200 Back;Men;False;Big8
+29;Marc Manheimer;Diablo Valley;Big 8 INVITE;2:53.06;200 Back;Men;False;Big8
 1;Josh Sayo;American River;Cuesta Super Invite;27.23;50 Breast;Men;True;Big8
 2;Justin Hsieh;American River;Cuesta Super Invite;27.50;50 Breast;Men;True;Big8
 3;Joshua Noonan;American River;Cuesta Super Invite;27.55;50 Breast;Men;True;Big8
-4;Andrew Manzo;Sierra;CCSF Rams Invitational;28.23;50 Breast;Men;True;Big8
+4;Andrew Manzo;Sierra;Big 8 INVITE;27.99;50 Breast;Men;True;Big8
 5;Phoenix Hebshi-Holt;Santa Rosa;40th Annual Mt. SAC Invitational;28.44;50 Breast;Men;True;Big8
 6;Madden Magee;Sierra;40th Annual Mt. SAC Invitational;29.02;50 Breast;Men;True;Big8
-7;Arian Mutschler;American River;Cuesta Super Invite;29.69;50 Breast;Men;True;Big8
-8;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;29.72;50 Breast;Men;True;Big8
-9;Justin Edgar;Sierra;40th Annual Mt. SAC Invitational;29.79;50 Breast;Men;True;Big8
-10;Kai Holt;Santa Rosa;CCSF Rams Invitational;30.22;50 Breast;Men;True;Big8
-11;Akim Kirilyuk;Sierra;CCSF Rams Invitational;30.27;50 Breast;Men;True;Big8
-12;Andrew Donlin;American River;Los Rios Invite;30.44;50 Breast;Men;True;Big8
-13;Jonah Mafnas;Cosumnes River College;Merced College Sprint Invitational;30.45;50 Breast;Men;True;Big8
-14;Daniel Lewis;Diablo Valley;Los Rios Invite;30.53;50 Breast;Men;True;Big8
+7;Justin Edgar;Sierra;Big 8 INVITE;29.54;50 Breast;Men;True;Big8
+8;Arian Mutschler;American River;Cuesta Super Invite;29.69;50 Breast;Men;True;Big8
+9;Keanu Laolagi;Modesto JC;Merced College Sprint Invitational;29.72;50 Breast;Men;True;Big8
+10;Daniel Lewis;Diablo Valley;Big 8 INVITE;29.91;50 Breast;Men;True;Big8
+11;Kai Holt;Santa Rosa;CCSF Rams Invitational;30.22;50 Breast;Men;True;Big8
+12;Akim Kirilyuk;Sierra;CCSF Rams Invitational;30.27;50 Breast;Men;True;Big8
+13;Andrew Donlin;American River;Los Rios Invite;30.44;50 Breast;Men;True;Big8
+14;Jonah Mafnas;Cosumnes River College;Merced College Sprint Invitational;30.45;50 Breast;Men;True;Big8
 15;Cody Sharratt;American River;Cuesta Super Invite;30.67;50 Breast;Men;True;Big8
 16;Benjamin Svoboda;Modesto JC;Merced College Sprint Invitational;30.68;50 Breast;Men;True;Big8
 17;Blake Pogson;American River;Cuesta Super Invite;30.77;50 Breast;Men;False;Big8
 18;Massimo Trento;Diablo Valley;Delta College Invitational - Discipline Meet;30.78;50 Breast;Men;False;Big8
-19;Ryan Tu;American River;Cuesta Super Invite;31.20;50 Breast;Men;False;Big8
-20;Emmett Wong;Diablo Valley;PC SC Senior Open P.F;31.57;50 Breast;Men;False;Big8
-21;Nykyta Lytvynenko;Sierra;Mt. SAC vs. Sierra;31.76;50 Breast;Men;False;Big8
-22;Patrick Bratset;American River;Cuesta Super Invite;31.81;50 Breast;Men;False;Big8
-23;Josiah Ortego;American River;Cuesta Super Invite;31.88;50 Breast;Men;False;Big8
-24;Calvin Honsal;Sierra;CCSF Rams Invitational;31.90;50 Breast;Men;False;Big8
-25;Apollo Bocalan;Diablo Valley;Los Rios Invite;31.93;50 Breast;Men;False;Big8
+19;Nykyta Lytvynenko;Sierra;Big 8 INVITE;30.90;50 Breast;Men;False;Big8
+20;Calvin Honsal;Sierra;Big 8 INVITE;31.18;50 Breast;Men;False;Big8
+21;Ryan Tu;American River;Cuesta Super Invite;31.20;50 Breast;Men;False;Big8
+22;Apollo Bocalan;Diablo Valley;Big 8 INVITE;31.21;50 Breast;Men;False;Big8
+23;Emmett Wong;Diablo Valley;PC SC Senior Open P.F;31.57;50 Breast;Men;False;Big8
+24;Patrick Bratset;American River;Cuesta Super Invite;31.81;50 Breast;Men;False;Big8
+25;Josiah Ortego;American River;Cuesta Super Invite;31.88;50 Breast;Men;False;Big8
 26;Rowan Taggatz;American River;LPC vs MSAC vs ARC;31.95;50 Breast;Men;False;Big8
 27;Oliver Cockcroft;American River;Cuesta Super Invite;32.25;50 Breast;Men;False;Big8
 28;Enrique Jimenez;Santa Rosa;CCSF Rams Invitational;32.58;50 Breast;Men;False;Big8
@@ -360,28 +371,28 @@
 47;Reece Rosenquist;American River;Cuesta Super Invite;36.47;50 Breast;Men;False;Big8
 48;James Managbanag;Sierra;40th Annual Mt. SAC Invitational;36.86;50 Breast;Men;False;Big8
 49;Isaac Ritcher;Diablo Valley;Los Rios Invite;37.03;50 Breast;Men;False;Big8
-50;Alexander Lal;Cosumnes River College;23rd Annual Mariner Invite;37.64;50 Breast;Men;False;Big8
+50;Moises Jimenez;San Joaquin;Big 8 INVITE;37.08;50 Breast;Men;False;Big8
 1;Joshua Noonan;American River;Cuesta Super Invite;58.93;100 Breast;Men;True;Big8
 2;Justin Hsieh;American River;Jack Flanagan Viking Invitational;59.22;100 Breast;Men;True;Big8
 3;Josh Sayo;American River;Cuesta Super Invite;59.63;100 Breast;Men;True;Big8
-4;Phoenix Hebshi-Holt;Santa Rosa;40th Annual Mt. SAC Invitational;1:00.28;100 Breast;Men;True;Big8
-5;Andrew Manzo;Sierra;40th Annual Mt. SAC Invitational;1:00.37;100 Breast;Men;True;Big8
+4;Andrew Manzo;Sierra;Big 8 INVITE;59.76;100 Breast;Men;True;Big8
+5;Phoenix Hebshi-Holt;Santa Rosa;40th Annual Mt. SAC Invitational;1:00.28;100 Breast;Men;True;Big8
 6;Madden Magee;Sierra;40th Annual Mt. SAC Invitational;1:01.80;100 Breast;Men;True;Big8
 7;Andrew Donlin;American River;Los Rios Invite;1:03.04;100 Breast;Men;True;Big8
-8;Akim Kirilyuk;Sierra;CCSF Rams Invitational;1:04.02;100 Breast;Men;True;Big8
-9;Massimo Trento;Diablo Valley;Jack Flanagan Viking Invitational;1:04.43;100 Breast;Men;True;Big8
-10;Justin Edgar;Sierra;40th Annual Mt. SAC Invitational;1:04.47;100 Breast;Men;True;Big8
-11;Keanu Laolagi;Modesto JC;40th Annual Mt. SAC Invitational;1:05.73;100 Breast;Men;True;Big8
-12;Daniel Lewis;Diablo Valley;Los Rios Invite;1:05.92;100 Breast;Men;True;Big8
-13;Nykyta Lytvynenko;Sierra;CCSF Rams Invitational;1:06.58;100 Breast;Men;True;Big8
-14;Apollo Bocalan;Diablo Valley;Los Rios Invite;1:06.91;100 Breast;Men;True;Big8
-15;Rowan Taggatz;American River;LPC vs MSAC vs ARC;1:06.97;100 Breast;Men;True;Big8
-16;Emmett Wong;Diablo Valley;Los Rios Invite;1:07.86;100 Breast;Men;True;Big8
-17;Yuji Tan;Diablo Valley;Jack Flanagan - Afternoon Session;1:08.08;100 Breast;Men;False;Big8
-18;Calvin Honsal;Sierra;CCSF Rams Invitational;1:08.58;100 Breast;Men;False;Big8
+8;Justin Edgar;Sierra;Big 8 INVITE;1:03.41;100 Breast;Men;True;Big8
+9;Daniel Lewis;Diablo Valley;Big 8 INVITE;1:03.81;100 Breast;Men;True;Big8
+10;Akim Kirilyuk;Sierra;CCSF Rams Invitational;1:04.02;100 Breast;Men;True;Big8
+11;Massimo Trento;Diablo Valley;Jack Flanagan Viking Invitational;1:04.43;100 Breast;Men;True;Big8
+12;Apollo Bocalan;Diablo Valley;Big 8 INVITE;1:05.45;100 Breast;Men;True;Big8
+13;Keanu Laolagi;Modesto JC;40th Annual Mt. SAC Invitational;1:05.73;100 Breast;Men;True;Big8
+14;Nykyta Lytvynenko;Sierra;Big 8 INVITE;1:05.99;100 Breast;Men;True;Big8
+15;Calvin Honsal;Sierra;Big 8 INVITE;1:06.40;100 Breast;Men;True;Big8
+16;Rowan Taggatz;American River;LPC vs MSAC vs ARC;1:06.97;100 Breast;Men;True;Big8
+17;Emmett Wong;Diablo Valley;Los Rios Invite;1:07.86;100 Breast;Men;False;Big8
+18;Yuji Tan;Diablo Valley;Jack Flanagan - Afternoon Session;1:08.08;100 Breast;Men;False;Big8
 19;Cody Sharratt;American River;Cuesta Super Invite;1:09.53;100 Breast;Men;False;Big8
-20;Max Benson;Diablo Valley;Jack Flanagan - Afternoon Session;1:10.40;100 Breast;Men;False;Big8
-21;Patrick Bratset;American River;Cuesta Super Invite;1:10.79;100 Breast;Men;False;Big8
+20;Patrick Bratset;American River;Big 8 INVITE;1:10.16;100 Breast;Men;False;Big8
+21;Max Benson;Diablo Valley;Jack Flanagan - Afternoon Session;1:10.40;100 Breast;Men;False;Big8
 22;Enrique Jimenez;Santa Rosa;Los Rios Invite;1:11.15;100 Breast;Men;False;Big8
 23;Renzo Archer;American River;Cuesta Super Invite;1:11.56;100 Breast;Men;False;Big8
 24;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;1:11.96;100 Breast;Men;False;Big8
@@ -392,32 +403,34 @@
 29;Jayden Sheldon;Sierra;40th Annual Mt. SAC Invitational;1:15.49;100 Breast;Men;False;Big8
 30;James Managbanag;Sierra;40th Annual Mt. SAC Invitational;1:16.75;100 Breast;Men;False;Big8
 31;Isaac Ritcher;Diablo Valley;Los Rios Invite;1:18.48;100 Breast;Men;False;Big8
-32;Ahmad Rahim;Cosumnes River College;Delta College Invitational - Discipline Meet;1:20.46;100 Breast;Men;False;Big8
-33;Alexander Lal;Cosumnes River College;23rd Annual Mariner Invite;1:22.55;100 Breast;Men;False;Big8
-34;Moises Jimenez;San Joaquin;Los Rios Invite;1:22.84;100 Breast;Men;False;Big8
+32;Moises Jimenez;San Joaquin;Big 8 INVITE;1:19.03;100 Breast;Men;False;Big8
+33;Ahmad Rahim;Cosumnes River College;Delta College Invitational - Discipline Meet;1:20.46;100 Breast;Men;False;Big8
+34;Alexander Lal;Cosumnes River College;23rd Annual Mariner Invite;1:22.55;100 Breast;Men;False;Big8
 35;Matthew Padula;San Joaquin;Los Rios Invite;1:27.45;100 Breast;Men;False;Big8
 1;Joshua Noonan;American River;Cuesta Super Invite;2:14.17;200 Breast;Men;True;Big8
 2;Josh Sayo;American River;Cuesta Super Invite;2:15.23;200 Breast;Men;True;Big8
-3;Andrew Manzo;Sierra;40th Annual Mt. SAC Invitational;2:20.68;200 Breast;Men;True;Big8
-4;Apollo Bocalan;Diablo Valley;Jack Flanagan Viking Invitational;2:23.30;200 Breast;Men;True;Big8
-5;Massimo Trento;Diablo Valley;Jack Flanagan Viking Invitational;2:23.40;200 Breast;Men;True;Big8
-6;Justin Edgar;Sierra;40th Annual Mt. SAC Invitational;2:23.61;200 Breast;Men;True;Big8
-7;Daniel Lewis;Diablo Valley;Delta College Invitational - Discipline Meet;2:25.52;200 Breast;Men;True;Big8
-8;Rowan Taggatz;American River;Los Rios Invite;2:28.19;200 Breast;Men;True;Big8
-9;Yuji Tan;Diablo Valley;Jack Flanagan Viking Invitational;2:28.82;200 Breast;Men;True;Big8
-10;Nykyta Lytvynenko;Sierra;40th Annual Mt. SAC Invitational;2:28.99;200 Breast;Men;True;Big8
-11;Keanu Laolagi;Modesto JC;40th Annual Mt. SAC Invitational;2:31.80;200 Breast;Men;True;Big8
-12;Emmett Wong;Diablo Valley;Jack Flanagan Viking Invitational;2:33.36;200 Breast;Men;True;Big8
-13;Cody Sharratt;American River;Cuesta Super Invite;2:33.42;200 Breast;Men;True;Big8
-14;Calvin Honsal;Sierra;CCSF Rams Invitational;2:36.32;200 Breast;Men;True;Big8
-15;Renzo Archer;American River;Delta College Invitational - Discipline Meet;2:39.29;200 Breast;Men;True;Big8
-16;James Managbanag;Sierra;40th Annual Mt. SAC Invitational;2:46.86;200 Breast;Men;True;Big8
-17;Andrej Laptev;Sierra;40th Annual Mt. SAC Invitational;2:49.51;200 Breast;Men;False;Big8
-18;Alexander Madriz;Sacramento City;Los Rios Invite;2:54.36;200 Breast;Men;False;Big8
-19;Moises Jimenez;San Joaquin;Los Rios Invite;3:00.42;200 Breast;Men;False;Big8
-20;Matthew Padula;San Joaquin;Los Rios Invite;3:11.51;200 Breast;Men;False;Big8
-1;Logan Irvine;Sierra;Mt. SAC vs. Sierra;24.13;50 Fly;Men;True;Big8
-2;Ray Fitch;Diablo Valley;Delta College Invitational - Discipline Meet;24.37;50 Fly;Men;True;Big8
+3;Phoenix Hebshi-Holt;Santa Rosa;Big 8 INVITE;2:17.08;200 Breast;Men;True;Big8
+4;Daniel Lewis;Diablo Valley;Big 8 INVITE;2:20.37;200 Breast;Men;True;Big8
+5;Andrew Manzo;Sierra;40th Annual Mt. SAC Invitational;2:20.68;200 Breast;Men;True;Big8
+6;Massimo Trento;Diablo Valley;Big 8 INVITE;2:20.71;200 Breast;Men;True;Big8
+7;Apollo Bocalan;Diablo Valley;Jack Flanagan Viking Invitational;2:23.30;200 Breast;Men;True;Big8
+8;Justin Edgar;Sierra;40th Annual Mt. SAC Invitational;2:23.61;200 Breast;Men;True;Big8
+9;Yuji Tan;Diablo Valley;Big 8 INVITE;2:27.67;200 Breast;Men;True;Big8
+10;Rowan Taggatz;American River;Los Rios Invite;2:28.19;200 Breast;Men;True;Big8
+11;Nykyta Lytvynenko;Sierra;40th Annual Mt. SAC Invitational;2:28.99;200 Breast;Men;True;Big8
+12;Keanu Laolagi;Modesto JC;40th Annual Mt. SAC Invitational;2:31.80;200 Breast;Men;True;Big8
+13;Emmett Wong;Diablo Valley;Jack Flanagan Viking Invitational;2:33.36;200 Breast;Men;True;Big8
+14;Cody Sharratt;American River;Cuesta Super Invite;2:33.42;200 Breast;Men;True;Big8
+15;Calvin Honsal;Sierra;CCSF Rams Invitational;2:36.32;200 Breast;Men;True;Big8
+16;Renzo Archer;American River;Delta College Invitational - Discipline Meet;2:39.29;200 Breast;Men;True;Big8
+17;Jake Williams;Sacramento City;Big 8 INVITE;2:45.66;200 Breast;Men;False;Big8
+18;James Managbanag;Sierra;40th Annual Mt. SAC Invitational;2:46.86;200 Breast;Men;False;Big8
+19;Andrej Laptev;Sierra;40th Annual Mt. SAC Invitational;2:49.51;200 Breast;Men;False;Big8
+20;Alexander Madriz;Sacramento City;Los Rios Invite;2:54.36;200 Breast;Men;False;Big8
+21;Moises Jimenez;San Joaquin;Big 8 INVITE;2:59.54;200 Breast;Men;False;Big8
+22;Matthew Padula;San Joaquin;Los Rios Invite;3:11.51;200 Breast;Men;False;Big8
+1;Ray Fitch;Diablo Valley;Big 8 INVITE;23.66;50 Fly;Men;True;Big8
+2;Logan Irvine;Sierra;Mt. SAC vs. Sierra;24.13;50 Fly;Men;True;Big8
 3;Spencer Cox;Modesto JC;40th Annual Mt. SAC Invitational;24.61;50 Fly;Men;True;Big8
 4;Arian Mutschler;American River;Cuesta Super Invite;24.87;50 Fly;Men;True;Big8
 4;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;24.87;50 Fly;Men;True;Big8
@@ -427,47 +440,47 @@
 9;Andrew Donlin;American River;Delta College Invitational - Discipline Meet;25.24;50 Fly;Men;True;Big8
 10;Davyd Tsypan;American River;Los Rios Invite;25.36;50 Fly;Men;True;Big8
 11;Mckeane Beier;American River;Cuesta Super Invite;25.55;50 Fly;Men;True;Big8
-12;Kai Holt;Santa Rosa;40th Annual Mt. SAC Invitational;25.96;50 Fly;Men;True;Big8
-13;Isaiah Warner;Diablo Valley;Delta College Invitational - Discipline Meet;25.98;50 Fly;Men;True;Big8
-14;Jacob Domingo;Sierra;CCSF Rams Invitational;25.99;50 Fly;Men;True;Big8
-15;Ryan Tu;American River;Cuesta Super Invite;26.01;50 Fly;Men;True;Big8
-16;Jacob Miller;Modesto JC;Merced College Sprint Invitational;26.33;50 Fly;Men;True;Big8
-16;Nolan Pogson;American River;Cuesta Super Invite;26.33;50 Fly;Men;True;Big8
-18;Cody Sharratt;American River;Cuesta Super Invite;26.35;50 Fly;Men;False;Big8
-19;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;26.37;50 Fly;Men;False;Big8
-19;Lance Wogsland;Santa Rosa;40th Annual Mt. SAC Invitational;26.37;50 Fly;Men;False;Big8
-21;Cooper Cox;Modesto JC;Merced College Sprint Invitational;26.38;50 Fly;Men;False;Big8
-22;Bryson Throm;Santa Rosa;Los Rios Invite;26.49;50 Fly;Men;False;Big8
-23;James Pitcock;Cosumnes River College;Merced College Sprint Invitational;26.53;50 Fly;Men;False;Big8
-24;Niko Tzorbatzakis;Diablo Valley;Los Rios Invite;26.58;50 Fly;Men;False;Big8
+12;Niko Tzorbatzakis;Diablo Valley;Big 8 INVITE;25.93;50 Fly;Men;True;Big8
+13;Kai Holt;Santa Rosa;40th Annual Mt. SAC Invitational;25.96;50 Fly;Men;True;Big8
+14;Isaiah Warner;Diablo Valley;Delta College Invitational - Discipline Meet;25.98;50 Fly;Men;True;Big8
+15;Jacob Domingo;Sierra;CCSF Rams Invitational;25.99;50 Fly;Men;True;Big8
+16;Ryan Tu;American River;Cuesta Super Invite;26.01;50 Fly;Men;True;Big8
+17;Nolan Pogson;American River;Cuesta Super Invite;26.33;50 Fly;Men;False;Big8
+17;Jacob Miller;Modesto JC;Merced College Sprint Invitational;26.33;50 Fly;Men;False;Big8
+19;Cody Sharratt;American River;Cuesta Super Invite;26.35;50 Fly;Men;False;Big8
+20;Lance Wogsland;Santa Rosa;40th Annual Mt. SAC Invitational;26.37;50 Fly;Men;False;Big8
+20;Alessandro Carino;Diablo Valley;PC SC Senior Open P.F;26.37;50 Fly;Men;False;Big8
+22;Cooper Cox;Modesto JC;Merced College Sprint Invitational;26.38;50 Fly;Men;False;Big8
+23;Bryson Throm;Santa Rosa;Los Rios Invite;26.49;50 Fly;Men;False;Big8
+24;James Pitcock;Cosumnes River College;Merced College Sprint Invitational;26.53;50 Fly;Men;False;Big8
 25;Blake Pogson;American River;Cuesta Super Invite;26.60;50 Fly;Men;False;Big8
 26;Kenya Ho;American River;Cuesta Super Invite;26.82;50 Fly;Men;False;Big8
 27;Rowan Taggatz;American River;Cuesta Super Invite;26.84;50 Fly;Men;False;Big8
 28;Reece Rosenquist;American River;Cuesta Super Invite;26.87;50 Fly;Men;False;Big8
-29;Brien Emmons;American River;Cuesta Super Invite;26.95;50 Fly;Men;False;Big8
-30;Maddox Todd;San Joaquin;Delta College Invitational - Discipline Meet;26.97;50 Fly;Men;False;Big8
-31;Kaelan Skeehan;Sierra;40th Annual Mt. SAC Invitational;26.98;50 Fly;Men;False;Big8
-32;Oliver Cockcroft;American River;Cuesta Super Invite;27.21;50 Fly;Men;False;Big8
-33;Tobias Beutel;San Joaquin;Merced College Sprint Invitational;27.23;50 Fly;Men;False;Big8
-34;Dominic Esparza;American River;Delta College Invitational - Discipline Meet;27.45;50 Fly;Men;False;Big8
-34;Simon Akers;San Joaquin;Merced College Sprint Invitational;27.45;50 Fly;Men;False;Big8
-36;Logan Martin;American River;Cuesta Super Invite;27.59;50 Fly;Men;False;Big8
-37;Grayson Chapman;American River;Cuesta Super Invite;27.75;50 Fly;Men;False;Big8
-38;Brandon Valerian Suharto;San Joaquin;Merced College Sprint Invitational;27.77;50 Fly;Men;False;Big8
-39;Lucas Cagnon;Diablo Valley;Los Rios Invite;27.86;50 Fly;Men;False;Big8
-40;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;27.87;50 Fly;Men;False;Big8
-41;Joshua Noonan;American River;Cuesta Super Invite;27.97;50 Fly;Men;False;Big8
-42;Enrique Jimenez;Santa Rosa;CCSF Rams Invitational;28.07;50 Fly;Men;False;Big8
-43;Marco Escatel;Sierra;Mt. SAC vs. Sierra;28.12;50 Fly;Men;False;Big8
-44;Emmett Wong;Diablo Valley;PC SC Senior Open P.F;28.13;50 Fly;Men;False;Big8
-45;Ethan Yu;Sacramento City;Delta College Invitational - Discipline Meet;28.17;50 Fly;Men;False;Big8
-46;Arie Hoogeveen;Modesto JC;Merced College Sprint Invitational;28.23;50 Fly;Men;False;Big8
-47;Christian Lund;American River;Cuesta Super Invite;28.24;50 Fly;Men;False;Big8
-48;Orion Lowe Klippel;Sierra;40th Annual Mt. SAC Invitational;28.46;50 Fly;Men;False;Big8
-49;Noah Foster;American River;Cuesta Super Invite;28.69;50 Fly;Men;False;Big8
-50;Justin Gaite;American River;Cuesta Super Invite;28.74;50 Fly;Men;False;Big8
-1;Logan Irvine;Sierra;40th Annual Mt. SAC Invitational;51.94;100 Fly;Men;True;Big8
-2;Ray Fitch;Diablo Valley;Jack Flanagan Viking Invitational;52.56;100 Fly;Men;True;Big8
+29;Petros Lewis;Diablo Valley;Big 8 INVITE;26.90;50 Fly;Men;False;Big8
+30;Brien Emmons;American River;Cuesta Super Invite;26.95;50 Fly;Men;False;Big8
+31;Maddox Todd;San Joaquin;Delta College Invitational - Discipline Meet;26.97;50 Fly;Men;False;Big8
+31;Marco Escatel;Sierra;Big 8 INVITE;26.97;50 Fly;Men;False;Big8
+33;Kaelan Skeehan;Sierra;40th Annual Mt. SAC Invitational;26.98;50 Fly;Men;False;Big8
+34;Oliver Cockcroft;American River;Cuesta Super Invite;27.21;50 Fly;Men;False;Big8
+35;Tobias Beutel;San Joaquin;Merced College Sprint Invitational;27.23;50 Fly;Men;False;Big8
+36;Lucas Cagnon;Diablo Valley;Big 8 INVITE;27.36;50 Fly;Men;False;Big8
+37;Simon Akers;San Joaquin;Merced College Sprint Invitational;27.45;50 Fly;Men;False;Big8
+37;Dominic Esparza;American River;Delta College Invitational - Discipline Meet;27.45;50 Fly;Men;False;Big8
+39;Orion Lowe Klippel;Sierra;Big 8 INVITE;27.57;50 Fly;Men;False;Big8
+40;Logan Martin;American River;Cuesta Super Invite;27.59;50 Fly;Men;False;Big8
+41;Yuji Tan;Diablo Valley;Big 8 INVITE;27.64;50 Fly;Men;False;Big8
+42;Grayson Chapman;American River;Cuesta Super Invite;27.75;50 Fly;Men;False;Big8
+43;Brandon Valerian Suharto;San Joaquin;Merced College Sprint Invitational;27.77;50 Fly;Men;False;Big8
+44;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;27.87;50 Fly;Men;False;Big8
+45;Joshua Noonan;American River;Cuesta Super Invite;27.97;50 Fly;Men;False;Big8
+46;Enrique Jimenez;Santa Rosa;CCSF Rams Invitational;28.07;50 Fly;Men;False;Big8
+47;Emmett Wong;Diablo Valley;PC SC Senior Open P.F;28.13;50 Fly;Men;False;Big8
+48;Ethan Yu;Sacramento City;Delta College Invitational - Discipline Meet;28.17;50 Fly;Men;False;Big8
+49;Arie Hoogeveen;Modesto JC;Merced College Sprint Invitational;28.23;50 Fly;Men;False;Big8
+50;Christian Lund;American River;Cuesta Super Invite;28.24;50 Fly;Men;False;Big8
+1;Ray Fitch;Diablo Valley;Big 8 INVITE;51.82;100 Fly;Men;True;Big8
+2;Logan Irvine;Sierra;40th Annual Mt. SAC Invitational;51.94;100 Fly;Men;True;Big8
 3;Davyd Tsypan;American River;Los Rios Invite;52.68;100 Fly;Men;True;Big8
 4;Arian Mutschler;American River;Cuesta Super Invite;53.02;100 Fly;Men;True;Big8
 5;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;53.09;100 Fly;Men;True;Big8
@@ -483,106 +496,113 @@
 15;Lance Wogsland;Santa Rosa;40th Annual Mt. SAC Invitational;56.98;100 Fly;Men;True;Big8
 16;Isaiah Warner;Diablo Valley;Jack Flanagan Viking Invitational;57.34;100 Fly;Men;True;Big8
 17;Mckeane Beier;American River;Cuesta Super Invite;57.41;100 Fly;Men;False;Big8
-18;Ryan Tu;American River;Cuesta Super Invite;58.02;100 Fly;Men;False;Big8
-19;Jacob Miller;Modesto JC;40th Annual Mt. SAC Invitational;58.19;100 Fly;Men;False;Big8
-20;Kaelan Skeehan;Sierra;40th Annual Mt. SAC Invitational;58.23;100 Fly;Men;False;Big8
-21;James Pitcock;Cosumnes River College;Los Rios Invite;58.96;100 Fly;Men;False;Big8
-22;Niko Tzorbatzakis;Diablo Valley;Jack Flanagan Viking Invitational;59.06;100 Fly;Men;False;Big8
-23;Dominic Esparza;American River;Jack Flanagan Viking Invitational;1:00.02;100 Fly;Men;False;Big8
-24;Enrique Jimenez;Santa Rosa;CCSF Rams Invitational;1:00.17;100 Fly;Men;False;Big8
-25;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;1:00.61;100 Fly;Men;False;Big8
-26;Marco Escatel;Sierra;Mt. SAC vs. Sierra;1:01.09;100 Fly;Men;False;Big8
-27;Brien Emmons;American River;Los Rios Invite;1:01.17;100 Fly;Men;False;Big8
-28;Orion Lowe Klippel;Sierra;40th Annual Mt. SAC Invitational;1:01.52;100 Fly;Men;False;Big8
-29;Petros Lewis;Diablo Valley;Delta College Invitational - Discipline Meet;1:01.68;100 Fly;Men;False;Big8
-30;Kenya Ho;American River;Los Rios Invite;1:01.79;100 Fly;Men;False;Big8
-31;Quinn Luttropp;Diablo Valley;Delta College Invitational - Discipline Meet;1:01.85;100 Fly;Men;False;Big8
-32;Ben Binder;Santa Rosa;40th Annual Mt. SAC Invitational;1:01.86;100 Fly;Men;False;Big8
-33;Maddox Todd;San Joaquin;14th Annual De Anza Invite;1:02.05;100 Fly;Men;False;Big8
-34;Ethan Yu;Sacramento City;Cuesta Super Invite;1:02.33;100 Fly;Men;False;Big8
-35;Sean ;Sierra;CCSF Rams Invitational;1:02.35;100 Fly;Men;False;Big8
-36;Oliver Cockcroft;American River;Delta College Invitational - Discipline Meet;1:02.38;100 Fly;Men;False;Big8
-37;Lucas Cagnon;Diablo Valley;Los Rios Invite;1:02.52;100 Fly;Men;False;Big8
-38;Simon Akers;San Joaquin;14th Annual De Anza Invite;1:02.81;100 Fly;Men;False;Big8
-39;Tobias Beutel;San Joaquin;Los Rios Invite;1:03.18;100 Fly;Men;False;Big8
-40;Grayson Chapman;American River;Cuesta Super Invite;1:03.45;100 Fly;Men;False;Big8
-41;Shawn Boland;Diablo Valley;Los Rios Invite;1:03.52;100 Fly;Men;False;Big8
-42;Cody Sharratt;American River;Delta College Invitational - Discipline Meet;1:03.88;100 Fly;Men;False;Big8
-43;Arie Hoogeveen;Modesto JC;40th Annual Mt. SAC Invitational;1:03.93;100 Fly;Men;False;Big8
-44;Brandon Valerian Suharto;San Joaquin;Merced College Sprint Invitational;1:04.01;100 Fly;Men;False;Big8
-45;Aylan Denane;Diablo Valley;Jack Flanagan Viking Invitational;1:04.72;100 Fly;Men;False;Big8
-46;Jayden Sheldon;Sierra;40th Annual Mt. SAC Invitational;1:08.94;100 Fly;Men;False;Big8
-47;Alexander Lal;Cosumnes River College;14th Annual De Anza Invite;1:11.42;100 Fly;Men;False;Big8
-48;James Managbanag;Sierra;40th Annual Mt. SAC Invitational;1:12.04;100 Fly;Men;False;Big8
-49;Ian Swallow;Santa Rosa;Los Rios Invite;1:12.43;100 Fly;Men;False;Big8
-50;Ahmad Rahim;Cosumnes River College;Los Rios Invite;1:15.20;100 Fly;Men;False;Big8
+18;Petros Lewis;Diablo Valley;Big 8 INVITE;57.85;100 Fly;Men;False;Big8
+19;Niko Tzorbatzakis;Diablo Valley;Big 8 INVITE;57.94;100 Fly;Men;False;Big8
+20;Ryan Tu;American River;Cuesta Super Invite;58.02;100 Fly;Men;False;Big8
+21;Jacob Miller;Modesto JC;40th Annual Mt. SAC Invitational;58.19;100 Fly;Men;False;Big8
+22;Kaelan Skeehan;Sierra;40th Annual Mt. SAC Invitational;58.23;100 Fly;Men;False;Big8
+23;James Pitcock;Cosumnes River College;Los Rios Invite;58.96;100 Fly;Men;False;Big8
+24;Marco Escatel;Sierra;Big 8 INVITE;59.02;100 Fly;Men;False;Big8
+25;Lucas Cagnon;Diablo Valley;Big 8 INVITE;59.09;100 Fly;Men;False;Big8
+26;Dominic Esparza;American River;Big 8 INVITE;59.58;100 Fly;Men;False;Big8
+27;Maddox Todd;San Joaquin;Big 8 INVITE;59.80;100 Fly;Men;False;Big8
+28;Kenya Ho;American River;Big 8 INVITE;59.96;100 Fly;Men;False;Big8
+29;Enrique Jimenez;Santa Rosa;CCSF Rams Invitational;1:00.17;100 Fly;Men;False;Big8
+30;Brandon Valerian Suharto;San Joaquin;Big 8 INVITE;1:00.22;100 Fly;Men;False;Big8
+31;Orion Lowe Klippel;Sierra;Big 8 INVITE;1:00.27;100 Fly;Men;False;Big8
+32;Ryker Lichtenberg;Santa Rosa;CCSF Rams Invitational;1:00.61;100 Fly;Men;False;Big8
+33;Brien Emmons;American River;Los Rios Invite;1:01.17;100 Fly;Men;False;Big8
+34;Yuji Tan;Diablo Valley;Big 8 INVITE;1:01.49;100 Fly;Men;False;Big8
+35;Sean ;Sierra;Big 8 INVITE;1:01.57;100 Fly;Men;False;Big8
+36;Quinn Luttropp;Diablo Valley;Delta College Invitational - Discipline Meet;1:01.85;100 Fly;Men;False;Big8
+37;Ben Binder;Santa Rosa;40th Annual Mt. SAC Invitational;1:01.86;100 Fly;Men;False;Big8
+38;Ethan Yu;Sacramento City;Cuesta Super Invite;1:02.33;100 Fly;Men;False;Big8
+39;Oliver Cockcroft;American River;Delta College Invitational - Discipline Meet;1:02.38;100 Fly;Men;False;Big8
+40;Simon Akers;San Joaquin;14th Annual De Anza Invite;1:02.81;100 Fly;Men;False;Big8
+41;Tobias Beutel;San Joaquin;Los Rios Invite;1:03.18;100 Fly;Men;False;Big8
+42;Grayson Chapman;American River;Cuesta Super Invite;1:03.45;100 Fly;Men;False;Big8
+43;Shawn Boland;Diablo Valley;Los Rios Invite;1:03.52;100 Fly;Men;False;Big8
+44;Cody Sharratt;American River;Delta College Invitational - Discipline Meet;1:03.88;100 Fly;Men;False;Big8
+45;Arie Hoogeveen;Modesto JC;40th Annual Mt. SAC Invitational;1:03.93;100 Fly;Men;False;Big8
+46;Aylan Denane;Diablo Valley;Jack Flanagan Viking Invitational;1:04.72;100 Fly;Men;False;Big8
+47;Jack Fischer;Modesto JC;Big 8 INVITE;1:08.62;100 Fly;Men;False;Big8
+48;Jayden Sheldon;Sierra;40th Annual Mt. SAC Invitational;1:08.94;100 Fly;Men;False;Big8
+49;Alexander Lal;Cosumnes River College;14th Annual De Anza Invite;1:11.42;100 Fly;Men;False;Big8
+50;James Managbanag;Sierra;40th Annual Mt. SAC Invitational;1:12.04;100 Fly;Men;False;Big8
 1;Arian Mutschler;American River;Cuesta Super Invite;2:00.42;200 Fly;Men;True;Big8
 2;Logan Irvine;Sierra;CCSF Rams Invitational;2:05.02;200 Fly;Men;True;Big8
 3;Jacob Miller;Modesto JC;40th Annual Mt. SAC Invitational;2:06.24;200 Fly;Men;True;Big8
-4;Andrew Donlin;American River;Delta College Invitational - Discipline Meet;2:06.96;200 Fly;Men;True;Big8
-5;Jacob Domingo;Sierra;CCSF Rams Invitational;2:08.13;200 Fly;Men;True;Big8
-6;Daniel Lewis;Diablo Valley;Jack Flanagan Viking Invitational;2:08.90;200 Fly;Men;True;Big8
-7;Ryan Tu;American River;Cuesta Super Invite;2:09.51;200 Fly;Men;True;Big8
-8;Petros Lewis;Diablo Valley;Jack Flanagan Viking Invitational;2:14.80;200 Fly;Men;True;Big8
-9;Isaiah Warner;Diablo Valley;Delta College Invitational - Discipline Meet;2:17.36;200 Fly;Men;True;Big8
-10;Dominic Esparza;American River;Delta College Invitational - Discipline Meet;2:20.76;200 Fly;Men;True;Big8
-11;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;2:24.50;200 Fly;Men;True;Big8
-12;Lance Wogsland;Santa Rosa;Delta College Invitational - Discipline Meet;2:25.44;200 Fly;Men;True;Big8
-13;Tobias Beutel;San Joaquin;Los Rios Invite;2:32.52;200 Fly;Men;True;Big8
-14;Maddox Todd;San Joaquin;Los Rios Invite;2:33.18;200 Fly;Men;True;Big8
-15;Orion Lowe Klippel;Sierra;40th Annual Mt. SAC Invitational;2:38.38;200 Fly;Men;True;Big8
-16;Ethan Yu;Sacramento City;Cuesta Super Invite;2:40.36;200 Fly;Men;True;Big8
-17;Simon Akers;San Joaquin;Delta College Invitational - Discipline Meet;2:42.72;200 Fly;Men;False;Big8
-1;Madden Magee;Sierra;Mt. SAC vs. Sierra;54.04;100 IM;Men;True;Big8
-2;Justin Hsieh;American River;Jack Flanagan - Afternoon Session;54.10;100 IM;Men;True;Big8
+4;Josiah Deleon;American River;Big 8 INVITE;2:06.78;200 Fly;Men;True;Big8
+5;Andrew Donlin;American River;Delta College Invitational - Discipline Meet;2:06.96;200 Fly;Men;True;Big8
+6;Jacob Domingo;Sierra;CCSF Rams Invitational;2:08.13;200 Fly;Men;True;Big8
+7;Daniel Lewis;Diablo Valley;Jack Flanagan Viking Invitational;2:08.90;200 Fly;Men;True;Big8
+8;Ryan Tu;American River;Cuesta Super Invite;2:09.51;200 Fly;Men;True;Big8
+9;Petros Lewis;Diablo Valley;Jack Flanagan Viking Invitational;2:14.80;200 Fly;Men;True;Big8
+10;Isaiah Warner;Diablo Valley;Delta College Invitational - Discipline Meet;2:17.36;200 Fly;Men;True;Big8
+11;Sean ;Sierra;Big 8 INVITE;2:19.28;200 Fly;Men;True;Big8
+12;Niko Tzorbatzakis;Diablo Valley;Big 8 INVITE;2:20.56;200 Fly;Men;True;Big8
+13;Dominic Esparza;American River;Delta College Invitational - Discipline Meet;2:20.76;200 Fly;Men;True;Big8
+14;Brandon Valerian Suharto;San Joaquin;Los Rios Invite;2:24.50;200 Fly;Men;True;Big8
+15;Orion Lowe Klippel;Sierra;Big 8 INVITE;2:25.02;200 Fly;Men;True;Big8
+16;Lance Wogsland;Santa Rosa;Delta College Invitational - Discipline Meet;2:25.44;200 Fly;Men;True;Big8
+17;Marco Escatel;Sierra;Big 8 INVITE;2:28.01;200 Fly;Men;False;Big8
+18;Ben Binder;Santa Rosa;Big 8 INVITE;2:30.37;200 Fly;Men;False;Big8
+19;Simon Akers;San Joaquin;Big 8 INVITE;2:31.56;200 Fly;Men;False;Big8
+20;Tobias Beutel;San Joaquin;Los Rios Invite;2:32.52;200 Fly;Men;False;Big8
+21;Maddox Todd;San Joaquin;Los Rios Invite;2:33.18;200 Fly;Men;False;Big8
+22;Josiah Ortego;American River;Big 8 INVITE;2:35.65;200 Fly;Men;False;Big8
+23;Arie Hoogeveen;Modesto JC;Big 8 INVITE;2:37.81;200 Fly;Men;False;Big8
+24;Ethan Yu;Sacramento City;Cuesta Super Invite;2:40.36;200 Fly;Men;False;Big8
+1;Madden Magee;Sierra;Big 8 INVITE;53.70;100 IM;Men;True;Big8
+2;Justin Hsieh;American River;Big 8 INVITE;54.02;100 IM;Men;True;Big8
 3;Davyd Tsypan;American River;Jack Flanagan Viking Invitational;54.30;100 IM;Men;True;Big8
 4;Bryson Throm;Santa Rosa;40th Annual Mt. SAC Invitational;54.66;100 IM;Men;True;Big8
 5;Benjamin Svoboda;Modesto JC;40th Annual Mt. SAC Invitational;55.46;100 IM;Men;True;Big8
-6;Ray Fitch;Diablo Valley;Delta College Invitational - Discipline Meet;56.30;100 IM;Men;True;Big8
-7;Andrew Manzo;Sierra;Mt. SAC vs. Sierra;56.82;100 IM;Men;True;Big8
-8;Joshua Noonan;American River;Jack Flanagan Viking Invitational;56.87;100 IM;Men;True;Big8
-9;Evan Sonoda;Diablo Valley;Jack Flanagan Viking Invitational;57.06;100 IM;Men;True;Big8
-10;Mckeane Beier;American River;Cuesta Super Invite;57.13;100 IM;Men;True;Big8
-11;Josh Sayo;American River;Jack Flanagan Viking Invitational;57.64;100 IM;Men;True;Big8
-12;Jacob Domingo;Sierra;Mt. SAC vs. Sierra;57.65;100 IM;Men;True;Big8
-13;Arian Mutschler;American River;Cuesta Super Invite;57.79;100 IM;Men;True;Big8
-14;Isaiah Warner;Diablo Valley;Delta College Invitational - Discipline Meet;58.02;100 IM;Men;True;Big8
-15;Phoenix Hebshi-Holt;Santa Rosa;Delta College Invitational - Discipline Meet;58.16;100 IM;Men;True;Big8
-16;Damon Winton;Sierra;Mt. SAC vs. Sierra;58.23;100 IM;Men;True;Big8
-17;Noah Erskine;Sierra;Mt. SAC vs. Sierra;58.46;100 IM;Men;False;Big8
-18;Joe Greer;Diablo Valley;Delta College Invitational - Discipline Meet;58.47;100 IM;Men;False;Big8
-19;Logan Irvine;Sierra;Mt. SAC vs. Sierra;58.60;100 IM;Men;False;Big8
-20;Kaelan Skeehan;Sierra;Mt. SAC vs. Sierra;58.86;100 IM;Men;False;Big8
-21;Andrew Donlin;American River;LPC vs MSAC vs ARC;59.36;100 IM;Men;False;Big8
-22;Josiah Ortego;American River;Cuesta Super Invite;59.47;100 IM;Men;False;Big8
-23;Graden Callahan;Sierra;CCSF Rams Invitational;59.70;100 IM;Men;False;Big8
-24;Kenya Ho;American River;Cuesta Super Invite;1:00.72;100 IM;Men;False;Big8
-25;Nolan Pogson;American River;Cuesta Super Invite;1:00.78;100 IM;Men;False;Big8
-26;Rowan Taggatz;American River;Cuesta Super Invite;1:01.20;100 IM;Men;False;Big8
-27;Logan Martin;American River;Cuesta Super Invite;1:01.22;100 IM;Men;False;Big8
-28;Justin Edgar;Sierra;Mt. SAC vs. Sierra;1:01.25;100 IM;Men;False;Big8
-29;Nykyta Lytvynenko;Sierra;40th Annual Mt. SAC Invitational;1:01.29;100 IM;Men;False;Big8
-30;Rowan Vecchio;Diablo Valley;Jack Flanagan - Afternoon Session;1:01.30;100 IM;Men;False;Big8
-31;Enrique Jimenez;Santa Rosa;40th Annual Mt. SAC Invitational;1:01.51;100 IM;Men;False;Big8
-32;Jacob Miller;Modesto JC;Merced College Sprint Invitational;1:01.64;100 IM;Men;False;Big8
-33;Alessandro Carino;Diablo Valley;Jack Flanagan - Afternoon Session;1:01.68;100 IM;Men;False;Big8
-34;Spencer Cox;Modesto JC;Merced College Sprint Invitational;1:01.88;100 IM;Men;False;Big8
-35;Cooper Cox;Modesto JC;40th Annual Mt. SAC Invitational;1:02.01;100 IM;Men;False;Big8
-36;Oliver Cockcroft;American River;Cuesta Super Invite;1:02.39;100 IM;Men;False;Big8
-37;Brandon Valerian Suharto;San Joaquin;14th Annual De Anza Invite;1:02.64;100 IM;Men;False;Big8
-38;Ryan Tu;American River;Cuesta Super Invite;1:02.69;100 IM;Men;False;Big8
-39;Orion Lowe Klippel;Sierra;Mt. SAC vs. Sierra;1:02.91;100 IM;Men;False;Big8
-40;Blake Pogson;American River;LPC vs MSAC vs ARC;1:02.93;100 IM;Men;False;Big8
-41;Maddox Todd;San Joaquin;14th Annual De Anza Invite;1:03.00;100 IM;Men;False;Big8
-42;James Pitcock;Cosumnes River College;Merced College Sprint Invitational;1:03.07;100 IM;Men;False;Big8
-43;Shawn Boland;Diablo Valley;Jack Flanagan - Afternoon Session;1:03.29;100 IM;Men;False;Big8
-44;Christian Lund;American River;Cuesta Super Invite;1:03.35;100 IM;Men;False;Big8
-45;Massimo Trento;Diablo Valley;Delta College Invitational - Discipline Meet;1:03.62;100 IM;Men;False;Big8
-46;Jonah Mafnas;Cosumnes River College;Merced College Sprint Invitational;1:03.70;100 IM;Men;False;Big8
-47;Cody Sharratt;American River;Cuesta Super Invite;1:03.90;100 IM;Men;False;Big8
-48;Brien Emmons;American River;Cuesta Super Invite;1:04.70;100 IM;Men;False;Big8
-49;Justin Gaite;American River;Cuesta Super Invite;1:04.91;100 IM;Men;False;Big8
-50;Noah Foster;American River;Cuesta Super Invite;1:05.11;100 IM;Men;False;Big8
+6;Daniel Lewis;Diablo Valley;Big 8 INVITE;55.87;100 IM;Men;True;Big8
+7;Josiah Deleon;American River;Big 8 INVITE;56.05;100 IM;Men;True;Big8
+8;Akim Kirilyuk;Sierra;Big 8 INVITE;56.09;100 IM;Men;True;Big8
+9;Ray Fitch;Diablo Valley;Delta College Invitational - Discipline Meet;56.30;100 IM;Men;True;Big8
+10;Andrew Manzo;Sierra;Mt. SAC vs. Sierra;56.82;100 IM;Men;True;Big8
+11;Joshua Noonan;American River;Jack Flanagan Viking Invitational;56.87;100 IM;Men;True;Big8
+12;Evan Sonoda;Diablo Valley;Jack Flanagan Viking Invitational;57.06;100 IM;Men;True;Big8
+13;Mckeane Beier;American River;Cuesta Super Invite;57.13;100 IM;Men;True;Big8
+14;Josh Sayo;American River;Jack Flanagan Viking Invitational;57.64;100 IM;Men;True;Big8
+15;Jacob Domingo;Sierra;Mt. SAC vs. Sierra;57.65;100 IM;Men;True;Big8
+16;Arian Mutschler;American River;Cuesta Super Invite;57.79;100 IM;Men;True;Big8
+17;Isaiah Warner;Diablo Valley;Delta College Invitational - Discipline Meet;58.02;100 IM;Men;False;Big8
+18;Phoenix Hebshi-Holt;Santa Rosa;Delta College Invitational - Discipline Meet;58.16;100 IM;Men;False;Big8
+19;Damon Winton;Sierra;Mt. SAC vs. Sierra;58.23;100 IM;Men;False;Big8
+20;Noah Erskine;Sierra;Mt. SAC vs. Sierra;58.46;100 IM;Men;False;Big8
+21;Joe Greer;Diablo Valley;Delta College Invitational - Discipline Meet;58.47;100 IM;Men;False;Big8
+22;Blake Pogson;American River;Big 8 INVITE;58.59;100 IM;Men;False;Big8
+23;Logan Irvine;Sierra;Mt. SAC vs. Sierra;58.60;100 IM;Men;False;Big8
+24;Kaelan Skeehan;Sierra;Mt. SAC vs. Sierra;58.86;100 IM;Men;False;Big8
+25;Andrew Donlin;American River;LPC vs MSAC vs ARC;59.36;100 IM;Men;False;Big8
+26;Josiah Ortego;American River;Cuesta Super Invite;59.47;100 IM;Men;False;Big8
+27;Donovan Swann;Diablo Valley;Big 8 INVITE;59.64;100 IM;Men;False;Big8
+28;Graden Callahan;Sierra;CCSF Rams Invitational;59.70;100 IM;Men;False;Big8
+29;Nolan Pogson;American River;Big 8 INVITE;1:00.24;100 IM;Men;False;Big8
+30;Rowan Vecchio;Diablo Valley;Big 8 INVITE;1:00.49;100 IM;Men;False;Big8
+31;Kenya Ho;American River;Cuesta Super Invite;1:00.72;100 IM;Men;False;Big8
+32;Nykyta Lytvynenko;Sierra;Big 8 INVITE;1:01.16;100 IM;Men;False;Big8
+33;Rowan Taggatz;American River;Cuesta Super Invite;1:01.20;100 IM;Men;False;Big8
+34;Logan Martin;American River;Cuesta Super Invite;1:01.22;100 IM;Men;False;Big8
+35;Justin Edgar;Sierra;Mt. SAC vs. Sierra;1:01.25;100 IM;Men;False;Big8
+36;Brandon Valerian Suharto;San Joaquin;Big 8 INVITE;1:01.45;100 IM;Men;False;Big8
+37;Enrique Jimenez;Santa Rosa;40th Annual Mt. SAC Invitational;1:01.51;100 IM;Men;False;Big8
+38;Jacob Miller;Modesto JC;Merced College Sprint Invitational;1:01.64;100 IM;Men;False;Big8
+39;Alessandro Carino;Diablo Valley;Jack Flanagan - Afternoon Session;1:01.68;100 IM;Men;False;Big8
+40;Spencer Cox;Modesto JC;Merced College Sprint Invitational;1:01.88;100 IM;Men;False;Big8
+41;Cooper Cox;Modesto JC;40th Annual Mt. SAC Invitational;1:02.01;100 IM;Men;False;Big8
+42;Oliver Cockcroft;American River;Cuesta Super Invite;1:02.39;100 IM;Men;False;Big8
+43;Yuji Tan;Diablo Valley;Big 8 INVITE;1:02.46;100 IM;Men;False;Big8
+44;Ryan Tu;American River;Cuesta Super Invite;1:02.69;100 IM;Men;False;Big8
+45;Orion Lowe Klippel;Sierra;Mt. SAC vs. Sierra;1:02.91;100 IM;Men;False;Big8
+46;Maddox Todd;San Joaquin;14th Annual De Anza Invite;1:03.00;100 IM;Men;False;Big8
+47;James Pitcock;Cosumnes River College;Merced College Sprint Invitational;1:03.07;100 IM;Men;False;Big8
+48;Shawn Boland;Diablo Valley;Jack Flanagan - Afternoon Session;1:03.29;100 IM;Men;False;Big8
+49;Christian Lund;American River;Cuesta Super Invite;1:03.35;100 IM;Men;False;Big8
+50;Justin Gaite;American River;Big 8 INVITE;1:03.47;100 IM;Men;False;Big8
 1;Phoenix Hebshi-Holt;Santa Rosa;40th Annual Mt. SAC Invitational;1:58.35;200 IM;Men;True;Big8
 2;Akim Kirilyuk;Sierra;40th Annual Mt. SAC Invitational;2:00.00;200 IM;Men;True;Big8
 3;Justin Hsieh;American River;Cuesta Super Invite;2:01.61;200 IM;Men;True;Big8
@@ -592,33 +612,40 @@
 7;Jacob Miller;Modesto JC;40th Annual Mt. SAC Invitational;2:05.92;200 IM;Men;True;Big8
 8;Bryson Throm;Santa Rosa;CCSF Rams Invitational;2:07.64;200 IM;Men;True;Big8
 9;Josiah Deleon;American River;Los Rios Invite;2:08.52;200 IM;Men;True;Big8
-10;Kaelan Skeehan;Sierra;40th Annual Mt. SAC Invitational;2:08.86;200 IM;Men;True;Big8
-11;Josh Sayo;American River;Jack Flanagan Viking Invitational;2:09.07;200 IM;Men;True;Big8
-12;Andrew Manzo;Sierra;40th Annual Mt. SAC Invitational;2:10.08;200 IM;Men;True;Big8
-13;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;2:10.23;200 IM;Men;True;Big8
-14;Rowan Taggatz;American River;Cuesta Super Invite;2:11.18;200 IM;Men;True;Big8
-15;Mckeane Beier;American River;Los Rios Invite;2:13.26;200 IM;Men;True;Big8
-16;Enrique Jimenez;Santa Rosa;40th Annual Mt. SAC Invitational;2:13.40;200 IM;Men;True;Big8
-17;Kenya Ho;American River;Cuesta Super Invite;2:13.47;200 IM;Men;False;Big8
-18;Oliver Cockcroft;American River;Los Rios Invite;2:14.93;200 IM;Men;False;Big8
-19;Joshua Noonan;American River;LPC vs MSAC vs ARC;2:15.56;200 IM;Men;False;Big8
-20;Brandon Valerian Suharto;San Joaquin;14th Annual De Anza Invite;2:15.93;200 IM;Men;False;Big8
-21;Justin Edgar;Sierra;40th Annual Mt. SAC Invitational;2:16.08;200 IM;Men;False;Big8
-22;Orion Lowe Klippel;Sierra;40th Annual Mt. SAC Invitational;2:17.62;200 IM;Men;False;Big8
-23;Massimo Trento;Diablo Valley;Jack Flanagan Viking Invitational;2:18.49;200 IM;Men;False;Big8
-24;Jayden Sheldon;Sierra;40th Annual Mt. SAC Invitational;2:24.19;200 IM;Men;False;Big8
-25;Christian Lund;American River;Cuesta Super Invite;2:25.63;200 IM;Men;False;Big8
-26;Shawn Boland;Diablo Valley;Delta College Invitational - Discipline Meet;2:26.06;200 IM;Men;False;Big8
-27;Dominic Esparza;American River;Los Rios Invite;2:26.12;200 IM;Men;False;Big8
-28;Jake Williams;Sacramento City;Cuesta Super Invite;2:26.47;200 IM;Men;False;Big8
-29;Cody Sharratt;American River;Los Rios Invite;2:26.93;200 IM;Men;False;Big8
-30;Nykyta Lytvynenko;Sierra;CCSF Rams Invitational;2:28.64;200 IM;Men;False;Big8
-31;Charlie Tucker;Sacramento City;Delta College Invitational - Discipline Meet;2:33.43;200 IM;Men;False;Big8
-32;Alexander Madriz;Sacramento City;Los Rios Invite;2:35.05;200 IM;Men;False;Big8
-33;Emmett Wong;Diablo Valley;Delta College Invitational - Discipline Meet;2:35.45;200 IM;Men;False;Big8
-34;Ian Swallow;Santa Rosa;CCSF Rams Invitational;2:35.46;200 IM;Men;False;Big8
-35;Justin Gaite;American River;Los Rios Invite;2:37.70;200 IM;Men;False;Big8
-36;Nico Riley-Turner;Santa Rosa;Los Rios Invite;2:41.15;200 IM;Men;False;Big8
+10;Isaiah Warner;Diablo Valley;Big 8 INVITE;2:08.56;200 IM;Men;True;Big8
+11;Josh Sayo;American River;Big 8 INVITE;2:08.57;200 IM;Men;True;Big8
+12;Petros Lewis;Diablo Valley;Big 8 INVITE;2:08.65;200 IM;Men;True;Big8
+13;Kaelan Skeehan;Sierra;40th Annual Mt. SAC Invitational;2:08.86;200 IM;Men;True;Big8
+14;Andrew Manzo;Sierra;40th Annual Mt. SAC Invitational;2:10.08;200 IM;Men;True;Big8
+15;Graden Callahan;Sierra;40th Annual Mt. SAC Invitational;2:10.23;200 IM;Men;True;Big8
+16;Rowan Taggatz;American River;Cuesta Super Invite;2:11.18;200 IM;Men;True;Big8
+17;Massimo Trento;Diablo Valley;Big 8 INVITE;2:11.98;200 IM;Men;False;Big8
+18;Mckeane Beier;American River;Los Rios Invite;2:13.26;200 IM;Men;False;Big8
+19;Enrique Jimenez;Santa Rosa;40th Annual Mt. SAC Invitational;2:13.40;200 IM;Men;False;Big8
+20;Kenya Ho;American River;Cuesta Super Invite;2:13.47;200 IM;Men;False;Big8
+21;Oliver Cockcroft;American River;Los Rios Invite;2:14.93;200 IM;Men;False;Big8
+22;Joshua Noonan;American River;LPC vs MSAC vs ARC;2:15.56;200 IM;Men;False;Big8
+23;Brandon Valerian Suharto;San Joaquin;14th Annual De Anza Invite;2:15.93;200 IM;Men;False;Big8
+24;Justin Edgar;Sierra;40th Annual Mt. SAC Invitational;2:16.08;200 IM;Men;False;Big8
+25;Orion Lowe Klippel;Sierra;40th Annual Mt. SAC Invitational;2:17.62;200 IM;Men;False;Big8
+26;Keanu Laolagi;Modesto JC;Big 8 INVITE;2:22.19;200 IM;Men;False;Big8
+27;Jayden Sheldon;Sierra;40th Annual Mt. SAC Invitational;2:24.19;200 IM;Men;False;Big8
+28;Ryan Tu;American River;Big 8 INVITE;2:25.13;200 IM;Men;False;Big8
+29;Tobias Beutel;San Joaquin;Big 8 INVITE;2:25.37;200 IM;Men;False;Big8
+30;Christian Lund;American River;Cuesta Super Invite;2:25.63;200 IM;Men;False;Big8
+31;Shawn Boland;Diablo Valley;Delta College Invitational - Discipline Meet;2:26.06;200 IM;Men;False;Big8
+32;Dominic Esparza;American River;Los Rios Invite;2:26.12;200 IM;Men;False;Big8
+33;Jake Williams;Sacramento City;Cuesta Super Invite;2:26.47;200 IM;Men;False;Big8
+34;Cody Sharratt;American River;Los Rios Invite;2:26.93;200 IM;Men;False;Big8
+35;Nykyta Lytvynenko;Sierra;CCSF Rams Invitational;2:28.64;200 IM;Men;False;Big8
+36;James Managbanag;Sierra;Big 8 INVITE;2:31.51;200 IM;Men;False;Big8
+37;Charlie Tucker;Sacramento City;Delta College Invitational - Discipline Meet;2:33.43;200 IM;Men;False;Big8
+38;Alexander Madriz;Sacramento City;Los Rios Invite;2:35.05;200 IM;Men;False;Big8
+39;Emmett Wong;Diablo Valley;Delta College Invitational - Discipline Meet;2:35.45;200 IM;Men;False;Big8
+40;Ian Swallow;Santa Rosa;CCSF Rams Invitational;2:35.46;200 IM;Men;False;Big8
+41;Aylan Denane;Diablo Valley;Big 8 INVITE;2:35.49;200 IM;Men;False;Big8
+42;Justin Gaite;American River;Los Rios Invite;2:37.70;200 IM;Men;False;Big8
+43;Nico Riley-Turner;Santa Rosa;Los Rios Invite;2:41.15;200 IM;Men;False;Big8
 1;Phoenix Hebshi-Holt;Santa Rosa;40th Annual Mt. SAC Invitational;4:15.95;400 IM;Men;True;Big8
 2;Jacob Domingo;Sierra;40th Annual Mt. SAC Invitational;4:28.15;400 IM;Men;True;Big8
 3;Evan Sonoda;Diablo Valley;Delta College Invitational - Discipline Meet;4:32.00;400 IM;Men;True;Big8
@@ -633,41 +660,41 @@
 12;Arie Hoogeveen;Modesto JC;Delta College Invitational - Discipline Meet;5:35.00;400 IM;Men;True;Big8
 13;James Managbanag;Sierra;40th Annual Mt. SAC Invitational;5:35.73;400 IM;Men;True;Big8
 1;Raegan Chavez;Sierra;Mt. SAC vs. Sierra;24.66;50 Free;Women;True;Big8
-2;Evalinne Vecchio;Diablo Valley;Jack Flanagan - Afternoon Session;25.69;50 Free;Women;True;Big8
-3;Jacquie Clouser;American River;Cuesta Super Invite;26.05;50 Free;Women;True;Big8
-4;Alina Chukanova;Sierra;Mt. SAC vs. Sierra;26.22;50 Free;Women;True;Big8
-5;Amber Inderkum;American River;Cuesta Super Invite;26.23;50 Free;Women;True;Big8
-6;Ella Hanson;American River;Cuesta Super Invite;26.31;50 Free;Women;True;Big8
-7;Aja Fuller;Sierra;Mt. SAC vs. Sierra;26.36;50 Free;Women;True;Big8
-8;Kaili Jiang;Cosumnes River College;14th Annual De Anza Invite;26.58;50 Free;Women;True;Big8
-9;Makenna Perez;Sierra;40th Annual Mt. SAC Invitational;26.75;50 Free;Women;True;Big8
-10;Victoria Guzman;San Joaquin;Los Rios Invite;26.82;50 Free;Women;True;Big8
-11;Sasha Samoylovich;American River;LPC vs MSAC vs ARC;26.89;50 Free;Women;True;Big8
-12;Kahu Arama;Sierra;40th Annual Mt. SAC Invitational;26.98;50 Free;Women;True;Big8
-13;DJ Mancuso;Santa Rosa;40th Annual Mt. SAC Invitational;27.08;50 Free;Women;True;Big8
-14;Crystallyn Tran;San Joaquin;Los Rios Invite;27.12;50 Free;Women;True;Big8
-15;Chloe Pappas;Diablo Valley;Jack Flanagan - Afternoon Session;27.19;50 Free;Women;True;Big8
-16;Mya Thomas;American River;Cuesta Super Invite;27.20;50 Free;Women;True;Big8
-17;Kylie Richardson;San Joaquin;Merced College Sprint Invitational;27.21;50 Free;Women;False;Big8
-18;Veronika Lapteva;Sierra;CCSF Rams Invitational;27.23;50 Free;Women;False;Big8
-19;Clara Walker;American River;Los Rios Invite;27.32;50 Free;Women;False;Big8
-20;Anabel Gardea Maldonado;American River;Cuesta Super Invite;27.38;50 Free;Women;False;Big8
-21;Brianna Smyth;Diablo Valley;Jack Flanagan - Afternoon Session;27.53;50 Free;Women;False;Big8
-22;Claire Contreras;American River;Cuesta Super Invite;27.65;50 Free;Women;False;Big8
-23;Regan Braga;Diablo Valley;Delta College Invitational - Discipline Meet;27.68;50 Free;Women;False;Big8
-24;Olivia Knott;San Joaquin;23rd Annual Mariner Invite;27.70;50 Free;Women;False;Big8
-25;Izzy Cooley;Diablo Valley;Jack Flanagan Viking Invitational;27.71;50 Free;Women;False;Big8
-26;Mo Schmierer;San Joaquin;Los Rios Invite;27.74;50 Free;Women;False;Big8
-27;Laine Woodard;San Joaquin;Merced College Sprint Invitational;27.80;50 Free;Women;False;Big8
-28;Rebecca Tunquist;San Joaquin;Delta College Invitational - Discipline Meet;27.89;50 Free;Women;False;Big8
-29;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;27.92;50 Free;Women;False;Big8
-30;Addison Klosevitz;Santa Rosa;CCSF Rams Invitational;27.95;50 Free;Women;False;Big8
-31;Emmi Ng;Diablo Valley;Los Rios Invite;28.11;50 Free;Women;False;Big8
-32;Juliana Goulart;Santa Rosa;40th Annual Mt. SAC Invitational;28.21;50 Free;Women;False;Big8
-33;Natalie Buttitta;Diablo Valley;Jack Flanagan Viking Invitational;28.23;50 Free;Women;False;Big8
-34;Sara Ashby;American River;Los Rios Invite;28.25;50 Free;Women;False;Big8
-34;Jane Lubiens;Sierra;40th Annual Mt. SAC Invitational;28.25;50 Free;Women;False;Big8
-36;Victoria Rich;Modesto JC;40th Annual Mt. SAC Invitational;28.44;50 Free;Women;False;Big8
+2;Evalinne Vecchio;Diablo Valley;Big 8 INVITE;25.34;50 Free;Women;True;Big8
+3;Juliana Goulart;Santa Rosa;Big 8 INVITE;25.46;50 Free;Women;True;Big8
+4;Jacquie Clouser;American River;Cuesta Super Invite;26.05;50 Free;Women;True;Big8
+5;Alina Chukanova;Sierra;Mt. SAC vs. Sierra;26.22;50 Free;Women;True;Big8
+6;Amber Inderkum;American River;Cuesta Super Invite;26.23;50 Free;Women;True;Big8
+7;Kylie Richardson;San Joaquin;Big 8 INVITE;26.27;50 Free;Women;True;Big8
+8;Ella Hanson;American River;Cuesta Super Invite;26.31;50 Free;Women;True;Big8
+9;Aja Fuller;Sierra;Mt. SAC vs. Sierra;26.36;50 Free;Women;True;Big8
+10;Kaili Jiang;Cosumnes River College;14th Annual De Anza Invite;26.58;50 Free;Women;True;Big8
+11;Victoria Guzman;San Joaquin;Big 8 INVITE;26.60;50 Free;Women;True;Big8
+12;Makenna Perez;Sierra;40th Annual Mt. SAC Invitational;26.75;50 Free;Women;True;Big8
+13;Jane Lubiens;Sierra;Big 8 INVITE;26.80;50 Free;Women;True;Big8
+14;Chloe Pappas;Diablo Valley;Big 8 INVITE;26.81;50 Free;Women;True;Big8
+15;Sasha Samoylovich;American River;LPC vs MSAC vs ARC;26.89;50 Free;Women;True;Big8
+16;Kahu Arama;Sierra;40th Annual Mt. SAC Invitational;26.98;50 Free;Women;True;Big8
+17;DJ Mancuso;Santa Rosa;40th Annual Mt. SAC Invitational;27.08;50 Free;Women;False;Big8
+18;Crystallyn Tran;San Joaquin;Los Rios Invite;27.12;50 Free;Women;False;Big8
+19;Olivia Knott;San Joaquin;Big 8 INVITE;27.14;50 Free;Women;False;Big8
+20;Mya Thomas;American River;Cuesta Super Invite;27.20;50 Free;Women;False;Big8
+21;Rebecca Tunquist;San Joaquin;Big 8 INVITE;27.22;50 Free;Women;False;Big8
+22;Veronika Lapteva;Sierra;CCSF Rams Invitational;27.23;50 Free;Women;False;Big8
+23;Clara Walker;American River;Los Rios Invite;27.32;50 Free;Women;False;Big8
+24;Anabel Gardea Maldonado;American River;Cuesta Super Invite;27.38;50 Free;Women;False;Big8
+25;Brianna Smyth;Diablo Valley;Jack Flanagan - Afternoon Session;27.53;50 Free;Women;False;Big8
+26;Claire Contreras;American River;Cuesta Super Invite;27.65;50 Free;Women;False;Big8
+27;Regan Braga;Diablo Valley;Delta College Invitational - Discipline Meet;27.68;50 Free;Women;False;Big8
+28;Laine Woodard;San Joaquin;Big 8 INVITE;27.69;50 Free;Women;False;Big8
+29;Izzy Cooley;Diablo Valley;Jack Flanagan Viking Invitational;27.71;50 Free;Women;False;Big8
+30;Mo Schmierer;San Joaquin;Los Rios Invite;27.74;50 Free;Women;False;Big8
+31;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;27.92;50 Free;Women;False;Big8
+32;Addison Klosevitz;Santa Rosa;CCSF Rams Invitational;27.95;50 Free;Women;False;Big8
+33;Natalie Buttitta;Diablo Valley;Big 8 INVITE;28.08;50 Free;Women;False;Big8
+34;Emmi Ng;Diablo Valley;Los Rios Invite;28.11;50 Free;Women;False;Big8
+35;Sara Ashby;American River;Los Rios Invite;28.25;50 Free;Women;False;Big8
+36;Victoria Rich;Modesto JC;Big 8 INVITE;28.28;50 Free;Women;False;Big8
 37;Marguerite Gardner;American River;Cuesta Super Invite;28.54;50 Free;Women;False;Big8
 38;Meg Gardner;American River;LPC vs MSAC vs ARC;28.66;50 Free;Women;False;Big8
 39;Isabella Howell;Sierra;CCSF Rams Invitational;28.72;50 Free;Women;False;Big8
@@ -676,14 +703,14 @@
 42;Paige Randall;American River;Los Rios Invite;28.99;50 Free;Women;False;Big8
 43;Sequoia Cosgrove Lane;Diablo Valley;Jack Flanagan Viking Invitational;29.02;50 Free;Women;False;Big8
 44;Samantha Scheid;San Joaquin;Merced College Sprint Invitational;29.05;50 Free;Women;False;Big8
-45;Lydia Vlahos;American River;Los Rios Invite;29.22;50 Free;Women;False;Big8
-46;Iliana Khanenka;American River;Los Rios Invite;29.27;50 Free;Women;False;Big8
-47;Gianna Ramos;San Joaquin;Merced College Sprint Invitational;29.28;50 Free;Women;False;Big8
-48;Brooke Boyer;American River;Cuesta Super Invite;29.38;50 Free;Women;False;Big8
-49;Raquel Lacanlale;Diablo Valley;Delta College Invitational - Discipline Meet;29.39;50 Free;Women;False;Big8
-50;Taylor Sanchez;Sierra;40th Annual Mt. SAC Invitational;29.78;50 Free;Women;False;Big8
+45;Ava Sepulveda;San Joaquin;Big 8 INVITE;29.15;50 Free;Women;False;Big8
+46;Lydia Vlahos;American River;Los Rios Invite;29.22;50 Free;Women;False;Big8
+47;Iliana Khanenka;American River;Los Rios Invite;29.27;50 Free;Women;False;Big8
+48;Gianna Ramos;San Joaquin;Merced College Sprint Invitational;29.28;50 Free;Women;False;Big8
+49;Brooke Boyer;American River;Cuesta Super Invite;29.38;50 Free;Women;False;Big8
+50;Raquel Lacanlale;Diablo Valley;Delta College Invitational - Discipline Meet;29.39;50 Free;Women;False;Big8
 1;Raegan Chavez;Sierra;40th Annual Mt. SAC Invitational;54.07;100 Free;Women;True;Big8
-2;Evalinne Vecchio;Diablo Valley;Los Rios Invite;55.87;100 Free;Women;True;Big8
+2;Evalinne Vecchio;Diablo Valley;Big 8 INVITE;55.47;100 Free;Women;True;Big8
 3;Aja Fuller;Sierra;40th Annual Mt. SAC Invitational;57.20;100 Free;Women;True;Big8
 4;Frida Avalos Paz;Diablo Valley;Jack Flanagan - Afternoon Session;57.29;100 Free;Women;True;Big8
 5;Jane Lubiens;Sierra;CCSF Rams Invitational;57.68;100 Free;Women;True;Big8
@@ -691,99 +718,100 @@
 7;Addison Klosevitz;Santa Rosa;CCSF Rams Invitational;58.03;100 Free;Women;True;Big8
 8;Victoria Guzman;San Joaquin;Los Rios Invite;58.17;100 Free;Women;True;Big8
 9;Crystallyn Tran;San Joaquin;23rd Annual Mariner Invite;58.84;100 Free;Women;True;Big8
-10;Laine Woodard;San Joaquin;23rd Annual Mariner Invite;59.26;100 Free;Women;True;Big8
 10;DJ Mancuso;Santa Rosa;40th Annual Mt. SAC Invitational;59.26;100 Free;Women;True;Big8
+10;Laine Woodard;San Joaquin;23rd Annual Mariner Invite;59.26;100 Free;Women;True;Big8
 12;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;59.27;100 Free;Women;True;Big8
 13;Veronika Lapteva;Sierra;40th Annual Mt. SAC Invitational;59.42;100 Free;Women;True;Big8
 14;Jacquie Clouser;American River;Cuesta Super Invite;59.54;100 Free;Women;True;Big8
-15;Amber Inderkum;American River;Los Rios Invite;1:00.05;100 Free;Women;True;Big8
-16;Kahu Arama;Sierra;CCSF Rams Invitational;1:00.10;100 Free;Women;True;Big8
-17;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;1:00.16;100 Free;Women;False;Big8
-18;Chloe Pappas;Diablo Valley;Jack Flanagan Viking Invitational;1:00.52;100 Free;Women;False;Big8
-19;Izzy Cooley;Diablo Valley;Jack Flanagan Viking Invitational;1:00.82;100 Free;Women;False;Big8
-20;Sara Ashby;American River;Cuesta Super Invite;1:00.86;100 Free;Women;False;Big8
-21;Regan Braga;Diablo Valley;Jack Flanagan Viking Invitational;1:00.90;100 Free;Women;False;Big8
-22;Taylor Sanchez;Sierra;40th Annual Mt. SAC Invitational;1:00.98;100 Free;Women;False;Big8
-23;Claire Contreras;American River;Cuesta Super Invite;1:01.10;100 Free;Women;False;Big8
-24;Emmi Ng;Diablo Valley;Jack Flanagan Viking Invitational;1:01.29;100 Free;Women;False;Big8
-25;Lydia Vlahos;American River;Cuesta Super Invite;1:01.66;100 Free;Women;False;Big8
-26;Kylie Richardson;San Joaquin;Merced College Sprint Invitational;1:01.86;100 Free;Women;False;Big8
-27;Samantha Scheid;San Joaquin;Merced College Sprint Invitational;1:02.08;100 Free;Women;False;Big8
-28;Mo Schmierer;San Joaquin;Merced College Sprint Invitational;1:02.28;100 Free;Women;False;Big8
-29;Isabella Howell;Sierra;40th Annual Mt. SAC Invitational;1:03.04;100 Free;Women;False;Big8
-30;Gianna Ramos;San Joaquin;Delta College Invitational - Discipline Meet;1:03.08;100 Free;Women;False;Big8
-31;Iliana Khanenka;American River;Cuesta Super Invite;1:03.21;100 Free;Women;False;Big8
-32;Fernanda Patino Mendez;Modesto JC;40th Annual Mt. SAC Invitational;1:03.27;100 Free;Women;False;Big8
-33;Brianna Smyth;Diablo Valley;Delta College Invitational - Discipline Meet;1:03.31;100 Free;Women;False;Big8
-34;Brooke Boyer;American River;Cuesta Super Invite;1:03.40;100 Free;Women;False;Big8
-34;Paige Randall;American River;Los Rios Invite;1:03.40;100 Free;Women;False;Big8
-36;Natalie Buttitta;Diablo Valley;Delta College Invitational - Discipline Meet;1:03.41;100 Free;Women;False;Big8
-37;Sequoia Cosgrove Lane;Diablo Valley;Jack Flanagan Viking Invitational;1:03.48;100 Free;Women;False;Big8
-38;Olivia Knott;San Joaquin;Delta College Invitational - Discipline Meet;1:03.87;100 Free;Women;False;Big8
-39;Rebecca Tunquist;San Joaquin;23rd Annual Mariner Invite;1:04.41;100 Free;Women;False;Big8
-40;Pavla Kobzar;Sacramento City;Cuesta Super Invite;1:04.44;100 Free;Women;False;Big8
-41;Victoria Rich;Modesto JC;40th Annual Mt. SAC Invitational;1:04.56;100 Free;Women;False;Big8
+15;Mo Schmierer;San Joaquin;Big 8 INVITE;59.98;100 Free;Women;True;Big8
+16;Amber Inderkum;American River;Los Rios Invite;1:00.05;100 Free;Women;True;Big8
+16;Kahu Arama;Sierra;Big 8 INVITE;1:00.05;100 Free;Women;True;Big8
+18;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;1:00.16;100 Free;Women;False;Big8
+19;Chloe Pappas;Diablo Valley;Jack Flanagan Viking Invitational;1:00.52;100 Free;Women;False;Big8
+20;Izzy Cooley;Diablo Valley;Jack Flanagan Viking Invitational;1:00.82;100 Free;Women;False;Big8
+21;Sara Ashby;American River;Cuesta Super Invite;1:00.86;100 Free;Women;False;Big8
+22;Regan Braga;Diablo Valley;Jack Flanagan Viking Invitational;1:00.90;100 Free;Women;False;Big8
+23;Taylor Sanchez;Sierra;40th Annual Mt. SAC Invitational;1:00.98;100 Free;Women;False;Big8
+24;Claire Contreras;American River;Cuesta Super Invite;1:01.10;100 Free;Women;False;Big8
+25;Emmi Ng;Diablo Valley;Big 8 INVITE;1:01.11;100 Free;Women;False;Big8
+26;Olivia Knott;San Joaquin;Big 8 INVITE;1:01.62;100 Free;Women;False;Big8
+27;Lydia Vlahos;American River;Cuesta Super Invite;1:01.66;100 Free;Women;False;Big8
+28;Kylie Richardson;San Joaquin;Merced College Sprint Invitational;1:01.86;100 Free;Women;False;Big8
+29;Samantha Scheid;San Joaquin;Merced College Sprint Invitational;1:02.08;100 Free;Women;False;Big8
+30;Victoria Rich;Modesto JC;Big 8 INVITE;1:02.25;100 Free;Women;False;Big8
+31;Paige Randall;American River;Big 8 INVITE;1:02.90;100 Free;Women;False;Big8
+32;Isabella Howell;Sierra;40th Annual Mt. SAC Invitational;1:03.04;100 Free;Women;False;Big8
+33;Gianna Ramos;San Joaquin;Delta College Invitational - Discipline Meet;1:03.08;100 Free;Women;False;Big8
+34;Iliana Khanenka;American River;Cuesta Super Invite;1:03.21;100 Free;Women;False;Big8
+35;Fernanda Patino Mendez;Modesto JC;40th Annual Mt. SAC Invitational;1:03.27;100 Free;Women;False;Big8
+36;Brianna Smyth;Diablo Valley;Delta College Invitational - Discipline Meet;1:03.31;100 Free;Women;False;Big8
+37;Brooke Boyer;American River;Cuesta Super Invite;1:03.40;100 Free;Women;False;Big8
+38;Natalie Buttitta;Diablo Valley;Delta College Invitational - Discipline Meet;1:03.41;100 Free;Women;False;Big8
+39;Sequoia Cosgrove Lane;Diablo Valley;Jack Flanagan Viking Invitational;1:03.48;100 Free;Women;False;Big8
+40;Rebecca Tunquist;San Joaquin;23rd Annual Mariner Invite;1:04.41;100 Free;Women;False;Big8
+41;Pavla Kobzar;Sacramento City;Cuesta Super Invite;1:04.44;100 Free;Women;False;Big8
 42;Raquel Lacanlale;Diablo Valley;Jack Flanagan - Afternoon Session;1:04.97;100 Free;Women;False;Big8
 43;Mya Thomas;American River;Los Rios Invite;1:05.38;100 Free;Women;False;Big8
 44;Rilie Bennett;Diablo Valley;Los Rios Invite;1:05.40;100 Free;Women;False;Big8
 45;Meredith Cornwall;Santa Rosa;40th Annual Mt. SAC Invitational;1:05.56;100 Free;Women;False;Big8
-46;Ava Sepulveda;San Joaquin;Delta College Invitational - Discipline Meet;1:06.14;100 Free;Women;False;Big8
-47;Stephanie Thomason;San Joaquin;Merced College Sprint Invitational;1:06.28;100 Free;Women;False;Big8
-48;Haley Lucas;San Joaquin;Delta College Invitational - Discipline Meet;1:07.13;100 Free;Women;False;Big8
-49;Mele Sanchez;San Joaquin;23rd Annual Mariner Invite;1:07.27;100 Free;Women;False;Big8
-50;Juliana Goulart;Santa Rosa;CCSF Rams Invitational;1:07.84;100 Free;Women;False;Big8
+46;Cosette Waterman;Santa Rosa;Big 8 INVITE;1:05.81;100 Free;Women;False;Big8
+47;Ava Sepulveda;San Joaquin;Big 8 INVITE;1:05.94;100 Free;Women;False;Big8
+48;Juliana Goulart;Santa Rosa;Big 8 INVITE;1:06.19;100 Free;Women;False;Big8
+49;Joyful Thompson;Sierra;Big 8 INVITE;1:06.25;100 Free;Women;False;Big8
+50;Stephanie Thomason;San Joaquin;Merced College Sprint Invitational;1:06.28;100 Free;Women;False;Big8
 1;Raegan Chavez;Sierra;40th Annual Mt. SAC Invitational;1:59.89;200 Free;Women;True;Big8
-2;Jane Lubiens;Sierra;Mt. SAC vs. Sierra;2:02.44;200 Free;Women;True;Big8
-3;Aja Fuller;Sierra;Mt. SAC vs. Sierra;2:04.25;200 Free;Women;True;Big8
-4;Victoria Guzman;San Joaquin;23rd Annual Mariner Invite;2:04.70;200 Free;Women;True;Big8
-5;Anabel Gardea Maldonado;American River;Cuesta Super Invite;2:05.01;200 Free;Women;True;Big8
-6;Addison Klosevitz;Santa Rosa;Delta College Invitational - Discipline Meet;2:05.27;200 Free;Women;True;Big8
-7;Kaeli Stowell;Sierra;Mt. SAC vs. Sierra;2:07.52;200 Free;Women;True;Big8
-8;Emma Upton;Sierra;CCSF Rams Invitational;2:10.37;200 Free;Women;True;Big8
-9;Frida Avalos Paz;Diablo Valley;Los Rios Invite;2:10.93;200 Free;Women;True;Big8
-10;Makenna Perez;Sierra;40th Annual Mt. SAC Invitational;2:11.74;200 Free;Women;True;Big8
-11;Laine Woodard;San Joaquin;23rd Annual Mariner Invite;2:12.17;200 Free;Women;True;Big8
-12;Amber Inderkum;American River;LPC vs MSAC vs ARC;2:12.34;200 Free;Women;True;Big8
-13;Kolby Kaufert;Sierra;CCSF Rams Invitational;2:12.58;200 Free;Women;True;Big8
-14;Kahu Arama;Sierra;CCSF Rams Invitational;2:13.21;200 Free;Women;True;Big8
-15;DJ Mancuso;Santa Rosa;Delta College Invitational - Discipline Meet;2:13.44;200 Free;Women;True;Big8
-16;Sara Ashby;American River;Jack Flanagan Viking Invitational;2:13.82;200 Free;Women;True;Big8
-17;Jacquie Clouser;American River;Cuesta Super Invite;2:13.89;200 Free;Women;False;Big8
-18;Claire Contreras;American River;Cuesta Super Invite;2:14.23;200 Free;Women;False;Big8
-19;Samantha Scheid;San Joaquin;23rd Annual Mariner Invite;2:14.83;200 Free;Women;False;Big8
-20;Lydia Vlahos;American River;Cuesta Super Invite;2:16.34;200 Free;Women;False;Big8
-21;Isabella Howell;Sierra;Mt. SAC vs. Sierra;2:16.42;200 Free;Women;False;Big8
-22;Macie Banner;American River;LPC vs MSAC vs ARC;2:18.39;200 Free;Women;False;Big8
-23;Chloe Pappas;Diablo Valley;Jack Flanagan Viking Invitational;2:18.84;200 Free;Women;False;Big8
-24;Allie Nihart;Sierra;CCSF Rams Invitational;2:18.96;200 Free;Women;False;Big8
-25;Gianna Ramos;San Joaquin;Delta College Invitational - Discipline Meet;2:20.27;200 Free;Women;False;Big8
-26;Delaney Reynolds;Santa Rosa;Los Rios Invite;2:20.33;200 Free;Women;False;Big8
-27;Supitcha Phoonpirom;Diablo Valley;Delta College Invitational - Discipline Meet;2:21.30;200 Free;Women;False;Big8
-28;Paige Randall;American River;Jack Flanagan Viking Invitational;2:21.52;200 Free;Women;False;Big8
-29;Rilie Bennett;Diablo Valley;Jack Flanagan Viking Invitational;2:22.27;200 Free;Women;False;Big8
-30;Jessica Kraemer;Santa Rosa;Delta College Invitational - Discipline Meet;2:22.53;200 Free;Women;False;Big8
-31;Pavla Kobzar;Sacramento City;Cuesta Super Invite;2:23.75;200 Free;Women;False;Big8
-32;Olivia Knott;San Joaquin;23rd Annual Mariner Invite;2:23.79;200 Free;Women;False;Big8
-33;Stephanie Thomason;San Joaquin;23rd Annual Mariner Invite;2:25.94;200 Free;Women;False;Big8
-34;Haley Lucas;San Joaquin;23rd Annual Mariner Invite;2:27.84;200 Free;Women;False;Big8
-35;Mele Sanchez;San Joaquin;Los Rios Invite;2:32.02;200 Free;Women;False;Big8
-36;Angela Rivera;American River;Cuesta Super Invite;2:32.50;200 Free;Women;False;Big8
-37;Saige Parrish;Modesto JC;40th Annual Mt. SAC Invitational;2:33.80;200 Free;Women;False;Big8
-38;Hannah Parreira;Modesto JC;40th Annual Mt. SAC Invitational;2:34.68;200 Free;Women;False;Big8
-39;Emily Marques;Diablo Valley;Delta College Invitational - Discipline Meet;2:36.67;200 Free;Women;False;Big8
-40;Madison Madrid;San Joaquin;Delta College Invitational - Discipline Meet;2:37.23;200 Free;Women;False;Big8
-41;Jaycee Cline;Modesto JC;Delta College Invitational - Discipline Meet;2:37.52;200 Free;Women;False;Big8
-42;Veronica Brown;Sacramento City;Delta College Invitational - Discipline Meet;2:38.43;200 Free;Women;False;Big8
-43;Alison Jones;San Joaquin;Los Rios Invite;2:41.94;200 Free;Women;False;Big8
-44;Marisa Collazo;Sacramento City;Cuesta Super Invite;2:42.76;200 Free;Women;False;Big8
-45;Amara Black;Sacramento City;Cuesta Super Invite;2:45.27;200 Free;Women;False;Big8
-46;Molly Velasco;Sacramento City;Cuesta Super Invite;2:48.76;200 Free;Women;False;Big8
-47;Maci Farinha;Modesto JC;40th Annual Mt. SAC Invitational;2:53.21;200 Free;Women;False;Big8
-48;Jemma Anderson;San Joaquin;Delta College Invitational - Discipline Meet;2:55.26;200 Free;Women;False;Big8
-49;Nia Danelia;American River;Cuesta Super Invite;3:02.07;200 Free;Women;False;Big8
-1;Addison Klosevitz;Santa Rosa;40th Annual Mt. SAC Invitational;5:25.97;500 Free;Women;True;Big8
-2;Jane Lubiens;Sierra;40th Annual Mt. SAC Invitational;5:27.70;500 Free;Women;True;Big8
-3;Victoria Guzman;San Joaquin;23rd Annual Mariner Invite;5:29.15;500 Free;Women;True;Big8
+2;Frida Avalos Paz;Diablo Valley;Big 8 INVITE;2:02.03;200 Free;Women;True;Big8
+3;Jane Lubiens;Sierra;Mt. SAC vs. Sierra;2:02.44;200 Free;Women;True;Big8
+4;Addison Klosevitz;Santa Rosa;Big 8 INVITE;2:03.73;200 Free;Women;True;Big8
+5;Aja Fuller;Sierra;Mt. SAC vs. Sierra;2:04.25;200 Free;Women;True;Big8
+6;Victoria Guzman;San Joaquin;23rd Annual Mariner Invite;2:04.70;200 Free;Women;True;Big8
+7;Anabel Gardea Maldonado;American River;Cuesta Super Invite;2:05.01;200 Free;Women;True;Big8
+8;Kaeli Stowell;Sierra;Mt. SAC vs. Sierra;2:07.52;200 Free;Women;True;Big8
+9;Emma Upton;Sierra;Big 8 INVITE;2:07.59;200 Free;Women;True;Big8
+10;Ella Hanson;American River;Big 8 INVITE;2:08.71;200 Free;Women;True;Big8
+11;Laine Woodard;San Joaquin;Big 8 INVITE;2:10.11;200 Free;Women;True;Big8
+12;Sara Ashby;American River;Big 8 INVITE;2:10.39;200 Free;Women;True;Big8
+13;Makenna Perez;Sierra;40th Annual Mt. SAC Invitational;2:11.74;200 Free;Women;True;Big8
+14;Amber Inderkum;American River;LPC vs MSAC vs ARC;2:12.34;200 Free;Women;True;Big8
+15;Kolby Kaufert;Sierra;CCSF Rams Invitational;2:12.58;200 Free;Women;True;Big8
+16;Kahu Arama;Sierra;CCSF Rams Invitational;2:13.21;200 Free;Women;True;Big8
+17;DJ Mancuso;Santa Rosa;Delta College Invitational - Discipline Meet;2:13.44;200 Free;Women;False;Big8
+18;Jacquie Clouser;American River;Cuesta Super Invite;2:13.89;200 Free;Women;False;Big8
+19;Chloe Pappas;Diablo Valley;Big 8 INVITE;2:14.20;200 Free;Women;False;Big8
+20;Claire Contreras;American River;Cuesta Super Invite;2:14.23;200 Free;Women;False;Big8
+21;Samantha Scheid;San Joaquin;23rd Annual Mariner Invite;2:14.83;200 Free;Women;False;Big8
+22;Delaney Reynolds;Santa Rosa;Big 8 INVITE;2:15.91;200 Free;Women;False;Big8
+23;Taylor Sanchez;Sierra;Big 8 INVITE;2:15.95;200 Free;Women;False;Big8
+24;Lydia Vlahos;American River;Cuesta Super Invite;2:16.34;200 Free;Women;False;Big8
+25;Isabella Howell;Sierra;Mt. SAC vs. Sierra;2:16.42;200 Free;Women;False;Big8
+26;Jessica Kraemer;Santa Rosa;Big 8 INVITE;2:16.62;200 Free;Women;False;Big8
+27;Gianna Ramos;San Joaquin;Big 8 INVITE;2:17.72;200 Free;Women;False;Big8
+28;Allie Nihart;Sierra;Big 8 INVITE;2:18.12;200 Free;Women;False;Big8
+29;Macie Banner;American River;LPC vs MSAC vs ARC;2:18.39;200 Free;Women;False;Big8
+30;Olivia Knott;San Joaquin;Big 8 INVITE;2:18.89;200 Free;Women;False;Big8
+31;Stephanie Thomason;San Joaquin;Big 8 INVITE;2:20.80;200 Free;Women;False;Big8
+32;Supitcha Phoonpirom;Diablo Valley;Delta College Invitational - Discipline Meet;2:21.30;200 Free;Women;False;Big8
+33;Paige Randall;American River;Jack Flanagan Viking Invitational;2:21.52;200 Free;Women;False;Big8
+34;Rilie Bennett;Diablo Valley;Jack Flanagan Viking Invitational;2:22.27;200 Free;Women;False;Big8
+35;Pavla Kobzar;Sacramento City;Cuesta Super Invite;2:23.75;200 Free;Women;False;Big8
+36;Raquel Lacanlale;Diablo Valley;Big 8 INVITE;2:24.70;200 Free;Women;False;Big8
+37;Angela Rivera;American River;Big 8 INVITE;2:26.57;200 Free;Women;False;Big8
+37;Haley Lucas;San Joaquin;Big 8 INVITE;2:26.57;200 Free;Women;False;Big8
+39;Saige Parrish;Modesto JC;Big 8 INVITE;2:30.35;200 Free;Women;False;Big8
+40;Cosette Waterman;Santa Rosa;Big 8 INVITE;2:30.42;200 Free;Women;False;Big8
+41;Mele Sanchez;San Joaquin;Los Rios Invite;2:32.02;200 Free;Women;False;Big8
+42;Veronica Brown;Sacramento City;Big 8 INVITE;2:32.55;200 Free;Women;False;Big8
+43;Emily Jones;San Joaquin;Big 8 INVITE;2:33.21;200 Free;Women;False;Big8
+44;Hannah Parreira;Modesto JC;40th Annual Mt. SAC Invitational;2:34.68;200 Free;Women;False;Big8
+45;Madison Madrid;San Joaquin;Big 8 INVITE;2:35.12;200 Free;Women;False;Big8
+46;Alison Jones;San Joaquin;Big 8 INVITE;2:35.79;200 Free;Women;False;Big8
+47;Emily Marques;Diablo Valley;Delta College Invitational - Discipline Meet;2:36.67;200 Free;Women;False;Big8
+48;Amara Black;Sacramento City;Big 8 INVITE;2:37.27;200 Free;Women;False;Big8
+49;Jaycee Cline;Modesto JC;Delta College Invitational - Discipline Meet;2:37.52;200 Free;Women;False;Big8
+50;Marisa Collazo;Sacramento City;Cuesta Super Invite;2:42.76;200 Free;Women;False;Big8
+1;Jane Lubiens;Sierra;Big 8 INVITE;5:24.15;500 Free;Women;True;Big8
+2;Victoria Guzman;San Joaquin;Big 8 INVITE;5:25.03;500 Free;Women;True;Big8
+3;Addison Klosevitz;Santa Rosa;40th Annual Mt. SAC Invitational;5:25.97;500 Free;Women;True;Big8
 4;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;5:36.94;500 Free;Women;True;Big8
 5;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;5:40.56;500 Free;Women;True;Big8
 6;Natascha Deadman;Santa Rosa;40th Annual Mt. SAC Invitational;5:51.14;500 Free;Women;True;Big8
@@ -794,24 +822,26 @@
 11;Delaney Reynolds;Santa Rosa;40th Annual Mt. SAC Invitational;5:57.04;500 Free;Women;True;Big8
 12;Veronika Lapteva;Sierra;40th Annual Mt. SAC Invitational;5:58.22;500 Free;Women;True;Big8
 13;Lydia Vlahos;American River;Cuesta Super Invite;5:58.31;500 Free;Women;True;Big8
-14;Samantha Scheid;San Joaquin;Delta College Invitational - Discipline Meet;6:03.59;500 Free;Women;True;Big8
-15;Claire Contreras;American River;Cuesta Super Invite;6:08.18;500 Free;Women;True;Big8
-16;Supitcha Phoonpirom;Diablo Valley;Jack Flanagan Viking Invitational;6:08.44;500 Free;Women;True;Big8
-17;Jessica Kraemer;Santa Rosa;40th Annual Mt. SAC Invitational;6:08.91;500 Free;Women;False;Big8
-18;Isabella Howell;Sierra;40th Annual Mt. SAC Invitational;6:09.65;500 Free;Women;False;Big8
-19;Taylor Sanchez;Sierra;40th Annual Mt. SAC Invitational;6:12.31;500 Free;Women;False;Big8
-20;Allie Nihart;Sierra;40th Annual Mt. SAC Invitational;6:12.41;500 Free;Women;False;Big8
-21;Brianna Smyth;Diablo Valley;Los Rios Invite;6:12.93;500 Free;Women;False;Big8
-22;Stephanie Thomason;San Joaquin;Delta College Invitational - Discipline Meet;6:14.12;500 Free;Women;False;Big8
-23;Gianna Ramos;San Joaquin;23rd Annual Mariner Invite;6:17.83;500 Free;Women;False;Big8
-24;Pavla Kobzar;Sacramento City;Los Rios Invite;6:34.94;500 Free;Women;False;Big8
-25;Makenna Hensley;Sierra;CCSF Rams Invitational;6:40.83;500 Free;Women;False;Big8
-26;Olivia Knott;San Joaquin;23rd Annual Mariner Invite;6:48.23;500 Free;Women;False;Big8
-27;Saige Parrish;Modesto JC;Delta College Invitational - Discipline Meet;7:01.69;500 Free;Women;False;Big8
-28;Emily Marques;Diablo Valley;Los Rios Invite;7:08.84;500 Free;Women;False;Big8
-29;Veronica Brown;Sacramento City;Cuesta Super Invite;7:14.61;500 Free;Women;False;Big8
-30;Marisa Collazo;Sacramento City;Cuesta Super Invite;7:27.95;500 Free;Women;False;Big8
-30;Maci Farinha;Modesto JC;40th Annual Mt. SAC Invitational;7:27.95;500 Free;Women;False;Big8
+14;Samantha Scheid;San Joaquin;Big 8 INVITE;5:58.97;500 Free;Women;True;Big8
+15;Stephanie Thomason;San Joaquin;Big 8 INVITE;6:03.97;500 Free;Women;True;Big8
+16;Claire Contreras;American River;Cuesta Super Invite;6:08.18;500 Free;Women;True;Big8
+17;Supitcha Phoonpirom;Diablo Valley;Jack Flanagan Viking Invitational;6:08.44;500 Free;Women;False;Big8
+18;Jessica Kraemer;Santa Rosa;40th Annual Mt. SAC Invitational;6:08.91;500 Free;Women;False;Big8
+19;Pavla Kobzar;Sacramento City;Big 8 INVITE;6:09.04;500 Free;Women;False;Big8
+20;Isabella Howell;Sierra;40th Annual Mt. SAC Invitational;6:09.65;500 Free;Women;False;Big8
+21;Taylor Sanchez;Sierra;40th Annual Mt. SAC Invitational;6:12.31;500 Free;Women;False;Big8
+22;Allie Nihart;Sierra;40th Annual Mt. SAC Invitational;6:12.41;500 Free;Women;False;Big8
+23;Gianna Ramos;San Joaquin;Big 8 INVITE;6:12.90;500 Free;Women;False;Big8
+24;Brianna Smyth;Diablo Valley;Los Rios Invite;6:12.93;500 Free;Women;False;Big8
+25;Emmi Ng;Diablo Valley;Big 8 INVITE;6:27.14;500 Free;Women;False;Big8
+26;Makenna Hensley;Sierra;CCSF Rams Invitational;6:40.83;500 Free;Women;False;Big8
+27;Rilie Bennett;Diablo Valley;Big 8 INVITE;6:42.01;500 Free;Women;False;Big8
+28;Olivia Knott;San Joaquin;23rd Annual Mariner Invite;6:48.23;500 Free;Women;False;Big8
+29;Veronica Brown;Sacramento City;Big 8 INVITE;6:53.40;500 Free;Women;False;Big8
+30;Saige Parrish;Modesto JC;Delta College Invitational - Discipline Meet;7:01.69;500 Free;Women;False;Big8
+31;Emily Marques;Diablo Valley;Los Rios Invite;7:08.84;500 Free;Women;False;Big8
+32;Maci Farinha;Modesto JC;40th Annual Mt. SAC Invitational;7:27.95;500 Free;Women;False;Big8
+32;Marisa Collazo;Sacramento City;Cuesta Super Invite;7:27.95;500 Free;Women;False;Big8
 1;Jane Lubiens;Sierra;40th Annual Mt. SAC Invitational;18:42.08;11650;Women;True;Big8
 2;Addison Klosevitz;Santa Rosa;40th Annual Mt. SAC Invitational;18:54.86;11650;Women;True;Big8
 3;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;20:03.92;11650;Women;True;Big8
@@ -827,18 +857,18 @@
 13;Saige Parrish;Modesto JC;Delta College Invitational - Discipline Meet;23:53.84;11650;Women;True;Big8
 14;Marisa Collazo;Sacramento City;Delta College Invitational - Discipline Meet;24:38.99;11650;Women;True;Big8
 15;Emily Marques;Diablo Valley;Delta College Invitational - Discipline Meet;24:48.52;11650;Women;True;Big8
-1;Evalinne Vecchio;Diablo Valley;Los Rios Invite;29.19;50 Back;Women;True;Big8
+1;Evalinne Vecchio;Diablo Valley;Big 8 INVITE;28.95;50 Back;Women;True;Big8
 2;Jacquie Clouser;American River;Cuesta Super Invite;29.56;50 Back;Women;True;Big8
 3;Raegan Chavez;Sierra;CCSF Rams Invitational;30.62;50 Back;Women;True;Big8
 3;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;30.62;50 Back;Women;True;Big8
 5;Crystallyn Tran;San Joaquin;Delta College Invitational - Discipline Meet;30.75;50 Back;Women;True;Big8
 6;Victoria Guzman;San Joaquin;Merced College Sprint Invitational;30.84;50 Back;Women;True;Big8
-7;Aja Fuller;Sierra;40th Annual Mt. SAC Invitational;31.19;50 Back;Women;True;Big8
+7;Aja Fuller;Sierra;Big 8 INVITE;30.98;50 Back;Women;True;Big8
 8;Clara Walker;American River;Delta College Invitational - Discipline Meet;31.51;50 Back;Women;True;Big8
-9;Ella Hanson;American River;Delta College Invitational - Discipline Meet;31.97;50 Back;Women;True;Big8
-10;Mya Thomas;American River;Cuesta Super Invite;32.01;50 Back;Women;True;Big8
-11;Kaili Jiang;Cosumnes River College;23rd Annual Mariner Invite;32.16;50 Back;Women;True;Big8
-12;Kahu Arama;Sierra;40th Annual Mt. SAC Invitational;32.21;50 Back;Women;True;Big8
+9;Kaili Jiang;Cosumnes River College;Big 8 INVITE;31.83;50 Back;Women;True;Big8
+10;Ella Hanson;American River;Delta College Invitational - Discipline Meet;31.97;50 Back;Women;True;Big8
+11;Mya Thomas;American River;Cuesta Super Invite;32.01;50 Back;Women;True;Big8
+12;Kahu Arama;Sierra;Big 8 INVITE;32.08;50 Back;Women;True;Big8
 13;Rebecca Tunquist;San Joaquin;Merced College Sprint Invitational;32.36;50 Back;Women;True;Big8
 13;Emma Upton;Sierra;Mt. SAC vs. Sierra;32.36;50 Back;Women;True;Big8
 15;Mo Schmierer;San Joaquin;Northern CA Community College Relays;32.41;50 Back;Women;True;Big8
@@ -848,42 +878,42 @@
 19;Fernanda Patino Mendez;Modesto JC;40th Annual Mt. SAC Invitational;33.05;50 Back;Women;False;Big8
 20;Iliana Khanenka;American River;Cuesta Super Invite;33.13;50 Back;Women;False;Big8
 21;Marguerite Gardner;American River;Cuesta Super Invite;33.22;50 Back;Women;False;Big8
-22;Sara Ashby;American River;Cuesta Super Invite;33.55;50 Back;Women;False;Big8
-23;Regan Braga;Diablo Valley;Los Rios Invite;33.67;50 Back;Women;False;Big8
-24;Makenna Hensley;Sierra;CCSF Rams Invitational;33.71;50 Back;Women;False;Big8
-25;Frida Avalos Paz;Diablo Valley;Delta College Invitational - Discipline Meet;33.79;50 Back;Women;False;Big8
-26;Emmi Ng;Diablo Valley;Los Rios Invite;33.91;50 Back;Women;False;Big8
-27;Lydia Vlahos;American River;Cuesta Super Invite;34.05;50 Back;Women;False;Big8
-28;Samantha Scheid;San Joaquin;Merced College Sprint Invitational;34.17;50 Back;Women;False;Big8
-29;Sasha Samoylovich;American River;Cuesta Super Invite;34.24;50 Back;Women;False;Big8
-30;Juliana Goulart;Santa Rosa;CCSF Rams Invitational;34.30;50 Back;Women;False;Big8
-31;Natalie Buttitta;Diablo Valley;Delta College Invitational - Discipline Meet;34.44;50 Back;Women;False;Big8
-32;Allie Nihart;Sierra;CCSF Rams Invitational;34.67;50 Back;Women;False;Big8
-33;Meredith Cornwall;Santa Rosa;CCSF Rams Invitational;35.63;50 Back;Women;False;Big8
-34;Claire Contreras;American River;Cuesta Super Invite;35.75;50 Back;Women;False;Big8
-35;Brooke Boyer;American River;Cuesta Super Invite;35.81;50 Back;Women;False;Big8
-36;Emily Jones;San Joaquin;Merced College Sprint Invitational;36.27;50 Back;Women;False;Big8
-37;Raquel Lacanlale;Diablo Valley;Delta College Invitational - Discipline Meet;36.33;50 Back;Women;False;Big8
-38;Mele Sanchez;San Joaquin;Merced College Sprint Invitational;36.64;50 Back;Women;False;Big8
-39;Angela Rivera;American River;Cuesta Super Invite;36.73;50 Back;Women;False;Big8
-40;Hannah Parreira;Modesto JC;40th Annual Mt. SAC Invitational;37.28;50 Back;Women;False;Big8
-41;Sydney Mayoral;American River;Cuesta Super Invite;37.41;50 Back;Women;False;Big8
-42;Kelly Hunter;Diablo Valley;Los Rios Invite;38.10;50 Back;Women;False;Big8
-43;Haley Lucas;San Joaquin;Merced College Sprint Invitational;38.18;50 Back;Women;False;Big8
-44;Marisa Collazo;Sacramento City;Cuesta Super Invite;38.22;50 Back;Women;False;Big8
-45;Veronica Brown;Sacramento City;Cuesta Super Invite;39.16;50 Back;Women;False;Big8
-46;Emily Marques;Diablo Valley;Los Rios Invite;39.90;50 Back;Women;False;Big8
-47;Amara Black;Sacramento City;Cuesta Super Invite;40.95;50 Back;Women;False;Big8
-48;Madison Madrid;San Joaquin;Merced College Sprint Invitational;41.41;50 Back;Women;False;Big8
-49;Molly Velasco;Sacramento City;Cuesta Super Invite;42.94;50 Back;Women;False;Big8
-50;Madisyn Crawford;Modesto JC;Merced College Sprint Invitational;44.07;50 Back;Women;False;Big8
+22;Natalie Buttitta;Diablo Valley;Big 8 INVITE;33.54;50 Back;Women;False;Big8
+23;Sara Ashby;American River;Cuesta Super Invite;33.55;50 Back;Women;False;Big8
+24;Regan Braga;Diablo Valley;Los Rios Invite;33.67;50 Back;Women;False;Big8
+25;Makenna Hensley;Sierra;CCSF Rams Invitational;33.71;50 Back;Women;False;Big8
+26;Frida Avalos Paz;Diablo Valley;Delta College Invitational - Discipline Meet;33.79;50 Back;Women;False;Big8
+27;Emmi Ng;Diablo Valley;Los Rios Invite;33.91;50 Back;Women;False;Big8
+28;Lydia Vlahos;American River;Cuesta Super Invite;34.05;50 Back;Women;False;Big8
+29;Samantha Scheid;San Joaquin;Merced College Sprint Invitational;34.17;50 Back;Women;False;Big8
+30;Sasha Samoylovich;American River;Cuesta Super Invite;34.24;50 Back;Women;False;Big8
+31;Juliana Goulart;Santa Rosa;CCSF Rams Invitational;34.30;50 Back;Women;False;Big8
+32;Raquel Lacanlale;Diablo Valley;Big 8 INVITE;34.52;50 Back;Women;False;Big8
+33;Pavla Kobzar;Sacramento City;Big 8 INVITE;34.67;50 Back;Women;False;Big8
+33;Allie Nihart;Sierra;CCSF Rams Invitational;34.67;50 Back;Women;False;Big8
+35;Joyful Thompson;Sierra;Big 8 INVITE;35.29;50 Back;Women;False;Big8
+36;Meredith Cornwall;Santa Rosa;CCSF Rams Invitational;35.63;50 Back;Women;False;Big8
+37;Claire Contreras;American River;Cuesta Super Invite;35.75;50 Back;Women;False;Big8
+38;Brooke Boyer;American River;Cuesta Super Invite;35.81;50 Back;Women;False;Big8
+39;Emily Jones;San Joaquin;Merced College Sprint Invitational;36.27;50 Back;Women;False;Big8
+40;Marisa Collazo;Sacramento City;Big 8 INVITE;36.48;50 Back;Women;False;Big8
+41;Mele Sanchez;San Joaquin;Merced College Sprint Invitational;36.64;50 Back;Women;False;Big8
+42;Angela Rivera;American River;Cuesta Super Invite;36.73;50 Back;Women;False;Big8
+43;Haley Lucas;San Joaquin;Big 8 INVITE;36.78;50 Back;Women;False;Big8
+44;Hannah Parreira;Modesto JC;40th Annual Mt. SAC Invitational;37.28;50 Back;Women;False;Big8
+45;Sydney Mayoral;American River;Cuesta Super Invite;37.41;50 Back;Women;False;Big8
+46;Kelly Hunter;Diablo Valley;Los Rios Invite;38.10;50 Back;Women;False;Big8
+47;Veronica Brown;Sacramento City;Cuesta Super Invite;39.16;50 Back;Women;False;Big8
+48;Emily Marques;Diablo Valley;Big 8 INVITE;39.62;50 Back;Women;False;Big8
+49;Amara Black;Sacramento City;Cuesta Super Invite;40.95;50 Back;Women;False;Big8
+50;Madison Madrid;San Joaquin;Merced College Sprint Invitational;41.41;50 Back;Women;False;Big8
 1;Evalinne Vecchio;Diablo Valley;Los Rios Invite;1:00.08;100 Back;Women;True;Big8
 2;Raegan Chavez;Sierra;CCSF Rams Invitational;1:03.01;100 Back;Women;True;Big8
 3;Aja Fuller;Sierra;40th Annual Mt. SAC Invitational;1:04.07;100 Back;Women;True;Big8
 4;Crystallyn Tran;San Joaquin;Merced College Sprint Invitational;1:05.30;100 Back;Women;True;Big8
-5;Jacquie Clouser;American River;Cuesta Super Invite;1:05.67;100 Back;Women;True;Big8
-6;Emma Upton;Sierra;Mt. SAC vs. Sierra;1:05.85;100 Back;Women;True;Big8
-7;Kahu Arama;Sierra;40th Annual Mt. SAC Invitational;1:06.10;100 Back;Women;True;Big8
+5;Kahu Arama;Sierra;Big 8 INVITE;1:05.63;100 Back;Women;True;Big8
+6;Jacquie Clouser;American River;Cuesta Super Invite;1:05.67;100 Back;Women;True;Big8
+7;Emma Upton;Sierra;Mt. SAC vs. Sierra;1:05.85;100 Back;Women;True;Big8
 8;Jessica Kraemer;Santa Rosa;40th Annual Mt. SAC Invitational;1:06.40;100 Back;Women;True;Big8
 9;Kaili Jiang;Cosumnes River College;14th Annual De Anza Invite;1:06.48;100 Back;Women;True;Big8
 10;Ella Hanson;American River;Cuesta Super Invite;1:06.79;100 Back;Women;True;Big8
@@ -892,137 +922,147 @@
 13;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;1:07.85;100 Back;Women;True;Big8
 14;Brianna Smyth;Diablo Valley;Jack Flanagan Viking Invitational;1:08.24;100 Back;Women;True;Big8
 15;Mya Thomas;American River;Los Rios Invite;1:08.63;100 Back;Women;True;Big8
-16;Sara Ashby;American River;Cuesta Super Invite;1:09.08;100 Back;Women;True;Big8
-17;Frida Avalos Paz;Diablo Valley;Delta College Invitational - Discipline Meet;1:09.60;100 Back;Women;False;Big8
-18;Regan Braga;Diablo Valley;Los Rios Invite;1:09.79;100 Back;Women;False;Big8
-19;Makenna Hensley;Sierra;CCSF Rams Invitational;1:10.38;100 Back;Women;False;Big8
-20;Mo Schmierer;San Joaquin;Northern CA Community College Relays;1:10.72;100 Back;Women;False;Big8
-21;Izzy Cooley;Diablo Valley;Jack Flanagan Viking Invitational;1:11.03;100 Back;Women;False;Big8
-22;Allie Nihart;Sierra;CCSF Rams Invitational;1:11.75;100 Back;Women;False;Big8
-23;Emmi Ng;Diablo Valley;Los Rios Invite;1:12.16;100 Back;Women;False;Big8
-23;Natalie Buttitta;Diablo Valley;Delta College Invitational - Discipline Meet;1:12.16;100 Back;Women;False;Big8
-25;Rebecca Tunquist;San Joaquin;23rd Annual Mariner Invite;1:12.65;100 Back;Women;False;Big8
-26;Meredith Cornwall;Santa Rosa;40th Annual Mt. SAC Invitational;1:13.52;100 Back;Women;False;Big8
-27;Raquel Lacanlale;Diablo Valley;Jack Flanagan - Afternoon Session;1:13.53;100 Back;Women;False;Big8
-28;Sequoia Cosgrove Lane;Diablo Valley;Jack Flanagan Viking Invitational;1:13.87;100 Back;Women;False;Big8
-29;Juliana Goulart;Santa Rosa;40th Annual Mt. SAC Invitational;1:13.93;100 Back;Women;False;Big8
-30;Iliana Khanenka;American River;Cuesta Super Invite;1:16.58;100 Back;Women;False;Big8
-31;Angela Rivera;American River;Jack Flanagan - Afternoon Session;1:19.80;100 Back;Women;False;Big8
-32;Emily Jones;San Joaquin;Delta College Invitational - Discipline Meet;1:20.13;100 Back;Women;False;Big8
-33;Kelly Hunter;Diablo Valley;Los Rios Invite;1:20.45;100 Back;Women;False;Big8
-34;Emily Marques;Diablo Valley;Los Rios Invite;1:21.26;100 Back;Women;False;Big8
-35;Mele Sanchez;San Joaquin;Merced College Sprint Invitational;1:22.01;100 Back;Women;False;Big8
-36;Veronica Brown;Sacramento City;Delta College Invitational - Discipline Meet;1:22.52;100 Back;Women;False;Big8
-37;Marisa Collazo;Sacramento City;Cuesta Super Invite;1:24.42;100 Back;Women;False;Big8
-38;Natalia Olivares;Diablo Valley;Jack Flanagan Viking Invitational;1:28.23;100 Back;Women;False;Big8
-39;Molly Velasco;Sacramento City;Cuesta Super Invite;1:30.41;100 Back;Women;False;Big8
-40;Amara Black;Sacramento City;Los Rios Invite;1:30.50;100 Back;Women;False;Big8
-41;Alyssa Hernandez-Black;Sacramento City;Cuesta Super Invite;1:40.58;100 Back;Women;False;Big8
-42;Nia Danelia;American River;Los Rios Invite;1:43.34;100 Back;Women;False;Big8
+16;Natalie Buttitta;Diablo Valley;Big 8 INVITE;1:08.69;100 Back;Women;True;Big8
+17;Sara Ashby;American River;Cuesta Super Invite;1:09.08;100 Back;Women;False;Big8
+18;Frida Avalos Paz;Diablo Valley;Delta College Invitational - Discipline Meet;1:09.60;100 Back;Women;False;Big8
+19;Regan Braga;Diablo Valley;Los Rios Invite;1:09.79;100 Back;Women;False;Big8
+20;Pavla Kobzar;Sacramento City;Big 8 INVITE;1:09.88;100 Back;Women;False;Big8
+21;Makenna Hensley;Sierra;CCSF Rams Invitational;1:10.38;100 Back;Women;False;Big8
+22;Iliana Khanenka;American River;Big 8 INVITE;1:10.51;100 Back;Women;False;Big8
+23;Rebecca Tunquist;San Joaquin;Big 8 INVITE;1:10.65;100 Back;Women;False;Big8
+24;Mo Schmierer;San Joaquin;Northern CA Community College Relays;1:10.72;100 Back;Women;False;Big8
+25;Izzy Cooley;Diablo Valley;Jack Flanagan Viking Invitational;1:11.03;100 Back;Women;False;Big8
+26;Allie Nihart;Sierra;CCSF Rams Invitational;1:11.75;100 Back;Women;False;Big8
+27;Emmi Ng;Diablo Valley;Los Rios Invite;1:12.16;100 Back;Women;False;Big8
+28;Raquel Lacanlale;Diablo Valley;Big 8 INVITE;1:12.39;100 Back;Women;False;Big8
+29;Joyful Thompson;Sierra;Big 8 INVITE;1:13.42;100 Back;Women;False;Big8
+30;Meredith Cornwall;Santa Rosa;40th Annual Mt. SAC Invitational;1:13.52;100 Back;Women;False;Big8
+31;Sequoia Cosgrove Lane;Diablo Valley;Jack Flanagan Viking Invitational;1:13.87;100 Back;Women;False;Big8
+32;Juliana Goulart;Santa Rosa;40th Annual Mt. SAC Invitational;1:13.93;100 Back;Women;False;Big8
+33;Emily Marques;Diablo Valley;Big 8 INVITE;1:19.52;100 Back;Women;False;Big8
+34;Angela Rivera;American River;Jack Flanagan - Afternoon Session;1:19.80;100 Back;Women;False;Big8
+35;Emily Jones;San Joaquin;Big 8 INVITE;1:19.97;100 Back;Women;False;Big8
+36;Kelly Hunter;Diablo Valley;Los Rios Invite;1:20.45;100 Back;Women;False;Big8
+37;Mele Sanchez;San Joaquin;Merced College Sprint Invitational;1:22.01;100 Back;Women;False;Big8
+38;Veronica Brown;Sacramento City;Delta College Invitational - Discipline Meet;1:22.52;100 Back;Women;False;Big8
+39;Marisa Collazo;Sacramento City;Cuesta Super Invite;1:24.42;100 Back;Women;False;Big8
+40;Natalia Olivares;Diablo Valley;Jack Flanagan Viking Invitational;1:28.23;100 Back;Women;False;Big8
+41;Amara Black;Sacramento City;Big 8 INVITE;1:29.30;100 Back;Women;False;Big8
+42;Molly Velasco;Sacramento City;Cuesta Super Invite;1:30.41;100 Back;Women;False;Big8
+43;Alyssa Hernandez-Black;Sacramento City;Big 8 INVITE;1:37.00;100 Back;Women;False;Big8
+44;Nia Danelia;American River;Los Rios Invite;1:43.34;100 Back;Women;False;Big8
 1;Aja Fuller;Sierra;40th Annual Mt. SAC Invitational;2:21.36;200 Back;Women;True;Big8
 2;Kahu Arama;Sierra;CCSF Rams Invitational;2:23.52;200 Back;Women;True;Big8
-3;Jacquie Clouser;American River;Cuesta Super Invite;2:27.79;200 Back;Women;True;Big8
-4;Ella Hanson;American River;Cuesta Super Invite;2:27.92;200 Back;Women;True;Big8
-5;Clara Walker;American River;Los Rios Invite;2:28.81;200 Back;Women;True;Big8
-6;Mya Thomas;American River;Jack Flanagan Viking Invitational;2:32.45;200 Back;Women;True;Big8
-7;Makenna Hensley;Sierra;CCSF Rams Invitational;2:33.48;200 Back;Women;True;Big8
-8;Natalie Buttitta;Diablo Valley;Jack Flanagan Viking Invitational;2:34.59;200 Back;Women;True;Big8
-9;Rebecca Tunquist;San Joaquin;23rd Annual Mariner Invite;2:36.26;200 Back;Women;True;Big8
-10;Allie Nihart;Sierra;CCSF Rams Invitational;2:37.23;200 Back;Women;True;Big8
-11;Meredith Cornwall;Santa Rosa;40th Annual Mt. SAC Invitational;2:37.51;200 Back;Women;True;Big8
-12;Chloe Pappas;Diablo Valley;Los Rios Invite;2:37.67;200 Back;Women;True;Big8
-13;Raquel Lacanlale;Diablo Valley;Jack Flanagan Viking Invitational;2:39.76;200 Back;Women;True;Big8
-14;Juliana Goulart;Santa Rosa;40th Annual Mt. SAC Invitational;2:41.29;200 Back;Women;True;Big8
-15;Iliana Khanenka;American River;Los Rios Invite;2:48.56;200 Back;Women;True;Big8
-16;Emily Jones;San Joaquin;Delta College Invitational - Discipline Meet;2:51.37;200 Back;Women;True;Big8
-17;Marisa Collazo;Sacramento City;Cuesta Super Invite;2:56.23;200 Back;Women;False;Big8
-18;Veronica Brown;Sacramento City;Cuesta Super Invite;3:02.03;200 Back;Women;False;Big8
-19;Molly Velasco;Sacramento City;Cuesta Super Invite;3:20.25;200 Back;Women;False;Big8
+3;Emma Upton;Sierra;Big 8 INVITE;2:23.79;200 Back;Women;True;Big8
+4;Jessica Kraemer;Santa Rosa;Big 8 INVITE;2:26.79;200 Back;Women;True;Big8
+5;Supitcha Phoonpirom;Diablo Valley;Big 8 INVITE;2:27.01;200 Back;Women;True;Big8
+6;Jacquie Clouser;American River;Cuesta Super Invite;2:27.79;200 Back;Women;True;Big8
+7;Ella Hanson;American River;Cuesta Super Invite;2:27.92;200 Back;Women;True;Big8
+8;Clara Walker;American River;Los Rios Invite;2:28.81;200 Back;Women;True;Big8
+9;Mya Thomas;American River;Jack Flanagan Viking Invitational;2:32.45;200 Back;Women;True;Big8
+10;Rebecca Tunquist;San Joaquin;Big 8 INVITE;2:32.83;200 Back;Women;True;Big8
+11;Makenna Hensley;Sierra;CCSF Rams Invitational;2:33.48;200 Back;Women;True;Big8
+12;Natalie Buttitta;Diablo Valley;Big 8 INVITE;2:34.42;200 Back;Women;True;Big8
+13;Allie Nihart;Sierra;CCSF Rams Invitational;2:37.23;200 Back;Women;True;Big8
+14;Meredith Cornwall;Santa Rosa;40th Annual Mt. SAC Invitational;2:37.51;200 Back;Women;True;Big8
+15;Chloe Pappas;Diablo Valley;Los Rios Invite;2:37.67;200 Back;Women;True;Big8
+16;Raquel Lacanlale;Diablo Valley;Jack Flanagan Viking Invitational;2:39.76;200 Back;Women;True;Big8
+17;Juliana Goulart;Santa Rosa;40th Annual Mt. SAC Invitational;2:41.29;200 Back;Women;False;Big8
+18;Iliana Khanenka;American River;Los Rios Invite;2:48.56;200 Back;Women;False;Big8
+19;Emily Jones;San Joaquin;Delta College Invitational - Discipline Meet;2:51.37;200 Back;Women;False;Big8
+20;Marisa Collazo;Sacramento City;Cuesta Super Invite;2:56.23;200 Back;Women;False;Big8
+21;Veronica Brown;Sacramento City;Cuesta Super Invite;3:02.03;200 Back;Women;False;Big8
+22;Molly Velasco;Sacramento City;Cuesta Super Invite;3:20.25;200 Back;Women;False;Big8
 1;Kylie Richardson;San Joaquin;Merced College Sprint Invitational;32.80;50 Breast;Women;True;Big8
 2;Natascha Deadman;Santa Rosa;CCSF Rams Invitational;32.91;50 Breast;Women;True;Big8
-3;Sasha Samoylovich;American River;Cuesta Super Invite;33.25;50 Breast;Women;True;Big8
-4;Alina Chukanova;Sierra;Mt. SAC vs. Sierra;33.54;50 Breast;Women;True;Big8
-5;Amber Inderkum;American River;Cuesta Super Invite;34.60;50 Breast;Women;True;Big8
-5;Maya Canada;Diablo Valley;Los Rios Invite;34.60;50 Breast;Women;True;Big8
-7;Anabel Gardea Maldonado;American River;Cuesta Super Invite;34.67;50 Breast;Women;True;Big8
-8;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;35.58;50 Breast;Women;True;Big8
-9;Jacquie Clouser;American River;Cuesta Super Invite;35.65;50 Breast;Women;True;Big8
-10;DJ Mancuso;Santa Rosa;CCSF Rams Invitational;35.89;50 Breast;Women;True;Big8
-11;Ella Hanson;American River;Cuesta Super Invite;36.21;50 Breast;Women;True;Big8
-12;Victoria Guzman;San Joaquin;23rd Annual Mariner Invite;36.37;50 Breast;Women;True;Big8
-13;Makenna Perez;Sierra;Mt. SAC vs. Sierra;36.44;50 Breast;Women;True;Big8
-14;Kaili Jiang;Cosumnes River College;23rd Annual Mariner Invite;36.57;50 Breast;Women;True;Big8
-14;Mo Schmierer;San Joaquin;Merced College Sprint Invitational;36.57;50 Breast;Women;True;Big8
-16;Fernanda Patino Mendez;Modesto JC;Merced College Sprint Invitational;36.66;50 Breast;Women;True;Big8
-17;Victoria Rich;Modesto JC;40th Annual Mt. SAC Invitational;36.75;50 Breast;Women;False;Big8
-18;Sara Ashby;American River;Cuesta Super Invite;36.77;50 Breast;Women;False;Big8
-19;Macie Banner;American River;LPC vs MSAC vs ARC;36.87;50 Breast;Women;False;Big8
-20;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;37.09;50 Breast;Women;False;Big8
-21;Sydney Mayoral;American River;Cuesta Super Invite;37.35;50 Breast;Women;False;Big8
-22;Kolby Kaufert;Sierra;CCSF Rams Invitational;37.43;50 Breast;Women;False;Big8
-23;Frida Avalos Paz;Diablo Valley;Los Rios Invite;37.70;50 Breast;Women;False;Big8
-24;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;37.82;50 Breast;Women;False;Big8
-25;Iliana Khanenka;American River;Delta College Invitational - Discipline Meet;38.08;50 Breast;Women;False;Big8
-26;Mya Thomas;American River;Cuesta Super Invite;38.58;50 Breast;Women;False;Big8
-27;Makenna Hensley;Sierra;Mt. SAC vs. Sierra;38.89;50 Breast;Women;False;Big8
-28;Brooke Boyer;American River;Cuesta Super Invite;38.92;50 Breast;Women;False;Big8
-29;Rebecca Tunquist;San Joaquin;Merced College Sprint Invitational;38.94;50 Breast;Women;False;Big8
-30;Lydia Vlahos;American River;Cuesta Super Invite;38.98;50 Breast;Women;False;Big8
-31;Claire Contreras;American River;Cuesta Super Invite;39.83;50 Breast;Women;False;Big8
-32;Pavla Kobzar;Sacramento City;Los Rios Invite;39.96;50 Breast;Women;False;Big8
-33;Lindsay Chan;Diablo Valley;Delta College Invitational - Discipline Meet;42.48;50 Breast;Women;False;Big8
-34;Madison Madrid;San Joaquin;Merced College Sprint Invitational;42.69;50 Breast;Women;False;Big8
-35;Angela Rivera;American River;Cuesta Super Invite;42.84;50 Breast;Women;False;Big8
-36;Liz Rhodes;Sierra;40th Annual Mt. SAC Invitational;43.35;50 Breast;Women;False;Big8
-37;Alison Jones;San Joaquin;Merced College Sprint Invitational;45.09;50 Breast;Women;False;Big8
-38;Stephanie Thomason;San Joaquin;Merced College Sprint Invitational;45.13;50 Breast;Women;False;Big8
-39;Nia Danelia;American River;Cuesta Super Invite;47.39;50 Breast;Women;False;Big8
-40;Maci Farinha;Modesto JC;Merced College Sprint Invitational;48.72;50 Breast;Women;False;Big8
+3;Mia DeLuca;Diablo Valley;Big 8 INVITE;33.18;50 Breast;Women;True;Big8
+4;Sasha Samoylovich;American River;Cuesta Super Invite;33.25;50 Breast;Women;True;Big8
+5;Alina Chukanova;Sierra;Mt. SAC vs. Sierra;33.54;50 Breast;Women;True;Big8
+6;Amber Inderkum;American River;Cuesta Super Invite;34.60;50 Breast;Women;True;Big8
+6;Maya Canada;Diablo Valley;Los Rios Invite;34.60;50 Breast;Women;True;Big8
+8;Anabel Gardea Maldonado;American River;Cuesta Super Invite;34.67;50 Breast;Women;True;Big8
+9;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;35.58;50 Breast;Women;True;Big8
+10;Jacquie Clouser;American River;Cuesta Super Invite;35.65;50 Breast;Women;True;Big8
+11;DJ Mancuso;Santa Rosa;CCSF Rams Invitational;35.89;50 Breast;Women;True;Big8
+12;Mo Schmierer;San Joaquin;Big 8 INVITE;36.18;50 Breast;Women;True;Big8
+13;Ella Hanson;American River;Cuesta Super Invite;36.21;50 Breast;Women;True;Big8
+14;Victoria Guzman;San Joaquin;23rd Annual Mariner Invite;36.37;50 Breast;Women;True;Big8
+15;Makenna Perez;Sierra;Mt. SAC vs. Sierra;36.44;50 Breast;Women;True;Big8
+16;Kaili Jiang;Cosumnes River College;23rd Annual Mariner Invite;36.57;50 Breast;Women;True;Big8
+17;Fernanda Patino Mendez;Modesto JC;Merced College Sprint Invitational;36.66;50 Breast;Women;False;Big8
+18;Victoria Rich;Modesto JC;40th Annual Mt. SAC Invitational;36.75;50 Breast;Women;False;Big8
+19;Sara Ashby;American River;Cuesta Super Invite;36.77;50 Breast;Women;False;Big8
+20;Macie Banner;American River;LPC vs MSAC vs ARC;36.87;50 Breast;Women;False;Big8
+21;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;37.09;50 Breast;Women;False;Big8
+22;Sydney Mayoral;American River;Cuesta Super Invite;37.35;50 Breast;Women;False;Big8
+23;Kolby Kaufert;Sierra;CCSF Rams Invitational;37.43;50 Breast;Women;False;Big8
+24;Frida Avalos Paz;Diablo Valley;Los Rios Invite;37.70;50 Breast;Women;False;Big8
+25;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;37.82;50 Breast;Women;False;Big8
+26;Iliana Khanenka;American River;Delta College Invitational - Discipline Meet;38.08;50 Breast;Women;False;Big8
+27;Mya Thomas;American River;Cuesta Super Invite;38.58;50 Breast;Women;False;Big8
+28;Makenna Hensley;Sierra;Mt. SAC vs. Sierra;38.89;50 Breast;Women;False;Big8
+29;Brooke Boyer;American River;Cuesta Super Invite;38.92;50 Breast;Women;False;Big8
+30;Rebecca Tunquist;San Joaquin;Merced College Sprint Invitational;38.94;50 Breast;Women;False;Big8
+31;Lydia Vlahos;American River;Cuesta Super Invite;38.98;50 Breast;Women;False;Big8
+32;Marisa Collazo;Sacramento City;Big 8 INVITE;39.22;50 Breast;Women;False;Big8
+33;Claire Contreras;American River;Cuesta Super Invite;39.83;50 Breast;Women;False;Big8
+34;Pavla Kobzar;Sacramento City;Los Rios Invite;39.96;50 Breast;Women;False;Big8
+35;Lindsay Chan;Diablo Valley;Delta College Invitational - Discipline Meet;42.48;50 Breast;Women;False;Big8
+36;Alison Jones;San Joaquin;Big 8 INVITE;42.52;50 Breast;Women;False;Big8
+37;Madison Madrid;San Joaquin;Merced College Sprint Invitational;42.69;50 Breast;Women;False;Big8
+38;Angela Rivera;American River;Cuesta Super Invite;42.84;50 Breast;Women;False;Big8
+39;Liz Rhodes;Sierra;Big 8 INVITE;43.31;50 Breast;Women;False;Big8
+40;Olivia Quady;Sierra;Big 8 INVITE;44.94;50 Breast;Women;False;Big8
+41;Stephanie Thomason;San Joaquin;Merced College Sprint Invitational;45.13;50 Breast;Women;False;Big8
+42;Nia Danelia;American River;Cuesta Super Invite;47.39;50 Breast;Women;False;Big8
+43;Maci Farinha;Modesto JC;Merced College Sprint Invitational;48.72;50 Breast;Women;False;Big8
 1;Natascha Deadman;Santa Rosa;40th Annual Mt. SAC Invitational;1:07.53;100 Breast;Women;True;Big8
 2;Sasha Samoylovich;American River;Cuesta Super Invite;1:10.14;100 Breast;Women;True;Big8
-3;Mia DeLuca;Diablo Valley;Jack Flanagan Viking Invitational;1:10.57;100 Breast;Women;True;Big8
-4;Alina Chukanova;Sierra;40th Annual Mt. SAC Invitational;1:11.62;100 Breast;Women;True;Big8
-5;Kylie Richardson;San Joaquin;Delta College Invitational - Discipline Meet;1:11.89;100 Breast;Women;True;Big8
+3;Kylie Richardson;San Joaquin;Big 8 INVITE;1:10.29;100 Breast;Women;True;Big8
+4;Mia DeLuca;Diablo Valley;Big 8 INVITE;1:10.36;100 Breast;Women;True;Big8
+5;Alina Chukanova;Sierra;Big 8 INVITE;1:11.10;100 Breast;Women;True;Big8
 6;Maya Canada;Diablo Valley;Los Rios Invite;1:12.50;100 Breast;Women;True;Big8
 7;Anabel Gardea Maldonado;American River;Cuesta Super Invite;1:12.78;100 Breast;Women;True;Big8
 8;Amber Inderkum;American River;Cuesta Super Invite;1:13.28;100 Breast;Women;True;Big8
 9;Frida Avalos Paz;Diablo Valley;Jack Flanagan Viking Invitational;1:14.96;100 Breast;Women;True;Big8
 10;DJ Mancuso;Santa Rosa;Los Rios Invite;1:15.51;100 Breast;Women;True;Big8
 11;Makenna Perez;Sierra;Mt. SAC vs. Sierra;1:15.71;100 Breast;Women;True;Big8
-12;Macie Banner;American River;Jack Flanagan Viking Invitational;1:16.45;100 Breast;Women;True;Big8
-13;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;1:16.58;100 Breast;Women;True;Big8
-14;Kaili Jiang;Cosumnes River College;23rd Annual Mariner Invite;1:17.09;100 Breast;Women;True;Big8
-15;Victoria Guzman;San Joaquin;23rd Annual Mariner Invite;1:17.55;100 Breast;Women;True;Big8
-16;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;1:17.99;100 Breast;Women;True;Big8
-17;Mo Schmierer;San Joaquin;Los Rios Invite;1:18.21;100 Breast;Women;False;Big8
+12;Mo Schmierer;San Joaquin;Big 8 INVITE;1:16.40;100 Breast;Women;True;Big8
+13;Macie Banner;American River;Jack Flanagan Viking Invitational;1:16.45;100 Breast;Women;True;Big8
+14;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;1:16.58;100 Breast;Women;True;Big8
+15;Kaili Jiang;Cosumnes River College;23rd Annual Mariner Invite;1:17.09;100 Breast;Women;True;Big8
+16;Victoria Guzman;San Joaquin;23rd Annual Mariner Invite;1:17.55;100 Breast;Women;True;Big8
+17;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;1:17.99;100 Breast;Women;False;Big8
 18;Kolby Kaufert;Sierra;CCSF Rams Invitational;1:18.62;100 Breast;Women;False;Big8
 19;Supitcha Phoonpirom;Diablo Valley;Los Rios Invite;1:19.07;100 Breast;Women;False;Big8
-20;Victoria Rich;Modesto JC;40th Annual Mt. SAC Invitational;1:19.42;100 Breast;Women;False;Big8
-21;Jacquie Clouser;American River;Los Rios Invite;1:19.87;100 Breast;Women;False;Big8
-22;Fernanda Patino Mendez;Modesto JC;Merced College Sprint Invitational;1:20.71;100 Breast;Women;False;Big8
-23;Brooke Boyer;American River;Cuesta Super Invite;1:22.80;100 Breast;Women;False;Big8
-24;Iliana Khanenka;American River;Jack Flanagan - Afternoon Session;1:23.56;100 Breast;Women;False;Big8
-25;Makenna Hensley;Sierra;Mt. SAC vs. Sierra;1:24.17;100 Breast;Women;False;Big8
-26;Sydney Mayoral;American River;LPC vs MSAC vs ARC;1:24.35;100 Breast;Women;False;Big8
-27;Pavla Kobzar;Sacramento City;Los Rios Invite;1:24.66;100 Breast;Women;False;Big8
-28;Madison Madrid;San Joaquin;23rd Annual Mariner Invite;1:29.29;100 Breast;Women;False;Big8
-29;Liz Rhodes;Sierra;40th Annual Mt. SAC Invitational;1:31.41;100 Breast;Women;False;Big8
-30;Lindsay Chan;Diablo Valley;Delta College Invitational - Discipline Meet;1:31.72;100 Breast;Women;False;Big8
-31;Alison Jones;San Joaquin;23rd Annual Mariner Invite;1:35.55;100 Breast;Women;False;Big8
-32;Mariia Lytvynenko;Diablo Valley;Jack Flanagan Viking Invitational;1:57.06;100 Breast;Women;False;Big8
-1;Sasha Samoylovich;American River;Cuesta Super Invite;2:32.11;200 Breast;Women;True;Big8
-2;Mia DeLuca;Diablo Valley;Jack Flanagan Viking Invitational;2:33.38;200 Breast;Women;True;Big8
-3;Anabel Gardea Maldonado;American River;Cuesta Super Invite;2:35.09;200 Breast;Women;True;Big8
-4;Natascha Deadman;Santa Rosa;40th Annual Mt. SAC Invitational;2:35.15;200 Breast;Women;True;Big8
-5;Amber Inderkum;American River;Cuesta Super Invite;2:37.14;200 Breast;Women;True;Big8
-6;Kylie Richardson;San Joaquin;Delta College Invitational - Discipline Meet;2:38.55;200 Breast;Women;True;Big8
-7;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;2:43.35;200 Breast;Women;True;Big8
-8;Kolby Kaufert;Sierra;40th Annual Mt. SAC Invitational;2:44.15;200 Breast;Women;True;Big8
-9;Victoria Guzman;San Joaquin;Los Rios Invite;2:44.56;200 Breast;Women;True;Big8
-10;Macie Banner;American River;Los Rios Invite;2:49.65;200 Breast;Women;True;Big8
-11;Makenna Perez;Sierra;40th Annual Mt. SAC Invitational;2:49.76;200 Breast;Women;True;Big8
-12;Emma Upton;Sierra;CCSF Rams Invitational;2:50.86;200 Breast;Women;True;Big8
-13;Frida Avalos Paz;Diablo Valley;Delta College Invitational - Discipline Meet;2:51.26;200 Breast;Women;True;Big8
+20;Victoria Rich;Modesto JC;Big 8 INVITE;1:19.11;100 Breast;Women;False;Big8
+21;Fernanda Patino Mendez;Modesto JC;Big 8 INVITE;1:19.60;100 Breast;Women;False;Big8
+22;Jacquie Clouser;American River;Los Rios Invite;1:19.87;100 Breast;Women;False;Big8
+23;Marisa Collazo;Sacramento City;Big 8 INVITE;1:22.57;100 Breast;Women;False;Big8
+24;Brooke Boyer;American River;Cuesta Super Invite;1:22.80;100 Breast;Women;False;Big8
+25;Iliana Khanenka;American River;Jack Flanagan - Afternoon Session;1:23.56;100 Breast;Women;False;Big8
+26;Makenna Hensley;Sierra;Mt. SAC vs. Sierra;1:24.17;100 Breast;Women;False;Big8
+27;Sydney Mayoral;American River;LPC vs MSAC vs ARC;1:24.35;100 Breast;Women;False;Big8
+28;Pavla Kobzar;Sacramento City;Los Rios Invite;1:24.66;100 Breast;Women;False;Big8
+29;Madison Madrid;San Joaquin;23rd Annual Mariner Invite;1:29.29;100 Breast;Women;False;Big8
+30;Alison Jones;San Joaquin;Big 8 INVITE;1:30.54;100 Breast;Women;False;Big8
+31;Liz Rhodes;Sierra;40th Annual Mt. SAC Invitational;1:31.41;100 Breast;Women;False;Big8
+32;Lindsay Chan;Diablo Valley;Delta College Invitational - Discipline Meet;1:31.72;100 Breast;Women;False;Big8
+33;Olivia Quady;Sierra;Big 8 INVITE;1:37.32;100 Breast;Women;False;Big8
+34;Mariia Lytvynenko;Diablo Valley;Big 8 INVITE;1:56.30;100 Breast;Women;False;Big8
+1;Mia DeLuca;Diablo Valley;Big 8 INVITE;2:31.25;200 Breast;Women;True;Big8
+2;Sasha Samoylovich;American River;Cuesta Super Invite;2:32.11;200 Breast;Women;True;Big8
+3;Kylie Richardson;San Joaquin;Big 8 INVITE;2:34.35;200 Breast;Women;True;Big8
+4;Anabel Gardea Maldonado;American River;Cuesta Super Invite;2:35.09;200 Breast;Women;True;Big8
+5;Natascha Deadman;Santa Rosa;40th Annual Mt. SAC Invitational;2:35.15;200 Breast;Women;True;Big8
+6;Amber Inderkum;American River;Cuesta Super Invite;2:37.14;200 Breast;Women;True;Big8
+7;Frida Avalos Paz;Diablo Valley;Big 8 INVITE;2:39.86;200 Breast;Women;True;Big8
+8;Kaeli Stowell;Sierra;40th Annual Mt. SAC Invitational;2:43.35;200 Breast;Women;True;Big8
+9;Kolby Kaufert;Sierra;40th Annual Mt. SAC Invitational;2:44.15;200 Breast;Women;True;Big8
+10;Victoria Guzman;San Joaquin;Los Rios Invite;2:44.56;200 Breast;Women;True;Big8
+11;Macie Banner;American River;Big 8 INVITE;2:48.43;200 Breast;Women;True;Big8
+12;Makenna Perez;Sierra;40th Annual Mt. SAC Invitational;2:49.76;200 Breast;Women;True;Big8
+13;Emma Upton;Sierra;CCSF Rams Invitational;2:50.86;200 Breast;Women;True;Big8
 14;Sydney Mayoral;American River;Los Rios Invite;3:00.22;200 Breast;Women;True;Big8
 15;Brooke Boyer;American River;Cuesta Super Invite;3:03.45;200 Breast;Women;True;Big8
 16;Iliana Khanenka;American River;Delta College Invitational - Discipline Meet;3:05.15;200 Breast;Women;True;Big8
@@ -1033,136 +1073,150 @@
 2;Sasha Samoylovich;American River;Cuesta Super Invite;28.32;50 Fly;Women;True;Big8
 3;Amber Inderkum;American River;Cuesta Super Invite;29.33;50 Fly;Women;True;Big8
 4;Marguerite Gardner;American River;Cuesta Super Invite;29.60;50 Fly;Women;True;Big8
-5;Ella Hanson;American River;Cuesta Super Invite;29.80;50 Fly;Women;True;Big8
-6;Anabel Gardea Maldonado;American River;Cuesta Super Invite;29.95;50 Fly;Women;True;Big8
-7;Sara Ashby;American River;Cuesta Super Invite;30.58;50 Fly;Women;True;Big8
-8;Fernanda Patino Mendez;Modesto JC;Delta College Invitational - Discipline Meet;31.47;50 Fly;Women;True;Big8
-9;Emmi Ng;Diablo Valley;Delta College Invitational - Discipline Meet;31.53;50 Fly;Women;True;Big8
-10;Lydia Vlahos;American River;Cuesta Super Invite;31.64;50 Fly;Women;True;Big8
-11;Maya Canada;Diablo Valley;Los Rios Invite;31.77;50 Fly;Women;True;Big8
-12;Brianna Smyth;Diablo Valley;Los Rios Invite;31.86;50 Fly;Women;True;Big8
-13;Mo Schmierer;San Joaquin;Merced College Sprint Invitational;31.87;50 Fly;Women;True;Big8
-14;Mya Thomas;American River;Cuesta Super Invite;31.89;50 Fly;Women;True;Big8
-15;Laine Woodard;San Joaquin;Merced College Sprint Invitational;32.03;50 Fly;Women;True;Big8
-16;Sydney Mayoral;American River;Cuesta Super Invite;32.65;50 Fly;Women;True;Big8
-17;Paige Randall;American River;Cuesta Super Invite;32.99;50 Fly;Women;False;Big8
-17;Ava Sepulveda;San Joaquin;Merced College Sprint Invitational;32.99;50 Fly;Women;False;Big8
-19;Makenna Hensley;Sierra;40th Annual Mt. SAC Invitational;33.01;50 Fly;Women;False;Big8
-20;Hannah Parreira;Modesto JC;Merced College Sprint Invitational;33.35;50 Fly;Women;False;Big8
-21;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;33.65;50 Fly;Women;False;Big8
-22;Meg Gardner;American River;LPC vs MSAC vs ARC;33.90;50 Fly;Women;False;Big8
-23;Rilie Bennett;Diablo Valley;Delta College Invitational - Discipline Meet;33.91;50 Fly;Women;False;Big8
-24;Delaney Reynolds;Santa Rosa;CCSF Rams Invitational;34.04;50 Fly;Women;False;Big8
-25;Veronika Lapteva;Sierra;Mt. SAC vs. Sierra;34.48;50 Fly;Women;False;Big8
-26;Macie Banner;American River;Los Rios Invite;34.82;50 Fly;Women;False;Big8
-27;Brooke Boyer;American River;Cuesta Super Invite;34.88;50 Fly;Women;False;Big8
-28;Olivia Knott;San Joaquin;Merced College Sprint Invitational;36.35;50 Fly;Women;False;Big8
-29;Liz Rhodes;Sierra;40th Annual Mt. SAC Invitational;37.75;50 Fly;Women;False;Big8
-30;Veronica Brown;Sacramento City;Delta College Invitational - Discipline Meet;38.31;50 Fly;Women;False;Big8
-31;Saige Parrish;Modesto JC;Merced College Sprint Invitational;39.52;50 Fly;Women;False;Big8
-32;Nia Danelia;American River;Cuesta Super Invite;40.53;50 Fly;Women;False;Big8
-33;Amara Black;Sacramento City;Delta College Invitational - Discipline Meet;42.08;50 Fly;Women;False;Big8
-34;Molly Velasco;Sacramento City;Cuesta Super Invite;43.72;50 Fly;Women;False;Big8
-1;Crystallyn Tran;San Joaquin;23rd Annual Mariner Invite;1:01.99;100 Fly;Women;True;Big8
+5;Brianna Smyth;Diablo Valley;Big 8 INVITE;29.73;50 Fly;Women;True;Big8
+6;Ella Hanson;American River;Cuesta Super Invite;29.80;50 Fly;Women;True;Big8
+7;Anabel Gardea Maldonado;American River;Cuesta Super Invite;29.95;50 Fly;Women;True;Big8
+8;Sara Ashby;American River;Cuesta Super Invite;30.58;50 Fly;Women;True;Big8
+9;Pavla Kobzar;Sacramento City;Big 8 INVITE;31.02;50 Fly;Women;True;Big8
+10;Emmi Ng;Diablo Valley;Big 8 INVITE;31.25;50 Fly;Women;True;Big8
+11;Fernanda Patino Mendez;Modesto JC;Delta College Invitational - Discipline Meet;31.47;50 Fly;Women;True;Big8
+12;Lydia Vlahos;American River;Cuesta Super Invite;31.64;50 Fly;Women;True;Big8
+13;Maya Canada;Diablo Valley;Los Rios Invite;31.77;50 Fly;Women;True;Big8
+14;Mo Schmierer;San Joaquin;Merced College Sprint Invitational;31.87;50 Fly;Women;True;Big8
+15;Mya Thomas;American River;Cuesta Super Invite;31.89;50 Fly;Women;True;Big8
+16;Laine Woodard;San Joaquin;Merced College Sprint Invitational;32.03;50 Fly;Women;True;Big8
+17;Makenna Hensley;Sierra;Big 8 INVITE;32.18;50 Fly;Women;False;Big8
+18;Sydney Mayoral;American River;Cuesta Super Invite;32.65;50 Fly;Women;False;Big8
+19;Paige Randall;American River;Cuesta Super Invite;32.99;50 Fly;Women;False;Big8
+19;Ava Sepulveda;San Joaquin;Merced College Sprint Invitational;32.99;50 Fly;Women;False;Big8
+21;Hannah Parreira;Modesto JC;Merced College Sprint Invitational;33.35;50 Fly;Women;False;Big8
+22;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;33.65;50 Fly;Women;False;Big8
+23;Meg Gardner;American River;LPC vs MSAC vs ARC;33.90;50 Fly;Women;False;Big8
+24;Rilie Bennett;Diablo Valley;Delta College Invitational - Discipline Meet;33.91;50 Fly;Women;False;Big8
+25;Delaney Reynolds;Santa Rosa;CCSF Rams Invitational;34.04;50 Fly;Women;False;Big8
+26;Veronika Lapteva;Sierra;Mt. SAC vs. Sierra;34.48;50 Fly;Women;False;Big8
+27;Macie Banner;American River;Los Rios Invite;34.82;50 Fly;Women;False;Big8
+28;Brooke Boyer;American River;Cuesta Super Invite;34.88;50 Fly;Women;False;Big8
+29;Olivia Knott;San Joaquin;Merced College Sprint Invitational;36.35;50 Fly;Women;False;Big8
+30;Liz Rhodes;Sierra;40th Annual Mt. SAC Invitational;37.75;50 Fly;Women;False;Big8
+31;Veronica Brown;Sacramento City;Delta College Invitational - Discipline Meet;38.31;50 Fly;Women;False;Big8
+32;Saige Parrish;Modesto JC;Merced College Sprint Invitational;39.52;50 Fly;Women;False;Big8
+33;Nia Danelia;American River;Cuesta Super Invite;40.53;50 Fly;Women;False;Big8
+34;Amara Black;Sacramento City;Delta College Invitational - Discipline Meet;42.08;50 Fly;Women;False;Big8
+35;Molly Velasco;Sacramento City;Cuesta Super Invite;43.72;50 Fly;Women;False;Big8
+1;Crystallyn Tran;San Joaquin;Big 8 INVITE;1:00.99;100 Fly;Women;True;Big8
 2;Sasha Samoylovich;American River;Cuesta Super Invite;1:03.39;100 Fly;Women;True;Big8
-3;Emmi Ng;Diablo Valley;Jack Flanagan Viking Invitational;1:06.48;100 Fly;Women;True;Big8
-4;Amber Inderkum;American River;Cuesta Super Invite;1:06.92;100 Fly;Women;True;Big8
-5;Maya Canada;Diablo Valley;Los Rios Invite;1:07.04;100 Fly;Women;True;Big8
-6;Addison Klosevitz;Santa Rosa;40th Annual Mt. SAC Invitational;1:07.37;100 Fly;Women;True;Big8
-7;Marguerite Gardner;American River;Cuesta Super Invite;1:07.46;100 Fly;Women;True;Big8
-8;Victoria Guzman;San Joaquin;Delta College Invitational - Discipline Meet;1:09.16;100 Fly;Women;True;Big8
-9;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;1:09.29;100 Fly;Women;True;Big8
-10;Brianna Smyth;Diablo Valley;Los Rios Invite;1:09.98;100 Fly;Women;True;Big8
-11;Makenna Hensley;Sierra;40th Annual Mt. SAC Invitational;1:11.58;100 Fly;Women;True;Big8
-12;Frida Avalos Paz;Diablo Valley;Delta College Invitational - Discipline Meet;1:12.25;100 Fly;Women;True;Big8
-13;Fernanda Patino Mendez;Modesto JC;40th Annual Mt. SAC Invitational;1:12.86;100 Fly;Women;True;Big8
-14;Anabel Gardea Maldonado;American River;Delta College Invitational - Discipline Meet;1:13.10;100 Fly;Women;True;Big8
-15;Mo Schmierer;San Joaquin;23rd Annual Mariner Invite;1:13.35;100 Fly;Women;True;Big8
-16;Lydia Vlahos;American River;LPC vs MSAC vs ARC;1:13.72;100 Fly;Women;True;Big8
-17;Delaney Reynolds;Santa Rosa;CCSF Rams Invitational;1:13.74;100 Fly;Women;False;Big8
-18;Rilie Bennett;Diablo Valley;Delta College Invitational - Discipline Meet;1:13.87;100 Fly;Women;False;Big8
-19;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;1:14.55;100 Fly;Women;False;Big8
-20;Meg Gardner;American River;LPC vs MSAC vs ARC;1:14.59;100 Fly;Women;False;Big8
-21;Veronika Lapteva;Sierra;Mt. SAC vs. Sierra;1:14.83;100 Fly;Women;False;Big8
-22;Ava Sepulveda;San Joaquin;Los Rios Invite;1:15.51;100 Fly;Women;False;Big8
-23;Gianna Ramos;San Joaquin;Merced College Sprint Invitational;1:16.42;100 Fly;Women;False;Big8
-24;Macie Banner;American River;Los Rios Invite;1:17.26;100 Fly;Women;False;Big8
-25;Saige Parrish;Modesto JC;Merced College Sprint Invitational;1:30.94;100 Fly;Women;False;Big8
-26;Mele Sanchez;San Joaquin;23rd Annual Mariner Invite;1:31.73;100 Fly;Women;False;Big8
-27;Veronica Brown;Sacramento City;Los Rios Invite;1:31.77;100 Fly;Women;False;Big8
-28;Amara Black;Sacramento City;Los Rios Invite;1:39.86;100 Fly;Women;False;Big8
-1;Crystallyn Tran;San Joaquin;Delta College Invitational - Discipline Meet;2:18.56;200 Fly;Women;True;Big8
+3;Brianna Smyth;Diablo Valley;Big 8 INVITE;1:04.75;100 Fly;Women;True;Big8
+4;Amber Inderkum;American River;Big 8 INVITE;1:05.93;100 Fly;Women;True;Big8
+5;Emmi Ng;Diablo Valley;Jack Flanagan Viking Invitational;1:06.48;100 Fly;Women;True;Big8
+6;Pavla Kobzar;Sacramento City;Big 8 INVITE;1:06.83;100 Fly;Women;True;Big8
+7;Maya Canada;Diablo Valley;Los Rios Invite;1:07.04;100 Fly;Women;True;Big8
+8;Addison Klosevitz;Santa Rosa;40th Annual Mt. SAC Invitational;1:07.37;100 Fly;Women;True;Big8
+9;Marguerite Gardner;American River;Cuesta Super Invite;1:07.46;100 Fly;Women;True;Big8
+10;Makenna Hensley;Sierra;Big 8 INVITE;1:08.63;100 Fly;Women;True;Big8
+11;Victoria Guzman;San Joaquin;Delta College Invitational - Discipline Meet;1:09.16;100 Fly;Women;True;Big8
+12;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;1:09.29;100 Fly;Women;True;Big8
+13;Frida Avalos Paz;Diablo Valley;Delta College Invitational - Discipline Meet;1:12.25;100 Fly;Women;True;Big8
+14;Fernanda Patino Mendez;Modesto JC;40th Annual Mt. SAC Invitational;1:12.86;100 Fly;Women;True;Big8
+15;Rilie Bennett;Diablo Valley;Big 8 INVITE;1:12.95;100 Fly;Women;True;Big8
+16;Anabel Gardea Maldonado;American River;Delta College Invitational - Discipline Meet;1:13.10;100 Fly;Women;True;Big8
+17;Lydia Vlahos;American River;Big 8 INVITE;1:13.32;100 Fly;Women;False;Big8
+18;Mo Schmierer;San Joaquin;23rd Annual Mariner Invite;1:13.35;100 Fly;Women;False;Big8
+19;Delaney Reynolds;Santa Rosa;CCSF Rams Invitational;1:13.74;100 Fly;Women;False;Big8
+20;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;1:14.55;100 Fly;Women;False;Big8
+21;Meg Gardner;American River;LPC vs MSAC vs ARC;1:14.59;100 Fly;Women;False;Big8
+22;Veronika Lapteva;Sierra;Mt. SAC vs. Sierra;1:14.83;100 Fly;Women;False;Big8
+23;Ava Sepulveda;San Joaquin;Los Rios Invite;1:15.51;100 Fly;Women;False;Big8
+24;Gianna Ramos;San Joaquin;Merced College Sprint Invitational;1:16.42;100 Fly;Women;False;Big8
+25;Macie Banner;American River;Los Rios Invite;1:17.26;100 Fly;Women;False;Big8
+26;Mele Sanchez;San Joaquin;Big 8 INVITE;1:26.43;100 Fly;Women;False;Big8
+27;Saige Parrish;Modesto JC;Merced College Sprint Invitational;1:30.94;100 Fly;Women;False;Big8
+28;Veronica Brown;Sacramento City;Los Rios Invite;1:31.77;100 Fly;Women;False;Big8
+29;Amara Black;Sacramento City;Los Rios Invite;1:39.86;100 Fly;Women;False;Big8
+1;Crystallyn Tran;San Joaquin;Big 8 INVITE;2:18.50;200 Fly;Women;True;Big8
 2;Addison Klosevitz;Santa Rosa;Los Rios Invite;2:24.39;200 Fly;Women;True;Big8
-3;Victoria Guzman;San Joaquin;Los Rios Invite;2:35.08;200 Fly;Women;True;Big8
-4;Rilie Bennett;Diablo Valley;Jack Flanagan Viking Invitational;2:42.95;200 Fly;Women;True;Big8
-5;Ava Sepulveda;San Joaquin;Los Rios Invite;2:50.46;200 Fly;Women;True;Big8
-6;Delaney Reynolds;Santa Rosa;Los Rios Invite;2:52.89;200 Fly;Women;True;Big8
-7;Marguerite Gardner;American River;Delta College Invitational - Discipline Meet;2:54.04;200 Fly;Women;True;Big8
-8;Makenna Hensley;Sierra;CCSF Rams Invitational;2:56.54;200 Fly;Women;True;Big8
+3;Brianna Smyth;Diablo Valley;Big 8 INVITE;2:32.17;200 Fly;Women;True;Big8
+4;Victoria Guzman;San Joaquin;Los Rios Invite;2:35.08;200 Fly;Women;True;Big8
+5;Rilie Bennett;Diablo Valley;Jack Flanagan Viking Invitational;2:42.95;200 Fly;Women;True;Big8
+6;Fernanda Patino Mendez;Modesto JC;Big 8 INVITE;2:46.92;200 Fly;Women;True;Big8
+7;Marguerite Gardner;American River;Big 8 INVITE;2:47.53;200 Fly;Women;True;Big8
+8;Ava Sepulveda;San Joaquin;Los Rios Invite;2:50.46;200 Fly;Women;True;Big8
+9;Delaney Reynolds;Santa Rosa;Los Rios Invite;2:52.89;200 Fly;Women;True;Big8
+10;Makenna Hensley;Sierra;CCSF Rams Invitational;2:56.54;200 Fly;Women;True;Big8
 1;Sasha Samoylovich;American River;Cuesta Super Invite;1:03.90;100 IM;Women;True;Big8
 2;Kahu Arama;Sierra;Mt. SAC vs. Sierra;1:04.16;100 IM;Women;True;Big8
 3;Raegan Chavez;Sierra;CCSF Rams Invitational;1:04.73;100 IM;Women;True;Big8
 4;Ella Hanson;American River;Cuesta Super Invite;1:05.19;100 IM;Women;True;Big8
-5;Frida Avalos Paz;Diablo Valley;Jack Flanagan Viking Invitational;1:06.24;100 IM;Women;True;Big8
-6;Victoria Guzman;San Joaquin;Merced College Sprint Invitational;1:06.61;100 IM;Women;True;Big8
-7;Supitcha Phoonpirom;Diablo Valley;Jack Flanagan - Afternoon Session;1:07.20;100 IM;Women;True;Big8
-8;Brianna Smyth;Diablo Valley;Delta College Invitational - Discipline Meet;1:07.22;100 IM;Women;True;Big8
-9;Amber Inderkum;American River;Cuesta Super Invite;1:07.81;100 IM;Women;True;Big8
-10;Anabel Gardea Maldonado;American River;Cuesta Super Invite;1:07.82;100 IM;Women;True;Big8
-11;Makenna Perez;Sierra;Mt. SAC vs. Sierra;1:08.14;100 IM;Women;True;Big8
-12;Alina Chukanova;Sierra;40th Annual Mt. SAC Invitational;1:08.75;100 IM;Women;True;Big8
-13;Jane Lubiens;Sierra;40th Annual Mt. SAC Invitational;1:08.77;100 IM;Women;True;Big8
-14;Kolby Kaufert;Sierra;Mt. SAC vs. Sierra;1:09.12;100 IM;Women;True;Big8
-15;Veronika Lapteva;Sierra;40th Annual Mt. SAC Invitational;1:09.62;100 IM;Women;True;Big8
-16;Macie Banner;American River;Jack Flanagan - Afternoon Session;1:09.83;100 IM;Women;True;Big8
-17;Mo Schmierer;San Joaquin;Delta College Invitational - Discipline Meet;1:10.01;100 IM;Women;False;Big8
-18;Sara Ashby;American River;Cuesta Super Invite;1:10.77;100 IM;Women;False;Big8
-19;Emmi Ng;Diablo Valley;Jack Flanagan Viking Invitational;1:11.20;100 IM;Women;False;Big8
-20;Iliana Khanenka;American River;Cuesta Super Invite;1:11.68;100 IM;Women;False;Big8
-21;Brooke Boyer;American River;Cuesta Super Invite;1:11.71;100 IM;Women;False;Big8
-22;Mya Thomas;American River;Jack Flanagan Viking Invitational;1:11.88;100 IM;Women;False;Big8
-23;Taylor Sanchez;Sierra;Mt. SAC vs. Sierra;1:12.27;100 IM;Women;False;Big8
-24;Marguerite Gardner;American River;Jack Flanagan Viking Invitational;1:12.37;100 IM;Women;False;Big8
-25;Pavla Kobzar;Sacramento City;Cuesta Super Invite;1:12.96;100 IM;Women;False;Big8
-26;Lydia Vlahos;American River;Cuesta Super Invite;1:13.12;100 IM;Women;False;Big8
-27;Fernanda Patino Mendez;Modesto JC;Merced College Sprint Invitational;1:13.63;100 IM;Women;False;Big8
-28;Gianna Ramos;San Joaquin;Merced College Sprint Invitational;1:15.01;100 IM;Women;False;Big8
-29;Paige Randall;American River;LPC vs MSAC vs ARC;1:15.29;100 IM;Women;False;Big8
-30;Meg Gardner;American River;LPC vs MSAC vs ARC;1:15.45;100 IM;Women;False;Big8
-31;Claire Contreras;American River;Cuesta Super Invite;1:15.49;100 IM;Women;False;Big8
-32;Clara Walker;American River;LPC vs MSAC vs ARC;1:15.52;100 IM;Women;False;Big8
-33;Ava Sepulveda;San Joaquin;Delta College Invitational - Discipline Meet;1:15.81;100 IM;Women;False;Big8
-34;Sydney Mayoral;American River;Cuesta Super Invite;1:16.60;100 IM;Women;False;Big8
-35;Rilie Bennett;Diablo Valley;Delta College Invitational - Discipline Meet;1:18.99;100 IM;Women;False;Big8
-36;Nia Danelia;American River;Cuesta Super Invite;1:35.28;100 IM;Women;False;Big8
+5;Kaili Jiang;Cosumnes River College;Big 8 INVITE;1:05.47;100 IM;Women;True;Big8
+6;Addison Klosevitz;Santa Rosa;Big 8 INVITE;1:06.15;100 IM;Women;True;Big8
+7;Frida Avalos Paz;Diablo Valley;Jack Flanagan Viking Invitational;1:06.24;100 IM;Women;True;Big8
+8;Victoria Guzman;San Joaquin;Merced College Sprint Invitational;1:06.61;100 IM;Women;True;Big8
+9;Supitcha Phoonpirom;Diablo Valley;Big 8 INVITE;1:06.62;100 IM;Women;True;Big8
+10;Anabel Gardea Maldonado;American River;Big 8 INVITE;1:06.71;100 IM;Women;True;Big8
+11;Brianna Smyth;Diablo Valley;Delta College Invitational - Discipline Meet;1:07.22;100 IM;Women;True;Big8
+12;Amber Inderkum;American River;Big 8 INVITE;1:07.52;100 IM;Women;True;Big8
+13;Makenna Perez;Sierra;Mt. SAC vs. Sierra;1:08.14;100 IM;Women;True;Big8
+14;Mo Schmierer;San Joaquin;Big 8 INVITE;1:08.34;100 IM;Women;True;Big8
+15;Alina Chukanova;Sierra;40th Annual Mt. SAC Invitational;1:08.75;100 IM;Women;True;Big8
+16;Jane Lubiens;Sierra;40th Annual Mt. SAC Invitational;1:08.77;100 IM;Women;True;Big8
+17;Kolby Kaufert;Sierra;Mt. SAC vs. Sierra;1:09.12;100 IM;Women;False;Big8
+18;Veronika Lapteva;Sierra;40th Annual Mt. SAC Invitational;1:09.62;100 IM;Women;False;Big8
+19;Macie Banner;American River;Jack Flanagan - Afternoon Session;1:09.83;100 IM;Women;False;Big8
+20;Sara Ashby;American River;Cuesta Super Invite;1:10.77;100 IM;Women;False;Big8
+21;Emmi Ng;Diablo Valley;Jack Flanagan Viking Invitational;1:11.20;100 IM;Women;False;Big8
+22;Iliana Khanenka;American River;Big 8 INVITE;1:11.27;100 IM;Women;False;Big8
+23;Makenna Hensley;Sierra;Big 8 INVITE;1:11.56;100 IM;Women;False;Big8
+24;Brooke Boyer;American River;Cuesta Super Invite;1:11.71;100 IM;Women;False;Big8
+25;Mya Thomas;American River;Jack Flanagan Viking Invitational;1:11.88;100 IM;Women;False;Big8
+26;Raquel Lacanlale;Diablo Valley;Big 8 INVITE;1:11.94;100 IM;Women;False;Big8
+27;Chloe Pappas;Diablo Valley;Big 8 INVITE;1:12.12;100 IM;Women;False;Big8
+28;Taylor Sanchez;Sierra;Mt. SAC vs. Sierra;1:12.27;100 IM;Women;False;Big8
+29;Fernanda Patino Mendez;Modesto JC;Big 8 INVITE;1:12.35;100 IM;Women;False;Big8
+30;Marguerite Gardner;American River;Jack Flanagan Viking Invitational;1:12.37;100 IM;Women;False;Big8
+31;Pavla Kobzar;Sacramento City;Cuesta Super Invite;1:12.96;100 IM;Women;False;Big8
+32;Lydia Vlahos;American River;Cuesta Super Invite;1:13.12;100 IM;Women;False;Big8
+33;Gianna Ramos;San Joaquin;Merced College Sprint Invitational;1:15.01;100 IM;Women;False;Big8
+34;Paige Randall;American River;LPC vs MSAC vs ARC;1:15.29;100 IM;Women;False;Big8
+35;Meg Gardner;American River;LPC vs MSAC vs ARC;1:15.45;100 IM;Women;False;Big8
+36;Claire Contreras;American River;Cuesta Super Invite;1:15.49;100 IM;Women;False;Big8
+37;Emily Marques;Diablo Valley;Big 8 INVITE;1:15.50;100 IM;Women;False;Big8
+38;Clara Walker;American River;LPC vs MSAC vs ARC;1:15.52;100 IM;Women;False;Big8
+39;Ava Sepulveda;San Joaquin;Delta College Invitational - Discipline Meet;1:15.81;100 IM;Women;False;Big8
+40;Rilie Bennett;Diablo Valley;Big 8 INVITE;1:15.89;100 IM;Women;False;Big8
+41;Sydney Mayoral;American River;Cuesta Super Invite;1:16.60;100 IM;Women;False;Big8
+42;Marisa Collazo;Sacramento City;Big 8 INVITE;1:16.83;100 IM;Women;False;Big8
+43;Madison Madrid;San Joaquin;Big 8 INVITE;1:26.52;100 IM;Women;False;Big8
+44;Nia Danelia;American River;Big 8 INVITE;1:34.41;100 IM;Women;False;Big8
 1;Sasha Samoylovich;American River;Cuesta Super Invite;2:18.41;200 IM;Women;True;Big8
 2;Raegan Chavez;Sierra;40th Annual Mt. SAC Invitational;2:18.80;200 IM;Women;True;Big8
 3;Anabel Gardea Maldonado;American River;Cuesta Super Invite;2:19.22;200 IM;Women;True;Big8
-4;Crystallyn Tran;San Joaquin;23rd Annual Mariner Invite;2:23.26;200 IM;Women;True;Big8
-5;Ella Hanson;American River;Cuesta Super Invite;2:23.33;200 IM;Women;True;Big8
-6;Victoria Guzman;San Joaquin;Delta College Invitational - Discipline Meet;2:23.84;200 IM;Women;True;Big8
-7;Maya Canada;Diablo Valley;Los Rios Invite;2:24.18;200 IM;Women;True;Big8
-8;Addison Klosevitz;Santa Rosa;Los Rios Invite;2:24.25;200 IM;Women;True;Big8
-9;Amber Inderkum;American River;Cuesta Super Invite;2:25.36;200 IM;Women;True;Big8
-10;Emma Upton;Sierra;Mt. SAC vs. Sierra;2:26.13;200 IM;Women;True;Big8
-11;DJ Mancuso;Santa Rosa;Los Rios Invite;2:26.38;200 IM;Women;True;Big8
-12;Frida Avalos Paz;Diablo Valley;Los Rios Invite;2:27.09;200 IM;Women;True;Big8
-13;Kolby Kaufert;Sierra;40th Annual Mt. SAC Invitational;2:29.37;200 IM;Women;True;Big8
-14;Supitcha Phoonpirom;Diablo Valley;Delta College Invitational - Discipline Meet;2:31.91;200 IM;Women;True;Big8
+4;Frida Avalos Paz;Diablo Valley;Big 8 INVITE;2:22.27;200 IM;Women;True;Big8
+5;Victoria Guzman;San Joaquin;Big 8 INVITE;2:22.47;200 IM;Women;True;Big8
+6;Crystallyn Tran;San Joaquin;23rd Annual Mariner Invite;2:23.26;200 IM;Women;True;Big8
+7;Ella Hanson;American River;Cuesta Super Invite;2:23.33;200 IM;Women;True;Big8
+8;Maya Canada;Diablo Valley;Los Rios Invite;2:24.18;200 IM;Women;True;Big8
+9;Supitcha Phoonpirom;Diablo Valley;Big 8 INVITE;2:24.23;200 IM;Women;True;Big8
+10;Addison Klosevitz;Santa Rosa;Los Rios Invite;2:24.25;200 IM;Women;True;Big8
+11;Amber Inderkum;American River;Cuesta Super Invite;2:25.36;200 IM;Women;True;Big8
+12;Emma Upton;Sierra;Mt. SAC vs. Sierra;2:26.13;200 IM;Women;True;Big8
+13;DJ Mancuso;Santa Rosa;Los Rios Invite;2:26.38;200 IM;Women;True;Big8
+14;Kolby Kaufert;Sierra;Big 8 INVITE;2:28.05;200 IM;Women;True;Big8
 15;Kylie Richardson;San Joaquin;23rd Annual Mariner Invite;2:32.44;200 IM;Women;True;Big8
 16;Pavla Kobzar;Sacramento City;Cuesta Super Invite;2:33.14;200 IM;Women;True;Big8
 17;Mo Schmierer;San Joaquin;23rd Annual Mariner Invite;2:33.24;200 IM;Women;False;Big8
 18;Fernanda Patino Mendez;Modesto JC;40th Annual Mt. SAC Invitational;2:33.74;200 IM;Women;False;Big8
-19;Macie Banner;American River;Delta College Invitational - Discipline Meet;2:37.79;200 IM;Women;False;Big8
-20;Brianna Smyth;Diablo Valley;Los Rios Invite;2:38.77;200 IM;Women;False;Big8
-21;Jacquie Clouser;American River;Los Rios Invite;2:38.87;200 IM;Women;False;Big8
-22;Ava Sepulveda;San Joaquin;Delta College Invitational - Discipline Meet;2:40.48;200 IM;Women;False;Big8
-23;Mya Thomas;American River;Delta College Invitational - Discipline Meet;2:42.05;200 IM;Women;False;Big8
-24;Gianna Ramos;San Joaquin;Los Rios Invite;2:42.11;200 IM;Women;False;Big8
-25;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;2:43.24;200 IM;Women;False;Big8
-26;Marguerite Gardner;American River;Los Rios Invite;2:49.38;200 IM;Women;False;Big8
-27;Kelly Hunter;Diablo Valley;Los Rios Invite;2:53.73;200 IM;Women;False;Big8
-28;Nia Danelia;American River;Jack Flanagan Viking Invitational;3:27.81;200 IM;Women;False;Big8
+19;Macie Banner;American River;Big 8 INVITE;2:33.81;200 IM;Women;False;Big8
+20;Sara Ashby;American River;Big 8 INVITE;2:34.24;200 IM;Women;False;Big8
+21;Iliana Khanenka;American River;Big 8 INVITE;2:37.86;200 IM;Women;False;Big8
+22;Brianna Smyth;Diablo Valley;Los Rios Invite;2:38.77;200 IM;Women;False;Big8
+23;Jacquie Clouser;American River;Los Rios Invite;2:38.87;200 IM;Women;False;Big8
+24;Ava Sepulveda;San Joaquin;Delta College Invitational - Discipline Meet;2:40.48;200 IM;Women;False;Big8
+25;Mya Thomas;American River;Delta College Invitational - Discipline Meet;2:42.05;200 IM;Women;False;Big8
+26;Gianna Ramos;San Joaquin;Los Rios Invite;2:42.11;200 IM;Women;False;Big8
+27;Jessica Kraemer;Santa Rosa;CCSF Rams Invitational;2:43.24;200 IM;Women;False;Big8
+28;Marguerite Gardner;American River;Los Rios Invite;2:49.38;200 IM;Women;False;Big8
+29;Kelly Hunter;Diablo Valley;Los Rios Invite;2:53.73;200 IM;Women;False;Big8
+30;Nia Danelia;American River;Jack Flanagan Viking Invitational;3:27.81;200 IM;Women;False;Big8
 1;Addison Klosevitz;Santa Rosa;40th Annual Mt. SAC Invitational;4:54.16;400 IM;Women;True;Big8
 2;Emma Upton;Sierra;40th Annual Mt. SAC Invitational;5:00.95;400 IM;Women;True;Big8
 3;Victoria Guzman;San Joaquin;Delta College Invitational - Discipline Meet;5:03.67;400 IM;Women;True;Big8
