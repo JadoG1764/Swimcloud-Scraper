@@ -82,63 +82,81 @@ def get_swimmers():
 
     events = {}
 
-    for event in Races.objects.values_list("event", flat=True).distinct():
+    #temp to check event right now
+    tempswim = {}
+    for page in range(1):
+        url = f"https://www.swimcloud.com/times/iframe/?page={page+1}&region=genericregion_457&orgcode=1&course=Y&hide_gender=0&hide_season=0&event=2100&season=29&age_group=UNOV&gender=M"
+        data = requests.get(url).text
+        soup = BeautifulSoup(data, "html.parser")
 
-        times = list(
-            Races.objects
-            .filter(event=event, gender="Men")
-            .values_list("time", flat=True)
-        )
+        for event in Races.objects.values_list("event", flat=True).distinct():
 
-        times.sort(key=minute_to_sec)
-
-        if len(times) >= 24:
-            events[event] = times[23]
-
-    url = f"https://www.swimcloud.com/times/iframe/?page=1&region=genericregion_457&orgcode=1&course=Y&hide_gender=0&hide_season=0&event=150&season=29&age_group=UNOV&gender=M"
-    data = requests.get(url).text
-    soup = BeautifulSoup(data, "html.parser")
-    for td in soup.find_all("td"):
-        if counter == 1:
-            a = td.find("a")
-            name = a.find(string=True, recursive=False).strip()
-            swimmer_id = a["href"].split("/")[-1]
-            swimmerurl = f"https://www.swimcloud.com/api/swimmers/{swimmer_id}/profile_fastest_times/"
-            swimmerdata = requests.get(swimmerurl, headers=headers).text
-            swimmersoup = BeautifulSoup(swimmerdata, "html.parser")
-
-            results = json.loads(swimmersoup.prettify())
-            gender = get_gender(results)
-            scy_results = [r for r in results if r.get("eventcourse") == "Y"]
-            scy_events = build_scy_events(scy_results)
-
-            swimmer = Swimmer(
-                name=name,
-                swimmerId=int(swimmer_id),
-                gender=gender,
-                events=scy_events
+            times = list(
+                Races.objects
+                .filter(event=event, gender="Men") #HARD CODED FOR NOW
+                .values_list("time", flat=True)
             )
 
+            times.sort(key=minute_to_sec)
 
-            for event in swimmer.events:
-                event_lookup = event.replace(" SCY", "")
-                std_time = events.get(event_lookup)
+            if len(times) >= 24:
+                events[event] = times[23]
 
-                if std_time is not None:
-                    pwr = minute_to_sec(std_time) / minute_to_sec(swimmer.events[event])
-                    pwr = pwr * pwr * pwr
-                    pwr = pwr - 0.3
-                    pwr *= 1000
-                    pwr = int(pwr)
 
-                    print(event, swimmer.events[event], std_time, pwr)
+        for td in soup.find_all("td"):
+            if counter == 1:
+                a = td.find("a")
+                name = a.find(string=True, recursive=False).strip()
+                swimmer_id = a["href"].split("/")[-1]
+                swimmerurl = f"https://www.swimcloud.com/api/swimmers/{swimmer_id}/profile_fastest_times/"
+                response = requests.get(swimmerurl, headers=headers)
+                results = response.json()
 
-        print("-------------------------------------")
-        if counter == 6:
-            counter = 0
-        else:
-            counter += 1
-        sleep(1)
+                gender = get_gender(results)
+                scy_results = [r for r in results if r.get("eventcourse") == "Y"]
+                scy_events = build_scy_events(scy_results)
+
+                swimmer = Swimmer(
+                    name=name,
+                    swimmerId=int(swimmer_id),
+                    gender=gender,
+                    events=scy_events
+                )
+
+                print(swimmer.name)
+                for event in swimmer.events:
+                    event_lookup = event.replace(" SCY", "")
+                    std_time = events.get(event_lookup)
+
+                    if std_time is not None:
+                        pwr = minute_to_sec(std_time) / minute_to_sec(swimmer.events[event])
+                        pwr = pwr * pwr * pwr * pwr
+                        pwr = pwr - 0.5
+                        pwr *= 1000
+                        pwr = int(pwr)
+                        if pwr < 0:
+                            pwr = 0
+
+                        #TEMP TO CHECK 50 BACK ONLY
+                        if event == "100 Back SCY":
+                            tempswim[swimmer.name] = pwr
+
+                        print(event, swimmer.events[event], pwr)
+
+            if counter == 1:
+                sleep(5)
+                print("-------------------------------------")
+            if counter == 6:
+                counter = 0
+            else:
+                counter += 1
+
+    sorted_items = sorted(tempswim.items(), key=lambda item: item[1], reverse=True)
+    num = 1
+    for swimmer in sorted_items:
+        print(num, swimmer[0], swimmer[1])
+        num += 1
+
 
 if __name__ == "__main__":
     get_swimmers()
