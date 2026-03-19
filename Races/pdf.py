@@ -104,7 +104,10 @@ def pdf_download(request, division):
 
             if events_on_page > on_page:
                 elements.append(PageBreak())
-                events_on_page = on_page - 1
+                if on_page == 1:
+                    events_on_page = on_page
+                else:
+                    events_on_page = on_page - 1
 
             elements.append(Spacer(0, 3))
             elements.append(Paragraph(
