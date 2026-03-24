@@ -79,6 +79,7 @@ if __name__ == "__main__":
         print("2.CCS")
         print("3.Big 8")
         print("4.All")
+        print("5.3C2A+Big 8")
         print("To exit type 'exit'")
         db = input("Enter your choice: ")
         if db == "1":
@@ -95,8 +96,12 @@ if __name__ == "__main__":
             rewrite_ccs_db("CCS")
             rewrite_ccs_db("Big8")
             break
+        elif db == "5":
+            rewrite_ccs_db("CCCAA")
+            rewrite_ccs_db("Big8")
+            break
         elif db == "exit":
             break
         else:
-            print("Invalid choice, Enter 1-3 or type exit to exit")
+            print("Invalid choice, Enter 1-5 or type exit to exit")
 

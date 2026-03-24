@@ -5,7 +5,6 @@ from reportlab.platypus import BaseDocTemplate, Frame, PageTemplate, Paragraph, 
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 
-
 def pdf_download(request, division):
     # GET filters
     selected_events = request.GET.getlist("events")
