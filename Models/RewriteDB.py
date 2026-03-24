@@ -2,9 +2,7 @@ import os
 import django
 import re
 from pathlib import Path
-
 from django.utils.text import slugify
-
 
 def rewrite_ccs_db(division=None):
     os.environ.setdefault(

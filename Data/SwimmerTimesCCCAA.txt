@@ -848,6 +848,208 @@
 48;Fidel Ramirez III;Hartnell College;Cuesta Super Invite;4:50.20;400 IM;Men;False;CCCAA
 49;Mason Martsolf;Los Angeles Valley;WSC #2 @  LA Valley;4:50.85;400 IM;Men;False;CCCAA
 50;Saul Mendoza;Cypress;2026 Orange Empire Conference Invite 2;4:51.16;400 IM;Men;False;CCCAA
+1;;Cuesta;Bob Miyashiro Invite;1:23.98;6200;Men;True;CCCAA
+2;;Mt. SAC;40th Annual Mt. SAC Invitational;1:25.28;6200;Men;True;CCCAA
+3;;Diablo Valley;Bob Miyashiro Invite;1:25.92;6200;Men;True;CCCAA
+4;;San Mateo;Cuesta Super Invite;1:26.16;6200;Men;True;CCCAA
+5;;Sierra;Big 8 INVITE;1:26.42;6200;Men;True;CCCAA
+6;;Riverside;2026 Orange Empire Conference Invite 1;1:26.96;6200;Men;True;CCCAA
+7;;DeAnza;Bob Miyashiro Invite;1:27.07;6200;Men;True;CCCAA
+8;;American River;Bob Miyashiro Invite;1:27.23;6200;Men;True;CCCAA
+9;;Orange Coast;2026 Orange Empire Conference Invite 1;1:27.59;6200;Men;True;CCCAA
+10;;Las Positas College;Bob Miyashiro Invite;1:27.77;6200;Men;True;CCCAA
+11;;Ventura;Bob Miyashiro Invite;1:27.91;6200;Men;True;CCCAA
+12;;College of the Sequoias;College of the Sequoias vs. Merced vs. Fresno City vs. Clovis;1:28.46;6200;Men;True;CCCAA
+13;;West Valley;Cuesta Super Invite;1:28.61;6200;Men;True;CCCAA
+14;;Cypress;Cuesta Super Invite;1:28.82;6200;Men;True;CCCAA
+14;;Clovis;College of the Sequoias vs. Merced vs. Fresno City vs. Clovis;1:28.82;6200;Men;True;CCCAA
+16;;Golden West;2026 Orange Empire Conference Invite 1;1:29.29;6200;Men;True;CCCAA
+17;;Santa Rosa;Bob Miyashiro Invite;1:29.58;6200;Men;False;CCCAA
+18;;Southwestern College (CA);40th Annual Mt. SAC Invitational;1:29.93;6200;Men;False;CCCAA
+19;;Bakersfield;Mt. SAC NTS Invitational;1:30.06;6200;Men;False;CCCAA
+20;;Ohlone;14th Annual De Anza Invite;1:30.35;6200;Men;False;CCCAA
+20;;Los Angeles Valley;2026 WSC #1 (BC-COC-SMCC-LAVC-Citrus);1:30.35;6200;Men;False;CCCAA
+22;;Modesto JC;Big 8 INVITE;1:30.63;6200;Men;False;CCCAA
+23;;SMC;Cuesta Super Invite;1:31.26;6200;Men;False;CCCAA
+24;;San Diego Mesa;40th Annual Mt. SAC Invitational;1:31.83;6200;Men;False;CCCAA
+25;;Hancock College;Cuesta Super Invite;1:32.14;6200;Men;False;CCCAA
+26;;San Diego Miramar College;40th Annual Mt. SAC Invitational;1:32.40;6200;Men;False;CCCAA
+26;;El Camino;Golden West Sprint Meet;1:32.40;6200;Men;False;CCCAA
+28;;Crafton Hills;2026 Crafton Hills March Invite;1:32.82;6200;Men;False;CCCAA
+29;;Palomar;40th Annual Mt. SAC Invitational;1:33.11;6200;Men;False;CCCAA
+30;;Hartnell College;Cuesta Super Invite;1:33.21;6200;Men;False;CCCAA
+31;;Cosumnes River College;Big 8 INVITE;1:34.24;6200;Men;False;CCCAA
+32;;Saddleback;Cuesta Super Invite;1:34.36;6200;Men;False;CCCAA
+33;;Pasadena City;40th Annual Mt. SAC Invitational;1:34.75;6200;Men;False;CCCAA
+34;;Long Beach City;Cuesta Super Invite;1:34.89;6200;Men;False;CCCAA
+35;;Canyons;40th Annual Mt. SAC Invitational;1:36.51;6200;Men;False;CCCAA
+36;;Los Angeles Pierce;WSC #1 at Cuesta;1:40.37;6200;Men;False;CCCAA
+37;;San Joaquin;Big 8 INVITE;1:40.47;6200;Men;False;CCCAA
+38;;Merced;Merced College Sprint Invitational;1:40.99;6200;Men;False;CCCAA
+39;;Grossmont;40th Annual Mt. SAC Invitational;1:41.38;6200;Men;False;CCCAA
+40;;Chaffey;5th Annual El Camino 3x Invitational;1:42.52;6200;Men;False;CCCAA
+41;;Citrus;2026 WSC #1 (BC-COC-SMCC-LAVC-Citrus);1:42.79;6200;Men;False;CCCAA
+42;;Cabrillo;Coast Conference Kickoff 2026;1:45.79;6200;Men;False;CCCAA
+43;;Rio Hondo;Golden West Sprint Meet;1:47.60;6200;Men;False;CCCAA
+44;;Fullerton;Golden West Sprint Meet;1:54.15;6200;Men;False;CCCAA
+1;;Cuesta;Bob Miyashiro Invite;3:07.01;6400;Men;True;CCCAA
+2;;Diablo Valley;Bob Miyashiro Invite;3:08.52;6400;Men;True;CCCAA
+3;;DeAnza;Bob Miyashiro Invite;3:08.58;6400;Men;True;CCCAA
+4;;Sierra;Bob Miyashiro Invite;3:09.87;6400;Men;True;CCCAA
+5;;Mt. SAC;40th Annual Mt. SAC Invitational;3:10.50;6400;Men;True;CCCAA
+6;;Riverside;2026 Orange Empire Conference Invite 2;3:11.68;6400;Men;True;CCCAA
+7;;American River;Cuesta Super Invite;3:11.99;6400;Men;True;CCCAA
+8;;Golden West;2026 GWC vs OCC Relays;3:13.64;6400;Men;True;CCCAA
+9;;San Mateo;Cuesta Super Invite;3:14.68;6400;Men;True;CCCAA
+10;;Las Positas College;Bob Miyashiro Invite;3:15.22;6400;Men;True;CCCAA
+11;;Ventura;Bob Miyashiro Invite;3:16.01;6400;Men;True;CCCAA
+12;;Orange Coast;2026 Orange Empire Conference Invite 2;3:16.56;6400;Men;True;CCCAA
+13;;Santa Rosa;Bob Miyashiro Invite;3:16.65;6400;Men;True;CCCAA
+14;;El Camino;Cuesta Super Invite;3:16.89;6400;Men;True;CCCAA
+15;;West Valley;Cuesta Super Invite;3:18.24;6400;Men;True;CCCAA
+16;;Clovis;Cuesta Super Invite;3:18.39;6400;Men;True;CCCAA
+17;;Bakersfield;Mt. SAC NTS Invitational;3:19.02;6400;Men;False;CCCAA
+18;;College of the Sequoias;40th Annual Mt. SAC Invitational;3:19.15;6400;Men;False;CCCAA
+19;;Cypress;2026 Orange Empire Conference Invite 2;3:19.62;6400;Men;False;CCCAA
+20;;Southwestern College (CA);PCAC Invite #2;3:20.80;6400;Men;False;CCCAA
+21;;Modesto JC;40th Annual Mt. SAC Invitational;3:21.24;6400;Men;False;CCCAA
+22;;Los Angeles Valley;WSC #2 @  LA Valley;3:22.67;6400;Men;False;CCCAA
+23;;Ohlone;2026 Ohlone Invitational;3:23.56;6400;Men;False;CCCAA
+24;;Hancock College;Bob Miyashiro Invite;3:24.73;6400;Men;False;CCCAA
+25;;Long Beach City;LBCC v El Camino v Chaffey / PCC vs ELAC;3:25.57;6400;Men;False;CCCAA
+26;;SMC;Cuesta Super Invite;3:26.60;6400;Men;False;CCCAA
+27;;San Diego Miramar College;40th Annual Mt. SAC Invitational;3:27.42;6400;Men;False;CCCAA
+28;;Palomar;40th Annual Mt. SAC Invitational;3:27.83;6400;Men;False;CCCAA
+29;;Hartnell College;Cuesta Super Invite;3:28.59;6400;Men;False;CCCAA
+30;;San Diego Mesa;40th Annual Mt. SAC Invitational;3:30.11;6400;Men;False;CCCAA
+31;;Saddleback;Cuesta Super Invite;3:31.31;6400;Men;False;CCCAA
+32;;Pasadena City;2026 NTS BC Invite;3:31.81;6400;Men;False;CCCAA
+33;;Crafton Hills;2026 Crafton Hills March Invite;3:32.53;6400;Men;False;CCCAA
+34;;Canyons;40th Annual Mt. SAC Invitational;3:35.60;6400;Men;False;CCCAA
+35;;Grossmont;40th Annual Mt. SAC Invitational;3:37.11;6400;Men;False;CCCAA
+36;;Merced;Modesto Junior College Invite 2026;3:37.55;6400;Men;False;CCCAA
+37;;Cosumnes River College;Los Rios Invite;3:41.00;6400;Men;False;CCCAA
+38;;San Joaquin;Modesto Junior College Invite 2026;3:44.09;6400;Men;False;CCCAA
+39;;Cerritos;LBCC-CERR @ ELAC;3:44.72;6400;Men;False;CCCAA
+40;;Chaffey;LBCC v El Camino v Chaffey / PCC vs ELAC;3:49.25;6400;Men;False;CCCAA
+41;;Citrus;WSC #2 @  LA Valley;3:49.60;6400;Men;False;CCCAA
+42;;Sacramento City;Los Rios Invite;3:51.31;6400;Men;False;CCCAA
+43;;Los Angeles Pierce;WSC #2 @  LA Valley;3:57.38;6400;Men;False;CCCAA
+44;;Rio Hondo;Golden West Sprint Meet;4:00.52;6400;Men;False;CCCAA
+1;;Cuesta;Bob Miyashiro Invite;6:55.83;6800;Men;True;CCCAA
+2;;Mt. SAC;40th Annual Mt. SAC Invitational;6:58.17;6800;Men;True;CCCAA
+3;;DeAnza;Bob Miyashiro Invite;6:59.93;6800;Men;True;CCCAA
+4;;Sierra;Bob Miyashiro Invite;7:04.01;6800;Men;True;CCCAA
+5;;Las Positas College;Bob Miyashiro Invite;7:10.01;6800;Men;True;CCCAA
+6;;San Mateo;Cuesta Super Invite;7:10.65;6800;Men;True;CCCAA
+7;;Diablo Valley;Bob Miyashiro Invite;7:13.09;6800;Men;True;CCCAA
+8;;Riverside;2026 Crafton Hills March Invite;7:13.96;6800;Men;True;CCCAA
+9;;Santa Rosa;Bob Miyashiro Invite;7:14.05;6800;Men;True;CCCAA
+10;;Ventura;Bob Miyashiro Invite;7:23.87;6800;Men;True;CCCAA
+11;;Clovis;Cuesta Super Invite;7:24.74;6800;Men;True;CCCAA
+12;;Ohlone;2026 Ohlone Invitational;7:25.27;6800;Men;True;CCCAA
+13;;El Camino;Cuesta Super Invite;7:25.94;6800;Men;True;CCCAA
+14;;Golden West;Golden West Sprint Meet;7:26.32;6800;Men;True;CCCAA
+15;;American River;Bob Miyashiro Invite;7:28.17;6800;Men;True;CCCAA
+16;;Hancock College;Bob Miyashiro Invite;7:31.13;6800;Men;True;CCCAA
+17;;West Valley;2026 Ohlone Invitational;7:39.37;6800;Men;False;CCCAA
+18;;Bakersfield;40th Annual Mt. SAC Invitational;7:49.24;6800;Men;False;CCCAA
+19;;College of the Sequoias;Cuesta Super Invite;7:51.14;6800;Men;False;CCCAA
+20;;Hartnell College;Cuesta Super Invite;7:54.91;6800;Men;False;CCCAA
+21;;Cypress;Cuesta Super Invite;7:56.68;6800;Men;False;CCCAA
+22;;Saddleback;Cuesta Super Invite;7:58.70;6800;Men;False;CCCAA
+23;;San Diego Mesa;40th Annual Mt. SAC Invitational;8:00.35;6800;Men;False;CCCAA
+24;;Canyons;40th Annual Mt. SAC Invitational;8:07.07;6800;Men;False;CCCAA
+25;;San Diego Miramar College;40th Annual Mt. SAC Invitational;8:11.93;6800;Men;False;CCCAA
+26;;Long Beach City;Cuesta Super Invite;8:13.41;6800;Men;False;CCCAA
+27;;Crafton Hills;2026 Crafton Hills March Invite;8:28.36;6800;Men;False;CCCAA
+1;;Cuesta;40th Annual Mt. SAC Invitational;1:33.27;7200;Men;True;CCCAA
+2;;Mt. SAC;40th Annual Mt. SAC Invitational;1:33.68;7200;Men;True;CCCAA
+3;;Sierra;Bob Miyashiro Invite;1:34.83;7200;Men;True;CCCAA
+4;;San Mateo;Bob Miyashiro Invite;1:35.69;7200;Men;True;CCCAA
+5;;Diablo Valley;Bob Miyashiro Invite;1:35.83;7200;Men;True;CCCAA
+6;;Riverside;2026 Orange Empire Conference Invite 1;1:35.97;7200;Men;True;CCCAA
+7;;DeAnza;Bob Miyashiro Invite;1:36.07;7200;Men;True;CCCAA
+8;;Clovis;Cuesta Super Invite;1:36.09;7200;Men;True;CCCAA
+9;;Las Positas College;Bob Miyashiro Invite;1:37.01;7200;Men;True;CCCAA
+10;;Orange Coast;2026 Orange Empire Conference Invite 1;1:37.10;7200;Men;True;CCCAA
+11;;American River;Cuesta Super Invite;1:38.14;7200;Men;True;CCCAA
+12;;Ventura;Bob Miyashiro Invite;1:38.46;7200;Men;True;CCCAA
+13;;Santa Rosa;Bob Miyashiro Invite;1:38.88;7200;Men;True;CCCAA
+14;;SMC;40th Annual Mt. SAC Invitational;1:39.23;7200;Men;True;CCCAA
+15;;College of the Sequoias;40th Annual Mt. SAC Invitational;1:39.25;7200;Men;True;CCCAA
+16;;Pasadena City;2026 NTS BC Invite;1:39.90;7200;Men;True;CCCAA
+17;;Southwestern College (CA);40th Annual Mt. SAC Invitational;1:40.03;7200;Men;False;CCCAA
+18;;El Camino;Cuesta Super Invite;1:40.18;7200;Men;False;CCCAA
+19;;Cypress;Cuesta Super Invite;1:40.32;7200;Men;False;CCCAA
+20;;Bakersfield;40th Annual Mt. SAC Invitational;1:41.50;7200;Men;False;CCCAA
+21;;Hancock College;Bob Miyashiro Invite;1:42.63;7200;Men;False;CCCAA
+22;;Ohlone;14th Annual De Anza Invite;1:43.65;7200;Men;False;CCCAA
+23;;Golden West;Golden West Sprint Meet;1:43.72;7200;Men;False;CCCAA
+24;;Modesto JC;Merced College Sprint Invitational;1:44.09;7200;Men;False;CCCAA
+25;;San Diego Miramar College;40th Annual Mt. SAC Invitational;1:44.80;7200;Men;False;CCCAA
+26;;San Diego Mesa;40th Annual Mt. SAC Invitational;1:45.20;7200;Men;False;CCCAA
+27;;Palomar;40th Annual Mt. SAC Invitational;1:46.10;7200;Men;False;CCCAA
+28;;Hartnell College;Modesto Junior College Invite 2026;1:46.44;7200;Men;False;CCCAA
+29;;West Valley;CCSF Rams Invitational;1:46.99;7200;Men;False;CCCAA
+30;;Long Beach City;LBCC-CERR @ ELAC;1:48.07;7200;Men;False;CCCAA
+31;;Cerritos;LBCC-CERR @ ELAC;1:48.14;7200;Men;False;CCCAA
+32;;Crafton Hills;PCAC Invite #2;1:49.22;7200;Men;False;CCCAA
+33;;Saddleback;Cuesta Super Invite;1:49.72;7200;Men;False;CCCAA
+34;;Grossmont;PCAC Invite #1;1:51.14;7200;Men;False;CCCAA
+35;;Canyons;Cuesta Super Invite;1:51.49;7200;Men;False;CCCAA
+36;;Merced;Merced College Sprint Invitational;1:51.67;7200;Men;False;CCCAA
+37;;San Joaquin;Big 8 INVITE;1:51.87;7200;Men;False;CCCAA
+38;;Cosumnes River College;Bob Miyashiro Invite;1:52.46;7200;Men;False;CCCAA
+39;;Chaffey;2026 Crafton Hills March Invite;1:52.51;7200;Men;False;CCCAA
+40;;Los Angeles Valley;VC Larry Baratte Invitational;1:54.75;7200;Men;False;CCCAA
+41;;Solano CC;23rd Annual Mariner Invite;1:55.38;7200;Men;False;CCCAA
+42;;Los Angeles Pierce;VC Larry Baratte Invitational;1:56.41;7200;Men;False;CCCAA
+43;;Cabrillo;Coast Conference Kickoff 2026;1:56.69;7200;Men;False;CCCAA
+44;;Sacramento City;Los Rios Invite;1:57.36;7200;Men;False;CCCAA
+45;;Citrus;VC Larry Baratte Invitational;2:02.99;7200;Men;False;CCCAA
+46;;Rio Hondo;Golden West Sprint Meet;2:03.41;7200;Men;False;CCCAA
+1;;Mt. SAC;40th Annual Mt. SAC Invitational;3:25.97;7400;Men;True;CCCAA
+2;;Cuesta;40th Annual Mt. SAC Invitational;3:26.06;7400;Men;True;CCCAA
+3;;Riverside;2026 Orange Empire Conference Invite 2;3:30.48;7400;Men;True;CCCAA
+4;;DeAnza;Bob Miyashiro Invite;3:30.65;7400;Men;True;CCCAA
+5;;American River;Jack Flanagan Viking Invitational;3:31.41;7400;Men;True;CCCAA
+6;;Clovis;Cuesta Super Invite;3:32.06;7400;Men;True;CCCAA
+7;;San Mateo;Cuesta Super Invite;3:33.07;7400;Men;True;CCCAA
+8;;Las Positas College;Bob Miyashiro Invite;3:33.90;7400;Men;True;CCCAA
+9;;Sierra;40th Annual Mt. SAC Invitational;3:34.62;7400;Men;True;CCCAA
+10;;Orange Coast;2026 Orange Empire Conference Invite 2;3:34.95;7400;Men;True;CCCAA
+11;;El Camino;Cuesta Super Invite;3:35.49;7400;Men;True;CCCAA
+12;;Diablo Valley;Bob Miyashiro Invite;3:35.87;7400;Men;True;CCCAA
+13;;Santa Rosa;Bob Miyashiro Invite;3:37.90;7400;Men;True;CCCAA
+14;;Ventura;Bob Miyashiro Invite;3:42.10;7400;Men;True;CCCAA
+15;;College of the Sequoias;40th Annual Mt. SAC Invitational;3:43.46;7400;Men;True;CCCAA
+16;;Hancock College;Bob Miyashiro Invite;3:44.00;7400;Men;True;CCCAA
+17;;Cypress;2026 Orange Empire Conference Invite 2;3:44.01;7400;Men;False;CCCAA
+18;;West Valley;2026 Ohlone Invitational;3:48.75;7400;Men;False;CCCAA
+19;;Bakersfield;Mt. SAC NTS Invitational;3:49.82;7400;Men;False;CCCAA
+20;;Ohlone;14th Annual De Anza Invite;3:50.70;7400;Men;False;CCCAA
+21;;Golden West;Golden West Sprint Meet;3:51.74;7400;Men;False;CCCAA
+22;;SMC;Cuesta Super Invite;3:51.78;7400;Men;False;CCCAA
+23;;San Diego Miramar College;40th Annual Mt. SAC Invitational;3:57.37;7400;Men;False;CCCAA
+24;;San Diego Mesa;40th Annual Mt. SAC Invitational;4:00.11;7400;Men;False;CCCAA
+25;;Hartnell College;Cuesta Super Invite;4:00.66;7400;Men;False;CCCAA
+26;;Palomar;40th Annual Mt. SAC Invitational;4:01.28;7400;Men;False;CCCAA
+27;;Modesto JC;40th Annual Mt. SAC Invitational;4:01.62;7400;Men;False;CCCAA
+28;;Long Beach City;Cuesta Super Invite;4:02.03;7400;Men;False;CCCAA
+29;;Los Angeles Pierce;WSC #2 @  LA Valley;4:03.53;7400;Men;False;CCCAA
+30;;Los Angeles Valley;WSC #2 @  LA Valley;4:05.01;7400;Men;False;CCCAA
+31;;Grossmont;40th Annual Mt. SAC Invitational;4:09.07;7400;Men;False;CCCAA
+32;;Merced;2026 Ohlone Invitational;4:09.20;7400;Men;False;CCCAA
+33;;Canyons;Cuesta Super Invite;4:11.42;7400;Men;False;CCCAA
+34; (B);Saddleback;2026 Orange Empire Conference Invite 2;4:12.37;7400;Men;False;CCCAA
+35;;Chaffey;2026 Crafton Hills March Invite;4:14.65;7400;Men;False;CCCAA
+36;;Crafton Hills;2026 Crafton Hills March Invite;4:15.13;7400;Men;False;CCCAA
+37;;San Joaquin;14th Annual De Anza Invite;4:19.21;7400;Men;False;CCCAA
+38;;Citrus;WSC #2 @  LA Valley;4:32.95;7400;Men;False;CCCAA
+39;;Rio Hondo;Golden West Sprint Meet;4:45.26;7400;Men;False;CCCAA
+40; (B);Pasadena City;40th Annual Mt. SAC Invitational;4:55.48;7400;Men;False;CCCAA
+41;;Fullerton;Golden West Sprint Meet;5:08.65;7400;Men;False;CCCAA
 1;Leah Rummelhoff;Santa Barbara City College;Cuesta Super Invite;24.35;50 Free;Women;True;CCCAA
 2;Leyna Nguyen;Orange Coast;2026 Orange Empire Conference Invite 2;24.50;50 Free;Women;True;CCCAA
 3;Carolyn Kao;Long Beach City;Cuesta Super Invite;24.52;50 Free;Women;True;CCCAA
@@ -1698,3 +1900,203 @@
 48;Kailin Stumpf;Riverside;2026 Orange Empire Conference Invite 2;5:48.51;400 IM;Women;False;CCCAA
 49;Alyssa Mack;El Camino;40th Annual Mt. SAC Invitational;5:53.98;400 IM;Women;False;CCCAA
 50;Mya Thomas;American River;Delta College Invitational - Discipline Meet;5:57.23;400 IM;Women;False;CCCAA
+1;;Santa Barbara City College;40th Annual Mt. SAC Invitational;1:39.61;6200;Women;True;CCCAA
+2;;Diablo Valley;Bob Miyashiro Invite;1:41.38;6200;Women;True;CCCAA
+3;;DeAnza;Bob Miyashiro Invite;1:41.49;6200;Women;True;CCCAA
+4;;Long Beach City;Cuesta Super Invite;1:41.52;6200;Women;True;CCCAA
+5;;Los Angeles Valley;40th Annual Mt. SAC Invitational;1:41.99;6200;Women;True;CCCAA
+6;;Orange Coast;2026 Orange Empire Conference Invite 1;1:42.60;6200;Women;True;CCCAA
+7;;San Diego Miramar College;PCAC Invite #1;1:43.14;6200;Women;True;CCCAA
+8;;Sierra;40th Annual Mt. SAC Invitational;1:43.17;6200;Women;True;CCCAA
+9;;American River;Cuesta Super Invite;1:43.35;6200;Women;True;CCCAA
+10;;San Joaquin;Bob Miyashiro Invite;1:43.94;6200;Women;True;CCCAA
+11;;College of the Sequoias;40th Annual Mt. SAC Invitational;1:44.05;6200;Women;True;CCCAA
+12;;Mt. SAC;40th Annual Mt. SAC Invitational;1:44.67;6200;Women;True;CCCAA
+12;;Ventura;Bob Miyashiro Invite;1:44.67;6200;Women;True;CCCAA
+14;;Santa Rosa;Bob Miyashiro Invite;1:44.71;6200;Women;True;CCCAA
+15;;Las Positas College;Bob Miyashiro Invite;1:45.21;6200;Women;True;CCCAA
+16;;Cuesta;Bob Miyashiro Invite;1:45.36;6200;Women;True;CCCAA
+17;;Riverside;2026 Orange Empire Conference Invite 1;1:46.79;6200;Women;False;CCCAA
+18;;San Diego Mesa;PCAC Invite #1;1:48.22;6200;Women;False;CCCAA
+19;;Cypress;2026 Orange Empire Conference Invite 1;1:48.54;6200;Women;False;CCCAA
+20;;Golden West;2026 Orange Empire Conference Invite 1;1:48.64;6200;Women;False;CCCAA
+21;;West Valley;Cuesta Super Invite;1:48.69;6200;Women;False;CCCAA
+22;;El Camino;Cuesta Super Invite;1:49.08;6200;Women;False;CCCAA
+23;;City College of San Francisco;Cuesta Super Invite;1:50.06;6200;Women;False;CCCAA
+24;;Crafton Hills;2026 Crafton Hills March Invite;1:50.66;6200;Women;False;CCCAA
+25;;Saddleback;2026 Orange Empire Conference Invite 1;1:50.70;6200;Women;False;CCCAA
+26;;San Mateo;Cuesta Super Invite;1:51.23;6200;Women;False;CCCAA
+27;;SMC;40th Annual Mt. SAC Invitational;1:51.45;6200;Women;False;CCCAA
+28;;Fresno City;College of the Sequoias vs. Clovis, FCC, Merced;1:52.85;6200;Women;False;CCCAA
+29;;Grossmont;40th Annual Mt. SAC Invitational;1:53.00;6200;Women;False;CCCAA
+30;;Modesto JC;Delta College Invitational - Discipline Meet;1:53.27;6200;Women;False;CCCAA
+31;;Fullerton;2026 Orange Empire Conference Invite 1;1:53.51;6200;Women;False;CCCAA
+32;;Palomar;40th Annual Mt. SAC Invitational;1:54.46;6200;Women;False;CCCAA
+33;;Bakersfield;5th Annual El Camino 3x Invitational;1:54.93;6200;Women;False;CCCAA
+34;;Hancock College;Cuesta Super Invite;1:54.95;6200;Women;False;CCCAA
+35;;Hartnell College;Cuesta Super Invite;1:57.73;6200;Women;False;CCCAA
+36;;Merced;Delta College Invitational - Discipline Meet;1:58.40;6200;Women;False;CCCAA
+37;;Los Angeles Pierce;WSC #1 at Cuesta;2:02.89;6200;Women;False;CCCAA
+38;;Cerritos;Cuesta Super Invite;2:03.48;6200;Women;False;CCCAA
+39;;Sacramento City;Cuesta Super Invite;2:03.88;6200;Women;False;CCCAA
+40;;East Los Angeles College;2026 Crafton Hills March Invite;2:04.87;6200;Women;False;CCCAA
+41;;Ohlone;CCSF Rams Invitational;2:05.24;6200;Women;False;CCCAA
+42;;Chaffey;5th Annual El Camino 3x Invitational;2:05.68;6200;Women;False;CCCAA
+43;;Clovis;40th Annual Mt. SAC Invitational;2:06.36;6200;Women;False;CCCAA
+44;;Rio Hondo;Golden West Sprint Meet;2:17.26;6200;Women;False;CCCAA
+1;;Santa Barbara City College;40th Annual Mt. SAC Invitational;3:40.94;6400;Women;True;CCCAA
+2;;Long Beach City;Cuesta Super Invite;3:42.52;6400;Women;True;CCCAA
+3;;DeAnza;Bob Miyashiro Invite;3:43.55;6400;Women;True;CCCAA
+4;;Los Angeles Valley;40th Annual Mt. SAC Invitational;3:44.59;6400;Women;True;CCCAA
+5;;Orange Coast;2026 Orange Empire Conference Invite 2;3:45.67;6400;Women;True;CCCAA
+6;;Diablo Valley;Bob Miyashiro Invite;3:46.20;6400;Women;True;CCCAA
+7;;Sierra;40th Annual Mt. SAC Invitational;3:46.54;6400;Women;True;CCCAA
+8;;Ventura;Bob Miyashiro Invite;3:47.80;6400;Women;True;CCCAA
+9;;Mt. SAC;Mt. SAC vs. Chapman;3:48.54;6400;Women;True;CCCAA
+10;;San Diego Miramar College;PCAC Invite #2;3:49.63;6400;Women;True;CCCAA
+11;;San Joaquin;Bob Miyashiro Invite;3:50.18;6400;Women;True;CCCAA
+12;;American River;Cuesta Super Invite;3:50.55;6400;Women;True;CCCAA
+13;;Las Positas College;Bob Miyashiro Invite;3:51.60;6400;Women;True;CCCAA
+14;;San Diego Mesa;PCAC Invite #2;3:52.62;6400;Women;True;CCCAA
+15;;College of the Sequoias;40th Annual Mt. SAC Invitational;3:52.74;6400;Women;True;CCCAA
+16;;Cuesta;Bob Miyashiro Invite;3:53.34;6400;Women;True;CCCAA
+17;;Santa Rosa;Bob Miyashiro Invite;3:54.30;6400;Women;False;CCCAA
+18;;El Camino;LBCC v El Camino v Chaffey / PCC vs ELAC;3:56.67;6400;Women;False;CCCAA
+19;;Golden West;2026 Orange Empire Conference Invite 2;4:00.53;6400;Women;False;CCCAA
+20;;Saddleback;2026 Orange Empire Conference Invite 2;4:00.65;6400;Women;False;CCCAA
+21;;Riverside;Golden West Sprint Meet;4:01.96;6400;Women;False;CCCAA
+22;;West Valley;Cuesta Super Invite;4:05.08;6400;Women;False;CCCAA
+23;;Southwestern College (CA);PCAC Invite #2;4:06.04;6400;Women;False;CCCAA
+24;;Fresno City;Cuesta Super Invite;4:09.49;6400;Women;False;CCCAA
+25;;Crafton Hills;PCAC Invite #2;4:09.99;6400;Women;False;CCCAA
+26;;SMC;Cuesta Super Invite;4:11.58;6400;Women;False;CCCAA
+27;;Fullerton;2026 Orange Empire Conference Invite 2;4:12.48;6400;Women;False;CCCAA
+28;;City College of San Francisco;CCSF Rams Invitational;4:13.69;6400;Women;False;CCCAA
+29;;Grossmont;40th Annual Mt. SAC Invitational;4:13.76;6400;Women;False;CCCAA
+30;;Palomar;40th Annual Mt. SAC Invitational;4:15.72;6400;Women;False;CCCAA
+31;;Hancock College;Cuesta Super Invite;4:17.88;6400;Women;False;CCCAA
+32;;Bakersfield;40th Annual Mt. SAC Invitational;4:19.29;6400;Women;False;CCCAA
+33;;Merced;Modesto Junior College Invite 2026;4:25.10;6400;Women;False;CCCAA
+34;;Hartnell College;Cuesta Super Invite;4:27.12;6400;Women;False;CCCAA
+35;;Modesto JC;Modesto Junior College Invite 2026;4:27.88;6400;Women;False;CCCAA
+36;;San Mateo;Cuesta Super Invite;4:29.02;6400;Women;False;CCCAA
+37;;East Los Angeles College;Chaffey v  Mt Sac vs ELAC;4:32.83;6400;Women;False;CCCAA
+38;;Cerritos;Cuesta Super Invite;4:34.14;6400;Women;False;CCCAA
+39;;Clovis;40th Annual Mt. SAC Invitational;4:37.43;6400;Women;False;CCCAA
+40;;Chaffey;Chaffey v  Mt Sac vs ELAC;4:41.64;6400;Women;False;CCCAA
+41;;Ohlone;CCSF Rams Invitational;4:44.81;6400;Women;False;CCCAA
+42;;Los Angeles Pierce;WSC #2 @  LA Valley;5:05.38;6400;Women;False;CCCAA
+43;;Rio Hondo;Chaffey@ RHC;5:08.01;6400;Women;False;CCCAA
+44; (B);Cypress;2026 Orange Empire Conference Invite 2;5:24.54;6400;Women;False;CCCAA
+1;;Long Beach City;Cuesta Super Invite;8:10.29;6800;Women;True;CCCAA
+2;;DeAnza;Bob Miyashiro Invite;8:12.55;6800;Women;True;CCCAA
+3;;Sierra;Bob Miyashiro Invite;8:14.75;6800;Women;True;CCCAA
+4;;San Joaquin;Bob Miyashiro Invite;8:16.56;6800;Women;True;CCCAA
+5;;Mt. SAC;40th Annual Mt. SAC Invitational;8:20.22;6800;Women;True;CCCAA
+6;;Las Positas College;Bob Miyashiro Invite;8:22.98;6800;Women;True;CCCAA
+7;;El Camino;40th Annual Mt. SAC Invitational;8:29.32;6800;Women;True;CCCAA
+8;;Cuesta;Bob Miyashiro Invite;8:31.07;6800;Women;True;CCCAA
+9;;Diablo Valley;Bob Miyashiro Invite;8:31.58;6800;Women;True;CCCAA
+10;;Los Angeles Valley;40th Annual Mt. SAC Invitational;8:32.67;6800;Women;True;CCCAA
+11;;Santa Rosa;Bob Miyashiro Invite;8:35.73;6800;Women;True;CCCAA
+12;;American River;Cuesta Super Invite;8:35.99;6800;Women;True;CCCAA
+13;;Ventura;Bob Miyashiro Invite;8:37.83;6800;Women;True;CCCAA
+14;;College of the Sequoias;Cuesta Super Invite;8:38.76;6800;Women;True;CCCAA
+15;;Riverside;Golden West Sprint Meet;8:49.33;6800;Women;True;CCCAA
+16;;West Valley;2026 Ohlone Invitational;8:56.92;6800;Women;True;CCCAA
+17;;Golden West;Golden West Sprint Meet;8:57.32;6800;Women;False;CCCAA
+18;;San Mateo;Cuesta Super Invite;9:18.75;6800;Women;False;CCCAA
+19;;City College of San Francisco;Cuesta Super Invite;9:20.51;6800;Women;False;CCCAA
+20;;Fresno City;Cuesta Super Invite;9:32.03;6800;Women;False;CCCAA
+21;;Bakersfield;40th Annual Mt. SAC Invitational;9:35.73;6800;Women;False;CCCAA
+22;;Crafton Hills;2026 Crafton Hills March Invite;9:40.07;6800;Women;False;CCCAA
+23;;Hancock College;Cuesta Super Invite;9:45.06;6800;Women;False;CCCAA
+24;;San Diego Miramar College;Golden West Sprint Meet;9:54.13;6800;Women;False;CCCAA
+25;;Hartnell College;Cuesta Super Invite;10:03.62;6800;Women;False;CCCAA
+26;;Cerritos;Cuesta Super Invite;10:17.82;6800;Women;False;CCCAA
+27;;East Los Angeles College;2026 Crafton Hills March Invite;10:26.99;6800;Women;False;CCCAA
+28;;Clovis;Cuesta Super Invite;10:40.78;6800;Women;False;CCCAA
+1;;Santa Barbara City College;40th Annual Mt. SAC Invitational;1:51.41;7200;Women;True;CCCAA
+2;;Las Positas College;Bob Miyashiro Invite;1:51.63;7200;Women;True;CCCAA
+3;;DeAnza;Bob Miyashiro Invite;1:53.00;7200;Women;True;CCCAA
+4;;San Diego Miramar College;40th Annual Mt. SAC Invitational;1:53.50;7200;Women;True;CCCAA
+5;;Orange Coast;Golden West Sprint Meet;1:53.72;7200;Women;True;CCCAA
+6;;Ventura;Bob Miyashiro Invite;1:53.80;7200;Women;True;CCCAA
+7;;Diablo Valley;Bob Miyashiro Invite;1:54.28;7200;Women;True;CCCAA
+8;;Santa Rosa;Bob Miyashiro Invite;1:55.14;7200;Women;True;CCCAA
+9;;American River;Cuesta Super Invite;1:55.68;7200;Women;True;CCCAA
+10;;Sierra;Bob Miyashiro Invite;1:56.23;7200;Women;True;CCCAA
+11;;Los Angeles Valley;VC Larry Baratte Invitational;1:56.27;7200;Women;True;CCCAA
+12;;Long Beach City;Cuesta Super Invite;1:56.41;7200;Women;True;CCCAA
+13;;College of the Sequoias;College of the Sequoias vs. Merced vs. Fresno City vs. Clovis;1:56.97;7200;Women;True;CCCAA
+14;;Mt. SAC;Mt. SAC vs. Sierra;1:57.38;7200;Women;True;CCCAA
+15;;Cypress;2026 Orange Empire Conference Invite 1;1:57.53;7200;Women;True;CCCAA
+16;;San Joaquin;Los Rios Invite;1:57.96;7200;Women;True;CCCAA
+17;;Cuesta;Bob Miyashiro Invite;1:58.06;7200;Women;False;CCCAA
+18;;Southwestern College (CA);PCAC Invite #2;1:58.98;7200;Women;False;CCCAA
+19;;San Diego Mesa;40th Annual Mt. SAC Invitational;1:59.14;7200;Women;False;CCCAA
+20;;Riverside;2026 Orange Empire Conference Invite 1;2:01.00;7200;Women;False;CCCAA
+21;;El Camino;LBCC v El Camino v Chaffey / PCC vs ELAC;2:01.88;7200;Women;False;CCCAA
+22;;West Valley;Cuesta Super Invite;2:02.33;7200;Women;False;CCCAA
+23;;Saddleback;Cuesta Super Invite;2:04.59;7200;Women;False;CCCAA
+24;;City College of San Francisco;Cuesta Super Invite;2:05.01;7200;Women;False;CCCAA
+25;;SMC;40th Annual Mt. SAC Invitational;2:06.84;7200;Women;False;CCCAA
+26;;Fresno City;College of the Sequoias vs. Merced vs. Fresno City vs. Clovis;2:07.01;7200;Women;False;CCCAA
+27;;Golden West;2026 Orange Empire Conference Invite 1;2:07.29;7200;Women;False;CCCAA
+28;;Crafton Hills;PCAC Invite #2;2:08.43;7200;Women;False;CCCAA
+29;;San Mateo;Bob Miyashiro Invite;2:09.56;7200;Women;False;CCCAA
+30;;Grossmont;40th Annual Mt. SAC Invitational;2:09.92;7200;Women;False;CCCAA
+31;;Hartnell College;Cuesta Super Invite;2:11.27;7200;Women;False;CCCAA
+32;;Cerritos;LBCC-CERR @ ELAC;2:12.05;7200;Women;False;CCCAA
+32;;Modesto JC;40th Annual Mt. SAC Invitational;2:12.05;7200;Women;False;CCCAA
+32;;Hancock College;Cuesta Super Invite;2:12.05;7200;Women;False;CCCAA
+35;;Palomar;40th Annual Mt. SAC Invitational;2:12.65;7200;Women;False;CCCAA
+36;;Fullerton;Golden West Sprint Meet;2:12.89;7200;Women;False;CCCAA
+37;;Bakersfield;40th Annual Mt. SAC Invitational;2:13.63;7200;Women;False;CCCAA
+38;;Merced;Modesto Junior College Invite 2026;2:15.62;7200;Women;False;CCCAA
+39;;East Los Angeles College;Chaffey v  Mt Sac vs ELAC;2:18.96;7200;Women;False;CCCAA
+40;;Sacramento City;Big 8 INVITE;2:19.09;7200;Women;False;CCCAA
+41;;Clovis;40th Annual Mt. SAC Invitational;2:21.43;7200;Women;False;CCCAA
+42;;Rio Hondo;2026 South Coast Conference Pentathlon;2:21.64;7200;Women;False;CCCAA
+43;;Ohlone;Coast Conference Kickoff 2026;2:22.54;7200;Women;False;CCCAA
+44;;Chaffey;LBCC v El Camino v Chaffey / PCC vs ELAC;2:24.27;7200;Women;False;CCCAA
+45;;Cabrillo;CCSF Rams Invitational;2:30.90;7200;Women;False;CCCAA
+46;;Laney;23rd Annual Mariner Invite;2:42.49;7200;Women;False;CCCAA
+47;;College of Marin;23rd Annual Mariner Invite;2:45.80;7200;Women;False;CCCAA
+1;;Las Positas College;Bob Miyashiro Invite;4:05.06;7400;Women;True;CCCAA
+2;;Santa Barbara City College;40th Annual Mt. SAC Invitational;4:08.11;7400;Women;True;CCCAA
+3;;Los Angeles Valley;40th Annual Mt. SAC Invitational;4:10.65;7400;Women;True;CCCAA
+4;;San Joaquin;Bob Miyashiro Invite;4:11.26;7400;Women;True;CCCAA
+5;;DeAnza;Bob Miyashiro Invite;4:11.46;7400;Women;True;CCCAA
+6;;Santa Rosa;Bob Miyashiro Invite;4:12.33;7400;Women;True;CCCAA
+7;;Orange Coast;2026 Orange Empire Conference Invite 2;4:14.31;7400;Women;True;CCCAA
+8;;Long Beach City;Cuesta Super Invite;4:14.91;7400;Women;True;CCCAA
+9;;Diablo Valley;Bob Miyashiro Invite;4:16.01;7400;Women;True;CCCAA
+10;;Cypress;2026 Orange Empire Conference Invite 2;4:18.42;7400;Women;True;CCCAA
+11;;American River;Cuesta Super Invite;4:19.00;7400;Women;True;CCCAA
+12;;College of the Sequoias;Cuesta Super Invite;4:19.12;7400;Women;True;CCCAA
+13;;Mt. SAC;40th Annual Mt. SAC Invitational;4:20.55;7400;Women;True;CCCAA
+14;;Sierra;CCSF Rams Invitational;4:20.65;7400;Women;True;CCCAA
+15;;Ventura;Bob Miyashiro Invite;4:21.24;7400;Women;True;CCCAA
+16;;San Diego Miramar College;40th Annual Mt. SAC Invitational;4:23.00;7400;Women;True;CCCAA
+17;;Cuesta;Bob Miyashiro Invite;4:23.23;7400;Women;False;CCCAA
+18;;El Camino;40th Annual Mt. SAC Invitational;4:25.41;7400;Women;False;CCCAA
+19;;Riverside;2026 Orange Empire Conference Invite 2;4:27.28;7400;Women;False;CCCAA
+20;;Saddleback;2026 Orange Empire Conference Invite 2;4:31.25;7400;Women;False;CCCAA
+21;;West Valley;2026 Ohlone Invitational;4:36.19;7400;Women;False;CCCAA
+22;;Fresno City;Cuesta Super Invite;4:36.35;7400;Women;False;CCCAA
+23;;Golden West;2026 Orange Empire Conference Invite 2;4:36.47;7400;Women;False;CCCAA
+24;;City College of San Francisco;Cuesta Super Invite;4:38.73;7400;Women;False;CCCAA
+25;;San Diego Mesa;40th Annual Mt. SAC Invitational;4:40.42;7400;Women;False;CCCAA
+26;;SMC;WSC #2 @  LA Valley;4:40.66;7400;Women;False;CCCAA
+27;;Palomar;40th Annual Mt. SAC Invitational;4:49.39;7400;Women;False;CCCAA
+28;;Hartnell College;Cuesta Super Invite;5:03.48;7400;Women;False;CCCAA
+29;;Grossmont;Golden West Sprint Meet;5:04.60;7400;Women;False;CCCAA
+30;;Fullerton;2026 Orange Empire Conference Invite 2;5:04.94;7400;Women;False;CCCAA
+31;;Bakersfield;40th Annual Mt. SAC Invitational;5:05.26;7400;Women;False;CCCAA
+32;;East Los Angeles College;40th Annual Mt. SAC Invitational;5:07.10;7400;Women;False;CCCAA
+33;;Hancock College;Bob Miyashiro Invite;5:12.01;7400;Women;False;CCCAA
+34;;Cerritos;Golden West Sprint Meet;5:12.80;7400;Women;False;CCCAA
+35;;Ohlone;CCSF Rams Invitational;5:31.46;7400;Women;False;CCCAA
+36;;Rio Hondo;Golden West Sprint Meet;5:33.33;7400;Women;False;CCCAA
+37;;Los Angeles Pierce;WSC #2 @  LA Valley;6:00.79;7400;Women;False;CCCAA
