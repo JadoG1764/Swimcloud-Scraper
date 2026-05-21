@@ -1,27 +1,45 @@
-{% extends "Swimmers_template.html" %}
+{% extends "base.html" %}
 {% load static %}
 
 {% block title %}
     Swimmers
 {% endblock %}
 
-{% block style %}
-    <link rel="stylesheet" href="{% static 'style.css' %}">
-{% endblock %}
-
 {% block main %}
-    <form action="/swimmers_redirect/{{ division }}/" method="POST">
+    <h1>{{ division }} Swimmers</h1>
+
+    <form class="search-form" action="/swimmers_redirect/{{ division }}/" method="POST">
         {% csrf_token %}
-            <label for="SwimmerName">Swimmer Name:</label>
-            <input type="text" id="SwimmerName" name="SwimmerName" placeholder="Enter name">
-            <input type="submit" value="Enter">
+        <label for="SwimmerName">Swimmer Name:</label>
+        <input type="text" id="SwimmerName" name="SwimmerName" placeholder="Enter name">
+        <button type="submit">Search</button>
     </form>
 
     {% if formatted_name %}
-        <h1>{{ formatted_name }}</h1>
-        {% for race in races %}
-            <p>{{ race.place }}: {{ race.name }} swims for {{ race.team }} and went {{ race.time }} at {{ race.meet }} in the {{ race.gender }}'s {{ race.event }}</p>
-        {% endfor %}
+        <h2 style="text-align:center">{{ formatted_name }}</h2>
+        <div class="card">
+            <table class="results-table">
+                <thead>
+                    <tr><th class="place">#</th><th>Event</th><th>Time</th><th>Team</th><th>Meet</th></tr>
+                </thead>
+                <tbody>
+                {% for race in races %}
+                    <tr class="{% if race.place == 1 %}first-place{% endif %}">
+                        <td class="place">{{ race.place }}</td>
+                        <td>{{ race.gender }}'s {{ race.event }}</td>
+                        <td>{{ race.time }}</td>
+                        <td>{{ race.team }}</td>
+                        <td>{{ race.meet }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% elif swimmers %}
+        <ul class="list-links">
+            {% for swimmer in swimmers %}
+                <li><a href="/{{ division }}/swimmers/{{ swimmer.name_slug }}/">{{ swimmer.name }}</a></li>
+            {% endfor %}
+        </ul>
     {% endif %}
-
 {% endblock %}

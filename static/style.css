@@ -1,3 +1,56 @@
+/* ===========================================================================
+   ClubSwim styles
+   Theming is driven by CSS custom properties scoped to a body theme class
+   (set in base.html via the `division_theme` filter). Switching themes is a
+   matter of swapping the body class — every component below reads the vars.
+   =========================================================================== */
+
+/* --- Themes ------------------------------------------------------------- */
+
+:root {
+    /* Neutral default: home page and division list (no division in context) */
+    --bg: #f4f5f7;
+    --surface: #ffffff;
+    --surface-alt: #eceef1;
+    --text: #1a1a1a;
+    --accent: #2b2b2b;
+    --accent-dark: #111111;
+    --accent-contrast: #ffffff;
+    --muted: #6b7280;
+    --border: #d6d9de;
+    --highlight: #ffd54a;       /* 1st-place highlight */
+}
+
+body.theme-utes {
+    /* University of Utah (Utes): crimson, black, gray */
+    --bg: #1a1a1a;
+    --surface: #242424;
+    --surface-alt: #2e2e2e;
+    --text: #f2f2f2;
+    --accent: #cc0000;
+    --accent-dark: #990000;
+    --accent-contrast: #ffffff;
+    --muted: #9aa0a6;
+    --border: #3a3a3a;
+    --highlight: #f5b800;
+}
+
+body.theme-vikings {
+    /* DVC Vikings: forest green, white, gold accent */
+    --bg: #f3f6f4;
+    --surface: #ffffff;
+    --surface-alt: #e7efe9;
+    --text: #14241c;
+    --accent: #006633;
+    --accent-dark: #004d26;
+    --accent-contrast: #ffffff;
+    --muted: #5b6b62;
+    --border: #c8d6cd;
+    --highlight: #f5b800;       /* gold */
+}
+
+/* --- Base --------------------------------------------------------------- */
+
 * {
     margin: 0;
     padding: 0;
@@ -5,78 +58,333 @@
 }
 
 body {
-    background-color: darkgray;
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+    line-height: 1.5;
+    min-height: 100vh;
     display: flex;
     flex-flow: column;
-    text-align: center;
 }
 
-nav {
-    text-align: center;
-    padding: 16px;
-    background-color: black;
-    color: darkred;
-    font-size: 48px
+main {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 24px 16px 48px;
+    flex: 1;
 }
 
 h1 {
     text-align: center;
-    color: darkred;
+    color: var(--accent);
     font-size: 2rem;
+    margin-bottom: 12px;
+}
+
+h2 {
+    color: var(--accent);
+    font-size: 1.15rem;
 }
 
 p {
     font-size: 1rem;
-    padding: 2px;
-    color: darkred;
+    padding: 2px 0;
 }
 
 a {
     text-decoration: none;
-    color: darkred;
+    color: var(--accent);
 }
 
 a:hover {
     opacity: .85;
+    text-decoration: underline;
 }
+
+/* --- Header / nav ------------------------------------------------------- */
+
+.site-header {
+    background-color: var(--accent-dark);
+    color: var(--accent-contrast);
+    border-bottom: 4px solid var(--highlight);
+}
+
+.site-header__bar {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 12px 16px;
+}
+
+.site-header__logo {
+    height: 44px;
+    width: auto;
+    border-radius: 4px;
+}
+
+.site-header__title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--accent-contrast);
+    white-space: nowrap;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px 14px;
+    margin-left: auto;
+}
+
+.nav a {
+    color: var(--accent-contrast);
+    font-size: 1rem;
+    padding: 4px 6px;
+    border-radius: 4px;
+}
+
+.nav a:hover {
+    background-color: rgba(255, 255, 255, .15);
+    text-decoration: none;
+    opacity: 1;
+}
+
+.nav__sep {
+    opacity: .4;
+}
+
+/* --- Buttons / form controls ------------------------------------------- */
+
+button,
+.btn {
+    display: inline-block;
+    background-color: var(--accent);
+    color: var(--accent-contrast);
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-size: .95rem;
+    cursor: pointer;
+    transition: background-color .15s ease;
+}
+
+button:hover,
+.btn:hover {
+    background-color: var(--accent-dark);
+    text-decoration: none;
+    opacity: 1;
+}
+
+input[type="number"],
+input[type="text"] {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 7px 10px;
+    font-size: .95rem;
+    background: var(--surface);
+    color: var(--text);
+}
+
+/* --- Filter panel (Races) ---------------------------------------------- */
+
+.filter-panel {
+    max-width: 1100px;
+    margin: 16px auto 0;
+    padding: 0 16px;
+}
+
+.filter-panel fieldset {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+}
+
+.filter-panel legend {
+    font-weight: 700;
+    color: var(--accent);
+    padding: 0 6px;
+}
+
+.event-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    margin-bottom: 12px;
+}
+
+.event-grid label {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--surface-alt);
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: .9rem;
+    cursor: pointer;
+}
+
+.filter-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.top-filter {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 14px;
+}
+
+.applied-filters {
+    text-align: center;
+    color: var(--muted);
+    font-size: .9rem;
+    margin: 6px 0;
+}
+
+/* --- Cards -------------------------------------------------------------- */
+
+.card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .08);
+}
+
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
+
+/* Division selector cards (home / division hub) */
+.division-card {
+    min-width: 200px;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding: 28px 24px;
+}
+
+/* --- Results (Races) ---------------------------------------------------- */
 
 .stats-layout {
     display: flex;
-    width: 100%;
+    gap: 20px;
+    align-items: flex-start;
 }
 
 .events {
-    width: 50%;
-    padding: 2px;
-    box-sizing: border-box;
-    text-align: center;
-    font-size: 12px;
+    flex: 1;
+    min-width: 0;
+}
+
+.events .card {
+    margin-bottom: 16px;
 }
 
 .events h2 {
-    color: black;
-    font-size: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--highlight);
 }
 
-.events p {
-    font-size: 12px;
-    color: black;
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: .9rem;
 }
 
-.table {
-    font-size: 14px;
-    color: darkred;
-    
+.results-table th {
+    text-align: left;
+    color: var(--muted);
+    font-weight: 600;
+    border-bottom: 1px solid var(--border);
+    padding: 6px 8px;
 }
 
-.selected-events {
-    font-size: 0.9rem;
-    color: #555;
-    margin-top: 4px;
+.results-table td {
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--border);
+    color: var(--text);
 }
 
-.selected-top {
-    font-size: 0.85rem;
-    color: #777;
-    margin-bottom: 12px;
+.results-table tr:last-child td {
+    border-bottom: none;
+}
+
+.results-table tr.first-place td {
+    background: color-mix(in srgb, var(--highlight) 22%, transparent);
+    font-weight: 600;
+}
+
+.results-table .place {
+    width: 2.5rem;
+    color: var(--muted);
+}
+
+/* --- Forms (Swimmers / Teams) ------------------------------------------ */
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin: 16px 0 24px;
+    flex-wrap: wrap;
+}
+
+.list-links {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+}
+
+.list-links li a {
+    display: inline-block;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 14px;
+}
+
+/* --- Responsive --------------------------------------------------------- */
+
+@media (max-width: 640px) {
+    .site-header__bar {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .nav {
+        margin-left: 0;
+    }
+
+    .site-header__title {
+        font-size: 1.2rem;
+    }
+
+    .stats-layout {
+        flex-direction: column;
+    }
+
+    .results-table {
+        font-size: .82rem;
+    }
+
+    main {
+        padding: 16px 12px 32px;
+    }
 }

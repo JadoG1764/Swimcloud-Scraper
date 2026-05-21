@@ -1,18 +1,15 @@
-{% extends "template.html" %}
+{% extends "base.html" %}
 {% load static %}
 
 {% block title %}
     {{ division }}
 {% endblock %}
 
-{% block style %}
-    <link rel="stylesheet" href="{% static 'style.css' %}">
-{% endblock %}
-
 {% block main %}
-    <h1>This is the {{ division }} tab</h1>
-
-        <a href = "/{{ division }}/races/"> {{ division }} Races</a> |
-        <a href = "/{{ division }}/swimmers/"> {{ division }} Swimmers</a> |
-        <a href = "/{{ division }}/teams/"> {{ division }} Teams</a>
+    <h1>{{ division }}</h1>
+    <div class="card-grid">
+        <a class="card division-card" href="/{{ division }}/races/">Races</a>
+        <a class="card division-card" href="/{{ division }}/swimmers/">Swimmers</a>
+        <a class="card division-card" href="/{{ division }}/teams/">Teams</a>
+    </div>
 {% endblock %}

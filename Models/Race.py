@@ -1,4 +1,4 @@
-from .NQT import *
+from .NQT import NQT
 
 cuts = NQT()
 
@@ -67,29 +67,16 @@ class Race:
                 self.nqt = True
 
 
-    def PrintValues(self):
-        if self.nqt:
-            print(f"{self.place}: {self.name} Swims for {self.team} in the {self.division} and went {self.time} at {self.meet} in the {self.gender}'s {self.event} and has NQT")
-        else:
-            print(
-                f"{self.place}: {self.name} Swims for {self.team} in the {self.division} and went {self.time} at {self.meet} in the {self.gender}'s {self.event}")
-    def AddToFile(self):
-        #with open("SwimmersTimesCCS.txt", "a", encoding="utf-8") as file:
-        with open(f"SwimmerTimes{self.division}.txt", "a", encoding="utf-8") as file:
+    def AddToFile(self, filename=None):
+        if filename is None:
+            filename = f"SwimmerTimes{self.division}.txt"
+        with open(filename, "a", encoding="utf-8") as file:
             file.write(f"{self.place};{self.name};{self.team};{self.meet};{self.time};{self.event};{self.gender};{self.nqt};{self.division}\n")
 
     def __eq__(self, other):
         if not isinstance(other, Race):
             return NotImplemented
         return self.place == other.place and self.name == other.name and self.team == other.team and self.meet == other.meet and self.time == other.time and self.event == other.event and self.gender == other.gender and self.nqt == other.nqt
-
-    def CompareTeams(self, team1, team2):
-        if self.team == team1 or self.team == team2:
-            Race.PrintValues(self)
-
-    @staticmethod
-    def SortByPlace(races_map):
-        return sorted(races_map.values(), key=lambda r: int(r.place))
 
     @staticmethod
     def ClearFile(text):

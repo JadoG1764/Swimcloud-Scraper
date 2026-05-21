@@ -10,6 +10,7 @@ urlpatterns = [
     path('<str:division>/swimmers/', views.swimmers_page, name='swimmers_page'),
     path('<str:division>/swimmers/<str:name>/', views.swimmers_slug, name='swimmers_slug'),
     path('swimmers_redirect/<str:division>/', views.swimmer_redirect, name='swimmers_redirect'),
-    path('teams/', views.teams_page),
-    path('teams/<str:name>/', views.teams_slug),
+    path('teams_redirect/<str:division>/', views.team_redirect, name='teams_redirect'),
+    path('<str:division>/teams/', views.teams_page, name='teams_page'),
+    path('<str:division>/teams/<str:name>/', views.teams_slug, name='teams_slug'),
 ]

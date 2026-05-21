@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+{% load static %}
+{% load theme_tags %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}ClubSwim{% endblock %} | ClubSwim</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body class="{{ division|division_theme }}">
+    <header class="site-header">
+        <div class="site-header__bar">
+            {% if division|division_theme == "theme-vikings" %}
+                <img class="site-header__logo" src="{% static 'viking_logo.jfif' %}" alt="Vikings logo">
+            {% endif %}
+            {% if division|division_theme == "theme-utes" %}
+                <span class="site-header__title">ClubSwim · {{ division }}</span>
+            {% elif division %}
+                <span class="site-header__title">{{ division }}</span>
+            {% endif %}
+
+            <nav class="nav">
+                <a href="/">Divisions</a>
+                {% for div in divisions %}
+                    {% if division != div %}
+                        <span class="nav__sep">|</span>
+                        <a href="/{{ div }}/">{{ div }}</a>
+                    {% endif %}
+                {% endfor %}
+
+                {% if division %}
+                    <span class="nav__sep">||</span>
+                    <a href="/{{ division }}/races/">Races</a>
+                    <span class="nav__sep">|</span>
+                    <a href="/{{ division }}/swimmers/">Swimmers</a>
+                    <span class="nav__sep">|</span>
+                    <a href="/{{ division }}/teams/">Teams</a>
+                {% endif %}
+            </nav>
+        </div>
+    </header>
+
+    {% block filters %}{% endblock %}
+
+    <main>
+        {% block main %}{% endblock %}
+    </main>
+</body>
+</html>

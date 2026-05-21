@@ -1,20 +1,15 @@
-{% extends "home_template.html" %}
+{% extends "base.html" %}
 {% load static %}
 
 {% block title %}
     Home
 {% endblock %}
 
-{% block style %}
-    <link rel="stylesheet" href="{% static 'style.css' %}">
-{% endblock %}
-
 {% block main %}
-    <h1>Choose a Division to Display: </h1>
-    {% for div in divisions %}
-        {% if division != div %}
-            <a href = "/{{ div }}/">{{ div }}</a>
-            {% if not forloop.last %} | {% endif %}
-        {% endif %}
-    {% endfor %}
+    <h1>Choose a Division</h1>
+    <div class="card-grid">
+        {% for div in divisions %}
+            <a class="card division-card" href="/{{ div }}/">{{ div }}</a>
+        {% endfor %}
+    </div>
 {% endblock %}

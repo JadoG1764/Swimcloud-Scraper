@@ -1,10 +1,6 @@
-from tkinter.constants import PAGES
-
 from django.http import HttpResponse
 from django.shortcuts import render
-from Models import RewriteDB
 from .models import Races
-from Models import RewriteDB
 from django.utils.text import slugify
 from django.shortcuts import redirect
 
@@ -71,22 +67,32 @@ def swimmer_redirect(request, division):
             return redirect('swimmers_slug', division=division, name=slug_name)
     return redirect('swimmers_page', division=division)
 
-def teams_slug(request, name):
-    races = Races.objects.all().filter(team_slug=name)
+def teams_slug(request, division, name):
+    sort = request.GET.get('sort', 'place')
+    if sort not in ('place', '-place'):
+        sort = 'place'
+    races = Races.objects.filter(division=division, team_slug=name).order_by(sort)
     formatted_team = ""
     if races:
         formatted_team = races[0].team
-    return render(request, "teams.html", {'races': races, 'formatted_name': formatted_team})
+    return render(request, "teams.html", {
+        'races': races,
+        'formatted_name': formatted_team,
+        'division': division,
+        'sort': sort,
+    })
 
 
-def teams_page(request):
-    races = Races.objects.all()
-    return render(request, "teams.html", {'races': races})
+def teams_page(request, division):
+    teams = Races.objects.filter(division=division).values('team', 'team_slug').distinct()
+    return render(request, "teams.html", {'teams': teams, 'division': division})
 
-def teams_redirect(request):
+
+def team_redirect(request, division):
     if request.method == 'POST':
         name = request.POST.get('TeamName', '')
-        team_name = name.replace(' ', '-').lower()
-        return teams_slug('teams_slug', name=team_name)
-    return redirect('/')
+        if name:
+            slug_name = slugify(name)
+            return redirect('teams_slug', division=division, name=slug_name)
+    return redirect('teams_page', division=division)
 

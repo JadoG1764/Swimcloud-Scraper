@@ -11,6 +11,17 @@ j = 0
 Race.ClearFile("SwimmersTimesCCS.txt") #resets the file
 eventMap: dict[int, Race] = {}
 
+# SwimCloud sits behind Cloudflare; the default python-requests UA gets a 403 challenge page.
+session = requests.Session()
+session.headers.update({
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate",
+    "Referer": "https://www.swimcloud.com/",
+})
+
 #Loops over both genders, all events, up to the top 200 in each event
 for gender in genderList:
     for event in eventNumList:
@@ -18,7 +29,7 @@ for gender in genderList:
         eventMap: dict[int, Race] = {}
         for i in range(4): #replace 4 with however many values you want *50, e.g. 10 is top 500.
             url = f"https://www.swimcloud.com/times/iframe/?page={i+1}&region=genericregion_457&orgcode=1&course=Y&hide_gender=0&hide_season=0&event={event}&season=29&age_group=UNOV&gender={gender}"
-            data = requests.get(url).text
+            data = session.get(url).text
             soup = BeautifulSoup(data, "html.parser")
             td_text.extend(td.get_text(strip=True) for td in soup.find_all("td")) #adds to the list what we scrape
             sleep(1) #num seconds to sleep to not overload the server
@@ -40,7 +51,7 @@ for gender in genderList:
             if len(eventMap) == 51 or len(eventMap) == 101 or len(eventMap) == 151:
                 if eventMap[j] == eventMap[j-50]:
                     break
-            temp_race.AddToFile()
+            temp_race.AddToFile("SwimmersTimesCCS.txt")
 
 
             j += 1 #j is the index in the dictionary

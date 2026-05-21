@@ -1,25 +1,53 @@
-{% extends "template.html" %}
+{% extends "base.html" %}
 {% load static %}
 
 {% block title %}
     Teams
 {% endblock %}
 
-{% block style %}
-    <link rel="stylesheet" href="{% static 'style.css' %}">
-{% endblock %}
-
 {% block main %}
+    <form class="search-form" action="/teams_redirect/{{ division }}/" method="POST">
+        {% csrf_token %}
+        <label for="TeamName">Team Name:</label>
+        <input type="text" id="TeamName" name="TeamName" placeholder="Enter team">
+        <button type="submit">Search</button>
+    </form>
+
     {% if formatted_name %}
         <h1>{{ formatted_name }}</h1>
-        {% for race in races %}
-            <p>{{ race.place }}: {{ race.name }} swims for {{ race.team }} and went {{ race.time }} at {{ race.meet }} in the {{ race.gender }}'s {{ race.event }}</p>
-        {% endfor %}
+        <div class="card">
+            <table class="results-table">
+                <thead>
+                    <tr>
+                        <th class="place">
+                            <a href="?sort={% if sort == 'place' %}-place{% else %}place{% endif %}">
+                                #{% if sort == 'place' %} ▲{% elif sort == '-place' %} ▼{% endif %}
+                            </a>
+                        </th>
+                        <th>Name</th><th>Event</th><th>Time</th><th>Meet</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for race in races %}
+                    <tr class="{% if race.place == 1 %}first-place{% endif %}">
+                        <td class="place">{{ race.place }}</td>
+                        <td>{{ race.name }}</td>
+                        <td>{{ race.gender }}'s {{ race.event }}</td>
+                        <td>{{ race.time }}</td>
+                        <td>{{ race.meet }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
     {% else %}
-        {% for race in races %}
-            {% if race.team == "University of Utah Club Swim" %}
-                <p>{{ race.name }} swam {{ race.event }} for {{ race.team }}</p>
-            {% endif %}
-        {% endfor %}
+        <h1>{{ division }} Teams</h1>
+        {% if teams %}
+            <ul class="list-links">
+                {% for team in teams %}
+                    <li><a href="/{{ division }}/teams/{{ team.team_slug }}/">{{ team.team }}</a></li>
+                {% endfor %}
+            </ul>
+        {% endif %}
     {% endif %}
 {% endblock %}

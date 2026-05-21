@@ -1,21 +1,18 @@
-{% extends "template.html" %}
+{% extends "base.html" %}
 {% load static %}
 
 {% block title %}
 Races
 {% endblock %}
 
-{% block style %}
-    <link rel="stylesheet" href="{% static 'style.css' %}">
-{% endblock %}
-
-{% block table %}
-<div class="table">
+{% block filters %}
+<div class="filter-panel">
 
     <!-- EVENT CHECKBOXES -->
     <form method="GET" action="">
         <fieldset>
             <legend>Choose events:</legend>
+            <div class="event-grid">
 
             <!-- 50 Free -->
             <label>
@@ -189,18 +186,20 @@ Races
             {% endif %}
             400 IM
             </label>
+            </div>
             {% if selected_top %}
                 <input type="hidden" name="top" value="{{ selected_top }}">
             {% endif %}
-            <br><br>
-            <button type="submit">Apply Event Filters</button>
-            <button type="button" onclick="selectAllEvents()">Select All</button>
-            <button type="button" onclick="deselectAllEvents()">Deselect All</button>
+            <div class="filter-actions">
+                <button type="submit">Apply Event Filters</button>
+                <button type="button" onclick="selectAllEvents()">Select All</button>
+                <button type="button" onclick="deselectAllEvents()">Deselect All</button>
+            </div>
         </fieldset>
     </form>
 
     <!-- TOP X FILTER -->
-    <form method="GET" action="">
+    <form method="GET" action="" class="top-filter">
         {% for event in selected_events %}
             <input type="hidden" name="events" value="{{ event }}">
         {% endfor %}
@@ -244,7 +243,7 @@ function deselectAllEvents() {
 {% block main %}
 <h1>Showing {{ division }}</h1>
     {% if selected_events %}
-        <div class="selected-events">
+        <div class="applied-filters">
             Events:
             {% for e in selected_events %}
                 {{ e }}{% if not forloop.last %}, {% endif %}
@@ -252,35 +251,42 @@ function deselectAllEvents() {
         </div>
     {% endif %}
     {% if selected_top %}
-        <div class="selected-top">
-            (Top {{ selected_top }})
-        </div>
+        <div class="applied-filters">(Top {{ selected_top }})</div>
     {% endif %}
 
+<p style="text-align:center">
+    <a class="btn" href="/{{ division }}/races/downloadpdf/?{% for e in selected_events %}events={{ e|urlencode }}&{% endfor %}{% if selected_top %}top={{ selected_top }}{% endif %}">
+        Download PDF
+    </a>
+</p>
 
-<a href="/{{ division }}/races/downloadpdf/?{% for e in selected_events %}events={{ e|urlencode }}&{% endfor %}{% if selected_top %}top={{ selected_top }}{% endif %}">
-    Download PDF
-</a>
-
-<main class="stats-layout">
-
+<div class="stats-layout">
 {% regroup races by gender as gender_groups %}
-
 {% for gender_group in gender_groups %}
     <div class="events">
-        {% for race in gender_group.list %}
-            {% if race.place == 1 %}
-                <h2>{{ gender_group.grouper }}'s {{ race.event }}</h2>
-            {% endif %}
-            <p>
-                {{ race.place }}:
-                <a href="/swimmers/{{ race.name_slug }}/">{{ race.name }}</a>,
-                <a href="/teams/{{ race.team_slug }}/">{{ race.team }}</a>
-                {{ race.time }} at {{ race.meet }}
-            </p>
+        {% regroup gender_group.list by event as event_groups %}
+        {% for event_group in event_groups %}
+            <div class="card">
+                <h2>{{ gender_group.grouper }}'s {{ event_group.grouper }}</h2>
+                <table class="results-table">
+                    <thead>
+                        <tr><th class="place">#</th><th>Name</th><th>Team</th><th>Time</th><th>Meet</th></tr>
+                    </thead>
+                    <tbody>
+                    {% for race in event_group.list %}
+                        <tr class="{% if race.place == 1 %}first-place{% endif %}">
+                            <td class="place">{{ race.place }}</td>
+                            <td><a href="/{{ division }}/swimmers/{{ race.name_slug }}/">{{ race.name }}</a></td>
+                            <td><a href="/{{ division }}/teams/{{ race.team_slug }}/">{{ race.team }}</a></td>
+                            <td>{{ race.time }}</td>
+                            <td>{{ race.meet }}</td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
         {% endfor %}
     </div>
 {% endfor %}
-
-</main>
+</div>
 {% endblock %}
