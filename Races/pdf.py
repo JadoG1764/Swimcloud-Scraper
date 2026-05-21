@@ -5,7 +5,6 @@ from reportlab.platypus import BaseDocTemplate, Frame, PageTemplate, Paragraph, 
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 
-
 def pdf_download(request, division):
     # GET filters
     selected_events = request.GET.getlist("events")
@@ -14,6 +13,8 @@ def pdf_download(request, division):
     # Base queryset
     races = Races.objects.filter(division=division)
 
+    if division == "Big8":
+        division = "Big 8"
 
     # Filter by events if any selected
     if selected_events:
@@ -34,8 +35,8 @@ def pdf_download(request, division):
         pagesize=letter,
         rightMargin=36,
         leftMargin=36,
-        topMargin=12,
-        bottomMargin=36,
+        topMargin=7,
+        bottomMargin=2,
     )
 
     frame = Frame(
@@ -50,7 +51,7 @@ def pdf_download(request, division):
         canvas.saveState()
         # Text
         canvas.setFont('Helvetica', 16)
-        canvas.drawString(36, letter[1] - 30, f"{division} Division Rankings")
+        canvas.drawString(36, letter[1] - 30, f"{division} Rankings")
         # Image
         header_image_path = "static/viking_logo.jfif"  # adjust to your static path
         try:
@@ -70,8 +71,8 @@ def pdf_download(request, division):
         parent=styles['Heading2'],
         fontSize=12,  # smaller font size
         leading=14,  # line spacing
-        spaceAfter=1,
-        spaceBefore=1,
+        spaceAfter=4,
+        spaceBefore=4,
     )
 
     elements = []
@@ -79,6 +80,15 @@ def pdf_download(request, division):
     current_event = None
     events_on_page = 0
     current_gender = None
+
+    if selected_top == 20:
+        fsize = 10
+        pad = 2.5
+        on_page = 2
+    else:
+        fsize = 12
+        pad = 5
+        on_page = 1
 
     for race in races:
         # Add a header when the event or gender changes
@@ -91,9 +101,12 @@ def pdf_download(request, division):
             current_gender = race.gender
             events_on_page += 1
 
-            if events_on_page > 2:
+            if events_on_page > on_page:
                 elements.append(PageBreak())
-                events_on_page = 1
+                if on_page == 1:
+                    events_on_page = on_page
+                else:
+                    events_on_page = on_page - 1
 
             elements.append(Spacer(0, 3))
             elements.append(Paragraph(
@@ -110,16 +123,17 @@ def pdf_download(request, division):
             race.time,
         ]
 
-        table = Table([row], colWidths=[15, 100, 270, 80])
+        table = Table([row], colWidths=[20, 100, 270, 80])
 
         style = TableStyle([
+            ("FONTSIZE", (0, 0), (-1, -1), fsize), #font size
             ("ALIGN", (0, 0), (0, 0), "LEFT"),  # place
             ("ALIGN", (1, 0), (1, 0), "LEFT"),  # name
             ("ALIGN", (2, 0), (2, 0), "CENTER"),  # team
             ("ALIGN", (3, 0), (3, 0), "RIGHT"),  # time
             ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
-            ("TOPPADDING", (0, 0), (-1, -1), 1),
-            ("BOTTOMPADDING", (0, 0), (-1, -1), 1),
+            ("TOPPADDING", (0, 0), (-1, -1), pad),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), pad),
             ("LEFTPADDING", (0, 0), (-1, -1), 4),
             ("RIGHTPADDING", (0, 0), (-1, -1), 4),
         ])
